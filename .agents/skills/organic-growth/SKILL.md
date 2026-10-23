@@ -9,7 +9,7 @@ Work in this repository. Read `growth.config.json` first; it contains public set
 
 ## Product and content facts
 
-- Canonical website: `https://damascenerose.com/`; public repository: `mdo91/damascene-rose-web`; private runner: `mdo91/damas-growth-runner`.
+- Canonical website: `https://linktranscriber.com/`; public repository: `mdo91/damascene-rose-web`; private runner: `mdo91/damas-growth-runner`.
 - App: **Damas - Video Link Transcriber**, App Store ID `6766233794`, [App Store page](https://apps.apple.com/us/app/damas-video-link-transcriber/id6766233794).
 - Verified launch baseline on 2026-10-20: version 1.5.3, iOS 18.6 or later; accepts supported public YouTube, Instagram and X links, with videos up to 90 minutes; transcription, translation into 70 languages, summaries. Recheck [Apple metadata](https://itunes.apple.com/lookup?id=6766233794&country=us) before asserting a new release or changing requirements.
 - Preserve the published product/privacy limitations: internet required; available Premium capabilities may vary; users need appropriate rights/consent; unsupported, private, inaccessible, or restricted links can fail; processing time and accuracy vary with content and conditions. Do not promise offline operation, guaranteed accuracy, unlimited free processing, every social platform, subtitle embedding, or unsupported export formats.
@@ -26,7 +26,7 @@ The launch library contains three distinct workflows in all eleven languages, fo
 
 Routine collection uses only these four Gum operations:
 
-1. `searchconsole.searchanalytics.query` on the allowlisted `https://damascenerose.com/` property.
+1. `searchconsole.searchanalytics.query` on the allowlisted `https://linktranscriber.com/` property.
 2. `searchconsole.urlInspection.index.inspect` for URLs on that origin, when inspecting index status.
 3. `googleads.keywordPlanIdeas.generateKeywordIdeas`.
 4. `googleads.keywordPlanIdeas.generateKeywordHistoricalMetrics`.
@@ -57,7 +57,7 @@ After appropriate authorization, register a Desktop OAuth client in each Damas p
 
 These are provisioning instructions, not steps to rerun on each daily job. Inspect the installed CLI help first if flags have changed. Keep client secrets and refresh tokens in Gum-supported secure storage. Never put them in command arguments, repo files, prompts, screenshots, test fixtures, logs or public artifacts. An OAuth client JSON is not a normal repository configuration file. Refresh authorization may require the owner; do not create passkeys or accept binding policies on their behalf.
 
-The Damas URL-prefix property `https://damascenerose.com/` was verified on 2026-10-20, and Google processed its 99-URL launch sitemap. Keep the authentic verification metadata in `src/content/site-verification.json` permanently. Use the owner-authorized setup UI or a separately authorized provisioning session for future verification or sitemap writes; do not repeat completed property registration as part of routine collection. The daily read-only profile cannot register properties, verify ownership or submit sitemaps. All language directories are covered by the single property. Inspect representative locale URLs; `no-data-yet` in performance reports does not establish whether a page is indexed. Request indexing only for eligible pages after meaningful publication, not repeatedly to simulate freshness.
+The original Damas URL-prefix property `https://damascenerose.com/` was verified on 2026-10-20, and Google processed its 99-URL launch sitemap. The migrated site uses `https://linktranscriber.com/`, covered by DNS ownership of `linktranscriber.com`; retain both properties and their verification records during the move. Keep the authentic verification metadata in `src/content/site-verification.json` permanently. Use the owner-authorized setup UI or a separately authorized provisioning session for future verification or sitemap writes; do not repeat completed property registration as part of routine collection. The daily read-only profile cannot register properties, verify ownership or submit sitemaps. All language directories are covered by the single property. Inspect representative locale URLs; `no-data-yet` in performance reports does not establish whether a page is indexed. Request indexing only for eligible pages after meaningful publication, not repeatedly to simulate freshness.
 
 ## Targeting, caches and commands
 

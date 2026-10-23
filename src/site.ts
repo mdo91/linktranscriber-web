@@ -1,6 +1,7 @@
 import copy from './content/locales.json';
 import { createHash } from 'node:crypto';
-export const origin = 'https://damascenerose.com';
+export const siteName = 'Damas — Link Transcriber';
+export const origin = 'https://linktranscriber.com';
 export const appUrl = 'https://apps.apple.com/us/app/damas-video-link-transcriber/id6766233794';
 export const locales = ['en', 'fr', 'de', 'ja', 'ko', 'ms', 'pt', 'ru', 'zh-hans', 'es', 'tr'] as const;
 export type Locale = typeof locales[number];
