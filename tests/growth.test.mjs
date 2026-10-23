@@ -52,7 +52,7 @@ test('complete 28-day periods use Pacific dates through DST and reject invalid d
 
 test('locale page filters isolate every language from English and each other', () => {
   for (const market of markets) {
-    const url = `https://damascenerose.com/${market.locale === 'en' ? '' : market.locale + '/'}guides/`;
+    const url = `https://linktranscriber.com/${market.locale === 'en' ? '' : market.locale + '/'}guides/`;
     for (const check of markets) assert.equal(matchesLocalePage(url, check.locale), check.locale === market.locale);
     const filter = localePageFilter(market.locale), regex = new RegExp(filter.expression);
     assert.equal(regex.test(url), market.locale !== 'en');
@@ -160,7 +160,7 @@ test('Search Console collection paginates final data and requests totals separat
     assert.equal(operation, 'searchconsole.searchanalytics.query'); assert.equal(args.body.dataState, 'final');
     assert.ok(!args.body.dimensionFilterGroups[0].filters.some((filter) => filter.dimension === 'country'));
     if (!args.body.dimensions.length) return { rows: [metric] };
-    return args.body.startRow ? { rows: [] } : { rows: [{ ...metric, keys: ['動画 文字起こし', 'https://damascenerose.com/ja/guides/', 'MOBILE', 'jpn'] }] };
+    return args.body.startRow ? { rows: [] } : { rows: [{ ...metric, keys: ['動画 文字起こし', 'https://linktranscriber.com/ja/guides/', 'MOBILE', 'jpn'] }] };
   };
   const result = await collectPeriod('ja', reportingWindows(now).current, call, { pageSize: 1, maxRows: 10 });
   assert.equal(calls.length, 3); assert.equal(result.rows[0].country, 'jpn'); assert.equal(result.totals.impressions, 100);
@@ -173,7 +173,7 @@ test('keyword errors and locale errors do not hide other data; no-data totals ar
     const filter = args.body.dimensionFilterGroups[0].filters[0].expression;
     if (filter.endsWith('fr/')) throw new Error('French fixture error');
     if (filter.endsWith('ja/')) return {};
-    return args.body.dimensions.length ? { rows: [{ ...metric, keys: ['video to text', 'https://damascenerose.com/guides/', 'MOBILE', 'usa'] }] } : { rows: [metric] };
+    return args.body.dimensions.length ? { rows: [{ ...metric, keys: ['video to text', 'https://linktranscriber.com/guides/', 'MOBILE', 'usa'] }] } : { rows: [metric] };
   } });
   assert.equal(report.status, 'partial'); assert.equal(report.markets.en.status, 'ready'); assert.equal(report.markets.fr.status, 'action-required');
   assert.equal(report.markets.ja.status, 'no-data-yet'); assert.equal(report.markets.ja.current.totals, null); assert.equal(report.markets.ja.comparison.status, 'unavailable');
@@ -192,9 +192,9 @@ test('private report retention keeps fresh reports, caches and ledger untouched'
 });
 
 test('Gum operation/property allowlists protect unrelated accounts and sites', () => {
-  assert.equal(validateGumOperation('searchconsole.searchanalytics.query', { siteUrl: 'https://damascenerose.com/' }), 'damas-searchconsole');
+  assert.equal(validateGumOperation('searchconsole.searchanalytics.query', { siteUrl: 'https://linktranscriber.com/' }), 'damas-searchconsole');
   assert.throws(() => validateGumOperation('searchconsole.searchanalytics.query', { siteUrl: 'https://scansignature.app/' }), /outside/);
   assert.throws(() => validateGumOperation('googleads.campaigns.mutate', {}), /outside/);
   assert.throws(() => validateGumOperation('googleads.keywordPlanIdeas.generateKeywordIdeas', { geoTargetConstants: ['geoTargetConstants/2840'], keywordPlanNetwork: 'GOOGLE_SEARCH', language: 'languageConstants/1000' }), /worldwide/);
-  assert.throws(() => validateGumOperation('searchconsole.urlInspection.index.inspect', { body: { siteUrl: 'https://damascenerose.com/', inspectionUrl: 'https://attacker.example/' } }), /Damas origin/);
+  assert.throws(() => validateGumOperation('searchconsole.urlInspection.index.inspect', { body: { siteUrl: 'https://linktranscriber.com/', inspectionUrl: 'https://attacker.example/' } }), /Damas origin/);
 });

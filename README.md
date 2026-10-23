@@ -1,6 +1,6 @@
 # Damas website
 
-Static, multilingual website for **Damas - Video Link Transcriber**, published at [damascenerose.com](https://damascenerose.com). It contains the app landing page, a downloadable media kit, guides, and the existing legal/support URLs. The site has no analytics or transcription backend. Video processing takes place in the iPhone app.
+Static, multilingual website for **Damas - Video Link Transcriber**, published at [linktranscriber.com](https://linktranscriber.com). It contains the app landing page, a downloadable media kit, guides, and the existing legal/support URLs. The site has no analytics or transcription backend. Video processing takes place in the iPhone app.
 
 ## Develop and verify
 
@@ -12,7 +12,7 @@ npm run dev
 npm run typecheck
 npm test
 npm run build
-BASE_PATH=/damascene-rose-web/ npm run build
+BASE_PATH=/linktranscriber-web/ npm run build
 npm run preview
 ```
 
@@ -34,9 +34,9 @@ The authentic Search Console verification tag is committed permanently in `src/c
 
 Optional repository variables:
 - `APP_STORE_PROVIDER_TOKEN`: an authentic provider token for this app, if obtained from App Store Connect. Without it, links remain ordinary App Store links and download attribution is unavailable.
-- `WEBSITE_BASE_PATH`: `/damascene-rose-web/` only during project-path staging; `/` after attaching the custom domain. This affects asset/navigation paths, never production canonical URLs.
+- `WEBSITE_BASE_PATH`: `/linktranscriber-web/` only during project-path staging; `/` after attaching the custom domain. This affects asset/navigation paths, never production canonical URLs.
 
-All language directories belong to the same Search Console property: `https://damascenerose.com/`. On 2026-10-20, ownership was verified and Google processed the launch sitemap containing 99 URLs. Keep the verification metadata permanently. Sitemap processing and missing Search Console performance data do not establish whether individual pages are indexed.
+All language directories belong to the new Search Console URL-prefix property `https://linktranscriber.com/`, covered by DNS ownership of `linktranscriber.com`. The original `https://damascenerose.com/` property was verified on 2026-10-20 and processed its 99-URL launch sitemap; retain it for migration history. Keep the verification metadata permanently. Sitemap processing and missing Search Console performance data do not establish whether individual pages are indexed.
 
 ## Organic growth
 
@@ -52,8 +52,14 @@ The audited Gum build is reproducible with `bash scripts/gum/build-keyword-gum.s
 
 The private [Damas growth runner](https://github.com/mdo91/damas-growth-runner) schedules the daily workflow at 08:00 Europe/Istanbul. It uses the owner's selected **Codex subscription** with an isolated session provisioned once, refreshed and persisted in the cloud, shared subscription limits, and no separate OpenAI API key. Daily runs require no interactive login or Mac availability. Expired or revoked authorization requires owner action. Signature Scan's runner and profiles are independent.
 
-Activation was verified on **2026-10-20**: the hosted trial published and verified the [Spanish guide update](https://github.com/mdo91/damascene-rose-web/pull/4), native Gum research succeeded across all 11 languages, and the separate encrypted Google and Codex state completed cloud round trips. Bootstrap flags are disabled and the two initial seed secrets have been removed. A follow-up run confirmed that a completed day starts no further generation or publication. Daily recurrence is enabled, with recovery checks at 08:17 and 08:37 Istanbul; GitHub may delay scheduled starts.
+Activation was verified on **2026-10-20**: the hosted trial published and verified the [Spanish guide update](https://github.com/mdo91/linktranscriber-web/pull/4), native Gum research succeeded across all 11 languages, and the separate encrypted Google and Codex state completed cloud round trips. Bootstrap flags are disabled and the two initial seed secrets have been removed. A follow-up run confirmed that a completed day starts no further generation or publication. Daily recurrence is enabled, with recovery checks at 08:17 and 08:37 Istanbul; GitHub may delay scheduled starts.
 
 ## Domain migration and rollback
 
-The custom-domain migration completed on 2026-10-20: this repository serves `https://damascenerose.com/` with `WEBSITE_BASE_PATH=/`. The previous deployment was `mdo91/mdo91.github.io`; keep its domain claim detached so a later deployment cannot reclaim the domain. Preserve existing DNS unless GitHub's domain check identifies a required change. For rollback, first detach the domain here, then restore the previous site's saved Pages/CNAME configuration and verify HTTPS, representative URLs and 404 responses. Never attach the same domain to both deployments.
+This repository succeeds `mdo91/damascene-rose-web` and uses `https://linktranscriber.com/` as its canonical origin. Preserve every existing language, guide and legal path. Production uses `WEBSITE_BASE_PATH=/`; project-path checks use `/linktranscriber-web/`.
+
+The legacy domain is forwarded through Squarespace using permanent, SSL-enabled, path-preserving redirects after the new deployment is verified. Preserve DNS ownership records for both domains. Keep the original repository and deployment commit for rollback; historical PR and activation links above intentionally refer to that repository.
+
+To roll back a failed cutover, pause the runner, restore the saved old-domain DNS and Pages configuration, and verify HTTPS, representative pages and a genuine 404 before resuming publication. Never attach one custom domain to two repositories.
+
+Favicons are derived from the existing app icon with `node scripts/icons.mjs`: a 96px PNG, a 180px Apple touch icon, and an ICO containing 16/32/48px images. All generated pages declare stable base-aware icon URLs.

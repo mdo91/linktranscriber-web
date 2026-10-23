@@ -36,7 +36,7 @@ jobs:
       - name: Build and validate repository path
         run: npm run build
         env:
-          BASE_PATH: /damascene-rose-web/
+          BASE_PATH: /linktranscriber-web/
   deploy:
     name: Deploy Pages
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'

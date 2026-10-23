@@ -5,7 +5,7 @@ import { resolve } from 'node:path';
 
 export const root = fileURLToPath(new URL('../../', import.meta.url));
 export const config = JSON.parse(readFileSync(resolve(root, 'growth.config.json'), 'utf8'));
-if (config.siteUrl !== 'https://damascenerose.com/' || config.profiles.searchConsole !== 'damas-searchconsole' || config.profiles.keywords !== 'damas-keywords') throw new Error('Unexpected Damas property/profile configuration');
+if (config.siteUrl !== 'https://linktranscriber.com/' || config.profiles.searchConsole !== 'damas-searchconsole' || config.profiles.keywords !== 'damas-keywords') throw new Error('Unexpected Damas property/profile configuration');
 export const markets = Object.freeze(config.markets);
 export function marketFor(locale) {
   const market = markets.find((entry) => entry.locale === locale);
