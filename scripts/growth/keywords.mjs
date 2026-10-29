@@ -2,12 +2,17 @@ import { readFileSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { config, markets, keywordPlan } from './config.mjs';
-import { makeKeywordCache, assessKeywordCache, parseKeywordCsv, keywordKey } from './keyword-library.mjs';
+import { makeKeywordCache, assessKeywordCache, parseKeywordCsv, keywordKey, mergeKeywordRows } from './keyword-library.mjs';
 import { savePrivate, readPrivate, privateDirectory, safeError } from './storage.mjs';
 import { callGum } from './gum.mjs';
 
 export function loadKeywordCache(locale, now = new Date(), directory = privateDirectory()) {
-  try { return assessKeywordCache(readPrivate(`keyword-cache-${locale}.json`, directory), now); }
+  try {
+    keywordPlan(locale);
+    const cache = assessKeywordCache(readPrivate(`keyword-cache-${locale}.json`, directory), now);
+    if (cache.targeting && cache.targeting.language !== locale) return { status: 'invalid', note: 'Keyword cache language does not match its requested locale' };
+    return cache;
+  }
   catch (error) { return { status: 'invalid', note: safeError(error) }; }
 }
 function keywordSettings(directory) {
@@ -26,7 +31,7 @@ export async function collectKeywords(locale, { refresh = false, now = new Date(
     return result;
   };
   try {
-    if (!csv && previous.status === 'ready' && !refresh && (previous.source.kind === 'keyword-planner-csv' || previous.seedFingerprint === plan.seedFingerprint)) return finish('ready', { reusedCache: true, source: previous.source.kind, keywords: previous.keywords.length, observedAt: previous.observedAt });
+    if (!csv && previous.status === 'ready' && !refresh && (previous.source.kind === 'keyword-planner-csv' || previous.seedFingerprint === plan.seedFingerprint)) return finish('ready', { reusedCache: true, source: previous.source.kind, keywords: previous.keywords.length, observedAt: previous.observedAt, demandSummary: previous.demandSummary });
     let results, source;
     if (csv) {
       if (csv.geography !== 'WORLDWIDE' || csv.network !== 'GOOGLE_SEARCH' || csv.language !== locale || !csv.exportedAt) throw new Error('CSV import requires explicit worldwide, matching language, Google Search and original export date');
@@ -40,7 +45,7 @@ export async function collectKeywords(locale, { refresh = false, now = new Date(
       const byText = new Map();
       const merge = (row) => {
         const key = keywordKey(row.text), old = byText.get(key);
-        byText.set(key, { ...old, ...row, closeVariants: [...new Set([...(old?.closeVariants || []), ...(row.closeVariants || [])])] });
+        byText.set(key, mergeKeywordRows(old, row));
       };
       for (let offset = 0; offset < plan.seeds.length; offset += 20) {
         const keywords = plan.seeds.slice(offset, offset + 20), seen = new Set();
@@ -59,10 +64,10 @@ export async function collectKeywords(locale, { refresh = false, now = new Date(
       source = { kind: 'google-ads-api', operations: plan.operations, profile: config.profiles.keywords };
     }
     if (!results.length) throw new Error('No estimates returned; unavailable demand is not zero');
-    const cache = makeKeywordCache({ results, source, targeting: plan.targeting, generatedAt: now.toISOString() });
+    const cache = makeKeywordCache({ results, source, targeting: plan.targeting, generatedAt: now.toISOString(), seeds: plan.seeds });
     if (assessKeywordCache(cache, now).status !== 'ready') throw new Error('Imported demand must be less than 30 days old');
     savePrivate(`keyword-cache-${locale}.json`, cache, directory);
-    return finish('ready', { keywords: cache.keywords.length, observedAt: cache.observedAt, source: source.kind, targeting: plan.targeting });
+    return finish('ready', { keywords: cache.keywords.length, observedAt: cache.observedAt, source: source.kind, targeting: plan.targeting, demandSummary: cache.demandSummary });
   } catch (error) {
     return finish('action-required', { note: safeError(error), previousCacheRetained: true, cacheStatus: previous.status });
   }

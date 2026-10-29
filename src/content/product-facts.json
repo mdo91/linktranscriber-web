@@ -1,15 +1,37 @@
 {
-  "verifiedAt": "2026-10-21",
+  "verifiedAt": "2026-10-29",
   "appStoreId": 6766233794,
-  "version": "1.5.3",
-  "sources": ["https://itunes.apple.com/lookup?id=6766233794&country=us", "https://apps.apple.com/us/app/damas-video-link-transcriber/id6766233794"],
-  "operatingSystems": ["iOS 18.6 or later (iPhone and compatible iPad)", "macOS 15.6 or later on a Mac with Apple M1 or later"],
-  "platformNote": "The owner confirmed iPad and Mac support on 2026-10-21. Apple lists compatible Apple silicon Macs; the listing describes an iPhone app not verified for macOS. Do not describe a separately tested native Mac app, Intel support, device synchronization, or iPad/Mac-specific controls without evidence. Existing screenshots show the iPhone interface.",
-  "supportedSources": ["public on-demand YouTube", "public on-demand Instagram", "public on-demand X"],
+  "version": "1.5.4",
+  "sources": [
+    "https://itunes.apple.com/lookup?id=6766233794&country=us",
+    "https://apps.apple.com/us/app/damas-video-link-transcriber/id6766233794"
+  ],
+  "operatingSystems": [
+    "iOS 18.6 or later (iPhone)",
+    "iPadOS 18.6 or later (iPad)",
+    "Apple-listed Mac compatibility: macOS 15.6 or later"
+  ],
+  "platformNote": "Current Apple Compatibility metadata separately verifies macOS 15.6. The current row does not state a minimum chip: keep chip evidence unavailable, do not infer Intel support, and do not describe a separately tested native Mac interface, synchronization or unverified device controls. Existing screenshots show iPhone.",
+  "supportedSources": [
+    "public on-demand YouTube",
+    "public on-demand Instagram",
+    "public on-demand X"
+  ],
   "maxVideoMinutes": 90,
-  "features": ["transcription", "translation", "summary", "transcript-reuse"],
+  "features": [
+    "transcription",
+    "translation",
+    "summary",
+    "transcript-reuse"
+  ],
   "translationTargets": 70,
   "interfaceLanguages": 11,
   "workflow": "Paste a supported public video link. Transcribe speech, translate it or create a built-in summary. Notes can be read, edited and copied. For custom flashcards, checklists or action items, copy the transcript into another tool; these are optional external workflows, not dedicated Damas features.",
-  "limitations": ["Internet, Premium and AI consent required", "Only process material you are authorized to use", "Private, restricted and live videos are unsupported", "Processing time and results vary", "No guaranteed accuracy, offline processing, media downloading, dubbing, subtitle embedding, or unsupported file imports/exports"]
+  "limitations": [
+    "Internet, Premium and AI consent required",
+    "Only process material you are authorized to use",
+    "Private, restricted and live videos are unsupported",
+    "Processing time and results vary",
+    "No guaranteed accuracy, offline processing, media downloading, dubbing, subtitle embedding, or unsupported file imports/exports"
+  ]
 }
