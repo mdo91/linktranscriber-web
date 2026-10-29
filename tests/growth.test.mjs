@@ -102,7 +102,7 @@ test('fresh caches avoid API calls; failed refresh retains prior locale cache', 
 });
 
 test('expanded seeds refresh a legacy API cache once, then reuse the new fingerprint', async (t) => {
-  const directory = temp(t), legacy = cache('ms');
+  const directory = temp(t), legacy = cache('ms'), batchCalls = 2 * Math.ceil(keywordPlan('ms').seeds.length / 20);
   delete legacy.seedFingerprint;
   savePrivate('keyword-cache-ms.json', legacy, directory);
   let calls = 0;
@@ -114,14 +114,14 @@ test('expanded seeds refresh a legacy API cache once, then reuse the new fingerp
   };
   const options = { now, directory, call, settings: { customerId: '1234567890', accessStatus: 'ready' } };
   assert.equal((await collectKeywords('ms', options)).reusedCache, undefined);
-  assert.equal(calls, 2);
+  assert.equal(calls, batchCalls);
   assert.equal(loadKeywordCache('ms', now, directory).seedFingerprint, keywordPlan('ms').seedFingerprint);
   assert.equal((await collectKeywords('ms', options)).reusedCache, true);
-  assert.equal(calls, 2);
+  assert.equal(calls, batchCalls);
   const csv = makeKeywordCache({ results: [row()], source: { kind: 'keyword-planner-csv', exportedAt: now.toISOString() }, targeting: keywordTargetingFor('ms'), generatedAt: now.toISOString() });
   savePrivate('keyword-cache-ms.json', csv, directory);
   assert.equal((await collectKeywords('ms', options)).reusedCache, true);
-  assert.equal(calls, 2);
+  assert.equal(calls, batchCalls);
 });
 
 test('real-request fixture paginates and sends exact target to ideas and historical only', async (t) => {
@@ -133,7 +133,7 @@ test('real-request fixture paginates and sends exact target to ideas and histori
     return args.pageToken ? { results: [row('second page')] } : { results: [row('first page')], nextPageToken: 'next' };
   };
   const result = await collectKeywords('ms', { now, directory, call, settings: { customerId: '1234567890', accessStatus: 'ready' } });
-  assert.equal(result.status, 'ready'); assert.equal(calls.length, 3); assert.equal(loadKeywordCache('ms', now, directory).keywords.length, 3);
+  assert.equal(result.status, 'ready'); assert.equal(calls.length, 3 * Math.ceil(keywordPlan('ms').seeds.length / 20)); assert.equal(loadKeywordCache('ms', now, directory).keywords.length, 3);
   assert.equal(statSync(resolve(directory, 'keyword-cache-ms.json')).mode & 0o777, 0o600);
   assert.doesNotMatch(readFileSync(resolve(directory, 'keyword-cache-ms.json'), 'utf8'), /1234567890/);
 });

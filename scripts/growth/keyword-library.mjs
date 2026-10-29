@@ -15,64 +15,112 @@ export const keywordKey = (text) =>
     .trim();
 const day = 86400000;
 const count = (value) => {
-  if (value === undefined || value === null || value === '' || value === '--')
+  if (value === undefined || value === null || typeof value === 'string' && ['', '--', '—'].includes(value.trim()))
     return null;
+  if (!['number', 'string'].includes(typeof value)) throw new Error('Invalid keyword count');
   const n = Number(value);
   if (!Number.isSafeInteger(n) || n < 0)
     throw new Error('Invalid keyword count');
   return n;
 };
+const competition = (value) => ['LOW', 'MEDIUM', 'HIGH'].includes(value) ? value : null;
+function mergeMetrics(previous = {}, incoming = {}, { rejectConflicts = false } = {}) {
+  previous ||= {}; incoming ||= {};
+  const merged = {};
+  for (const field of ['avgMonthlySearches', 'competitionIndex']) {
+    const old = count(previous[field]), value = count(incoming[field]);
+    if (rejectConflicts && field === 'avgMonthlySearches' && old !== null && value !== null && old !== value)
+      throw new Error('Conflicting duplicate keyword estimates');
+    merged[field] = value ?? old;
+  }
+  merged.competition = competition(incoming.competition) ?? competition(previous.competition);
+  const months = new Map();
+  for (const metrics of [previous, incoming]) {
+    if (metrics.monthlySearchVolumes != null && !Array.isArray(metrics.monthlySearchVolumes)) throw new Error('Invalid monthly search volumes');
+    for (const row of metrics.monthlySearchVolumes || []) {
+      const year = count(row.year), monthlySearches = count(row.monthlySearches);
+      if (year === null || typeof row.month !== 'string' || !row.month || ['UNKNOWN', 'UNSPECIFIED'].includes(row.month)) continue;
+      const key = `${year}-${row.month}`, old = months.get(key);
+      months.set(key, { year, month: row.month, monthlySearches: monthlySearches ?? old?.monthlySearches ?? null });
+    }
+  }
+  merged.monthlySearchVolumes = [...months.values()];
+  return merged;
+}
+function volumeRange(value) {
+  if (!value) return null;
+  const min = count(value.min), max = count(value.max);
+  if (min === null || max === null || max < min) throw new Error('Invalid search volume range');
+  return { min, max };
+}
+export function mergeKeywordRows(previous = {}, incoming = {}, options = {}) {
+  for (const row of [previous, incoming]) if (row.closeVariants != null && !Array.isArray(row.closeVariants)) throw new Error('Invalid keyword variants');
+  return {
+    text: incoming.text || previous.text,
+    closeVariants: [...new Set([...(previous.closeVariants || []), ...(incoming.closeVariants || [])].map(String))],
+    keywordIdeaMetrics: mergeMetrics(previous.keywordIdeaMetrics, incoming.keywordIdeaMetrics, options),
+    keywordMetrics: mergeMetrics(previous.keywordMetrics, incoming.keywordMetrics, options),
+    searchVolumeRange: volumeRange(incoming.searchVolumeRange) ?? volumeRange(previous.searchVolumeRange),
+  };
+}
 export function normalizeKeywordResults(results = []) {
   const groups = new Map();
   for (const row of results) {
     if (typeof row.text !== 'string' || !row.text.trim())
       throw new Error('Keyword text missing');
-    const metrics = row.keywordIdeaMetrics || row.keywordMetrics || {};
+    const key = keywordKey(row.text);
+    groups.set(key, mergeKeywordRows(groups.get(key), row, { rejectConflicts: true }));
+  }
+  return [...groups.values()].map((row) => {
+    // Historical metrics take precedence per usable field. Empty objects, null
+    // values and empty month arrays cannot hide estimates from either endpoint.
+    const metrics = mergeMetrics(row.keywordIdeaMetrics, row.keywordMetrics);
     const item = {
       text: row.text.trim(),
-      closeVariants: [...new Set((row.closeVariants || []).map(String))],
-      averageMonthlySearches: count(metrics.avgMonthlySearches),
-      searchVolumeRange: row.searchVolumeRange || null,
-      monthlySearchVolumes: (metrics.monthlySearchVolumes || []).map((m) => ({
-        year: count(m.year),
-        month: m.month,
-        monthlySearches: count(m.monthlySearches),
-      })),
-      advertiserCompetition: ['LOW', 'MEDIUM', 'HIGH'].includes(
-        metrics.competition,
-      )
-        ? metrics.competition
-        : null,
-      advertiserCompetitionIndex: count(metrics.competitionIndex),
+      closeVariants: row.closeVariants,
+      averageMonthlySearches: metrics.avgMonthlySearches,
+      searchVolumeRange: row.searchVolumeRange,
+      monthlySearchVolumes: metrics.monthlySearchVolumes,
+      advertiserCompetition: metrics.competition,
+      advertiserCompetitionIndex: metrics.competitionIndex,
     };
     if (item.advertiserCompetitionIndex > 100)
       throw new Error('Invalid advertiser competition index');
-    const key = keywordKey(item.text);
-    if (groups.has(key)) {
-      const old = groups.get(key);
-      if (old.averageMonthlySearches !== item.averageMonthlySearches)
-        throw new Error('Conflicting duplicate keyword estimates');
-      old.closeVariants = [
-        ...new Set([...old.closeVariants, ...item.closeVariants]),
-      ];
-    } else groups.set(key, item);
-  }
-  return [...groups.values()];
+    return item;
+  });
+}
+export function keywordDemandKind(item) {
+  return item.averageMonthlySearches !== null && item.averageMonthlySearches !== undefined
+    ? item.averageMonthlySearches > 0 ? 'positive' : 'zero'
+    : item.searchVolumeRange ? 'range' : 'unavailable';
+}
+export function keywordDemandSummary(keywords) {
+  const summary = { positive: 0, zero: 0, range: 0, unavailable: 0 };
+  for (const item of keywords) summary[keywordDemandKind(item)]++;
+  return summary;
 }
 export function makeKeywordCache({
   results,
   source,
   targeting = keywordTargetingFor('en'),
   generatedAt = new Date().toISOString(),
+  seeds = [],
 }) {
+  const keywords = normalizeKeywordResults(results);
   const cache = {
     schemaVersion: 1,
+    ...(source.kind === 'google-ads-api' ? { normalizationVersion: 2 } : {}),
     seedFingerprint: source.kind === 'google-ads-api' ? keywordPlan(targeting.language).seedFingerprint : null,
     generatedAt,
     observedAt: source.exportedAt || generatedAt,
     targeting: { ...targeting },
     source: cleanSource(source),
-    keywords: normalizeKeywordResults(results),
+    keywords,
+    demandSummary: keywordDemandSummary(keywords),
+    ...(source.kind === 'google-ads-api' ? { seedAudit: seeds.slice(0, 200).map((seed) => {
+      const key = keywordKey(seed), match = keywords.find((row) => [row.text, ...row.closeVariants].some((text) => keywordKey(text) === key));
+      return { seed: String(seed).slice(0, 300), matched: !!match, demand: match ? keywordDemandKind(match) : 'unavailable' };
+    }) } : {}),
     note: 'Demand estimates are not exact traffic counts. CSV exports may provide representative point values for ranges shown in the UI. Close variants can share estimates and low-volume terms may be omitted. Advertising competition is not organic ranking difficulty.',
   };
   const check = assessKeywordCache(cache, new Date(generatedAt));
@@ -102,6 +150,8 @@ export function assessKeywordCache(cache, now = new Date()) {
       throw new Error('Keyword targeting must match a supported language, worldwide geography and Google Search');
     if (!['google-ads-api', 'keyword-planner-csv'].includes(cache.source?.kind))
       throw new Error('Keyword source missing');
+    if (cache.source.kind === 'google-ads-api' && cache.normalizationVersion !== 2)
+      throw new Error('API keyword metrics require normalization version 2; refresh the cache');
     const age = now.getTime() - strictDate(cache.observedAt);
     const generated = strictDate(cache.generatedAt);
     if (generated > now.getTime() + 300000 || generated < strictDate(cache.observedAt)) throw new Error('Invalid keyword generation date');
@@ -133,6 +183,7 @@ export function assessKeywordCache(cache, now = new Date()) {
     return {
       ...cache,
       source: cleanSource(cache.source),
+      demandSummary: keywordDemandSummary(cache.keywords),
       status: age >= config.keywordCacheDays * day ? 'stale' : 'ready',
       note:
         age >= config.keywordCacheDays * day
