@@ -8,7 +8,7 @@
     "subtitle": "Damas Technologies LLC によるお客様の情報の収集、利用、保護について。",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "2026年7月15日",
+      "lastUpdated": "2026年11月2日",
       "effectiveDate": "2026年7月15日"
     },
     "sections": [
@@ -37,7 +37,7 @@
             "list": [
               "貼り付けたリンクの参照先となる第三者プラットフォーム（ソーシャル動画のホストなど）",
               "Apple（App Store、決済、プッシュ配信基盤）",
-              "OpenAI（当社が API を再処理者として利用する場合。第8項を参照）",
+              "再委託先としてAPIを利用するOpenAIおよびGoogle Gemini（第8項を参照）",
               "本アプリからリンクされる第三者ウェブサイト"
             ]
           }
@@ -48,7 +48,7 @@
         "list": [
           "<strong>アカウント：</strong>ユーザーアカウントは提供していません。サービス運営にはデバイス識別子を使用します。",
           "<strong>お客様が提供するもの：</strong>公開動画投稿のリンク、言語の選択、要約用の文字起こしテキスト、および任意の文字起こし用音声。",
-          "<strong>AI 処理：</strong>コンテンツは当社サーバーで処理され、アプリ内で明示的に同意いただいた後は OpenAI により処理されることもあります。",
+          "<strong>AI 処理：</strong>コンテンツは当社サーバーで処理され、アプリ内で明示的に同意いただいた後は OpenAI と Google Gemini により処理されることもあります。",
           "<strong>ローカル保存：</strong>ノート、文字起こし、録音は、お客様が削除するまでデバイスに保存されます。",
           "<strong>決済：</strong>サブスクリプションは Apple が処理し、当社はカード情報を受け取りません。",
           "<strong>広告・追跡：</strong>現在のアプリは、第三者広告 SDK やアプリ横断追跡 SDK を使用していません。",
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>文字起こし、翻訳、要約の提供：</strong>契約（お客様が求めるサービスの提供に必要）",
-          "<strong>OpenAI を利用した AI 処理：</strong>同意（データ送信前にアプリ内の AI 同意画面で同意）",
+          "<strong>OpenAI と Google Gemini を利用した AI 処理：</strong>同意（データ送信前にアプリ内の AI 同意画面で同意）",
           "<strong>プッシュ通知：</strong>同意（iOS のシステム許可）",
           "<strong>デバイス識別子と利用制限：</strong>正当な利益（サービスの運営、安全確保、公平な配分）",
           "<strong>Apple を通じたサブスクリプション：</strong>契約"
@@ -139,11 +139,12 @@
       {
         "title": "7. AI 処理とお客様の同意",
         "paragraphs": [
-          "AI による文字起こし、翻訳、要約のためにデータを送信する前に、アプリの AI 処理同意画面で次を説明します。"
+          "AIによる文字起こし、翻訳、Insight Studioの出力のためにデータを送信する前に、アプリは明示的な許可を求めます。",
+          "許可をいただいたうえで、当社サーバー、OpenAI、Google Geminiは、送信された動画リンク、文字起こし、選択言語、任意の補足情報を処理し、ご希望の出力を作成します。サブスクリプションの購入や購入の復元だけで、AI処理が許可されることはありません。"
         ],
         "list": [
-          "<strong>送信する内容：</strong>動画リンク、文字起こしテキスト、選択した言語（該当するもの）",
-          "<strong>処理する主体：</strong>当社サーバー。OpenAI の API を利用する場合があります",
+          "<strong>送信される内容：</strong>ご希望の出力に応じた動画リンク、文字起こしテキスト、選択言語、任意で提供する補足情報。",
+          "<strong>処理する事業者：</strong>当社サーバーおよびOpenAI、Google GeminiなどのAIプロバイダー。",
           "<strong>行わないこと：</strong>第三者動画のホストや再配布は行わず、文字起こしと AI 生成ノートを表示します"
         ],
         "subsections": [
@@ -151,7 +152,8 @@
             "title": "",
             "paragraphs": [
               "同意を拒否しても、新しい AI ジョブを開始せずにアプリを閲覧できます。後からプライバシー設定で撤回することもできます。撤回すると新しいサーバー AI 処理は停止しますが、デバイスに保存済みの内容は削除するまで残ります。",
-              "OpenAI の取扱いには同社独自のポリシーが適用されます：<a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>"
+              "OpenAI の取扱いには同社独自のポリシーが適用されます：<a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+              "Googleのプライバシーポリシー: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
             ]
           }
         ]
@@ -164,6 +166,7 @@
             "paragraphs": [
               "<strong>クラウドホスティング（Google Cloud Run など）</strong><br>目的：API、ジョブの調整、保存<br>共有データ：リンク、音声、テキスト、デバイス ID、トークン、ログ",
               "<strong>OpenAI</strong><br>目的：文字起こしと AI ノート生成<br>共有データ：同意後にお客様が処理のため送信した内容",
+              "<strong>Google Gemini</strong><br>目的：対応する動画リンクの文字起こし<br>共有データ：同意後に送信する動画リンクと処理に必要な補足情報。",
               "<strong>Apple</strong><br>目的：アプリ配布、決済、プッシュ基盤<br>共有データ：サブスクリプション取引、プッシュ配信メタデータ",
               "処理者には、当社の指示のみに従い、適切な保護措置の下でデータを扱うことを求めます。"
             ]

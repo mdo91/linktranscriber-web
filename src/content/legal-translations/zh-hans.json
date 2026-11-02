@@ -8,7 +8,7 @@
     "subtitle": "Damas Technologies LLC 如何收集、使用和保护您的信息。",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "2026年7月15日",
+      "lastUpdated": "2026年11月2日",
       "effectiveDate": "2026年7月15日"
     },
     "sections": [
@@ -37,7 +37,7 @@
             "list": [
               "您粘贴链接所指向的第三方平台（例如社交视频托管平台）",
               "Apple（App Store、支付及推送传递基础设施）",
-              "OpenAI（当我们使用其 API 作为子处理者时，见第 8 节）",
+              "作为次级处理方使用其 API 的 OpenAI 和 Google Gemini，详见第 8 节",
               "应用中链接的第三方网站"
             ]
           }
@@ -48,7 +48,7 @@
         "list": [
           "<strong>账户：</strong>我们不提供用户账户，而是使用设备标识符来运行服务。",
           "<strong>您提供的内容：</strong>公开视频帖链接、语言选择、用于摘要的转录文本，以及可选的待转录音频。",
-          "<strong>AI 处理：</strong>内容在我们的服务器上处理；在您于应用内明确同意后，也可能由 OpenAI 处理。",
+          "<strong>AI 处理：</strong>内容在我们的服务器上处理；在您于应用内明确同意后，也可能由 OpenAI 和 Google Gemini 处理。",
           "<strong>本地存储：</strong>笔记、转录文本和录音会保存在您的设备上，直到您将其删除。",
           "<strong>支付：</strong>订阅由 Apple 处理；我们不会收到您的支付卡信息。",
           "<strong>广告与跟踪：</strong>当前应用不使用第三方广告 SDK 或跨应用跟踪 SDK。",
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>提供转录、翻译及摘要：</strong>合同（履行您请求的服务所必需）",
-          "<strong>通过 OpenAI 进行 AI 处理：</strong>同意（数据发送前，您在应用内 AI 同意界面表示同意）",
+          "<strong>通过 OpenAI 和 Google Gemini 进行 AI 处理：</strong>同意（数据发送前，您在应用内 AI 同意界面表示同意）",
           "<strong>推送通知：</strong>同意（iOS 系统权限）",
           "<strong>设备标识符和使用限制：</strong>合法利益（运行、保护并公平分配服务）",
           "<strong>通过 Apple 订阅：</strong>合同"
@@ -139,11 +139,12 @@
       {
         "title": "7. AI 处理与您的同意",
         "paragraphs": [
-          "在将您的数据发送以进行 AI 转录、翻译或摘要之前，应用会显示 AI 处理同意界面，说明："
+          "在为 AI 转写、翻译或 Insight Studio 输出发送您的数据之前，应用会请求您的明确许可。",
+          "经您许可，我们的服务器、OpenAI 和 Google Gemini 会处理您提交的视频链接、转写文本、所选语言和可选的背景信息，以创建您请求的输出。订阅或恢复购买本身不会授予 AI 处理权限。"
         ],
         "list": [
-          "<strong>发送的内容：</strong>视频链接、转录文本和所选语言（视情况而定）",
-          "<strong>处理者：</strong>我们的服务器；服务器可能使用 OpenAI 的 API",
+          "<strong>发送的内容：</strong>根据请求的输出，发送视频链接、转写文本、所选语言及您自愿提供的背景信息。",
+          "<strong>处理方：</strong>我们的服务器以及包括 OpenAI 和 Google Gemini 在内的 AI 提供商。",
           "<strong>我们不会做的事：</strong>我们不托管或重新分发第三方视频；我们显示转录文本及 AI 生成的笔记"
         ],
         "subsections": [
@@ -151,7 +152,8 @@
             "title": "",
             "paragraphs": [
               "您可拒绝同意，并继续浏览应用，而不启动新的 AI 任务。您以后也可在隐私设置中撤销同意。撤销后将停止新的服务器端 AI 处理；已保存在设备上的内容将保留，直到您自行删除。",
-              "OpenAI 的做法受其自身政策约束：<a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>"
+              "OpenAI 的做法受其自身政策约束：<a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+              "Google 隐私权政策: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
             ]
           }
         ]
@@ -164,6 +166,7 @@
             "paragraphs": [
               "<strong>云托管（例如 Google Cloud Run）</strong><br>目的：API、任务编排、存储<br>共享数据：链接、音频、文本、设备 ID、令牌及日志",
               "<strong>OpenAI</strong><br>目的：转录及 AI 笔记生成<br>共享数据：您在同意后提交处理的内容",
+              "<strong>Google Gemini</strong><br>用途：转写支持的视频链接<br>共享数据：在您同意后提交的视频链接及处理背景信息。",
               "<strong>Apple</strong><br>目的：应用分发、支付、推送基础设施<br>共享数据：订阅交易及推送传递元数据",
               "我们要求处理者仅按照我们的指示处理数据，并采取适当的保障措施。"
             ]

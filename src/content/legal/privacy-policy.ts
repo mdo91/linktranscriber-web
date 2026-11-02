@@ -15,7 +15,7 @@ export const privacyPolicyPage: LegalPageContent = {
   subtitle: 'How Damas Technologies LLC collects, uses, and protects your information.',
   layout: 'long-form',
   meta: {
-    lastUpdated: 'July 15, 2026',
+    lastUpdated: 'November 2, 2026',
     effectiveDate: 'July 15, 2026',
   },
   sections: [
@@ -42,7 +42,7 @@ export const privacyPolicyPage: LegalPageContent = {
           list: [
             'Third-party platforms whose links you paste (for example, social video hosts)',
             'Apple (App Store, payments, push delivery infrastructure)',
-            'OpenAI (when we use their API as a subprocessor — see Section 8)',
+            'OpenAI and Google Gemini (when we use their APIs as subprocessors — see Section 8)',
             'Third-party websites linked from the App',
           ],
         },
@@ -53,7 +53,7 @@ export const privacyPolicyPage: LegalPageContent = {
       list: [
         '<strong>Accounts:</strong> We do not offer user accounts. We use a device identifier to operate the service.',
         '<strong>What you provide:</strong> Public video post links, language choices, transcript text (for summaries), and optionally audio for transcription.',
-        '<strong>AI processing:</strong> Content is processed on our servers and may be processed by OpenAI after you give explicit in-app consent.',
+        '<strong>AI processing:</strong> Content is processed on our servers and may be processed by OpenAI and Google Gemini after you give explicit in-app consent.',
         '<strong>Local storage:</strong> Notes, transcripts, and recordings are stored on your device unless you delete them.',
         '<strong>Payments:</strong> Subscriptions are handled by Apple; we do not receive your payment card details.',
         '<strong>Advertising / tracking:</strong> We do not use third-party advertising or cross-app tracking SDKs in the current App.',
@@ -119,7 +119,7 @@ export const privacyPolicyPage: LegalPageContent = {
       paragraphs: ['Where GDPR or UK GDPR applies, we rely on:'],
       list: [
         '<strong>Providing transcription, translation, and summaries:</strong> Contract (necessary to deliver the service you request)',
-        '<strong>AI processing via OpenAI:</strong> Consent (you agree in the in-app AI consent screen before data is sent)',
+        '<strong>AI processing via OpenAI and Google Gemini:</strong> Consent (you agree in the in-app AI consent screen before data is sent)',
         '<strong>Push notifications:</strong> Consent (iOS system permission)',
         '<strong>Device identifier and usage limits:</strong> Legitimate interests (operate, secure, and fairly allocate the service)',
         '<strong>Subscription via Apple:</strong> Contract',
@@ -136,11 +136,12 @@ export const privacyPolicyPage: LegalPageContent = {
     {
       title: '7. AI PROCESSING AND YOUR CONSENT',
       paragraphs: [
-        'Before your data is sent for AI-powered transcription, translation, or summarization, the App shows an AI processing consent screen that explains:',
+        'Before your data is sent for AI-powered transcription, translation, or Insight Studio outputs, the App asks for explicit permission.',
+        'With your permission, our servers, OpenAI and Google Gemini process the video links, transcripts, selected language and optional context you submit to create the output you request. Subscribing or restoring purchases does not itself grant AI processing permission.',
       ],
       list: [
-        '<strong>What is sent:</strong> video links, transcript text, and selected language (as applicable)',
-        '<strong>Who processes it:</strong> our servers, which may use OpenAI\'s API',
+        '<strong>What is sent:</strong> video links, transcript text, selected language, and optional context you provide for the requested output (as applicable)',
+        '<strong>Who processes it:</strong> our servers and AI providers, including OpenAI and Google Gemini',
         '<strong>What we do not do:</strong> we do not host or redistribute third-party videos; we display transcripts and AI-generated notes',
       ],
       subsections: [
@@ -149,6 +150,7 @@ export const privacyPolicyPage: LegalPageContent = {
           paragraphs: [
             'You may decline consent and still browse the App without starting new AI jobs. You may revoke consent later in Privacy settings. Revoking consent stops new server AI processing; content already saved on your device remains until you delete it.',
             'OpenAI\'s practices are governed by its own policies: <a href="https://openai.com/policies/privacy-policy">https://openai.com/policies/privacy-policy</a>',
+            'Google\'s privacy policy: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>',
           ],
         },
       ],
@@ -161,6 +163,7 @@ export const privacyPolicyPage: LegalPageContent = {
           paragraphs: [
             '<strong>Cloud hosting (for example, Google Cloud Run)</strong><br>Purpose: API, job orchestration, storage<br>Data shared: Links, audio, text, device ID, tokens, logs',
             '<strong>OpenAI</strong><br>Purpose: Transcription and AI note generation<br>Data shared: Content you submit for processing (after consent)',
+            '<strong>Google Gemini</strong><br>Purpose: Transcription of supported video links<br>Data shared: Video links and processing context you submit (after consent)',
             '<strong>Apple</strong><br>Purpose: App distribution, payments, push infrastructure<br>Data shared: Subscription transactions; push delivery metadata',
             'We require processors to handle data only on our instructions and subject to appropriate safeguards.',
           ],

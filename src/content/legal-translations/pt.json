@@ -8,7 +8,7 @@
     "subtitle": "Como a Damas Technologies LLC coleta, utiliza e protege suas informações.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "15 de julho de 2026",
+      "lastUpdated": "2 de novembro de 2026",
       "effectiveDate": "15 de julho de 2026"
     },
     "sections": [
@@ -37,7 +37,7 @@
             "list": [
               "Plataformas de terceiros cujos links você cola, como serviços de hospedagem de vídeos sociais",
               "Apple: App Store, pagamentos e infraestrutura de notificações",
-              "OpenAI quando utilizamos sua API como suboperador; veja a seção 8",
+              "OpenAI e Google Gemini, quando usamos suas APIs como suboperadores — consulte a seção 8",
               "Sites de terceiros vinculados pelo App"
             ]
           }
@@ -48,7 +48,7 @@
         "list": [
           "<strong>Contas:</strong> Não oferecemos contas de usuário. Usamos um identificador de dispositivo para operar o serviço.",
           "<strong>O que você fornece:</strong> Links de vídeos públicos, escolhas de idioma, transcrições para resumos e, opcionalmente, áudio para transcrição.",
-          "<strong>Processamento por IA:</strong> O conteúdo é processado nos nossos servidores e pode ser processado pela OpenAI após seu consentimento explícito no App.",
+          "<strong>Processamento por IA:</strong> O conteúdo é processado nos nossos servidores e pode ser processado pela OpenAI e Google Gemini após seu consentimento explícito no App.",
           "<strong>Armazenamento local:</strong> Notas, transcrições e gravações ficam no dispositivo até você excluí-las.",
           "<strong>Pagamentos:</strong> A Apple gerencia as assinaturas; não recebemos dados do seu cartão.",
           "<strong>Publicidade e rastreamento:</strong> O App atual não usa SDKs de publicidade de terceiros nem de rastreamento entre apps.",
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Transcrição, tradução e resumos:</strong> Contrato, necessário para prestar o serviço solicitado.",
-          "<strong>IA pela OpenAI:</strong> Consentimento na tela correspondente antes de enviar dados.",
+          "<strong>IA pela OpenAI e Google Gemini:</strong> Consentimento na tela correspondente antes de enviar dados.",
           "<strong>Notificações:</strong> Consentimento pela permissão do iOS.",
           "<strong>Identificador e limites:</strong> Interesses legítimos para operar, proteger e distribuir o serviço de forma justa.",
           "<strong>Assinatura pela Apple:</strong> Contrato."
@@ -139,11 +139,12 @@
       {
         "title": "7. PROCESSAMENTO POR IA E CONSENTIMENTO",
         "paragraphs": [
-          "Antes de enviar dados para transcrição, tradução ou resumo por IA, uma tela de consentimento explica:"
+          "Antes de enviar seus dados para transcrição, tradução ou resultados do Insight Studio por IA, o aplicativo solicita sua permissão explícita.",
+          "Com sua permissão, nossos servidores, a OpenAI e o Google Gemini processam os links de vídeo, as transcrições, o idioma selecionado e o contexto opcional que você envia para criar o resultado solicitado. Assinar ou restaurar compras não concede, por si só, permissão para processamento por IA."
         ],
         "list": [
-          "<strong>O que é enviado:</strong> Links de vídeo, transcrição e idioma selecionado, conforme a tarefa.",
-          "<strong>Quem processa:</strong> Nossos servidores, que podem utilizar a API da OpenAI.",
+          "<strong>O que é enviado:</strong> links de vídeo, texto de transcrição, idioma selecionado e contexto opcional que você fornece para o resultado solicitado, conforme aplicável.",
+          "<strong>Quem processa:</strong> nossos servidores e provedores de IA, incluindo OpenAI e Google Gemini.",
           "<strong>O que não fazemos:</strong> Não hospedamos nem redistribuímos vídeos de terceiros; mostramos transcrições e notas geradas por IA."
         ],
         "subsections": [
@@ -151,7 +152,8 @@
             "title": "",
             "paragraphs": [
               "Você pode recusar e continuar navegando pelo App sem iniciar novas tarefas de IA. Pode revogar depois em Privacidade. A revogação interrompe novos processamentos de IA no servidor; o conteúdo salvo no dispositivo permanece até você excluí-lo.",
-              "As práticas da OpenAI seguem suas próprias políticas: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>"
+              "As práticas da OpenAI seguem suas próprias políticas: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+              "Política de privacidade do Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
             ]
           }
         ]
@@ -164,6 +166,7 @@
             "paragraphs": [
               "<strong>Hospedagem em nuvem, como Google Cloud Run</strong><br>Finalidade: API, orquestração de tarefas e armazenamento<br>Dados: links, áudio, texto, identificador do dispositivo, tokens e registros",
               "<strong>OpenAI</strong><br>Finalidade: transcrição e geração de notas por IA<br>Dados: conteúdo enviado para processamento após consentimento",
+              "<strong>Google Gemini</strong><br>Finalidade: transcrição de links de vídeo compatíveis<br>Dados compartilhados: links de vídeo e contexto de processamento enviados por você, após consentimento.",
               "<strong>Apple</strong><br>Finalidade: distribuição do App, pagamentos e infraestrutura de notificações<br>Dados: transações de assinatura e metadados de entrega de notificações",
               "Exigimos que operadores tratem dados apenas conforme nossas instruções e com salvaguardas adequadas."
             ]

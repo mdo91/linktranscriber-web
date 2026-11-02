@@ -8,7 +8,7 @@
     "subtitle": "Comment Damas Technologies LLC collecte, utilise et protège vos informations.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "15 juillet 2026",
+      "lastUpdated": "2 novembre 2026",
       "effectiveDate": "15 juillet 2026"
     },
     "sections": [
@@ -37,7 +37,7 @@
             "list": [
               "Les plateformes tierces dont vous collez les liens, par exemple les hébergeurs de vidéos sociales",
               "Apple : App Store, paiements et infrastructure de notifications",
-              "OpenAI, lorsque nous utilisons son API comme sous-traitant ultérieur — voir section 8",
+              "OpenAI et Google Gemini, lorsque nous utilisons leurs API comme sous-traitants ultérieurs — voir section 8",
               "Les sites tiers accessibles depuis l’Application"
             ]
           }
@@ -48,7 +48,7 @@
         "list": [
           "<strong>Comptes :</strong> Nous ne proposons pas de comptes utilisateur. Un identifiant d’appareil permet de faire fonctionner le service.",
           "<strong>Vos apports :</strong> Liens de publications vidéo publiques, choix de langues, texte de transcription pour les résumés et, éventuellement, audio à transcrire.",
-          "<strong>Traitement par IA :</strong> Le contenu est traité sur nos serveurs et peut l’être par OpenAI après votre consentement explicite dans l’Application.",
+          "<strong>Traitement par IA :</strong> Le contenu est traité sur nos serveurs et peut l’être par OpenAI et Google Gemini après votre consentement explicite dans l’Application.",
           "<strong>Stockage local :</strong> Notes, transcriptions et enregistrements restent sur votre appareil jusqu’à leur suppression.",
           "<strong>Paiements :</strong> Apple gère les abonnements ; nous ne recevons pas vos coordonnées de carte bancaire.",
           "<strong>Publicité et suivi :</strong> L’Application actuelle n’utilise aucun SDK tiers de publicité ou de suivi entre applications.",
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Transcription, traduction et résumés :</strong> Le contrat, pour fournir le service demandé.",
-          "<strong>Traitement IA via OpenAI :</strong> Votre consentement sur l’écran prévu à cet effet avant l’envoi des données.",
+          "<strong>Traitement IA via OpenAI et Google Gemini :</strong> Votre consentement sur l’écran prévu à cet effet avant l’envoi des données.",
           "<strong>Notifications :</strong> Votre consentement via l’autorisation système iOS.",
           "<strong>Identifiant et limites d’usage :</strong> Nos intérêts légitimes à exploiter, sécuriser et répartir équitablement le service.",
           "<strong>Abonnement Apple :</strong> Le contrat."
@@ -139,11 +139,12 @@
       {
         "title": "7. TRAITEMENT IA ET CONSENTEMENT",
         "paragraphs": [
-          "Avant l’envoi de données pour transcription, traduction ou résumé par IA, un écran de consentement explique :"
+          "Avant d’envoyer vos données pour la transcription, la traduction ou les résultats Insight Studio par IA, l’application vous demande une autorisation explicite.",
+          "Avec votre autorisation, nos serveurs, OpenAI et Google Gemini traitent les liens vidéo, les transcriptions, la langue choisie et le contexte facultatif que vous transmettez pour créer le résultat demandé. S’abonner ou restaurer des achats n’accorde pas en soi l’autorisation de traitement par IA."
         ],
         "list": [
-          "<strong>Les données envoyées :</strong> Liens vidéo, texte de transcription et langue choisie, selon la tâche.",
-          "<strong>Les destinataires du traitement :</strong> Nos serveurs, qui peuvent utiliser l’API d’OpenAI.",
+          "<strong>Ce qui est envoyé :</strong> liens vidéo, texte de transcription, langue choisie et contexte facultatif fourni pour le résultat demandé, selon le cas.",
+          "<strong>Qui traite les données :</strong> nos serveurs et les fournisseurs d’IA, dont OpenAI et Google Gemini.",
           "<strong>Ce que nous ne faisons pas :</strong> Nous n’hébergeons ni ne redistribuons les vidéos tierces ; nous affichons des transcriptions et des notes générées par IA."
         ],
         "subsections": [
@@ -151,7 +152,8 @@
             "title": "",
             "paragraphs": [
               "Vous pouvez refuser et continuer à parcourir l’Application sans lancer de nouvelles tâches IA. Vous pouvez retirer votre consentement dans les paramètres de confidentialité. Cela arrête les nouveaux traitements IA sur serveur ; le contenu déjà enregistré sur l’appareil demeure jusqu’à sa suppression.",
-              "Les pratiques d’OpenAI sont régies par ses propres politiques : <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>"
+              "Les pratiques d’OpenAI sont régies par ses propres politiques : <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+              "Politique de confidentialité de Google : <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
             ]
           }
         ]
@@ -164,6 +166,7 @@
             "paragraphs": [
               "<strong>Hébergement cloud, par exemple Google Cloud Run</strong><br>Objet : API, orchestration des tâches, stockage<br>Données : liens, audio, texte, identifiant d’appareil, jetons et journaux",
               "<strong>OpenAI</strong><br>Objet : transcription et génération de notes IA<br>Données : contenu soumis au traitement après consentement",
+              "<strong>Google Gemini</strong><br>Finalité : transcription de liens vidéo pris en charge<br>Données partagées : liens vidéo et contexte de traitement transmis par vous, après consentement.",
               "<strong>Apple</strong><br>Objet : distribution de l’Application, paiements et infrastructure de notifications<br>Données : transactions d’abonnement et métadonnées de livraison des notifications",
               "Nous exigeons que les sous-traitants traitent les données uniquement sur nos instructions et avec des garanties appropriées."
             ]
