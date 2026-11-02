@@ -8,7 +8,7 @@
     "subtitle": "Wie Damas Technologies LLC Ihre Informationen erhebt, verwendet und schützt.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "15. Juli 2026",
+      "lastUpdated": "2. November 2026",
       "effectiveDate": "15. Juli 2026"
     },
     "sections": [
@@ -37,7 +37,7 @@
             "list": [
               "Drittplattformen, deren Links Sie einfügen, etwa Social-Video-Hoster",
               "Apple: App Store, Zahlungen und Infrastruktur zur Push-Zustellung",
-              "OpenAI, soweit dessen API als Unterauftragsverarbeiter eingesetzt wird — siehe Abschnitt 8",
+              "OpenAI und Google Gemini, wenn wir deren APIs als Unterauftragsverarbeiter nutzen — siehe Abschnitt 8",
               "Aus der App verlinkte Websites Dritter"
             ]
           }
@@ -48,7 +48,7 @@
         "list": [
           "<strong>Konten:</strong> Wir bieten keine Benutzerkonten an. Für den Dienst verwenden wir eine Gerätekennung.",
           "<strong>Ihre Angaben:</strong> Öffentliche Videolinks, Sprachauswahl, Transkripttext für Zusammenfassungen und optional Audio zur Transkription.",
-          "<strong>KI-Verarbeitung:</strong> Inhalte werden auf unseren Servern verarbeitet und können nach Ihrer ausdrücklichen Einwilligung in der App von OpenAI verarbeitet werden.",
+          "<strong>KI-Verarbeitung:</strong> Inhalte werden auf unseren Servern verarbeitet und können nach Ihrer ausdrücklichen Einwilligung in der App von OpenAI und Google Gemini verarbeitet werden.",
           "<strong>Lokaler Speicher:</strong> Notizen, Transkripte und Aufnahmen verbleiben auf dem Gerät, bis Sie sie löschen.",
           "<strong>Zahlungen:</strong> Apple verwaltet Abonnements; wir erhalten keine Zahlungskartendaten.",
           "<strong>Werbung und Tracking:</strong> Die aktuelle App verwendet keine Drittanbieter-SDKs für Werbung oder appübergreifendes Tracking.",
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Transkription, Übersetzung und Zusammenfassungen:</strong> Vertrag, soweit für die angeforderte Leistung erforderlich.",
-          "<strong>KI-Verarbeitung über OpenAI:</strong> Einwilligung auf dem entsprechenden App-Bildschirm vor Datenversand.",
+          "<strong>KI-Verarbeitung über OpenAI und Google Gemini:</strong> Einwilligung auf dem entsprechenden App-Bildschirm vor Datenversand.",
           "<strong>Push-Nachrichten:</strong> Einwilligung über die iOS-Systemberechtigung.",
           "<strong>Gerätekennung und Nutzungslimits:</strong> Berechtigte Interessen am Betrieb, Schutz und an der fairen Zuteilung des Dienstes.",
           "<strong>Abonnement über Apple:</strong> Vertrag."
@@ -139,11 +139,12 @@
       {
         "title": "7. KI-VERARBEITUNG UND EINWILLIGUNG",
         "paragraphs": [
-          "Vor dem Versand zur KI-Transkription, -Übersetzung oder -Zusammenfassung erläutert ein Einwilligungsbildschirm:"
+          "Bevor deine Daten für KI-gestützte Transkription, Übersetzung oder Insight-Studio-Ausgaben gesendet werden, bittet die App um deine ausdrückliche Erlaubnis.",
+          "Mit deiner Erlaubnis verarbeiten unsere Server, OpenAI und Google Gemini die von dir übermittelten Videolinks, Transkripte, die gewählte Sprache und optionalen Kontext, um die gewünschte Ausgabe zu erstellen. Ein Abo oder das Wiederherstellen von Käufen erteilt für sich genommen keine Erlaubnis zur KI-Verarbeitung."
         ],
         "list": [
-          "<strong>Was gesendet wird:</strong> Je nach Aufgabe Videolinks, Transkripttext und gewählte Sprache.",
-          "<strong>Wer verarbeitet:</strong> Unsere Server, die die OpenAI-API verwenden können.",
+          "<strong>Was gesendet wird:</strong> Videolinks, Transkripttext, gewählte Sprache und optionaler Kontext, den du für die gewünschte Ausgabe angibst, soweit zutreffend.",
+          "<strong>Wer verarbeitet:</strong> unsere Server und KI-Anbieter, darunter OpenAI und Google Gemini.",
           "<strong>Was wir nicht tun:</strong> Drittvideos werden nicht gehostet oder weiterverbreitet; angezeigt werden Transkripte und KI-Notizen."
         ],
         "subsections": [
@@ -151,7 +152,8 @@
             "title": "",
             "paragraphs": [
               "Sie können ablehnen und die App weiter durchsuchen, ohne neue KI-Aufgaben zu starten. Später können Sie in den Datenschutzeinstellungen widerrufen. Der Widerruf stoppt neue serverseitige KI-Verarbeitung; lokal gespeicherte Inhalte bleiben bis zu Ihrer Löschung erhalten.",
-              "Für OpenAI gelten dessen eigene Richtlinien: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>"
+              "Für OpenAI gelten dessen eigene Richtlinien: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+              "Datenschutzerklärung von Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
             ]
           }
         ]
@@ -164,6 +166,7 @@
             "paragraphs": [
               "<strong>Cloud-Hosting, etwa Google Cloud Run</strong><br>Zweck: API, Aufgabensteuerung, Speicherung<br>Daten: Links, Audio, Text, Gerätekennung, Tokens, Protokolle",
               "<strong>OpenAI</strong><br>Zweck: Transkription und KI-Notizerstellung<br>Daten: Nach Einwilligung zur Verarbeitung eingereichte Inhalte",
+              "<strong>Google Gemini</strong><br>Zweck: Transkription unterstützter Videolinks<br>Übermittelte Daten: von dir eingereichte Videolinks und Verarbeitungskontext, nach deiner Einwilligung.",
               "<strong>Apple</strong><br>Zweck: App-Vertrieb, Zahlungen, Push-Infrastruktur<br>Daten: Abonnementtransaktionen, Metadaten der Push-Zustellung",
               "Auftragsverarbeiter müssen Daten ausschließlich nach unseren Anweisungen und mit angemessenen Schutzmaßnahmen verarbeiten."
             ]

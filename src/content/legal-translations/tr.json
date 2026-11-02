@@ -8,7 +8,7 @@
     "subtitle": "Damas Technologies LLC bilgilerinizi nasıl toplar, kullanır ve korur?",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "15 Temmuz 2026",
+      "lastUpdated": "2 Kasım 2026",
       "effectiveDate": "15 Temmuz 2026"
     },
     "sections": [
@@ -37,7 +37,7 @@
             "list": [
               "Bağlantılarını yapıştırdığınız üçüncü taraf platformlar, örneğin sosyal video barındırıcıları",
               "Apple: App Store, ödemeler ve anlık bildirim altyapısı",
-              "API’sini alt işleyen olarak kullandığımız OpenAI; bölüm 8’e bakın",
+              "API’lerini alt veri işleyen olarak kullandığımız OpenAI ve Google Gemini — Bölüm 8’e bakın",
               "Uygulamadan bağlantı verilen üçüncü taraf siteler"
             ]
           }
@@ -48,7 +48,7 @@
         "list": [
           "<strong>Hesaplar:</strong> Kullanıcı hesabı sunmuyoruz. Hizmeti işletmek için cihaz kimliği kullanıyoruz.",
           "<strong>Sağladıklarınız:</strong> Herkese açık video bağlantıları, dil seçimleri, özet için döküm metni ve isteğe bağlı olarak yazıya çevrilecek ses.",
-          "<strong>Yapay zekâ işleme:</strong> İçerik sunucularımızda, Uygulamada açık onayınızdan sonra ise OpenAI tarafından da işlenebilir.",
+          "<strong>Yapay zekâ işleme:</strong> İçerik sunucularımızda, Uygulamada açık onayınızdan sonra ise OpenAI ve Google Gemini tarafından da işlenebilir.",
           "<strong>Yerel saklama:</strong> Notlar, dökümler ve kayıtlar siz silene kadar cihazınızda tutulur.",
           "<strong>Ödemeler:</strong> Abonelikleri Apple yönetir; kart bilgilerinizi almayız.",
           "<strong>Reklam ve takip:</strong> Güncel Uygulamada üçüncü taraf reklam veya uygulamalar arası takip SDK’sı yoktur.",
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Yazıya çevirme, tercüme ve özet:</strong> Talep edilen hizmet için gerekli sözleşme.",
-          "<strong>OpenAI üzerinden yapay zekâ:</strong> Veri gönderilmeden önce Uygulamadaki onay ekranında verilen rıza.",
+          "<strong>OpenAI ve Google Gemini üzerinden yapay zekâ:</strong> Veri gönderilmeden önce Uygulamadaki onay ekranında verilen rıza.",
           "<strong>Anlık bildirimler:</strong> iOS sistem izniyle verilen rıza.",
           "<strong>Cihaz kimliği ve sınırlar:</strong> Hizmeti işletmek, korumak ve adil dağıtmak için meşru menfaatler.",
           "<strong>Apple aboneliği:</strong> Sözleşme."
@@ -139,11 +139,12 @@
       {
         "title": "7. YAPAY ZEKÂ İŞLEME VE ONAYINIZ",
         "paragraphs": [
-          "Veriler yazıya çevirme, tercüme veya özetleme için gönderilmeden önce onay ekranı şunları açıklar:"
+          "Verileriniz yapay zekâ ile deşifre, çeviri veya Insight Studio çıktıları için gönderilmeden önce uygulama açık izninizi ister.",
+          "İzninizle sunucularımız, OpenAI ve Google Gemini; istediğiniz çıktıyı oluşturmak için gönderdiğiniz video bağlantılarını, deşifreleri, seçilen dili ve isteğe bağlı bağlamı işler. Abone olmak veya satın alımları geri yüklemek tek başına yapay zekâ işleme izni vermez."
         ],
         "list": [
-          "<strong>Gönderilenler:</strong> Göreve göre video bağlantıları, döküm metni ve seçilen dil.",
-          "<strong>İşleyenler:</strong> OpenAI API’sini kullanabilen sunucularımız.",
+          "<strong>Gönderilen bilgiler:</strong> istenen çıktı için gerekli olduğunda video bağlantıları, deşifre metni, seçilen dil ve isteğe bağlı sağladığınız bağlam.",
+          "<strong>İşleyen taraflar:</strong> sunucularımız ve OpenAI ile Google Gemini dâhil yapay zekâ sağlayıcıları.",
           "<strong>Yapmadıklarımız:</strong> Üçüncü taraf videoları barındırmaz veya yeniden dağıtmayız; döküm ve yapay zekâ notları gösteririz."
         ],
         "subsections": [
@@ -151,7 +152,8 @@
             "title": "",
             "paragraphs": [
               "Onayı reddedip yeni yapay zekâ görevi başlatmadan Uygulamada gezinebilirsiniz. Daha sonra Gizlilik ayarlarından geri çekebilirsiniz. Bu, sunucudaki yeni yapay zekâ işlemlerini durdurur; cihazda kayıtlı içerik siz silene kadar kalır.",
-              "OpenAI uygulamaları kendi politikalarına tabidir: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>"
+              "OpenAI uygulamaları kendi politikalarına tabidir: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+              "Google gizlilik politikası: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
             ]
           }
         ]
@@ -164,6 +166,7 @@
             "paragraphs": [
               "<strong>Bulut barındırma, örneğin Google Cloud Run</strong><br>Amaç: API, görev yönetimi, saklama<br>Veri: bağlantılar, ses, metin, cihaz kimliği, belirteçler, günlükler",
               "<strong>OpenAI</strong><br>Amaç: yazıya çevirme ve yapay zekâ notları<br>Veri: onay sonrası işleme için gönderdiğiniz içerik",
+              "<strong>Google Gemini</strong><br>Amaç: desteklenen video bağlantılarının deşifresi<br>Paylaşılan veriler: onayınızdan sonra gönderdiğiniz video bağlantıları ve işleme bağlamı.",
               "<strong>Apple</strong><br>Amaç: Uygulama dağıtımı, ödemeler, bildirim altyapısı<br>Veri: abonelik işlemleri ve bildirim iletim üst verileri",
               "İşleyenlerin verileri yalnızca talimatlarımızla ve uygun güvenceler altında işlemesini şart koşarız."
             ]

@@ -8,7 +8,7 @@
     "subtitle": "Cara Damas Technologies LLC mengumpul, menggunakan dan melindungi maklumat anda.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "15 Julai 2026",
+      "lastUpdated": "2 November 2026",
       "effectiveDate": "15 Julai 2026"
     },
     "sections": [
@@ -37,7 +37,7 @@
             "list": [
               "Platform pihak ketiga bagi pautan yang anda tampal (contohnya hos video sosial)",
               "Apple (App Store, pembayaran, infrastruktur penghantaran pemberitahuan tolak)",
-              "OpenAI (apabila API mereka digunakan sebagai subpemproses — lihat Seksyen 8)",
+              "OpenAI dan Google Gemini, apabila API mereka digunakan sebagai subpemproses — lihat Bahagian 8",
               "Laman web pihak ketiga yang dipautkan daripada Aplikasi"
             ]
           }
@@ -48,7 +48,7 @@
         "list": [
           "<strong>Akaun:</strong>Kami tidak menyediakan akaun pengguna. Kami menggunakan pengecam peranti untuk mengendalikan perkhidmatan.",
           "<strong>Maklumat daripada anda:</strong>Pautan siaran video awam, pilihan bahasa, teks transkrip untuk ringkasan dan audio pilihan untuk transkripsi.",
-          "<strong>Pemprosesan AI:</strong>Kandungan diproses pada pelayan kami dan mungkin oleh OpenAI selepas anda memberikan persetujuan jelas dalam Aplikasi.",
+          "<strong>Pemprosesan AI:</strong>Kandungan diproses pada pelayan kami dan mungkin oleh OpenAI dan Google Gemini selepas anda memberikan persetujuan jelas dalam Aplikasi.",
           "<strong>Storan setempat:</strong>Nota, transkrip dan rakaman disimpan pada peranti sehingga anda memadamkannya.",
           "<strong>Pembayaran:</strong>Langganan dikendalikan oleh Apple; kami tidak menerima butiran kad pembayaran anda.",
           "<strong>Pengiklanan / penjejakan:</strong>Aplikasi semasa tidak menggunakan SDK iklan pihak ketiga atau penjejakan merentas aplikasi.",
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Penyediaan transkripsi, terjemahan dan ringkasan:</strong>Kontrak, yang diperlukan untuk menyampaikan perkhidmatan yang diminta",
-          "<strong>Pemprosesan AI melalui OpenAI:</strong>Persetujuan pada skrin AI dalam Aplikasi sebelum data dihantar",
+          "<strong>Pemprosesan AI melalui OpenAI dan Google Gemini:</strong>Persetujuan pada skrin AI dalam Aplikasi sebelum data dihantar",
           "<strong>Pemberitahuan tolak:</strong>Persetujuan melalui kebenaran sistem iOS",
           "<strong>Pengecam peranti dan had penggunaan:</strong>Kepentingan sah untuk mengendalikan, melindungi dan memperuntukkan perkhidmatan secara saksama",
           "<strong>Langganan melalui Apple:</strong>Kontrak"
@@ -139,11 +139,12 @@
       {
         "title": "7. PEMPROSESAN AI DAN PERSETUJUAN ANDA",
         "paragraphs": [
-          "Sebelum data dihantar untuk transkripsi, terjemahan atau ringkasan AI, Aplikasi memaparkan skrin persetujuan yang menerangkan:"
+          "Sebelum data anda dihantar untuk transkripsi, terjemahan atau output Insight Studio berasaskan AI, aplikasi meminta kebenaran nyata anda.",
+          "Dengan kebenaran anda, pelayan kami, OpenAI dan Google Gemini memproses pautan video, transkrip, bahasa pilihan dan konteks pilihan yang anda hantar untuk menghasilkan output yang diminta. Melanggan atau memulihkan pembelian sahaja tidak memberikan kebenaran pemprosesan AI."
         ],
         "list": [
-          "<strong>Apa yang dihantar:</strong>Pautan video, teks transkrip dan bahasa pilihan, mengikut kesesuaian",
-          "<strong>Siapa yang memproses:</strong>Pelayan kami, yang mungkin menggunakan API OpenAI",
+          "<strong>Apa yang dihantar:</strong> pautan video, teks transkrip, bahasa pilihan dan konteks pilihan yang anda berikan untuk output yang diminta, mengikut keperluan.",
+          "<strong>Siapa yang memproses:</strong> pelayan kami dan penyedia AI, termasuk OpenAI dan Google Gemini.",
           "<strong>Apa yang tidak dilakukan:</strong>Kami tidak mengehos atau mengedar semula video pihak ketiga; kami memaparkan transkrip dan nota janaan AI"
         ],
         "subsections": [
@@ -151,7 +152,8 @@
             "title": "",
             "paragraphs": [
               "Anda boleh menolak persetujuan dan masih melayari Aplikasi tanpa memulakan tugas AI baharu. Persetujuan boleh ditarik balik kemudian dalam tetapan Privasi. Penarikan balik menghentikan pemprosesan AI pelayan baharu; kandungan yang sudah disimpan pada peranti kekal sehingga dipadamkan.",
-              "Amalan OpenAI tertakluk pada dasarnya sendiri: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>"
+              "Amalan OpenAI tertakluk pada dasarnya sendiri: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+              "Dasar privasi Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
             ]
           }
         ]
@@ -164,6 +166,7 @@
             "paragraphs": [
               "<strong>Pengehosan awan, contohnya Google Cloud Run</strong><br>Tujuan: API, penyelarasan tugas, storan<br>Data dikongsi: Pautan, audio, teks, ID peranti, token, log",
               "<strong>OpenAI</strong><br>Tujuan: Transkripsi dan penjanaan nota AI<br>Data dikongsi: Kandungan yang anda hantar untuk pemprosesan selepas bersetuju",
+              "<strong>Google Gemini</strong><br>Tujuan: transkripsi pautan video yang disokong<br>Data dikongsi: pautan video dan konteks pemprosesan yang anda hantar selepas persetujuan.",
               "<strong>Apple</strong><br>Tujuan: Pengedaran Aplikasi, pembayaran, infrastruktur tolak<br>Data dikongsi: Transaksi langganan dan metadata penghantaran tolak",
               "Kami mewajibkan pemproses mengendalikan data hanya mengikut arahan kami dan tertakluk pada perlindungan yang sesuai."
             ]
