@@ -15,7 +15,7 @@ export const privacyPolicyPage: LegalPageContent = {
   subtitle: 'How Damas Technologies LLC collects, uses, and protects your information.',
   layout: 'long-form',
   meta: {
-    lastUpdated: 'November 2, 2026',
+    lastUpdated: 'November 3, 2026',
     effectiveDate: 'July 15, 2026',
   },
   sections: [
@@ -119,7 +119,7 @@ export const privacyPolicyPage: LegalPageContent = {
       paragraphs: ['Where GDPR or UK GDPR applies, we rely on:'],
       list: [
         '<strong>Providing transcription, translation, and summaries:</strong> Contract (necessary to deliver the service you request)',
-        '<strong>AI processing via OpenAI and Google Gemini:</strong> Consent (you agree in the in-app AI consent screen before data is sent)',
+        '<strong>AI processing via OpenAI and Google Gemini:</strong> Consent (you explicitly choose Allow AI processing in the App before data is sent)',
         '<strong>Push notifications:</strong> Consent (iOS system permission)',
         '<strong>Device identifier and usage limits:</strong> Legitimate interests (operate, secure, and fairly allocate the service)',
         '<strong>Subscription via Apple:</strong> Contract',
@@ -134,26 +134,28 @@ export const privacyPolicyPage: LegalPageContent = {
       ],
     },
     {
-      title: '7. AI PROCESSING AND YOUR CONSENT',
-      paragraphs: [
-        'Before your data is sent for AI-powered transcription, translation, or Insight Studio outputs, the App asks for explicit permission.',
-        'With your permission, our servers, OpenAI and Google Gemini process the video links, transcripts, selected language and optional context you submit to create the output you request. Subscribing or restoring purchases does not itself grant AI processing permission.',
+      "title": "7. AI PROCESSING AND YOUR CONSENT",
+      "paragraphs": [
+        "Before your data is sent for AI-powered transcription, translation, or Insight Studio outputs, the App asks for explicit permission. Choose “Allow AI processing” in the App before your first AI request. Reading this policy, subscribing, or restoring purchases does not grant permission."
       ],
-      list: [
-        '<strong>What is sent:</strong> video links, transcript text, selected language, and optional context you provide for the requested output (as applicable)',
-        '<strong>Who processes it:</strong> our servers and AI providers, including OpenAI and Google Gemini',
-        '<strong>What we do not do:</strong> we do not host or redistribute third-party videos; we display transcripts and AI-generated notes',
+      "list": [
+        "<strong>What is sent:</strong> When you use AI features, the app sends your link or transcript, selected language, and any focus, goal, experience or tool details you provide to our servers and AI providers to create your output.",
+        "<strong>Who processes it:</strong> Our servers send YouTube links to Google Gemini for transcription. OpenAI processes audio or transcript text for other transcription, translation and AI notes. Each provider processes the data under its own terms and privacy policy.",
+        "<strong>What we do not do:</strong> Voice recording is not enabled in this version. The app does not host or redistribute third-party videos—only transcripts and AI-generated notes are shown.",
+        "<strong>Your choice:</strong> Choose Allow AI processing before using AI features. Subscribing or restoring purchases does not grant permission. You can turn it off in Settings and keep reading saved content."
       ],
-      subsections: [
+      "subsections": [
         {
-          title: '',
-          paragraphs: [
-            'You may decline consent and still browse the App without starting new AI jobs. You may revoke consent later in Privacy settings. Revoking consent stops new server AI processing; content already saved on your device remains until you delete it.',
-            'OpenAI\'s practices are governed by its own policies: <a href="https://openai.com/policies/privacy-policy">https://openai.com/policies/privacy-policy</a>',
-            'Google\'s privacy policy: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>',
-          ],
-        },
-      ],
+          "title": "",
+          "paragraphs": [
+            "You may decline consent and still browse the App without starting new AI jobs. You may revoke consent later in Privacy settings. Revoking consent stops new server AI processing; content already saved on your device remains until you delete it.",
+            "OpenAI’s privacy policy: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
+            "Google’s privacy policy: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>",
+            "Terms of Use · OpenAI: <a href=\"https://openai.com/policies/terms-of-use\">https://openai.com/policies/terms-of-use</a>",
+            "Terms of Use · Gemini API: <a href=\"https://ai.google.dev/gemini-api/terms\">https://ai.google.dev/gemini-api/terms</a>"
+          ]
+        }
+      ]
     },
     {
       title: '8. HOW WE SHARE INFORMATION',

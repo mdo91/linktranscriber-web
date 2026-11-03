@@ -8,7 +8,7 @@
     "subtitle": "Cómo Damas Technologies LLC recopila, utiliza y protege tu información.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "2 de noviembre de 2026",
+      "lastUpdated": "3 de noviembre de 2026",
       "effectiveDate": "15 de julio de 2026"
     },
     "sections": [
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Transcripción, traducción y resúmenes:</strong> Contrato, necesario para prestar el servicio solicitado.",
-          "<strong>Procesamiento de IA mediante OpenAI y Google Gemini:</strong> Consentimiento en la pantalla correspondiente antes de enviar los datos.",
+          "<strong>Procesamiento de IA mediante OpenAI y Google Gemini:</strong> Consentimiento (autorizas explícitamente el procesamiento de IA en la app antes de enviar datos)",
           "<strong>Notificaciones:</strong> Consentimiento mediante el permiso de iOS.",
           "<strong>Identificador y límites de uso:</strong> Intereses legítimos para operar, proteger y distribuir equitativamente el servicio.",
           "<strong>Suscripción mediante Apple:</strong> Contrato."
@@ -143,9 +143,10 @@
           "Con tu permiso, nuestros servidores, OpenAI y Google Gemini procesan los enlaces de vídeo, las transcripciones, el idioma seleccionado y el contexto opcional que envías para crear el resultado que solicitas. Suscribirte o restaurar compras no concede por sí solo permiso para el procesamiento con IA."
         ],
         "list": [
-          "<strong>Qué se envía:</strong> enlaces de vídeo, texto de transcripción, idioma seleccionado y contexto opcional que proporcionas para el resultado solicitado, según corresponda.",
-          "<strong>Quién lo procesa:</strong> nuestros servidores y proveedores de IA, incluidos OpenAI y Google Gemini.",
-          "<strong>Qué no hacemos:</strong> No alojamos ni redistribuimos vídeos de terceros; mostramos transcripciones y notas generadas por IA."
+          "<strong>Qué se envía:</strong> Cuando usas funciones de IA, la app envía a nuestros servidores y proveedores de IA tu enlace o transcripción, el idioma seleccionado y los datos que proporciones sobre el tema, el objetivo, tu experiencia o las herramientas, para crear el resultado.",
+          "<strong>Quién los procesa:</strong> Nuestros servidores envían enlaces de YouTube a Google Gemini para transcribirlos. OpenAI procesa audio o texto para otras transcripciones, traducciones y notas con IA. Cada proveedor procesa los datos según sus propios términos y política de privacidad.",
+          "<strong>Lo que no hacemos:</strong> La grabación de voz no está habilitada en esta versión. La app no aloja ni redistribuye vídeos de terceros; solo muestra transcripciones y notas generadas por IA.",
+          "<strong>Tú decides:</strong> Elige «Permitir procesamiento con IA» antes de usar las funciones de IA. Suscribirte o restaurar compras no concede permiso. Puedes desactivarlo en Ajustes y seguir leyendo el contenido guardado."
         ],
         "subsections": [
           {
@@ -153,7 +154,9 @@
             "paragraphs": [
               "Puedes rechazarlo y seguir consultando la App sin iniciar nuevas tareas de IA. También puedes revocarlo en Privacidad. La revocación detiene el nuevo procesamiento de IA en el servidor; el contenido guardado en el dispositivo permanece hasta que lo elimines.",
               "Las prácticas de OpenAI se rigen por sus propias políticas: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
-              "Política de privacidad de Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
+              "Política de privacidad de Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>",
+              "Términos de uso · OpenAI: <a href=\"https://openai.com/policies/terms-of-use\">https://openai.com/policies/terms-of-use</a>",
+              "Términos de uso · Gemini API: <a href=\"https://ai.google.dev/gemini-api/terms\">https://ai.google.dev/gemini-api/terms</a>"
             ]
           }
         ]

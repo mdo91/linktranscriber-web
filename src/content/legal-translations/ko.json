@@ -8,7 +8,7 @@
     "subtitle": "Damas Technologies LLC가 귀하의 정보를 수집, 이용 및 보호하는 방법입니다.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "2026년 11월 2일",
+      "lastUpdated": "2026년 11월 3일",
       "effectiveDate": "2026년 7월 15일"
     },
     "sections": [
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>녹취, 번역 및 요약 제공:</strong>계약(귀하가 요청한 서비스를 제공하는 데 필요)",
-          "<strong>OpenAI 및 Google Gemini를 통한 AI 처리:</strong>동의(데이터 전송 전에 앱 내 AI 동의 화면에서 동의)",
+          "<strong>OpenAI 및 Google Gemini를 통한 AI 처리:</strong> 동의 (데이터를 전송하기 전에 앱에서 AI 처리를 명시적으로 허용합니다)",
           "<strong>푸시 알림:</strong>동의(iOS 시스템 권한)",
           "<strong>기기 식별자 및 이용 한도:</strong>정당한 이익(서비스 운영, 보호 및 공정한 배분)",
           "<strong>Apple을 통한 구독:</strong>계약"
@@ -143,9 +143,10 @@
           "허용한 경우 당사 서버, OpenAI 및 Google Gemini가 사용자가 제출한 동영상 링크, 받아쓰기, 선택한 언어와 선택적으로 제공한 맥락을 처리하여 요청한 결과를 만듭니다. 구독하거나 구매를 복원하는 것만으로 AI 처리 권한이 부여되지는 않습니다."
         ],
         "list": [
-          "<strong>전송되는 정보:</strong> 요청한 결과에 따라 동영상 링크, 받아쓰기 텍스트, 선택한 언어 및 선택적으로 제공한 맥락입니다.",
-          "<strong>처리 주체:</strong> 당사 서버 및 OpenAI와 Google Gemini를 포함한 AI 제공업체입니다.",
-          "<strong>하지 않는 일:</strong>제3자 동영상을 호스팅하거나 재배포하지 않으며 녹취록과 AI 생성 메모를 표시합니다"
+          "<strong>전송되는 내용:</strong> AI 기능을 사용하면 출력물 생성을 위해 링크 또는 트랜스크립트, 선택한 언어, 입력한 초점·목표·경험·도구 정보가 서버와 AI 제공업체에 전송됩니다.",
+          "<strong>누가 처리하나요?:</strong> 당사 서버는 YouTube 링크를 Google Gemini에 보내 전사합니다. OpenAI는 다른 전사, 번역 및 AI 메모를 위해 오디오나 전사 텍스트를 처리합니다. 각 제공업체는 자체 약관 및 개인정보 처리방침에 따라 데이터를 처리합니다.",
+          "<strong>우리가 하지 않는 것:</strong> 이 버전에서는 음성 녹음이 활성화되지 않습니다. 이 앱은 제3자 비디오를 호스팅하거나 재배포하지 않으며, 스크립트와 AI 생성 메모만 표시됩니다.",
+          "<strong>사용자의 선택:</strong> AI 기능을 사용하기 전에 “AI 처리 허용”을 선택하세요. 구독하거나 구매를 복원해도 권한이 부여되지 않습니다. 설정에서 허용을 취소해도 저장된 콘텐츠는 계속 읽을 수 있습니다."
         ],
         "subsections": [
           {
@@ -153,7 +154,9 @@
             "paragraphs": [
               "동의를 거부해도 새로운 AI 작업을 시작하지 않고 앱을 둘러볼 수 있습니다. 나중에 개인정보 설정에서 동의를 철회할 수도 있습니다. 철회하면 새로운 서버 AI 처리는 중단되지만 기기에 이미 저장된 콘텐츠는 삭제할 때까지 남습니다.",
               "OpenAI의 처리에는 해당 업체의 정책이 적용됩니다. <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
-              "Google 개인정보처리방침: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
+              "Google 개인정보처리방침: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>",
+              "이용약관 · OpenAI: <a href=\"https://openai.com/policies/terms-of-use\">https://openai.com/policies/terms-of-use</a>",
+              "이용약관 · Gemini API: <a href=\"https://ai.google.dev/gemini-api/terms\">https://ai.google.dev/gemini-api/terms</a>"
             ]
           }
         ]
