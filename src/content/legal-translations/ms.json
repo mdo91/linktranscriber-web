@@ -8,7 +8,7 @@
     "subtitle": "Cara Damas Technologies LLC mengumpul, menggunakan dan melindungi maklumat anda.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "2 November 2026",
+      "lastUpdated": "3 November 2026",
       "effectiveDate": "15 Julai 2026"
     },
     "sections": [
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Penyediaan transkripsi, terjemahan dan ringkasan:</strong>Kontrak, yang diperlukan untuk menyampaikan perkhidmatan yang diminta",
-          "<strong>Pemprosesan AI melalui OpenAI dan Google Gemini:</strong>Persetujuan pada skrin AI dalam Aplikasi sebelum data dihantar",
+          "<strong>Pemprosesan AI melalui OpenAI dan Google Gemini:</strong> Persetujuan (anda membenarkan pemprosesan AI secara jelas dalam aplikasi sebelum data dihantar)",
           "<strong>Pemberitahuan tolak:</strong>Persetujuan melalui kebenaran sistem iOS",
           "<strong>Pengecam peranti dan had penggunaan:</strong>Kepentingan sah untuk mengendalikan, melindungi dan memperuntukkan perkhidmatan secara saksama",
           "<strong>Langganan melalui Apple:</strong>Kontrak"
@@ -143,9 +143,10 @@
           "Dengan kebenaran anda, pelayan kami, OpenAI dan Google Gemini memproses pautan video, transkrip, bahasa pilihan dan konteks pilihan yang anda hantar untuk menghasilkan output yang diminta. Melanggan atau memulihkan pembelian sahaja tidak memberikan kebenaran pemprosesan AI."
         ],
         "list": [
-          "<strong>Apa yang dihantar:</strong> pautan video, teks transkrip, bahasa pilihan dan konteks pilihan yang anda berikan untuk output yang diminta, mengikut keperluan.",
-          "<strong>Siapa yang memproses:</strong> pelayan kami dan penyedia AI, termasuk OpenAI dan Google Gemini.",
-          "<strong>Apa yang tidak dilakukan:</strong>Kami tidak mengehos atau mengedar semula video pihak ketiga; kami memaparkan transkrip dan nota janaan AI"
+          "<strong>Apa yang dihantar:</strong> Apabila anda menggunakan ciri AI, app menghantar pautan atau transkrip anda, bahasa yang dipilih serta butiran fokus, matlamat, pengalaman atau alat yang anda berikan kepada pelayan dan penyedia AI kami untuk mencipta hasil anda.",
+          "<strong>Siapa yang memprosesnya:</strong> Pelayan kami menghantar pautan YouTube kepada Google Gemini untuk transkripsi. OpenAI memproses audio atau teks transkrip untuk transkripsi lain, terjemahan dan nota AI. Setiap penyedia memproses data mengikut syarat dan dasar privasinya sendiri.",
+          "<strong>Apa yang kita tidak buat:</strong> Rakaman suara tidak didayakan dalam versi ini. Apl ini tidak mengehoskan atau mengedarkan semula video pihak ketiga—hanya transkrip dan nota janaan AI ditunjukkan.",
+          "<strong>Pilihan anda:</strong> Pilih “Benarkan pemprosesan AI” sebelum menggunakan ciri AI. Melanggan atau memulihkan pembelian tidak memberikan kebenaran. Anda boleh mematikannya dalam Tetapan dan terus membaca kandungan yang disimpan."
         ],
         "subsections": [
           {
@@ -153,7 +154,9 @@
             "paragraphs": [
               "Anda boleh menolak persetujuan dan masih melayari Aplikasi tanpa memulakan tugas AI baharu. Persetujuan boleh ditarik balik kemudian dalam tetapan Privasi. Penarikan balik menghentikan pemprosesan AI pelayan baharu; kandungan yang sudah disimpan pada peranti kekal sehingga dipadamkan.",
               "Amalan OpenAI tertakluk pada dasarnya sendiri: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
-              "Dasar privasi Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
+              "Dasar privasi Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>",
+              "Syarat Penggunaan · OpenAI: <a href=\"https://openai.com/policies/terms-of-use\">https://openai.com/policies/terms-of-use</a>",
+              "Syarat Penggunaan · Gemini API: <a href=\"https://ai.google.dev/gemini-api/terms\">https://ai.google.dev/gemini-api/terms</a>"
             ]
           }
         ]

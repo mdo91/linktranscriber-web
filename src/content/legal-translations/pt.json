@@ -8,7 +8,7 @@
     "subtitle": "Como a Damas Technologies LLC coleta, utiliza e protege suas informações.",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "2 de novembro de 2026",
+      "lastUpdated": "3 de novembro de 2026",
       "effectiveDate": "15 de julho de 2026"
     },
     "sections": [
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>Transcrição, tradução e resumos:</strong> Contrato, necessário para prestar o serviço solicitado.",
-          "<strong>IA pela OpenAI e Google Gemini:</strong> Consentimento na tela correspondente antes de enviar dados.",
+          "<strong>Processamento de IA através de OpenAI e Google Gemini:</strong> Consentimento (autoriza explicitamente o processamento de IA na aplicação antes do envio de dados)",
           "<strong>Notificações:</strong> Consentimento pela permissão do iOS.",
           "<strong>Identificador e limites:</strong> Interesses legítimos para operar, proteger e distribuir o serviço de forma justa.",
           "<strong>Assinatura pela Apple:</strong> Contrato."
@@ -143,9 +143,10 @@
           "Com sua permissão, nossos servidores, a OpenAI e o Google Gemini processam os links de vídeo, as transcrições, o idioma selecionado e o contexto opcional que você envia para criar o resultado solicitado. Assinar ou restaurar compras não concede, por si só, permissão para processamento por IA."
         ],
         "list": [
-          "<strong>O que é enviado:</strong> links de vídeo, texto de transcrição, idioma selecionado e contexto opcional que você fornece para o resultado solicitado, conforme aplicável.",
-          "<strong>Quem processa:</strong> nossos servidores e provedores de IA, incluindo OpenAI e Google Gemini.",
-          "<strong>O que não fazemos:</strong> Não hospedamos nem redistribuímos vídeos de terceiros; mostramos transcrições e notas geradas por IA."
+          "<strong>O que é enviado:</strong> Quando utiliza funcionalidades de IA, a aplicação envia para os nossos servidores e fornecedores de IA a sua ligação ou transcrição, o idioma selecionado e quaisquer detalhes sobre o tema, objetivo, experiência ou ferramenta que fornecer, para criar o seu resultado.",
+          "<strong>Quem os processa:</strong> Os nossos servidores enviam ligações do YouTube para o Google Gemini para transcrição. A OpenAI processa áudio ou texto para outras transcrições, traduções e notas de IA. Cada fornecedor processa os dados segundo os seus próprios termos e política de privacidade.",
+          "<strong>O que não fazemos:</strong> A gravação de voz não está ativada nesta versão. A aplicação não aloja nem redistribui vídeos de terceiros — apenas apresenta transcrições e notas geradas por IA.",
+          "<strong>A sua escolha:</strong> Escolha “Permitir processamento por IA” antes de usar os recursos de IA. Assinar ou restaurar compras não concede permissão. Você pode desativá-la nos Ajustes e continuar lendo o conteúdo salvo."
         ],
         "subsections": [
           {
@@ -153,7 +154,9 @@
             "paragraphs": [
               "Você pode recusar e continuar navegando pelo App sem iniciar novas tarefas de IA. Pode revogar depois em Privacidade. A revogação interrompe novos processamentos de IA no servidor; o conteúdo salvo no dispositivo permanece até você excluí-lo.",
               "As práticas da OpenAI seguem suas próprias políticas: <a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
-              "Política de privacidade do Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
+              "Política de privacidade do Google: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>",
+              "Termos de Utilização · OpenAI: <a href=\"https://openai.com/policies/terms-of-use\">https://openai.com/policies/terms-of-use</a>",
+              "Termos de Utilização · Gemini API: <a href=\"https://ai.google.dev/gemini-api/terms\">https://ai.google.dev/gemini-api/terms</a>"
             ]
           }
         ]

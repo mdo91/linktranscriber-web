@@ -8,7 +8,7 @@
     "subtitle": "Damas Technologies LLC によるお客様の情報の収集、利用、保護について。",
     "layout": "long-form",
     "meta": {
-      "lastUpdated": "2026年11月2日",
+      "lastUpdated": "2026年11月3日",
       "effectiveDate": "2026年7月15日"
     },
     "sections": [
@@ -122,7 +122,7 @@
         ],
         "list": [
           "<strong>文字起こし、翻訳、要約の提供：</strong>契約（お客様が求めるサービスの提供に必要）",
-          "<strong>OpenAI と Google Gemini を利用した AI 処理：</strong>同意（データ送信前にアプリ内の AI 同意画面で同意）",
+          "<strong>OpenAIとGoogle GeminiによるAI処理：</strong> 同意（データ送信前にアプリ内でAI処理を明示的に許可します）",
           "<strong>プッシュ通知：</strong>同意（iOS のシステム許可）",
           "<strong>デバイス識別子と利用制限：</strong>正当な利益（サービスの運営、安全確保、公平な配分）",
           "<strong>Apple を通じたサブスクリプション：</strong>契約"
@@ -143,9 +143,10 @@
           "許可をいただいたうえで、当社サーバー、OpenAI、Google Geminiは、送信された動画リンク、文字起こし、選択言語、任意の補足情報を処理し、ご希望の出力を作成します。サブスクリプションの購入や購入の復元だけで、AI処理が許可されることはありません。"
         ],
         "list": [
-          "<strong>送信される内容：</strong>ご希望の出力に応じた動画リンク、文字起こしテキスト、選択言語、任意で提供する補足情報。",
-          "<strong>処理する事業者：</strong>当社サーバーおよびOpenAI、Google GeminiなどのAIプロバイダー。",
-          "<strong>行わないこと：</strong>第三者動画のホストや再配布は行わず、文字起こしと AI 生成ノートを表示します"
+          "<strong>送信されるデータ:</strong> AI機能を使用すると、出力を作成するために、リンクまたは文字起こし、選択した言語、および入力した重点項目、目標、経験、ツールの詳細がアプリのサーバーとAIプロバイダに送信されます。",
+          "<strong>処理を行う事業者:</strong> 当社のサーバーは、文字起こしのためにYouTubeリンクをGoogle Geminiに送信します。その他の文字起こし、翻訳、AIノートの作成では、OpenAIが音声や文字起こしテキストを処理します。各プロバイダーは、独自の規約とプライバシーポリシーに基づいてデータを処理します。",
+          "<strong>行わないこと:</strong> このバージョンでは音声録音は有効になっていません。アプリが第三者の動画を保存または再配信することはなく、文字起こしとAIが生成したメモのみを表示します。",
+          "<strong>選択について:</strong> AI機能を使う前に「AI処理を許可」を選択してください。サブスクリプションの購入や購入の復元では許可されません。設定で許可を取り消しても、保存済みの内容は引き続き読めます。"
         ],
         "subsections": [
           {
@@ -153,7 +154,9 @@
             "paragraphs": [
               "同意を拒否しても、新しい AI ジョブを開始せずにアプリを閲覧できます。後からプライバシー設定で撤回することもできます。撤回すると新しいサーバー AI 処理は停止しますが、デバイスに保存済みの内容は削除するまで残ります。",
               "OpenAI の取扱いには同社独自のポリシーが適用されます：<a href=\"https://openai.com/policies/privacy-policy\">https://openai.com/policies/privacy-policy</a>",
-              "Googleのプライバシーポリシー: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>"
+              "Googleのプライバシーポリシー: <a href=\"https://policies.google.com/privacy\">https://policies.google.com/privacy</a>",
+              "利用規約 · OpenAI: <a href=\"https://openai.com/policies/terms-of-use\">https://openai.com/policies/terms-of-use</a>",
+              "利用規約 · Gemini API: <a href=\"https://ai.google.dev/gemini-api/terms\">https://ai.google.dev/gemini-api/terms</a>"
             ]
           }
         ]
