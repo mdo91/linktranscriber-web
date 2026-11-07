@@ -3,12 +3,17 @@ import { resolve, relative } from 'node:path';
 import { parse } from 'yaml';
 import { marked } from 'marked';
 import { locales, type Locale } from './site';
+const publishingTimeZone = JSON.parse(readFileSync(new URL('../growth.config.json', import.meta.url), 'utf8')).schedule?.timeZone;
+if (typeof publishingTimeZone !== 'string' || !publishingTimeZone.trim()) throw new Error('Publishing time zone is required');
+const publishingDateFormatter = new Intl.DateTimeFormat('en-CA', {
+  timeZone: publishingTimeZone, year: 'numeric', month: '2-digit', day: '2-digit',
+});
 export type Post = {
   title: string; description: string; slug: string; locale: Locale; publishedAt: string; updatedAt: string;
   status: 'published' | 'draft'; primaryQuery: string; topics: string[]; sources: { title: string; url: string }[];
   related: string[]; translationKey: string; body: string; file: string;
 };
-export function parsePost(source: string, file: string): Post {
+export function parsePost(source: string, file: string, now: Date = new Date()): Post {
   const parts = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (!parts) throw new Error(`${file}: missing YAML metadata`);
   const metadata = parse(parts[1]);
@@ -20,10 +25,13 @@ export function parsePost(source: string, file: string): Post {
   if (!locales.includes(metadata.locale)) throw new Error(`${file}: unsupported locale`);
   if (!['published', 'draft'].includes(metadata.status)) throw new Error(`${file}: invalid status`);
   for (const key of ['publishedAt', 'updatedAt']) {
-    if (!/^\d{4}-\d{2}-\d{2}$/.test(metadata[key]) || new Date(metadata[key]).toISOString().slice(0, 10) !== metadata[key]) throw new Error(`${file}: invalid ${key}`);
+    const date = new Date(metadata[key]);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(metadata[key]) || !Number.isFinite(date.getTime()) || date.toISOString().slice(0, 10) !== metadata[key]) throw new Error(`${file}: invalid ${key}`);
   }
   if (metadata.updatedAt < metadata.publishedAt) throw new Error(`${file}: updated before publication`);
-  const today = new Date().toISOString().slice(0, 10);
+  // Article dates follow the publisher's calendar, not the build host's UTC day.
+  const partsByType = Object.fromEntries(publishingDateFormatter.formatToParts(now).map(({ type, value }) => [type, value]));
+  const today = `${partsByType.year}-${partsByType.month}-${partsByType.day}`;
   if (metadata.publishedAt > today || metadata.updatedAt > today) throw new Error(`${file}: future article date`);
   for (const key of ['topics', 'related']) {
     if (!Array.isArray(metadata[key]) || !metadata[key].every((v: unknown) => typeof v === 'string' && v.trim())) throw new Error(`${file}: invalid ${key}`);
