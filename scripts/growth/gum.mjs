@@ -21,25 +21,59 @@ export function validateGumOperation(operation, args) {
   }
   return allowed.get(operation);
 }
-let lastAdsRequest = 0;
-export async function callGum(operation, args) {
-  const profile = validateGumOperation(operation, args);
-  const binary = process.env.GUM_BINARY || resolve(root, '.tools/gum-keywords');
-  for (let attempt = 0; attempt < 3; attempt++) {
-    if (operation.startsWith('googleads.')) {
-      const wait = Math.max(0, 1100 - (Date.now() - lastAdsRequest));
-      if (wait) await new Promise(resolve => setTimeout(resolve, wait));
-      lastAdsRequest = Date.now();
-    }
-    try {
-      const response = spawnSync(binary, ['--profile', profile, 'read', operation, '--args', JSON.stringify(args), '--format', 'raw', '--max-items', 'all'], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024, timeout: 90000 });
-      if (response.error || response.status !== 0) throw new Error(response.error?.message || response.stderr?.trim() || 'Gum research request failed');
-      const parsed = JSON.parse(response.stdout), data = parsed.data || parsed;
-      if (data.error || parsed.error) throw new Error(data.error?.message || parsed.error?.message || 'Google rejected the research request');
-      return data;
-    } catch (error) {
-      if (attempt === 2 || !/RESOURCE_EXHAUSTED|\b429\b|UNAVAILABLE|\b50[0234]\b|temporarily unavailable/i.test(error.message)) throw error;
-      await new Promise(resolve => setTimeout(resolve, 2000 * (attempt + 1)));
-    }
-  }
+const searchConsoleReads = new Set(['searchconsole.searchanalytics.query', 'searchconsole.urlInspection.index.inspect']);
+const parseEnvelope = value => { try { const parsed = JSON.parse(value); return parsed && typeof parsed === 'object' ? parsed : null; } catch { return null; } };
+function failureCodes(envelopes) {
+  return envelopes.flatMap(value => [value?.error_code, value?.machine_envelope?.error_code, value?.error?.error_code, value?.error?.status, value?.error?.code]).filter(value => value !== undefined && value !== null && value !== '');
 }
+const authFailure = (codes, message) => codes.some(code => [401, 403, 'UNAUTHENTICATED', 'PERMISSION_DENIED', 'UNAUTHORIZED', 'FORBIDDEN', 'INVALID_GRANT', 'AUTHENTICATION_FAILED', 'AUTH_REQUIRED', 'ACCESS_DENIED'].includes(code)) || /invalid[_ -]grant|\b(?:401|403)\b|unauthenticated|permission denied|access denied/i.test(message);
+const explicitCancellation = message => /\b(?:user|caller|operator)[ -]?(?:abort|cancel)|\b(?:aborted|cancelled|canceled)\b[^\n]{0,25}\b(?:user|caller|operator)\b/i.test(message);
+
+// Injectable execution keeps retry tests offline. The production reader retains
+// the same profiles, operation allowlist, three-call cap and Ads pacing.
+export function createGumReader({ execute = spawnSync, wait = milliseconds => new Promise(resolve => setTimeout(resolve, milliseconds)), clock = Date.now } = {}) {
+  let lastAdsRequest = 0;
+  return async function read(operation, args, { signal } = {}) {
+    const profile = validateGumOperation(operation, args);
+    const binary = process.env.GUM_BINARY || resolve(root, '.tools/gum-keywords');
+    const checkAbort = () => { if (signal?.aborted) throw signal.reason || new Error('Google research read cancelled by caller'); };
+    for (let attempt = 0; attempt < 3; attempt++) {
+      checkAbort();
+      if (operation.startsWith('googleads.')) {
+        const delay = Math.max(0, 1100 - (clock() - lastAdsRequest));
+        if (delay) await wait(delay);
+        checkAbort(); lastAdsRequest = clock();
+      }
+      let terminal = false, cancelledRead = false;
+      try {
+        let response;
+        try { response = execute(binary, ['--profile', profile, 'read', operation, '--args', JSON.stringify(args), '--format', 'raw', '--max-items', 'all'], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024, timeout: 90000 }); }
+        catch (error) { terminal = true; throw error; }
+        checkAbort();
+        if (response.error || response.signal || [130, 137, 143].includes(response.status)) {
+          terminal = true;
+          throw new Error(response.error?.message || response.stderr?.trim() || 'Gum research process was interrupted');
+        }
+        const parsed = parseEnvelope(response.stdout), data = parsed?.data || parsed;
+        const envelopes = [parseEnvelope(response.stderr), parsed, data].filter(Boolean);
+        const codes = failureCodes(envelopes);
+        const failure = response.status !== 0 || data?.error || parsed?.error || codes.length > 0;
+        if (failure) {
+          const message = response.status !== 0 ? response.stderr?.trim() || 'Gum research request failed' : data?.error?.message || parsed?.error?.message || data?.message || 'Google rejected the research request';
+          terminal = authFailure(codes, message) || explicitCancellation(message);
+          // Only structured provider cancellation on an allowlisted read is
+          // transient. A process timeout, signal or caller abort never is.
+          cancelledRead = searchConsoleReads.has(operation) && codes.length > 0 && codes.every(code => code === 'CANCELLED');
+          throw new Error(message);
+        }
+        if (!parsed) { terminal = true; throw new Error('Gum research returned invalid JSON'); }
+        return data;
+      } catch (error) {
+        checkAbort();
+        if (terminal || attempt === 2 || !cancelledRead && !/RESOURCE_EXHAUSTED|\b429\b|UNAVAILABLE|\b50[0234]\b|temporarily unavailable/i.test(error.message)) throw error;
+        await wait(2000 * (attempt + 1));
+      }
+    }
+  };
+}
+export const callGum = createGumReader();
