@@ -24,6 +24,8 @@ English uses `/`; the other languages use `/fr/`, `/de/`, `/ja/`, `/ko/`, `/ms/`
 
 Guides live in `content/guides/<locale>/<slug>.md`. Frontmatter requires `title`, `description`, `slug`, `locale`, `publishedAt`, `updatedAt`, `status`, `primaryQuery`, `topics`, `sources`, `related` and `translationKey`. Dates use `YYYY-MM-DD`. Drafts never appear in HTML or the sitemap. Do not advance dates unless the content meaningfully changes. Equivalent translations share a `translationKey`, but only published equivalents appear as alternates. Current product facts are documented in the growth skill and must be rechecked against Apple before changing claims.
 
+Every published guide is automatically added to its locale’s full guide index and canonical sitemap; the landing page keeps a curated selection and links to that index. Production builds independently check published Markdown against HTML, canonical URLs, the manifest and sitemap, and require visible, followed HTML links from each locale homepage to its guide index and from the index to every guide. Every published guide must be reachable within two such links, at both supported deployment bases. Drafts remain excluded. No manual link inventory is needed when publishing a guide.
+
 The 33 launch guides were refined against live Keyword Planner data for all 11 languages. See [research methodology](docs/keyword-methodology.md). Private caches retain authentic estimates and unavailable values; they are never committed.
 
 ## SEO and deployment
