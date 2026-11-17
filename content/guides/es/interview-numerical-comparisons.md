@@ -4,7 +4,7 @@ description: "Anota cantidades, denominadores y grupos comparados, y separa tus 
 slug: "interview-numerical-comparisons"
 locale: "es"
 publishedAt: "2026-11-10"
-updatedAt: "2026-11-10"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "verificar comparaciones numéricas en citas de una entrevista en vídeo"
 topics: ["Comparaciones numéricas"]
@@ -15,9 +15,11 @@ translationKey: "interview-numerical-comparisons"
 
 Para citar una comparación numérica de una entrevista en vídeo, localiza las cifras en la transcripción editable de Damas y comprueba en el audio qué mide cada una. Anota el grupo, el periodo y el denominador antes de comparar. Deja tus cálculos fuera de las comillas: una cifra bien copiada también puede dar lugar a una comparación engañosa.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Comprueba las palabras antes de calcular
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Envía solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede ser inaccesible.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Envía solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede ser inaccesible.
 
 1. Abre la entrevista original, conserva el enlace y el título y escribe tu pregunta de comparación.
 2. Facilita el enlace compatible en Damas. Sigue las indicaciones actuales para transcribir en el idioma original y lee el consentimiento de IA.
@@ -50,6 +52,6 @@ Comprueba las etiquetas de cantidad y proporción, la fuente de cada denominador
 
 Para otro idioma, usa la [comparación entre original y traducción](/es/guides/transcript-translation-meaning-check/). Los [apuntes con pasajes de la fuente](/es/guides/share-checked-video-notes/) ayudan al transmitir el resultado. No necesitas otro LLM. Si optas por dar formato al texto con un LLM externo, comprueba el permiso para compartirlo y revisa cada resultado; no es una integración de Damas ni una verificación numérica automática.
 
-El tiempo y la precisión varían. Si la fuente deja de estar accesible, mantén pendientes las comprobaciones incompletas. Damas no descarga medios, importa archivos, dobla voces, incrusta subtítulos ni procesa sin conexión. Premium no evita las restricciones de la fuente. Comparte dentro de tus permisos de reutilización.
+El tiempo y la precisión varían. Si la fuente deja de estar accesible, mantén pendientes las comprobaciones incompletas. Damas no descarga medios, importa archivos, dobla voces, incrusta subtítulos ni procesa sin conexión. Comparte dentro de tus permisos de reutilización.
 
 Damas Technologies LLC

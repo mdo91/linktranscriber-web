@@ -4,7 +4,7 @@ description: "Separe pré-requisitos, etapas condicionais e verificações de re
 slug: "tutorial-checked-checklist"
 locale: "pt"
 publishedAt: "2026-10-23"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "criar checklist de tutorial em vídeo"
 topics: ["criar checklist de tutorial em vídeo", "Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "summarize-video-transcript-iph
 translationKey: "tutorial-checked-checklist"
 ---
 
-Para criar uma checklist de um tutorial em vídeo, obtenha a transcrição no Damas, confira o texto na gravação e escreva uma ação observável por item. Separe pré-requisitos e etapas condicionais. Monte a lista manualmente ou, se preferir, copie o texto conferido para outro LLM. O Damas fornece transcrição, resumo, edição e cópia; a checklist personalizada é um trabalho separado.
+Para criar uma checklist de um tutorial do YouTube, obtenha e revise a transcrição no Damas e gere uma lista de ações ou um guia passo a passo no app. Informe seu objetivo como contexto e escolha o idioma de saída. Confira cada ação no vídeo e separe pré-requisitos, etapas condicionais e informações ausentes.
+
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
 
 ## Prepare a fonte e o texto
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas inacessíveis também podem falhar.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas inacessíveis também podem falhar.
 
 1. Abra o tutorial na plataforma original e guarde o link e o título nas notas.
 2. Informe o link compatível no Damas. Siga as instruções atuais de transcrição e leia o consentimento de IA.
@@ -42,14 +44,14 @@ Este é um exemplo didático inventado, não uma citação de vídeo real. Imagi
 
 Na lista real, use apenas verificações sustentadas pelo vídeo. Não invente responsáveis, prazos, fatos ou citações ausentes da fonte.
 
-## Opcional: comando para outro LLM
+## Oriente o resultado de IA no Damas
 
-Compartilhe o texto com outro serviço apenas com a devida autorização. Essa etapa externa não é uma integração nem uma função automática de checklist do Damas. Exemplo para copiar:
+Escolha a ferramenta de IA adequada no Damas e informe tema, público ou contexto e idioma de saída. O exemplo abaixo ilustra um contexto baseado na fonte; confira o resultado com a transcrição e o vídeo. Preserve a transcrição original e salve o resultado de IA separadamente.
 
 > Use apenas esta transcrição conferida. Separe pré-requisitos, ações ordenadas e ramificações condicionais. Para cada ação, inclua o trecho de apoio e uma verificação de resultado somente se indicada. Marque lacunas como “não informado”. Não invente configurações, responsáveis, prazos, fatos ou citações. Separe conferência na fonte de execução da tarefa. Fonte: [link]. Texto: [transcrição].
 
 Confira cada proposta no vídeo. O [guia de transcrição](/pt/guides/transcribe-social-video-link-iphone/) explica o início; o [guia de resumo](/pt/guides/summarize-video-transcript-iphone/) ajuda com a visão geral. Para outro idioma, use a [tradução em texto](/pt/guides/translate-social-video-iphone/) e verifique os termos técnicos no original.
 
-Guarde o link junto da checklist final. Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas nem processa offline. Premium não torna acessível uma fonte indisponível.
+Guarde o link junto da checklist final. Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas nem processa offline.
 
 Damas Technologies LLC

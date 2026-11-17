@@ -4,7 +4,7 @@ description: "Separe previsão, observação e explicação e preserve no resumo
 slug: "summarize-experiment-prediction-results"
 locale: "pt"
 publishedAt: "2026-11-15"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Como resumir um experimento de uma aula do YouTube sem confundir previsão e resultado?"
 topics: ["Resumo de experimentos"]
@@ -15,9 +15,11 @@ translationKey: "summarize-experiment-prediction-results"
 
 Para resumir um experimento de uma aula do YouTube, localize a demonstração com a transcrição e o resumo integrado do Damas, depois registre previsão, observação e explicação separadamente. Compare o resultado com a previsão antes de escrever a versão curta. Você monta esse registro manualmente; o Damas fornece texto para ler, editar e copiar.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare a demonstração completa
 
-O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X, com até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Use apenas material que você tem autorização para processar. Vídeos privados, restritos e ao vivo não são aceitos; fontes públicas também podem estar inacessíveis.
+O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X, com até 90 minutos. Use apenas material que você tem autorização para processar. Vídeos privados, restritos e ao vivo não são aceitos; fontes públicas também podem estar inacessíveis.
 
 1. Guarde o link original e o título e escolha um experimento específico.
 2. Informe o link compatível no Damas. Siga as instruções atuais para transcrição e resumo integrado e leia o consentimento de IA.
@@ -56,6 +58,6 @@ Confira ensaio, condições, previsão, observação, comparação, autoria da e
 
 Não é necessário um LLM externo. Uma formatação opcional em outro LLM exige autorização para compartilhar o texto e revisão de todas as saídas; é uma etapa externa, sem integração com o Damas. Para a explicação mais ampla, veja [afirmações e razões](/pt/guides/lecture-argument-map/). Antes de citar, siga a [verificação de citações](/pt/guides/verify-interview-quotes/).
 
-Tempo e precisão variam. Um resumo fiel não valida o experimento de forma independente. O Damas não baixa mídia, importa arquivos de vídeo, dubla, incorpora legendas nem processa offline. Premium não contorna restrições. Se a fonte ficar inacessível, mantenha as verificações incompletas em aberto e compartilhe apenas dentro dos seus direitos de reutilização.
+Tempo e precisão variam. Um resumo fiel não valida o experimento de forma independente. O Damas não baixa mídia, importa arquivos de vídeo, dubla, incorpora legendas nem processa offline. Se a fonte ficar inacessível, mantenha as verificações incompletas em aberto e compartilhe apenas dentro dos seus direitos de reutilização.
 
 Damas Technologies LLC

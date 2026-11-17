@@ -4,7 +4,7 @@ description: "Damas에 공개 YouTube, Instagram, X 링크를 넣어 동영상 �
 slug: "transcribe-social-video-link-iphone"
 locale: "ko"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "동영상 음성 텍스트 변환"
 topics: ["동영상 음성 텍스트 변환", "영상 받아쓰기", "iPhone"]
@@ -15,11 +15,13 @@ translationKey: "transcribe-social-video-link-iphone"
 
 iPhone에서 동영상 음성을 텍스트로 변환하려면 지원되는 YouTube, Instagram, X 공개 링크를 Damas에 입력하고 받아쓰기 흐름을 진행하세요. 영상에서 말한 내용을 글로 읽을 수 있습니다. 원본 음성과 비교한 뒤 메모를 편집하거나 복사하세요.
 
+iPhone에서는 iOS 18.6 이상과 인터넷이 필요합니다. 온라인 처리와 구매에는 Apple로 로그인하고 AI 처리 동의를 확인하세요. 처리에는 미디어 분과 Insight 크레딧이 사용됩니다. 확정 전에 잔액, 사용 내역과 처리 비용을 확인하세요. 이용 가능한 요금제와 선택형 추가 팩은 앱에 표시됩니다.
+
 ## 시작하기 전에 동영상 확인하기
 
 공개된 주문형 동영상 중 길이가 90분 이하인 콘텐츠를 선택하세요. 비공개, 접근 제한, 실시간 콘텐츠는 지원되지 않습니다. 링크를 열 수 있다는 사실이 처리 권한까지 뜻하지는 않습니다. 처리할 권한이 있는 콘텐츠만 제출하세요.
 
-Damas에는 iOS 18.6 이상, 인터넷 연결, Premium, AI 처리 동의가 필요합니다. 긴 동영상을 제출하기 전에 이러한 조건을 확인하세요.
+긴 동영상을 제출하기 전에 이러한 조건을 확인하세요.
 
 ## 링크에서 텍스트 기록까지
 

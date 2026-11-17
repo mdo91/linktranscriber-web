@@ -4,7 +4,7 @@ description: "Distinguez erreur de transcription et changement de sens dans la t
 slug: "transcript-translation-meaning-check"
 locale: "fr"
 publishedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "comparer la transcription originale et la traduction d’une vidéo"
 topics: ["Vérification du sens traduit"]
@@ -15,9 +15,11 @@ translationKey: "transcript-translation-meaning-check"
 
 Pour comparer la transcription originale et la traduction d’une vidéo, vérifiez d’abord les mots dans l’enregistrement, puis confrontez le même propos complet au texte traduit. Repérez si l’écart commence dans la transcription ou dans la traduction. Damas fournit les textes modifiables et copiables ; la comparaison et sa fiche de contrôle restent manuelles.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer deux textes du même passage
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Envoyez uniquement les contenus que vous êtes autorisé à traiter. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Envoyez uniquement les contenus que vous êtes autorisé à traiter. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
 
 1. Ouvrez la vidéo et gardez son lien et son titre. Choisissez un propos avec la phrase qui précède et celle qui suit.
 2. Fournissez le lien compatible dans Damas. Suivez les indications actuelles pour la transcription dans la langue d’origine et la traduction vers la langue prise en charge choisie. Lisez le consentement IA et attendez les résultats.
@@ -53,6 +55,6 @@ Aucun LLM externe n’est nécessaire. Si vous partagez facultativement les text
 
 Le [guide de traduction](/fr/guides/translate-social-video-iphone/) explique la langue cible et les notes bilingues ; la [transcription](/fr/guides/transcribe-social-video-link-iphone/) conserve la langue originale. Pour citer un extrait, consultez la [vérification des citations](/fr/guides/verify-interview-quotes/). Damas permet de préparer, modifier et copier les textes de départ.
 
-Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions. Une source devenue inaccessible laisse les contrôles incomplets ouverts. Respectez vos droits de partage.
+Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Une source devenue inaccessible laisse les contrôles incomplets ouverts. Respectez vos droits de partage.
 
 Damas Technologies LLC

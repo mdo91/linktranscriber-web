@@ -4,7 +4,7 @@ description: "Prepara una nota con pasajes de apoyo, límites de la revisión y 
 slug: "share-checked-video-notes"
 locale: "es"
 publishedAt: "2026-11-02"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "compartir apuntes de vídeo verificados con fragmentos de la fuente"
 topics: ["Compartir apuntes verificados"]
@@ -15,15 +15,17 @@ translationKey: "share-checked-video-notes"
 
 Para compartir apuntes de vídeo verificados con fragmentos de la fuente, copia el texto revisado en Damas a tu documento y vincula cada conclusión con el pasaje que la respalda. Adjunta el enlace original, el alcance de la revisión y las dudas pendientes. Antes de enviarlo, lee solo la nota de entrega y comprueba si sus pruebas sostienen sus conclusiones.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Prepara el texto
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Procesa y comparte solo material autorizado. Las fuentes privadas, restringidas y en directo no son compatibles; una fuente pública también puede resultar inaccesible.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Procesa y comparte solo material autorizado. Las fuentes privadas, restringidas y en directo no son compatibles; una fuente pública también puede resultar inaccesible.
 
 1. Abre la fuente y guarda el enlace original y el título.
 2. Facilita el enlace compatible en Damas, sigue las indicaciones actuales de transcripción y revisa el consentimiento de IA.
 3. Espera el resultado. El resumen integrado puede orientarte, pero vuelve al pasaje completo para buscar el respaldo.
 4. Escucha nombres, cantidades, negaciones y condiciones. Edita y copia solo lo que puedas comprobar en la grabación.
-5. Prepara la nota en tu propio documento. La estructura siguiente es manual, sin una función de compartir o citar automáticamente en Damas.
+5. Lee, edita, copia o comparte textos y notas en Damas. Prepara manualmente la estructura de pruebas siguiente; no es un sistema automático de citas o sincronización.
 
 ## Selecciona las pruebas según la pregunta del destinatario
 
@@ -55,6 +57,6 @@ No hace falta otro LLM. Dar formato opcionalmente en otro LLM exige permiso para
 
 La [transcripción](/es/guides/transcribe-social-video-link-iphone/) proporciona el texto inicial. Usa la [verificación de citas](/es/guides/verify-interview-quotes/) para palabras exactas y la [comparación de sentido](/es/guides/transcript-translation-meaning-check/) para pasajes traducidos. Damas aporta texto para leer, editar y copiar.
 
-Tiempo y precisión varían. Damas no descarga medios, no admite cargas de archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Premium no elude restricciones de la fuente.
+Tiempo y precisión varían. Damas no descarga medios, no admite cargas de archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión.
 
 Damas Technologies LLC

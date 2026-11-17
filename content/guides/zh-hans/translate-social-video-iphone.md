@@ -4,7 +4,7 @@ description: "使用 iPhone 上的 Damas 将公开 YouTube 视频中的语音翻
 slug: "translate-social-video-iphone"
 locale: "zh-hans"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "YouTube 视频翻译"
 topics: ["YouTube视频翻译", "视频语音翻译", "iPhone"]
@@ -15,9 +15,11 @@ translationKey: "translate-social-video-iphone"
 
 在 iPhone 上用 Damas 翻译 YouTube 视频时，先输入符合条件的公开链接，再在翻译流程中选择目标语言。视频语音可转换为 70 种语言之一的译文。支持的 Instagram 和 X 公开视频也使用相同流程，请结合原始上下文核查含义。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备符合要求的链接
 
-视频必须为公开点播内容，时长不超过 90 分钟。不支持私密、受限或直播内容。需要 iOS 18.6 或更高版本、互联网连接、Premium 及 AI 处理同意。
+视频必须为公开点播内容，时长不超过 90 分钟。不支持私密、受限或直播内容。
 
 应用有 11 种界面语言。这与 70 种翻译语言是不同的列表：更改界面显示语言，与选择译文语言是两个不同的操作。
 

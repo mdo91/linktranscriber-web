@@ -4,7 +4,7 @@ description: "Ordnen Sie Aussagen, Gründe und Beispiele einer Vorlesung und bel
 slug: "lecture-argument-map"
 locale: "de"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Wie kann ich eine YouTube-Vorlesung mit einer Übersicht ihrer Aussagen und Gründe zusammenfassen?"
 topics: ["Vorlesungszusammenfassung und Argumentation"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","verify-interview-quotes","share-c
 translationKey: "lecture-argument-map"
 ---
 
-Um eine YouTube-Vorlesung als Übersicht von Aussagen und Begründungen zusammenzufassen, wählen Sie mit Damas-Transkript und integrierter Zusammenfassung eine Schlussfolgerung aus. Lesen Sie danach die vollständige Erklärung. Erfassen Sie Aussagen, Gründe und Beispiele getrennt und verbinden Sie sie nur, wenn die Vorlesung den Zusammenhang erklärt. Die Übersicht zeichnen Sie selbst; Damas liefert bearbeitbaren und kopierbaren Text.
+Um Aussagen und Gründe einer YouTube-Vorlesung zu verbinden, erstellen Sie aus einem geprüften Damas-Transkript eine bearbeitbare Mindmap in der App. Geben Sie Ihre Fragestellung als Kontext an. Prüfen Sie Aussagen, Gründe, Beispiele und Verbindungen an der vollständigen Erklärung. Die detaillierten Belegnotizen unten sind eine manuelle Prüfmethode; die erzeugte Karte bestätigt keine Argumente.
+
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
 
 ## Die vollständige Erklärung vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Nutzen Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Nutzen Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
 
 1. Bewahren Sie Originallink und Titel auf. Schreiben Sie Ihre Verständnisfrage auf.
 2. Geben Sie den unterstützten Link in Damas ein und folgen Sie den aktuellen Hinweisen zu Transkription und integrierter Zusammenfassung. Lesen Sie die KI-Einwilligung.
@@ -53,8 +55,8 @@ Trennen Sie unverständlichen Wortlaut, eine nicht erklärte Beziehung und Ihre 
 
 Prüfen Sie vor dem Kopieren jede Aussage und Verbindung, den Beispielstatus und alle Bedingungen. Bewahren Sie Link und offene Fragen auf. Die Übersicht beschreibt die Argumentation und bestätigt nicht unabhängig deren Wahrheit.
 
-Ein externes LLM ist nicht nötig. Optionales Formatieren in einem anderen LLM erfordert die Erlaubnis zur Textweitergabe und die Prüfung aller vorgeschlagenen Beziehungen. Es ist ein externer Entwurfsschritt, keine Damas-Integration oder automatische Argumentanalyse.
+Damas bietet Zusammenfassungen, bearbeitbare Mindmaps, Aktionschecklisten, Schritt-für-Schritt-Anleitungen, Lernleitfäden, Quizfragen mit erklärten Antworten und Frage-Antwort-Karteikarten. Geben Sie Thema, Zielgruppe oder Kontext sowie die Ausgabesprache an. Prüfen Sie jede vorgeschlagene Beziehung oder Antwort an der Quelle; die detaillierten Vergleichs- und Prüfmethoden in diesem Leitfaden erfordern weiterhin Ihr Urteil.
 
-Für genaue Formulierungen hilft die [Zitatprüfung](/de/guides/verify-interview-quotes/), für die Weitergabe die Anleitung zu [Notizen mit Quellenpassagen](/de/guides/share-checked-video-notes/). Dauer und Genauigkeit schwanken. Wird die Quelle unzugänglich, bleiben unfertige Prüfungen offen. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Zugangsbeschränkungen. Teilen Sie nur im Rahmen Ihrer Nutzungsrechte.
+Für genaue Formulierungen hilft die [Zitatprüfung](/de/guides/verify-interview-quotes/), für die Weitergabe die Anleitung zu [Notizen mit Quellenpassagen](/de/guides/share-checked-video-notes/). Dauer und Genauigkeit schwanken. Wird die Quelle unzugänglich, bleiben unfertige Prüfungen offen. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Teilen Sie nur im Rahmen Ihrer Nutzungsrechte.
 
 Damas Technologies LLC

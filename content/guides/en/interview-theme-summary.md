@@ -4,7 +4,7 @@ description: "Summarize an interview by theme and speaker, separating disagreeme
 slug: "interview-theme-summary"
 locale: "en"
 publishedAt: "2026-11-12"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "How can I summarize a video interview by theme without smoothing over disagreements?"
 topics: ["Interview summaries"]
@@ -15,9 +15,11 @@ translationKey: "interview-theme-matrix"
 
 To summarize a video interview by theme, start with a Damas transcript and built-in summary, then compare each speaker’s position under the same conditions. Keep disagreements, different scopes and unanswered themes visible. You build the comparison and write the final synthesis manually; Damas provides text you can read, edit and copy.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the interview and overview
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, iOS 18.6 or later, internet, Premium and consent for AI processing are required. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public media can also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public media can also be inaccessible.
 
 1. Keep the original interview link and title. Write the question your summary should answer.
 2. Paste the supported link into Damas. Follow the current transcription and built-in summary instructions and review AI consent.
@@ -54,6 +56,6 @@ No external LLM is needed. Optional drafting in another LLM is a separate extern
 
 Use [quotation checking](/guides/verify-interview-quotes/) for exact words and [source-linked notes](/guides/share-checked-video-notes/) before sharing. Label paraphrases and translated passages; Damas translates into 70 languages, separate from its eleven interface languages.
 
-Accuracy and processing time vary. A faithful summary does not verify the truth of interview claims. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Premium cannot bypass restrictions. If the recording becomes inaccessible, leave incomplete checks open and share only within your reuse rights.
+Accuracy and processing time vary. A faithful summary does not verify the truth of interview claims. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. If the recording becomes inaccessible, leave incomplete checks open and share only within your reuse rights.
 
 Damas Technologies LLC

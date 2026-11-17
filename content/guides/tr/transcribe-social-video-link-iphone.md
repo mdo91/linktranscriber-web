@@ -4,7 +4,7 @@ description: "Damas ile herkese açık YouTube, Instagram veya X video bağlant�
 slug: "transcribe-social-video-link-iphone"
 locale: "tr"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "videoyu metne çevirme"
 topics: ["videoyu metne çevirme", "video bağlantısı", "iPhone"]
@@ -15,11 +15,13 @@ translationKey: "transcribe-social-video-link-iphone"
 
 iPhone’da videoyu metne çevirmek için desteklenen, herkese açık bir YouTube, Instagram veya X bağlantısını Damas’a girip döküm akışını kullanın. Videodaki konuşmayı yazılı olarak okuyabilirsiniz. Notları düzenlemeden veya kopyalamadan önce metni özgün sesle karşılaştırın.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Başlamadan önce videoyu kontrol edin
 
 Herkese açık, isteğe bağlı izlenen ve en fazla 90 dakika süren bir video seçin. Özel, erişimi kısıtlı ve canlı içerikler desteklenmez. Yalnızca işleme izniniz olan içerikleri kullanın: bir bağlantıyı açabilmek, onu işleme hakkınız olduğu anlamına gelmez.
 
-Damas için iOS 18.6 veya sonrası, internet bağlantısı, Premium ve yapay zekâ işleme onayı gerekir. Uzun bir video göndermeden önce bu koşulları kontrol edin.
+Uzun bir video göndermeden önce bu koşulları kontrol edin.
 
 ## Bağlantıdan metin dökümüne
 

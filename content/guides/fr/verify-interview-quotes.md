@@ -4,7 +4,7 @@ description: "Vérifiez le texte, le locuteur et le contexte de chaque citation 
 slug: "verify-interview-quotes"
 locale: "fr"
 publishedAt: "2026-10-22"
-updatedAt: "2026-10-22"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "vérifier les citations d’une interview vidéo"
 topics: ["vérifier les citations d’une interview vidéo", "Damas"]
@@ -15,9 +15,11 @@ translationKey: "verify-interview-quotes"
 
 Pour vérifier les citations d’une interview vidéo, obtenez la transcription dans Damas, puis réécoutez chaque passage que vous souhaitez citer. Contrôlez les mots exacts, l’identité du locuteur et la question qui précède. Le texte facilite le repérage ; c’est la comparaison avec l’enregistrement qui permet de valider une citation.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer la source
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Ne soumettez que des contenus que vous êtes autorisé à traiter. Les sources privées, restreintes, en direct ou inaccessibles ne conviennent pas ; un lien public ne garantit pas le traitement.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Ne soumettez que des contenus que vous êtes autorisé à traiter. Les sources privées, restreintes, en direct ou inaccessibles ne conviennent pas ; un lien public ne garantit pas le traitement.
 
 1. Ouvrez l’interview sur sa plateforme et conservez son lien et son titre.
 2. Fournissez le lien compatible dans Damas et utilisez la transcription en suivant les indications actuelles et le consentement IA.

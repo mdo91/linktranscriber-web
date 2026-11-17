@@ -4,7 +4,7 @@ description: "Padankan hubungan dalam analogi kuliah dan kekalkan batasnya sebel
 slug: "lecture-analogy-limits"
 locale: "ms"
 publishedAt: "2026-11-16"
-updatedAt: "2026-11-16"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Bagaimana meringkaskan analogi dalam kuliah video tanpa menganggapnya sebagai bukti?"
 topics: ["Analogi dalam kuliah"]
@@ -15,9 +15,11 @@ translationKey: "lecture-analogy-limits"
 
 Untuk meringkaskan analogi dalam kuliah video, gunakan transkrip dan ringkasan terbina dalam Damas untuk mencari perbandingan penuh. Padankan hanya hubungan yang diterangkan dan nyatakan batas perbandingan itu. Anda membina padanan dan perenggan akhir secara manual; Damas menyediakan teks yang boleh dibaca, disunting dan disalin.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Cari penerangan penuh
 
-Damas menerima pautan video awam atas permintaan yang disokong daripada YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Gunakan hanya bahan yang anda dibenarkan proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh diakses.
+Damas menerima pautan video awam atas permintaan yang disokong daripada YouTube, Instagram dan X sehingga 90 minit. Gunakan hanya bahan yang anda dibenarkan proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh diakses.
 
 1. Simpan pautan asal dan tajuk kuliah. Pilih satu analogi.
 2. Masukkan pautan yang disokong dalam Damas. Ikut arahan semasa untuk transkripsi dan ringkasan terbina dalam serta baca persetujuan AI.
@@ -53,6 +55,6 @@ Semak setiap hubungan dan petikan sokongannya sebelum menyalin. Simpan pautan da
 
 LLM luaran tidak diperlukan. Pemformatan pilihan dalam LLM lain memerlukan izin berkongsi teks dan semakan setiap padanan; ini langkah luaran, bukan integrasi atau analisis automatik Damas. Jangan cipta fakta, petikan, pemilik tugas atau tarikh akhir.
 
-Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, mengimport fail video, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan. Jika sumber tidak boleh diakses, biarkan semakan belum selesai terbuka dan patuhi hak penggunaan semula.
+Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, mengimport fail video, mengalih suara, membenamkan sari kata atau memproses di luar talian. Jika sumber tidak boleh diakses, biarkan semakan belum selesai terbuka dan patuhi hak penggunaan semula.
 
 Damas Technologies LLC

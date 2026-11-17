@@ -72,7 +72,15 @@
         "compare youtube transcript with translation",
         "summarize x video without losing context",
         "check names and numbers in a video transcript",
-        "video translation app with 70 languages"
+        "video translation app with 70 languages",
+        "video to mind map app",
+        "youtube lecture to study guide",
+        "create quiz from video transcript",
+        "video transcript to flashcards",
+        "video to step by step guide",
+        "professional video summary",
+        "customize AI video summary",
+        "video transcript action checklist"
       ]
     },
     {
@@ -117,7 +125,15 @@
         "comparer la transcription originale et la traduction d’une vidéo",
         "relever les thèmes et les contradictions d’une interview vidéo",
         "résumer une vidéo X sans perdre le contexte",
-        "application pour traduire des vidéos en 70 langues"
+        "application pour traduire des vidéos en 70 langues",
+        "vidéo en carte mentale",
+        "créer un guide d’étude à partir d’une vidéo",
+        "créer un quiz à partir d’une transcription vidéo",
+        "vidéo en cartes de révision",
+        "vidéo en guide étape par étape",
+        "résumé vidéo professionnel",
+        "personnaliser un résumé vidéo IA",
+        "transcription vidéo en liste d’actions"
       ]
     },
     {
@@ -162,7 +178,15 @@
         "Originaltranskript und Videoübersetzung vergleichen",
         "Themen und Widersprüche in einem Video Interview herausarbeiten",
         "X Video zusammenfassen ohne den Zusammenhang zu verlieren",
-        "App zum Übersetzen von Videos in 70 Sprachen"
+        "App zum Übersetzen von Videos in 70 Sprachen",
+        "Video in Mindmap umwandeln",
+        "Lernleitfaden aus YouTube Vorlesung",
+        "Quiz aus Videotranskript erstellen",
+        "Karteikarten aus Video erstellen",
+        "Schritt für Schritt Anleitung aus Video",
+        "professionelle Video Zusammenfassung",
+        "KI Video Zusammenfassung anpassen",
+        "Videotranskript in Aktionscheckliste"
       ]
     },
     {
@@ -206,7 +230,15 @@
         "動画の音声を70言語に翻訳するアプリ",
         "外国語のYouTube講義から二言語のノートを作る",
         "インタビュー動画の発言をテーマ別に整理する",
-        "動画の文字起こしで人名や数字を確認する"
+        "動画の文字起こしで人名や数字を確認する",
+        "動画からマインドマップを作る",
+        "YouTube講義から学習ガイドを作成",
+        "動画の文字起こしからクイズを作る",
+        "動画から暗記カードを作成",
+        "動画から手順ガイドを作る",
+        "動画の詳しい要約",
+        "AI動画要約の内容を指定",
+        "動画文字起こしから行動チェックリスト"
       ]
     },
     {
@@ -250,7 +282,15 @@
         "영상 음성 70개 언어 번역 앱",
         "외국어 유튜브 강의로 이중 언어 노트 만들기",
         "인터뷰 영상 발언을 주제별로 정리하기",
-        "영상 받아쓰기에서 이름과 숫자 확인하기"
+        "영상 받아쓰기에서 이름과 숫자 확인하기",
+        "영상으로 마인드맵 만들기",
+        "유튜브 강의 학습 가이드 만들기",
+        "영상 텍스트로 퀴즈 만들기",
+        "영상으로 플래시카드 만들기",
+        "영상 단계별 가이드 만들기",
+        "자세한 영상 요약",
+        "AI 영상 요약 맞춤 설정",
+        "영상 텍스트 실행 체크리스트"
       ]
     },
     {
@@ -294,7 +334,15 @@
         "aplikasi terjemah video kepada 70 bahasa",
         "buat nota dwibahasa daripada kuliah youtube",
         "ringkaskan soalan dan jawapan webinar",
-        "susun tema dan percanggahan daripada temu bual video"
+        "susun tema dan percanggahan daripada temu bual video",
+        "tukar video kepada peta minda",
+        "panduan belajar daripada kuliah youtube",
+        "buat kuiz daripada transkrip video",
+        "buat kad imbas daripada video",
+        "panduan langkah demi langkah daripada video",
+        "ringkasan video profesional",
+        "sesuaikan ringkasan video AI",
+        "transkrip video kepada senarai semak tindakan"
       ]
     },
     {
@@ -339,7 +387,15 @@
         "comparar a transcrição original com a tradução de um vídeo",
         "organizar temas e contradições de uma entrevista em vídeo",
         "resumir vídeo do X sem perder o contexto",
-        "aplicativo para traduzir vídeos em 70 idiomas"
+        "aplicativo para traduzir vídeos em 70 idiomas",
+        "transformar vídeo em mapa mental",
+        "guia de estudo de aula do youtube",
+        "criar quiz de transcrição de vídeo",
+        "criar cartões de estudo a partir de vídeo",
+        "guia passo a passo de vídeo",
+        "resumo profissional de vídeo",
+        "personalizar resumo de vídeo com IA",
+        "transcrição de vídeo em lista de ações"
       ]
     },
     {
@@ -383,7 +439,15 @@
         "приложение для перевода видео на 70 языков",
         "двуязычные заметки по лекции youtube",
         "краткий обзор вопросов и ответов вебинара",
-        "сгруппировать темы и противоречия видеоинтервью"
+        "сгруппировать темы и противоречия видеоинтервью",
+        "видео в интеллект карту",
+        "учебное руководство из лекции youtube",
+        "создать тест из расшифровки видео",
+        "карточки для учёбы из видео",
+        "пошаговое руководство из видео",
+        "профессиональное резюме видео",
+        "настроить краткое содержание видео ИИ",
+        "расшифровка видео в список действий"
       ]
     },
     {
@@ -427,7 +491,15 @@
         "视频语音翻译成70种语言的应用",
         "用外语 YouTube 讲座制作双语笔记",
         "按主题整理视频访谈中的不同观点",
-        "总结网络研讨会问答并标记未回答的问题"
+        "总结网络研讨会问答并标记未回答的问题",
+        "视频生成思维导图",
+        "YouTube讲座生成学习指南",
+        "视频文字稿生成测验",
+        "视频生成问答闪卡",
+        "视频生成分步指南",
+        "视频详细摘要",
+        "自定义AI视频摘要",
+        "视频文字稿生成行动清单"
       ]
     },
     {
@@ -472,7 +544,15 @@
         "comparar la transcripción original y la traducción de un vídeo",
         "organizar temas y contradicciones de una entrevista en vídeo",
         "resumir un vídeo de X sin perder el contexto",
-        "aplicación para traducir vídeos a 70 idiomas"
+        "aplicación para traducir vídeos a 70 idiomas",
+        "convertir vídeo en mapa mental",
+        "guía de estudio de una clase de youtube",
+        "crear cuestionario de una transcripción de vídeo",
+        "crear tarjetas de estudio de un vídeo",
+        "guía paso a paso de un vídeo",
+        "resumen profesional de vídeo",
+        "personalizar resumen de vídeo con IA",
+        "transcripción de vídeo en lista de acciones"
       ]
     },
     {
@@ -517,7 +597,15 @@
         "video dökümünü çeviri metniyle karşılaştırma",
         "video röportajındaki temaları ve çelişkileri düzenleme",
         "x videosunun bağlamını koruyarak özet çıkarma",
-        "videoları 70 dile çeviren uygulama"
+        "videoları 70 dile çeviren uygulama",
+        "videodan zihin haritası oluşturma",
+        "youtube dersinden çalışma rehberi",
+        "video dökümünden test oluşturma",
+        "videodan bilgi kartları oluşturma",
+        "videodan adım adım rehber",
+        "profesyonel video özeti",
+        "yapay zekâ video özetini özelleştirme",
+        "video dökümünden eylem kontrol listesi"
       ]
     }
   ],

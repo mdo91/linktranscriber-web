@@ -4,7 +4,7 @@ description: "分开记录实验前的预测、实际观察和讲者的解释，
 slug: "summarize-experiment-prediction-results"
 locale: "zh-hans"
 publishedAt: "2026-11-15"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "怎样总结 YouTube 讲座中的实验，避免把预测当成结果？"
 topics: ["实验内容总结"]
@@ -15,9 +15,11 @@ translationKey: "summarize-experiment-prediction-results"
 
 总结 YouTube 讲座中的实验时，先用 Damas 文字稿和应用内摘要找到演示，再把预测、观察和解释分开记录。对照实际结果与预测后，才写简短总结。这份实验记录由您手动整理；Damas 提供可阅读、编辑和复制的文本。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备完整的演示内容
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接，具体来源须受支持。在 iPhone 上需要 iOS 18.6 或更高版本、互联网、Premium 和 AI 处理同意。仅处理您有权使用的素材。不支持私密、受限或直播内容；公开来源也可能无法访问。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接，具体来源须受支持。仅处理您有权使用的素材。不支持私密、受限或直播内容；公开来源也可能无法访问。
 
 1. 保存原始链接和标题，选定一个实验。
 2. 把受支持的链接输入 Damas，阅读 AI 处理同意，按当前指引使用转写和应用内摘要。
@@ -56,6 +58,6 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 这个方法不需要外部 LLM。若选择用另一个 LLM 整理格式，须先确认文字分享权限并逐项检查输出；这是外部步骤，不是 Damas 集成。完整论述可参考[主张与论据图](/zh-hans/guides/lecture-argument-map/)，使用原话前请做[引用核查](/zh-hans/guides/verify-interview-quotes/)。
 
-处理时间和准确度会变化。忠实摘要不能独立证明实验本身有效。Damas 不下载媒体、不导入视频文件、不配音、不嵌入字幕，也不离线处理。Premium 无法绕过来源限制。如果来源变得无法访问，应保留未完成的核查，并在再利用权限内分享。
+处理时间和准确度会变化。忠实摘要不能独立证明实验本身有效。Damas 不下载媒体、不导入视频文件、不配音、不嵌入字幕，也不离线处理。如果来源变得无法访问，应保留未完成的核查，并在再利用权限内分享。
 
 Damas Technologies LLC

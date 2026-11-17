@@ -4,7 +4,7 @@ description: "Traduza a fala de um vídeo público do YouTube para texto no Dama
 slug: "translate-social-video-iphone"
 locale: "pt"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "traduzir vídeo youtube"
 topics: ["traduzir vídeo do YouTube", "tradução de fala", "iPhone"]
@@ -15,9 +15,11 @@ translationKey: "translate-social-video-iphone"
 
 Para traduzir um vídeo do YouTube no iPhone com o Damas, forneça um link público compatível e escolha o idioma de destino no fluxo de tradução. A fala vira texto traduzido em um dos 70 idiomas. Vídeos públicos compatíveis do Instagram e X seguem o mesmo fluxo; confira o significado com a fonte.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare um link compatível
 
-O vídeo precisa ser público, estar disponível sob demanda e ter até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. São necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA.
+O vídeo precisa ser público, estar disponível sob demanda e ter até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível.
 
 O app tem 11 idiomas de interface. Essa lista é diferente dos 70 idiomas de tradução: mudar o idioma da interface não é a mesma tarefa que escolher o idioma do texto traduzido.
 

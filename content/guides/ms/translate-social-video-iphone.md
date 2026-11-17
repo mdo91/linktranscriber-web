@@ -4,7 +4,7 @@ description: "Terjemahkan pertuturan video YouTube awam kepada teks dengan Damas
 slug: "translate-social-video-iphone"
 locale: "ms"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "terjemah video youtube"
 topics: ["terjemah video YouTube", "terjemahan pertuturan", "iPhone"]
@@ -15,9 +15,11 @@ translationKey: "translate-social-video-iphone"
 
 Untuk menterjemah video YouTube pada iPhone dengan Damas, masukkan pautan awam yang sesuai dan pilih bahasa sasaran dalam aliran terjemahan. Pertuturan diterjemahkan kepada teks dalam salah satu daripada 70 bahasa. Video awam Instagram dan X yang disokong menggunakan aliran sama; semak maksudnya berdasarkan konteks asal.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan pautan yang sesuai
 
-Video mestilah awam, tersedia atas permintaan dan tidak melebihi 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong. Anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI.
+Video mestilah awam, tersedia atas permintaan dan tidak melebihi 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong.
 
 Aplikasi ini mempunyai 11 bahasa antara muka. Senarai itu berbeza daripada 70 bahasa terjemahan: menukar bahasa paparan aplikasi bukan tugas yang sama dengan memilih bahasa teks terjemahan.
 

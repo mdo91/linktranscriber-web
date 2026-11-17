@@ -4,7 +4,7 @@ description: "Build a requirement-by-requirement review of a video demo, separat
 slug: "product-demo-requirements"
 locale: "en"
 publishedAt: "2026-11-08"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "summarize a product demo video against requirements"
 topics: ["Product demo review"]
@@ -15,9 +15,11 @@ translationKey: "product-demo-requirements"
 
 To summarize a product demo against your requirements, use Damas for a transcript and built-in summary, then compare each requirement with the actual demonstration. Keep demonstrated behavior, spoken claims and missing tests separate. The result is a manual review worksheet, not an automatic Damas evaluation or proof that a product will work in your circumstances.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the source and your questions
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, iOS 18.6 or later, internet, Premium and consent for AI processing are required. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public media may also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public media may also be inaccessible.
 
 1. Before reading the summary, write your requirements in your own words. Make each one observable: what must happen, with which input and under what conditions? These are your needs, not claims made by the presenter.
 2. Keep the original link and title. Provide the supported link in Damas and follow the current transcription and built-in summary instructions, reviewing AI consent.
@@ -44,10 +46,10 @@ This is an invented teaching example about an unspecified tool, not a Damas feat
 
 No overall score is needed. Pick the unresolved requirement that could change your decision and write a concrete follow-up question. A fluent summary must not convert an untested requirement into an accepted one. Never invent an owner, deadline, quotation or result. If the recording becomes inaccessible, unfinished checks remain unresolved.
 
-You can build this worksheet manually. Optionally copy permitted, checked text into another LLM to draft its rows; label your requirements and source passages as separate inputs and review every proposed match. This is an external drafting step, not a Damas integration, automatic checklist or product-testing feature.
+Damas includes summaries, editable mind maps, action checklists, step-by-step guides, study guides, quizzes with explained answers and question-and-answer flashcards. Guide the relevant tool with a topic, audience or context and select the output language. Review every proposed relationship or answer against the source; the detailed comparison and verification methods in this guide still require your judgment.
 
 Start with the [general summary workflow](/guides/summarize-video-transcript-iphone/) for the app steps. Use [quotation checking](/guides/verify-interview-quotes/) before repeating exact claims, and [source-linked sharing](/guides/share-checked-video-notes/) when you send the review to someone else.
 
-Keep the original link, the review date and remaining questions with your copied worksheet. Processing time and accuracy vary. Damas does not download media, accept file uploads, dub audio, embed subtitles or process offline. Premium cannot bypass source restrictions. Share only within your reuse rights.
+Keep the original link, the review date and remaining questions with your copied worksheet. Processing time and accuracy vary. Damas does not download media, accept file uploads, dub audio, embed subtitles or process offline. Share only within your reuse rights.
 
 Damas Technologies LLC

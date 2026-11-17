@@ -4,7 +4,7 @@ description: "Erstellen Sie eine Übergabenotiz mit Belegstellen, klaren Grenzen
 slug: "share-checked-video-notes"
 locale: "de"
 publishedAt: "2026-11-02"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "geprüfte Videonotizen mit Quellenauszügen teilen"
 topics: ["Geprüfte Notizen weitergeben"]
@@ -15,15 +15,17 @@ translationKey: "share-checked-video-notes"
 
 Um geprüfte Videonotizen mit Quellenauszügen zu teilen, kopieren Sie den überprüften Text aus Damas in Ihr Dokument und ordnen jeder Schlussfolgerung eine Belegstelle zu. Ergänzen Sie den ursprünglichen Videolink, den Umfang der Prüfung und offene Punkte. Lesen Sie anschließend nur die Übergabenotiz: Tragen die enthaltenen Belege ihre Schlussfolgerungen?
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Den Text vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten und teilen Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos werden nicht unterstützt; auch öffentliche Quellen können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten und teilen Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos werden nicht unterstützt; auch öffentliche Quellen können unzugänglich sein.
 
 1. Öffnen Sie die Quelle und behalten Sie Originallink und Titel.
 2. Geben Sie den geeigneten Link in Damas ein und folgen Sie den aktuellen Transkriptionshinweisen samt KI-Einwilligung.
 3. Warten Sie auf das Ergebnis. Die integrierte Zusammenfassung hilft bei der Orientierung; Belege brauchen die vollständige Stelle.
 4. Prüfen Sie Namen, Mengen, Verneinungen und Bedingungen an der Aufnahme. Bearbeiten und kopieren Sie nur belegbaren Text.
-5. Erstellen Sie die Übergabenotiz in einem eigenen Dokument. Das folgende Format entsteht von Hand.
+5. Lesen, bearbeiten, kopieren oder teilen Sie Texte und Notizen in Damas. Die folgende Belegstruktur erstellen Sie manuell; sie ist keine automatische Zitier- oder Synchronisierungsfunktion.
 
 ## Belege für die empfangende Person auswählen
 
@@ -55,6 +57,6 @@ Ein externes LLM ist nicht nötig. Optionale Formatierung in einem anderen LLM e
 
 Die [Transkription](/de/guides/transcribe-social-video-link-iphone/) liefert den Ausgangstext. Nutzen Sie die [Zitatprüfung](/de/guides/verify-interview-quotes/) für den Wortlaut und den [Bedeutungsvergleich](/de/guides/transcript-translation-meaning-check/) bei übersetzten Belegen. Damas liefert Text zum Lesen, Bearbeiten und Kopieren.
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Quellenbeschränkung.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline.
 
 Damas Technologies LLC

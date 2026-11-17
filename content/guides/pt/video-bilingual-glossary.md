@@ -4,7 +4,7 @@ description: "Use a transcrição e a tradução de um vídeo para registrar ter
 slug: "video-bilingual-glossary"
 locale: "pt"
 publishedAt: "2026-11-06"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "tradutor de vídeos de redes sociais"
 topics: ["Glossário bilíngue"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 Se você procura um tradutor de vídeos de redes sociais para montar um glossário bilíngue, use o Damas para obter a transcrição original e a tradução em texto. Depois registre cada termo com sua frase de apoio e seu sentido naquele contexto. Separe sentidos diferentes, mesmo quando a grafia coincide. O glossário é um trabalho manual ou um rascunho opcional em outro LLM; o Damas fornece textos para ler, editar e copiar.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare o original e a tradução
 
-O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe somente material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; uma fonte pública também pode estar inacessível.
+O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. Processe somente material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; uma fonte pública também pode estar inacessível.
 
 1. Abra o vídeo na plataforma original e guarde o link e o título. Defina quais termos precisa compreender para acompanhar a explicação.
 2. Informe o link compatível no Damas. Siga as instruções atuais para transcrição no idioma original e tradução para um idioma de destino compatível. Leia o consentimento de IA.
@@ -55,6 +57,6 @@ Confira cada frase e cada sentido na gravação; remova entradas sem apoio. Guar
 
 O [guia de tradução](/pt/guides/translate-social-video-iphone/) explica como preparar o texto. Se uma afirmação mudar de sentido, faça a [comparação entre transcrição e tradução](/pt/guides/transcript-translation-meaning-check/). Antes de reutilizar palavras literais, veja a [verificação de citações](/pt/guides/verify-interview-quotes/). O Damas prepara os textos editáveis e copiáveis usados nessa revisão.
 
-Tempo e precisão variam conforme a fonte, o áudio e a conexão. O Damas não baixa mídia, não aceita uploads de arquivos, não faz dublagem, não embute legendas nem processa offline. Premium não contorna restrições de acesso. Se a fonte ficar inacessível, as verificações incompletas continuam pendentes. Compartilhe somente dentro dos seus direitos de uso.
+Tempo e precisão variam conforme a fonte, o áudio e a conexão. O Damas não baixa mídia, não aceita uploads de arquivos, não faz dublagem, não embute legendas nem processa offline. Se a fonte ficar inacessível, as verificações incompletas continuam pendentes. Compartilhe somente dentro dos seus direitos de uso.
 
 Damas Technologies LLC

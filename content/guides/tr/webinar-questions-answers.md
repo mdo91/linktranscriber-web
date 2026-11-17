@@ -4,7 +4,7 @@ description: "Webinar özeti çıkarma sürecinde soru ve yanıtları korumak i�
 slug: "webinar-questions-answers"
 locale: "tr"
 publishedAt: "2026-10-26"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "webinar özeti çıkarma"
 topics: ["webinar özeti çıkarma","Damas"]
@@ -15,9 +15,11 @@ translationKey: "webinar-questions-answers"
 
 Webinar özeti çıkarma sürecinde soru ve yanıtları korumak için Damas’ta döküm ve uygulama içi özet hazırlayın, ardından gerçekten sorulan her soruyu ilgili yanıtla eşleştirin. Kısmi yanıtları ve yanıtsız soruları işaretleyin. Bu kayıt, düzenlenip kopyalanabilen metinden elle hazırlanır; Damas bu özel biçimi otomatik oluşturmaz.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Desteklenen bir kaynakla başlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Özel, erişimi kısıtlı ve canlı içerikleri desteklemez. iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içerikleri gönderin.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Özel, erişimi kısıtlı ve canlı içerikleri desteklemez. Yalnızca işleme izniniz olan içerikleri gönderin.
 
 ## Yararlı bir genel bakış oluşturun
 
@@ -47,6 +49,6 @@ Her satırı videoyla karşılaştırın: yanıt doğru soruya mı ait, olumsuzl
 
 Özgün bağlantıyı, başlığı ve açık soruları kayıtla birlikte saklayın. Başlangıç için [yazıya çevirme rehberine](/tr/guides/transcribe-social-video-link-iphone/) bakın. [Genel özet](/tr/guides/summarize-video-transcript-iphone/) yön bulmaya yardımcı olur; sonrasında iş önermek için [webinar eylem maddeleri](/tr/guides/webinar-checked-actions/) rehberini kullanın.
 
-İşleme süresi ve doğruluk değişir. Damas medya indirmez, altyazı gömmez ve çevrimdışı işlemez. Premium erişilemeyen kaynağı kullanılabilir hâle getirmez. Kayıt kaybolursa tamamlanmamış kontroller açık kalır.
+İşleme süresi ve doğruluk değişir. Damas medya indirmez, altyazı gömmez ve çevrimdışı işlemez. Kayıt kaybolursa tamamlanmamış kontroller açık kalır.
 
 Damas Technologies LLC

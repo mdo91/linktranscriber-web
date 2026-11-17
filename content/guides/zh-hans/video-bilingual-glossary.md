@@ -4,7 +4,7 @@ description: "用 Damas 准备原语言文字稿和中文译文，逐项记录�
 slug: "video-bilingual-glossary"
 locale: "zh-hans"
 publishedAt: "2026-10-24"
-updatedAt: "2026-10-24"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube 自动 翻译 中文"
 topics: ["youtube 自动 翻译 中文","双语术语表"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 要把 YouTube 自动翻译成中文后的内容整理成双语术语表，先在 Damas 中生成原语言文字稿和中文译文，再逐个核对术语的原话、上下文和对应含义。术语表需要手动整理，也可选择在另一个 LLM 中起草。Damas 提供转写、70 种语言的文本翻译、摘要、编辑和复制；定制术语表是另行完成的工作。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备来源与两种文本
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。在 iPhone 上需要 iOS 18.6 或更高版本、互联网连接、Premium 和 AI 处理同意。只提交有权处理的内容。私密、访问受限和直播内容不受支持；公开视频也可能因无法访问而处理失败。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。只提交有权处理的内容。私密、访问受限和直播内容不受支持；公开视频也可能因无法访问而处理失败。
 
 1. 在原平台打开视频，在笔记里保存原始链接和标题。
 2. 将支持的链接输入 Damas，按当前应用指引使用原语言转写和中文翻译流程，阅读 AI 处理同意内容。
@@ -51,6 +53,6 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 初次处理链接可参考[视频转文字指南](/zh-hans/guides/transcribe-social-video-link-iphone/)，选择译文可参考[视频翻译指南](/zh-hans/guides/translate-social-video-iphone/)。需要简短概览时，可使用[应用内摘要](/zh-hans/guides/summarize-video-transcript-iphone/)，但术语含义仍需回到完整原句核对。
 
-处理时间和准确度会变化。Damas 不下载媒体、不配音、不嵌入字幕，也不能离线处理。Premium 无法让不可访问的来源变得可用。
+处理时间和准确度会变化。Damas 不下载媒体、不配音、不嵌入字幕，也不能离线处理。
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "Reels konuşmasını ekran yazısından ayırın; uyuşmazlıklar�
 slug: "instagram-speech-caption-check"
 locale: "tr"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "instagram video metne çevirme"
 topics: ["Konuşma ve ekran yazısı"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 Instagram videosunu metne çevirirken konuşmayla ekran yazısını ayırmak için, desteklenen herkese açık Reels bağlantısını Damas’ta yazıya çevirin; ekrandaki yazıları ayrıca kendiniz okuyun. Duyduğunuzu, gördüğünüzü ve aradaki uyuşmazlığı ayrı kaydedin. Damas düzenlenip kopyalanabilen metin sağlar; bu karşılaştırmayı elle yaparsınız.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Reels videosunu ve dökümü hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklar da erişilemediğinde işlenemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içeriği kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklar da erişilemediğinde işlenemeyebilir.
 
 1. Reels videosunu Instagram’da açın ve özgün bağlantıyı saklayın. Kontrol etmek istediğiniz konuda duyulabilir konuşma olup olmadığına bakın.
 2. Desteklenen bağlantıyı Damas’a girin. Güncel yazıya çevirme yönergelerini izleyip yapay zekâ onayını okuyun.
@@ -51,6 +53,6 @@ Gerçek notta tam ifadeleri yalnızca kontrol ettikten sonra alıntılayın. Sü
 
 Başlangıç için [bağlantıdan yazıya çevirme](/tr/guides/transcribe-social-video-link-iphone/) rehberine bakın. Başka dilde okumak için 70 dile sunulan [metin çevirisini](/tr/guides/translate-social-video-iphone/) kullanın. Uyuşmazlıkları kontrol ettikten sonra [uygulama içi özet](/tr/guides/summarize-video-transcript-iphone/) genel bakış sağlayabilir.
 
-Süre ve doğruluk değişir. Damas medya indirmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium erişim kısıtlamalarını aşmaz. Kaynak erişilemezse tamamlanmayan kontroller açık kalır; paylaşırken yeniden kullanım izinlerine uyun.
+Süre ve doğruluk değişir. Damas medya indirmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Kaynak erişilemezse tamamlanmayan kontroller açık kalır; paylaşırken yeniden kullanım izinlerine uyun.
 
 Damas Technologies LLC

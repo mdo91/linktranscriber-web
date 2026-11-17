@@ -4,7 +4,7 @@ description: "Contrasta tus requisitos con los resultados que se muestran, las a
 slug: "product-demo-requirements"
 locale: "es"
 publishedAt: "2026-11-08"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "resumir un vídeo de demostración según mis requisitos"
 topics: ["Evaluación de demostraciones"]
@@ -15,9 +15,11 @@ translationKey: "product-demo-requirements"
 
 Para resumir una demostración en vídeo según tus requisitos, prepara una transcripción y un resumen integrado con Damas y compara después cada requisito con la demostración real. Separa los resultados visibles, las afirmaciones verbales y las pruebas ausentes. La tabla es tu evaluación manual, no una valoración automática de Damas ni una garantía de que el producto se adapte a tus circunstancias.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Prepara la fuente y tus requisitos
 
-Damas admite enlaces compatibles de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone se requiere iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Usa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede resultar inaccesible para procesarla.
+Damas admite enlaces compatibles de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Usa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede resultar inaccesible para procesarla.
 
 1. Escribe tus requisitos antes de leer el resumen: ¿qué resultado debe observarse, con qué entradas y en qué condiciones? Son tus criterios, no promesas de quien presenta.
 2. Guarda el enlace original y el título. Introduce el enlace compatible en Damas, revisa el consentimiento de IA y sigue las instrucciones actuales de transcripción y resumen integrado.
@@ -44,10 +46,10 @@ Este ejemplo didáctico es inventado y se refiere a una herramienta sin nombre, 
 
 No hace falta asignar una puntuación global. Elige un requisito pendiente que pueda cambiar tu decisión y formula una pregunta concreta. Un resumen fluido no convierte una condición sin probar en un requisito cumplido. No inventes responsables, plazos, citas o resultados. Si la grabación deja de estar accesible, conserva las comprobaciones incompletas como pendientes.
 
-Puedes construir la tabla manualmente. Si lo deseas, copia texto revisado y autorizado en otro LLM para redactar un borrador de las filas. Separa tus criterios de los pasajes de la fuente y revisa cada correspondencia. Es un paso externo de redacción, no una integración de Damas ni una prueba automática de productos.
+Damas incluye resúmenes, mapas mentales editables, listas de acciones, guías paso a paso, guías de estudio, cuestionarios con respuestas explicadas y tarjetas de pregunta y respuesta. Indica tema, público o contexto y elige el idioma. Comprueba cada relación o respuesta en la fuente; los métodos detallados de comparación y revisión de esta guía siguen necesitando tu criterio.
 
 La [guía general de resumen](/es/guides/summarize-video-transcript-iphone/) explica el uso de la aplicación. Antes de repetir palabras exactas, consulta la [comprobación de citas](/es/guides/verify-interview-quotes/); para enviar la evaluación, revisa cómo [compartir apuntes con su fuente](/es/guides/share-checked-video-notes/).
 
-Guarda el enlace original, la fecha de revisión y las preguntas restantes con la tabla copiada. El tiempo de procesamiento y la precisión varían. Damas no descarga medios, importa archivos, dobla audio, incrusta subtítulos ni procesa sin conexión. Premium no elude restricciones de la fuente. Comparte solo dentro de tus derechos de reutilización.
+Guarda el enlace original, la fecha de revisión y las preguntas restantes con la tabla copiada. El tiempo de procesamiento y la precisión varían. Damas no descarga medios, importa archivos, dobla audio, incrusta subtítulos ni procesa sin conexión. Comparte solo dentro de tus derechos de reutilización.
 
 Damas Technologies LLC

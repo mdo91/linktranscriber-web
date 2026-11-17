@@ -4,7 +4,7 @@ description: "把公开 Reel 的语音与画面字幕分开核查，保留分歧
 slug: "instagram-speech-caption-check"
 locale: "zh-hans"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "公开 Instagram Reels 语音转文字"
 topics: ["语音与画面文字"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 把公开 Instagram Reels 语音转文字时，先用 Damas 转写支持的公开链接，再自己查看画面字幕。将听到的发言、看到的文字和两者的分歧分别记录，避免把屏幕上的字当成原话。Damas 提供可编辑、可复制的文字稿，这种对照记录由您手动完成。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备原视频和文字稿
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。在 iPhone 上需要 iOS 18.6 或更高版本、互联网、Premium 和 AI 处理同意。只提交有权处理的内容。不支持私密、访问受限和直播视频；公开视频也可能因无法访问而处理失败。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。只提交有权处理的内容。不支持私密、访问受限和直播视频；公开视频也可能因无法访问而处理失败。
 
 1. 在 Instagram 打开 Reel，保留原始链接。确认需要核查的内容确实有可听见的发言。
 2. 将支持的链接输入 Damas，按当前转写指引操作，并阅读 AI 处理同意内容。
@@ -51,6 +53,6 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 起步可参考[视频转文字指南](/zh-hans/guides/transcribe-social-video-link-iphone/)。需要用其他语言阅读时，可用支持译入 70 种语言的[文本翻译](/zh-hans/guides/translate-social-video-iphone/)。核查分歧后，可用[应用内摘要](/zh-hans/guides/summarize-video-transcript-iphone/)了解概览。
 
-处理时间和准确度会变化。Damas 不下载媒体、不配音、不嵌入字幕，也不能离线处理。Premium 无法绕过访问限制。原 Reel 无法访问时，未完成的核查应继续保留为待确认；分享时也要遵守再利用权限。
+处理时间和准确度会变化。Damas 不下载媒体、不配音、不嵌入字幕，也不能离线处理。原 Reel 无法访问时，未完成的核查应继续保留为待确认；分享时也要遵守再利用权限。
 
 Damas Technologies LLC

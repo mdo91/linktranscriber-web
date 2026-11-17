@@ -4,7 +4,7 @@ description: "Résumez un cours en notes bilingues, puis distinguez un mot oubli
 slug: "bilingual-lecture-recall"
 locale: "fr"
 publishedAt: "2026-11-12"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Comment résumer un cours vidéo en notes bilingues pour se tester dans les deux langues ?"
 topics: ["Résumé et apprentissage bilingue"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","translate-social-video-iphone","t
 translationKey: "bilingual-lecture-recall"
 ---
 
-Pour résumer un cours vidéo en notes bilingues, utilisez le résumé Damas pour choisir une notion, puis vérifiez son explication dans la transcription et la traduction. Expliquez-la sans regarder l’autre langue, puis inversez le sens de l’exercice. Comparez vos deux essais à la source pour décider si vous devez revoir un terme ou la relation entre les idées. La fiche et cet exercice sont manuels.
+Pour étudier, préparez la transcription et la traduction dans Damas, puis créez un guide d’étude, un quiz avec réponses expliquées ou des cartes question-réponse. Choisissez la langue et précisez la notion ou le public comme contexte. Vérifiez chaque réponse dans l’explication originale. L’exercice de rappel bilingue ci-dessous reste une pratique personnelle, sans promesse de notation automatique.
+
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
 
 ## Préparer le cours et les deux textes
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
 
 1. Choisissez une question d’apprentissage et conservez le lien et le titre du cours.
 2. Fournissez le lien compatible à Damas. Suivez les indications actuelles pour la transcription originale, le résumé intégré et la traduction vers une langue prise en charge ; lisez le consentement IA.
@@ -50,10 +52,10 @@ Si votre retour en français devient « choisir une option, puis la comparer »,
 
 Corrigez seulement la partie concernée, puis refaites les deux essais. Conservez vos erreurs comme observations de travail, sans score automatique ni diagnostic sur vos capacités. N’ajoutez pas d’exemple, de citation ou d’explication absente au nom de l’enseignant.
 
-Aucun LLM externe n’est nécessaire. Une mise en forme facultative dans un autre LLM demande l’autorisation de partager le texte et une vérification de chaque proposition ; ce n’est ni une intégration Damas ni une fonction de cartes ou de notation automatiques.
+Damas propose des résumés, des cartes mentales modifiables, des listes d’actions, des guides étape par étape, des guides d’étude, des quiz avec réponses expliquées et des cartes question-réponse. Précisez le sujet, le public ou le contexte et choisissez la langue de sortie. Vérifiez chaque relation ou réponse à la source ; les méthodes détaillées de comparaison et de vérification de ce guide demandent toujours votre jugement.
 
 Pour contrôler les textes de départ, consultez la [traduction](/fr/guides/translate-social-video-iphone/) et la [comparaison du sens](/fr/guides/transcript-translation-meaning-check/). Gardez le lien avec les notes copiées et respectez les droits de réutilisation. Si la source devient inaccessible, les vérifications inachevées restent ouvertes.
 
-Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions.
+Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion.
 
 Damas Technologies LLC

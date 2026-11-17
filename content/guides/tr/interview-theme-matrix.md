@@ -4,7 +4,7 @@ description: "Video röportajındaki temaları ve çelişkileri düzenlemek içi
 slug: "interview-theme-matrix"
 locale: "tr"
 publishedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "video röportajındaki temaları ve çelişkileri düzenleme"
 topics: ["Röportaj temaları ve görüşler"]
@@ -15,9 +15,11 @@ translationKey: "interview-theme-matrix"
 
 Video röportajındaki temaları ve çelişkileri düzenlemek için Damas’ta döküm hazırlayın, ardından tema ve konuşmacıya göre bir tablo oluşturun. Dayanak bölümlerini saklayın ve görüş ayrılığına karar vermeden önce koşulları karşılaştırın. Uygulama içi özet genel bakış sağlar; tablo ve sentez, düzenlenip kopyalanabilen metinden elle hazırladığınız çalışmadır.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Kaynağı ve dökümü hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı, canlı veya erişilemeyen kaynaklar bu iş akışına uygun değildir. Herkese açık bir bağlantı da işlemenin başarılı olacağını garanti etmez.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı, canlı veya erişilemeyen kaynaklar bu iş akışına uygun değildir. Herkese açık bir bağlantı da işlemenin başarılı olacağını garanti etmez.
 
 1. Röportajı özgün platformunda açın. Bağlantısını ve başlığını notlarınızda saklayın.
 2. Desteklenen bağlantıyı Damas’a girin. Güncel uygulama yönergelerine göre yazıya çevirme akışını kullanın ve yapay zekâ onayını okuyun.

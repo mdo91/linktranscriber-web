@@ -4,7 +4,7 @@ description: "Compare seus requisitos com o que uma demonstração mostra, o que
 slug: "product-demo-requirements"
 locale: "pt"
 publishedAt: "2026-11-08"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "resumir vídeo de demonstração conforme requisitos próprios"
 topics: ["Avaliação de demonstrações"]
@@ -15,9 +15,11 @@ translationKey: "product-demo-requirements"
 
 Para resumir uma demonstração em vídeo de acordo com seus requisitos, prepare a transcrição e o resumo integrado no Damas e depois confronte cada requisito com a demonstração real. Separe resultados visíveis, afirmações verbais e testes ausentes. A tabela é uma avaliação manual sua, não uma análise automática do Damas nem uma garantia de adequação do produto.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare a fonte e seus requisitos
 
-O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X, com até 90 minutos. No iPhone, exige iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem estar inacessíveis para processamento.
+O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X, com até 90 minutos. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem estar inacessíveis para processamento.
 
 1. Escreva seus requisitos antes de ler o resumo: qual resultado precisa ser observável, com quais entradas e em quais condições? São seus critérios, não promessas de quem apresenta.
 2. Guarde o link original e o título. Insira o link compatível no Damas e siga as instruções atuais de transcrição e resumo integrado, após revisar o consentimento de IA.
@@ -44,10 +46,10 @@ Este é um exemplo didático inventado sobre uma ferramenta não identificada, n
 
 Não é necessário atribuir uma nota geral. Escolha um requisito pendente capaz de mudar sua decisão e escreva uma pergunta concreta. Um resumo fluente não transforma uma condição sem teste em requisito atendido. Não invente responsáveis, prazos, citações ou resultados. Se a gravação ficar inacessível, mantenha as verificações incompletas como pendentes.
 
-Você pode montar a tabela manualmente. Opcionalmente, copie texto conferido e autorizado para outro LLM rascunhar as linhas. Forneça seus critérios e os trechos da fonte em entradas separadas e revise cada associação. É uma etapa externa de redação, não uma integração do Damas ou teste automático de produtos.
+O Damas oferece resumos, mapas mentais editáveis, listas de ações, guias passo a passo, guias de estudo, testes com respostas explicadas e cartões de pergunta e resposta. Informe tema, público ou contexto e escolha o idioma. Confira cada relação ou resposta na fonte; os métodos detalhados de comparação e revisão deste guia ainda exigem seu julgamento.
 
 O [guia geral de resumo](/pt/guides/summarize-video-transcript-iphone/) explica o fluxo no aplicativo. Antes de repetir palavras exatas, consulte a [verificação de citações](/pt/guides/verify-interview-quotes/); para enviar sua análise, veja como [compartilhar notas com a fonte](/pt/guides/share-checked-video-notes/).
 
-Guarde o link original, a data da análise e as perguntas restantes com a tabela copiada. O tempo de processamento e a precisão variam. O Damas não baixa mídias, importa arquivos, dubla áudio, incorpora legendas ou processa offline. Premium não contorna restrições da fonte. Compartilhe dentro dos seus direitos de reutilização.
+Guarde o link original, a data da análise e as perguntas restantes com a tabela copiada. O tempo de processamento e a precisão variam. O Damas não baixa mídias, importa arquivos, dubla áudio, incorpora legendas ou processa offline. Compartilhe dentro dos seus direitos de reutilização.
 
 Damas Technologies LLC

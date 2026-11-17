@@ -4,7 +4,7 @@ description: "Fassen Sie ein Video mit seinem Transkript in Damas auf dem iPhone
 slug: "summarize-video-transcript-iphone"
 locale: "de"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube vorlesung zusammenfassen"
 topics: ["Video zusammenfassen", "Transkript zusammenfassen", "iPhone"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "translate-social-video-iphone"
 translationKey: "summarize-video-transcript-iphone"
 ---
 
-Um eine YouTube-Vorlesung zusammenzufassen, geben Sie den unterstützten öffentlichen Link in Damas ein und erstellen ein Transkript sowie eine integrierte Zusammenfassung. Prüfen Sie daraus erstellte Lernnotizen an der Aufnahme. Eigene Wiederholungsfragen entstehen von Hand oder optional in einem anderen LLM.
+Für eine Zusammenfassung eines unterstützten öffentlichen Videos erstellen Sie in Damas ein Transkript und wählen eine kurze oder ausführliche Zusammenfassung im Stil Standard oder Professionell. Geben Sie Thema, Zielgruppe oder Kontext sowie die Ausgabesprache an. Das Originaltranskript bleibt erhalten, KI-Ergebnisse werden separat gespeichert. Prüfen Sie wichtige Einzelheiten an der Quelle. Damas bietet auch Lernleitfäden, Quizfragen mit erklärten Antworten und Frage-Antwort-Karteikarten.
+
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
 
 ## Mit einer geeigneten Quelle beginnen
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Private, eingeschränkte und Live-Inhalte sind ausgeschlossen. Sie benötigen iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Reichen Sie nur Inhalte ein, die Sie verarbeiten dürfen.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Private, eingeschränkte und Live-Inhalte sind ausgeschlossen. Reichen Sie nur Inhalte ein, die Sie verarbeiten dürfen.
 
 Enthält das Transkript unklare Stellen, vergleichen Sie diese zuerst mit der Aufnahme. Eine Zusammenfassung kann Fehler eines ungenauen Transkripts in verkürzter Form übernehmen.
 
@@ -47,9 +49,9 @@ Diese Vorlage ist ein Beispiel zum eigenen Ausfüllen, kein automatisch erzeugte
 - Beispiel: das tatsächlich verwendete Beispiel samt Zahlen und Einheiten.
 - Offene Stelle: unklarer Begriff oder fehlende Information aus einer Abbildung.
 
-## Optional: Wiederholungsfragen mit einem anderen LLM
+## Das KI-Ergebnis in Damas anleiten
 
-Kopieren Sie das geprüfte Transkript nur dann in einen anderen KI-Dienst, wenn Sie es dort weitergeben dürfen. Dieser zusätzliche Schritt ist keine Damas-Integration und keine eingebaute Karteikartenfunktion. Beispiel zum Kopieren:
+Wählen Sie das passende KI-Werkzeug in Damas und geben Sie Thema, Zielgruppe oder Kontext sowie die Ausgabesprache an. Das folgende Beispiel zeigt einen quellenbezogenen Kontext; prüfen Sie das Ergebnis an Transkript und Video. Behalten Sie das Originaltranskript und speichern Sie das KI-Ergebnis separat.
 
 > Erstelle ausschließlich aus dem folgenden Transkript fünf Wiederholungsfragen mit kurzen Antworten. Eine Frage soll eine Ausnahme behandeln. Ergänze kein Außenwissen. Kennzeichne fehlende Antworten mit „nicht genannt“. Trenne sinngemäße Wiedergaben von wörtlichen Zitaten. Transkript: [geprüften Text einfügen].
 
@@ -57,6 +59,6 @@ Vergleichen Sie jede Antwort mit der Aufnahme. Beantworten Sie die Fragen anschl
 
 Für den vollständigen Text hilft die [Anleitung zur Transkription](/de/guides/transcribe-social-video-link-iphone/). Für fremdsprachige Vorlesungen lesen Sie die [Anleitung zur Übersetzung](/de/guides/translate-social-video-iphone/). Damas liefert bearbeitbaren Text und Überblick, die Lernunterlagen prüfen Sie selbst.
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline. Auch mit Premium können unzugängliche Quellen scheitern.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline.
 
 Damas Technologies LLC

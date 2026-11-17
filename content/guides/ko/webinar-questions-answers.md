@@ -4,7 +4,7 @@ description: "웨비나를 질의응답별로 요약하려면 Damas에서 받아
 slug: "webinar-questions-answers"
 locale: "ko"
 publishedAt: "2026-10-26"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "웨비나 요약"
 topics: ["웨비나 요약","Damas"]
@@ -15,9 +15,11 @@ translationKey: "webinar-questions-answers"
 
 웨비나를 질의응답별로 요약하려면 Damas에서 받아쓰기와 앱 내 요약을 준비한 뒤 실제 질문마다 해당 답변을 연결하세요. 일부만 답한 질문과 답이 없는 질문도 남겨야 합니다. 이 목록은 편집하고 복사할 수 있는 기록으로 직접 만드는 것이며 Damas가 전용 형식을 자동 생성하는 것은 아닙니다.
 
+iPhone에서는 iOS 18.6 이상과 인터넷이 필요합니다. 온라인 처리와 구매에는 Apple로 로그인하고 AI 처리 동의를 확인하세요. 처리에는 미디어 분과 Insight 크레딧이 사용됩니다. 확정 전에 잔액, 사용 내역과 처리 비용을 확인하세요. 이용 가능한 요금제와 선택형 추가 팩은 앱에 표시됩니다.
+
 ## 지원되는 원본 선택하기
 
-Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 동영상 링크를 지원합니다. 비공개, 접근 제한, 실시간 콘텐츠는 지원하지 않습니다. iOS 18.6 이상, 인터넷, Premium, AI 처리 동의가 필요합니다. 처리할 권한이 있는 콘텐츠만 제출하세요.
+Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 동영상 링크를 지원합니다. 비공개, 접근 제한, 실시간 콘텐츠는 지원하지 않습니다. 처리할 권한이 있는 콘텐츠만 제출하세요.
 
 ## 유용한 개요 만들기
 
@@ -47,6 +49,6 @@ Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 동영상 링크
 
 원본 링크, 제목, 열린 질문을 목록과 함께 보관하세요. 시작은 [받아쓰기 안내](/ko/guides/transcribe-social-video-link-iphone/), 전체 개요는 [요약 안내](/ko/guides/summarize-video-transcript-iphone/)를 참고하세요. 이후 업무를 제안할 때는 [웨비나 실행 항목 안내](/ko/guides/webinar-checked-actions/)를 이용하세요.
 
-처리 시간과 정확도는 달라집니다. 미디어 다운로드, 자막 삽입, 오프라인 처리는 지원되지 않습니다. Premium도 접근할 수 없는 원본을 이용 가능하게 만들지는 않습니다. 원본이 사라지면 끝내지 못한 검토는 미확인으로 남기세요.
+처리 시간과 정확도는 달라집니다. 미디어 다운로드, 자막 삽입, 오프라인 처리는 지원되지 않습니다. 원본이 사라지면 끝내지 못한 검토는 미확인으로 남기세요.
 
 Damas Technologies LLC

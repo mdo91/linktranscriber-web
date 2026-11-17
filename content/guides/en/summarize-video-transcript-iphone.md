@@ -4,7 +4,7 @@ description: "Summarize a video transcript with Damas on iPhone, then check the 
 slug: "summarize-video-transcript-iphone"
 locale: "en"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube summary app iphone"
 topics: ["summarize video transcript", "video summary", "iPhone"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "translate-social-video-iphone"
 translationKey: "summarize-video-transcript-iphone"
 ---
 
-For a YouTube summary app on iPhone, Damas can turn a supported public video link into a transcript and built-in summary that you can edit and copy. For a lecture, use that overview as the starting point for checked study notes; revision questions require your own work or an optional external LLM step.
+To summarize a supported public video in Damas, create a transcript and choose a short or detailed summary in Standard or Professional style. Add a topic, audience or context and choose the output language. Keep the original transcript while saving the AI result separately, then compare important details with the source. For study, Damas also offers study guides, quizzes with explained answers and question-and-answer flashcards.
+
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
 
 ## Start with a supported source
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. It does not support private, restricted or live content. You need iOS 18.6 or later, an internet connection, Premium and consent for AI processing. Submit only content you are authorized to process.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. It does not support private, restricted or live content. Submit only content you are authorized to process.
 
 If the transcript contains unclear passages, check them against the recording first. Summarizing an inaccurate transcript can carry the same mistakes into a shorter text.
 
@@ -47,9 +49,9 @@ Use this example note structure, filling it only with information you have check
 - Evidence or example: record the example actually used, including units.
 - Uncertainty: mark unclear words or missing visual information for review.
 
-## Optional: draft revision questions in another LLM
+## Guide the AI result in Damas
 
-Copy the checked transcript into another LLM only if you are allowed to share it with that service. This is a separate external workflow, not a Damas integration or automatic flashcard feature. Example copy/paste prompt:
+Choose the relevant AI tool in Damas and use a topic, audience or context to guide the result, with your preferred output language. The following example shows the kind of source-focused context you can supply; review the generated result against the transcript and video. Keep the original transcript and save the AI output separately.
 
 > Using only the transcript below, draft five revision questions with short answers. Include one question about an exception or limitation. Do not add outside facts. Mark missing answers as “not stated.” Separate paraphrases from exact quotations. Transcript: [paste checked text].
 
@@ -57,6 +59,6 @@ Check each answer against the video, then try answering without the notes. If yo
 
 For the full text, follow [video link transcription](/guides/transcribe-social-video-link-iphone/). For a lecture in another language, use [text translation](/guides/translate-social-video-iphone/) before checking the study notes. Damas provides the editable transcript and overview; custom learning materials remain your reviewed work.
 
-Processing time and accuracy vary. Damas does not download media, embed subtitles or process videos offline; Premium does not make every link accessible.
+Processing time and accuracy vary.
 
 Damas Technologies LLC

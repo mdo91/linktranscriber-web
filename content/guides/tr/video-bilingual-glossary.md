@@ -4,7 +4,7 @@ description: "Damas dökümü ve çevirisinden kaynak cümleleri, ayrı anlamlar
 slug: "video-bilingual-glossary"
 locale: "tr"
 publishedAt: "2026-10-25"
-updatedAt: "2026-10-25"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube çeviri"
 topics: ["youtube çeviri","Damas"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 YouTube çeviri metninden doğrulanmış iki dilli terim listesi hazırlamak için Damas’ta özgün dilde döküm ve metin çevirisi oluşturun; ardından her terimin kaynak cümlesini ve bağlama uygun anlamını kaydedin. Farklı anlamları ayrı tutun, belirsiz eşleşmeleri açık bırakın. Listeyi elle veya isteğe bağlı olarak başka bir LLM’de taslak hâlinde hazırlayabilirsiniz. Damas yazıya çevirme, 70 dile çeviri, özet, metin düzenleme ve kopyalama sağlar.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Kaynağı ve iki metni hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklar da erişilemediğinde işlenemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklar da erişilemediğinde işlenemeyebilir.
 
 1. Videoyu özgün platformunda açıp bağlantısını ve başlığını çalışma notuna kaydedin.
 2. Desteklenen bağlantıyı Damas’a girin. Güncel uygulama yönergelerine göre özgün dilde döküm ve desteklenen hedef dilde çeviri akışlarını kullanın. Yapay zekâ onayını okuyun.
@@ -53,6 +55,6 @@ Metni başka bir hizmetle yalnızca paylaşma izniniz varsa paylaşın. Bu haric
 
 Başlangıç metni için [yazıya çevirme rehberine](/tr/guides/transcribe-social-video-link-iphone/), hedef dil seçimi için [çeviri rehberine](/tr/guides/translate-social-video-iphone/) bakın. [Uygulama içi özet](/tr/guides/summarize-video-transcript-iphone/) genel bakış sağlar; her terim için tam bağlama dönün.
 
-İşleme süresi ve doğruluk değişir. Damas medya indirmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium erişilemeyen kaynağı kullanılabilir hâle getirmez.
+İşleme süresi ve doğruluk değişir. Damas medya indirmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez.
 
 Damas Technologies LLC

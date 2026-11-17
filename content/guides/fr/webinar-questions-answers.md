@@ -4,7 +4,7 @@ description: "Pour résumer un webinaire en conservant ses questions et réponse
 slug: "webinar-questions-answers"
 locale: "fr"
 publishedAt: "2026-10-26"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "résumer un webinaire"
 topics: ["résumer un webinaire","Damas"]
@@ -15,9 +15,11 @@ translationKey: "webinar-questions-answers"
 
 Pour résumer un webinaire en conservant ses questions et réponses, préparez la transcription et le résumé intégré dans Damas, puis reliez chaque question réellement entendue à la réponse correspondante. Notez ce qui est répondu, partiel ou sans réponse. Ce relevé se construit à la main à partir du texte modifiable et copiable ; Damas ne crée pas automatiquement ce format.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Choisir une source compatible
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Les contenus privés, restreints et en direct sont exclus. Il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Envoyez uniquement des contenus que vous êtes autorisé à traiter.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Les contenus privés, restreints et en direct sont exclus. Envoyez uniquement des contenus que vous êtes autorisé à traiter.
 
 ## Construire un aperçu utile
 
@@ -47,6 +49,6 @@ Reprenez chaque fiche avec la vidéo : la réponse porte-t-elle sur la bonne que
 
 Conservez le lien original, le titre et les questions ouvertes avec le relevé. Pour obtenir le texte, consultez la [transcription](/fr/guides/transcribe-social-video-link-iphone/). Le [résumé général](/fr/guides/summarize-video-transcript-iphone/) aide à vous orienter ; pour préparer ensuite des propositions de travail, consultez les [actions de webinaire](/fr/guides/webinar-checked-actions/).
 
-La précision et le temps de traitement varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne rend pas accessible une source indisponible. Si la vidéo disparaît, les vérifications inachevées restent ouvertes.
+La précision et le temps de traitement varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion. Si la vidéo disparaît, les vérifications inachevées restent ouvertes.
 
 Damas Technologies LLC

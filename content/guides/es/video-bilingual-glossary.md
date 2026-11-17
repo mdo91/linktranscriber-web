@@ -4,7 +4,7 @@ description: "Crea un glosario con frases originales, sentidos separados y corre
 slug: "video-bilingual-glossary"
 locale: "es"
 publishedAt: "2026-10-25"
-updatedAt: "2026-10-25"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "app para traducir videos de youtube"
 topics: ["app para traducir videos de youtube","Damas"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 Para crear un glosario bilingüe verificado con una app para traducir vídeos de YouTube, prepara en Damas la transcripción original y la traducción en texto. Después registra cada término con su frase de origen y su significado en ese contexto. Separa los distintos sentidos y deja pendientes las correspondencias dudosas. El glosario se redacta a mano o, de forma opcional, en otro LLM; Damas ofrece transcripción, traducción a 70 idiomas, resúmenes, edición y copia.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Prepara la fuente y los dos textos
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Envía solo contenido que tengas permiso para procesar. Los vídeos privados, restringidos y en directo no son compatibles; las fuentes públicas inaccesibles también pueden fallar.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Envía solo contenido que tengas permiso para procesar. Los vídeos privados, restringidos y en directo no son compatibles; las fuentes públicas inaccesibles también pueden fallar.
 
 1. Abre el vídeo en su plataforma original y conserva el enlace y el título en tus notas.
 2. Facilita el enlace compatible en Damas. Sigue las indicaciones actuales para la transcripción en el idioma original y la traducción al idioma de destino compatible. Lee el consentimiento de IA.
@@ -53,6 +55,6 @@ Comprueba cada frase y significado propuestos en la grabación y elimina entrada
 
 Para empezar, consulta la [guía de transcripción](/es/guides/transcribe-social-video-link-iphone/); para elegir idioma, la [guía de traducción](/es/guides/translate-social-video-iphone/). El [resumen integrado](/es/guides/summarize-video-transcript-iphone/) ayuda a orientarte, pero cada término necesita su contexto completo.
 
-El tiempo y la precisión varían. Damas no descarga archivos multimedia, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Premium no vuelve accesible una fuente que no está disponible.
+El tiempo y la precisión varían. Damas no descarga archivos multimedia, no dobla voces, no incrusta subtítulos ni procesa sin conexión.
 
 Damas Technologies LLC

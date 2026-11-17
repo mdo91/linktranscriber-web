@@ -4,7 +4,7 @@ description: "Catat bilangan, penyebut dan kumpulan yang dibandingkan, serta asi
 slug: "interview-numerical-comparisons"
 locale: "ms"
 publishedAt: "2026-11-10"
-updatedAt: "2026-11-10"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "semak perbandingan angka dalam petikan temu bual video"
 topics: ["Perbandingan angka"]
@@ -15,9 +15,11 @@ translationKey: "interview-numerical-comparisons"
 
 Untuk memetik perbandingan angka daripada temu bual video, cari bahagian berkenaan dalam transkrip Damas yang boleh disunting, kemudian dengar semula perkara yang diukur oleh setiap angka. Catat kumpulan, tempoh dan penyebut sebelum membandingkannya. Letakkan pengiraan sendiri di luar tanda petikan: angka yang disalin dengan betul masih boleh menghasilkan perbandingan yang mengelirukan.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Semak kata-kata sebelum mengira
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI diperlukan. Hantar hanya bahan yang anda berhak proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh menjadi tidak boleh diakses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Hantar hanya bahan yang anda berhak proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh menjadi tidak boleh diakses.
 
 1. Buka temu bual asal, simpan pautan dan tajuknya, lalu tulis soalan perbandingan anda.
 2. Masukkan pautan yang disokong dalam Damas. Ikuti arahan semasa untuk transkripsi bahasa asal dan baca persetujuan AI.
@@ -50,6 +52,6 @@ Pastikan label bilangan dan perkadaran jelas, setiap penyebut mempunyai sumber, 
 
 Untuk bahasa lain, gunakan [perbandingan transkrip dengan terjemahan](/ms/guides/transcript-translation-meaning-check/). Rujuk [nota dengan bukti sumber](/ms/guides/share-checked-video-notes/) apabila menyerahkan hasil. LLM luaran tidak diperlukan. Jika memilih pemformatan dalam LLM lain, pastikan anda boleh berkongsi teks dan semak setiap hasil; itu bukan integrasi Damas atau pengesahan angka automatik.
 
-Masa dan ketepatan pemprosesan berbeza-beza. Jika sumber tidak boleh diakses, biarkan semakan belum selesai sebagai belum disahkan. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenam sari kata atau memproses di luar talian. Premium tidak memintas sekatan sumber. Kongsi hanya dalam batas hak penggunaan anda.
+Masa dan ketepatan pemprosesan berbeza-beza. Jika sumber tidak boleh diakses, biarkan semakan belum selesai sebagai belum disahkan. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenam sari kata atau memproses di luar talian. Kongsi hanya dalam batas hak penggunaan anda.
 
 Damas Technologies LLC

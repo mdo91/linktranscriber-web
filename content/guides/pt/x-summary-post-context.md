@@ -4,7 +4,7 @@ description: "Separe fala verificada, comentário da publicação e contexto aus
 slug: "x-summary-post-context"
 locale: "pt"
 publishedAt: "2026-10-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "resumir vídeo do X sem perder o contexto"
 topics: ["Contexto de vídeos do X"]
@@ -15,9 +15,11 @@ translationKey: "x-summary-post-context"
 
 Para resumir vídeo do X sem perder o contexto, obtenha a transcrição e o resumo integrado no Damas e confira o clipe separadamente do comentário escrito da publicação. Registre o que a pessoa diz, o que a conta acrescenta e o que o vídeo não permite concluir. O Damas fornece texto editável e copiável; você organiza esse registro manualmente.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare o clipe e uma visão geral
 
-O Damas aceita links públicos sob demanda do YouTube, Instagram e X de até 90 minutos. No iPhone, requer iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são aceitos; fontes públicas também podem ficar inacessíveis.
+O Damas aceita links públicos sob demanda do YouTube, Instagram e X de até 90 minutos. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são aceitos; fontes públicas também podem ficar inacessíveis.
 
 1. Abra a publicação no X e guarde o link original. Leia o comentário por conta própria. Se não conseguir determinar se a conta compartilha uma gravação própria ou de terceiros, mantenha isso em aberto.
 2. Insira o link compatível no Damas e siga as instruções atuais de transcrição e resumo integrado. Leia o consentimento de IA.
@@ -48,6 +50,6 @@ Nenhum LLM externo é necessário. Se optar por pedir a outro LLM a formatação
 
 A [transcrição](/pt/guides/transcribe-social-video-link-iphone/) fornece o texto completo. O [guia de resumo](/pt/guides/summarize-video-transcript-iphone/) explica a visão geral; confira a [verificação de citações](/pt/guides/verify-interview-quotes/) antes de reproduzir palavras exatas.
 
-Tempo e precisão variam com a fonte, o áudio e a conexão. O Damas não baixa mídia, não dubla, não incorpora legendas nem processa offline. Premium não contorna restrições. Se o clipe ficar inacessível, mantenha verificações incompletas em aberto e respeite seus direitos de reutilização ao compartilhar.
+Tempo e precisão variam com a fonte, o áudio e a conexão. O Damas não baixa mídia, não dubla, não incorpora legendas nem processa offline. Se o clipe ficar inacessível, mantenha verificações incompletas em aberto e respeite seus direitos de reutilização ao compartilhar.
 
 Damas Technologies LLC

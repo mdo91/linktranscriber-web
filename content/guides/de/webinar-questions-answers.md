@@ -4,7 +4,7 @@ description: "Um ein Webinar mit seinen Fragen und Antworten zusammenzufassen, e
 slug: "webinar-questions-answers"
 locale: "de"
 publishedAt: "2026-10-26"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "webinar zusammenfassen"
 topics: ["webinar zusammenfassen","Damas"]
@@ -15,9 +15,11 @@ translationKey: "webinar-questions-answers"
 
 Um ein Webinar mit seinen Fragen und Antworten zusammenzufassen, erstellen Sie in Damas ein Transkript und eine integrierte Zusammenfassung. Ordnen Sie anschließend jede tatsächlich gestellte Frage ihrer Antwort zu und markieren Sie Teilantworten und offene Punkte. Diese Übersicht entsteht von Hand aus dem bearbeitbaren und kopierbaren Text; Damas erzeugt dieses besondere Format nicht automatisch.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Mit einer geeigneten Quelle beginnen
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Private, eingeschränkte und Live-Inhalte sind ausgeschlossen. Sie benötigen iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Reichen Sie nur Inhalte ein, die Sie verarbeiten dürfen.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Private, eingeschränkte und Live-Inhalte sind ausgeschlossen. Reichen Sie nur Inhalte ein, die Sie verarbeiten dürfen.
 
 ## Einen hilfreichen Überblick erstellen
 
@@ -47,6 +49,6 @@ Prüfen Sie für jeden Eintrag, ob die Antwort wirklich zur Frage gehört und ob
 
 Bewahren Sie Originallink, Titel und offene Fragen zusammen auf. Den Einstieg erklärt die [Transkription](/de/guides/transcribe-social-video-link-iphone/). Die [allgemeine Zusammenfassung](/de/guides/summarize-video-transcript-iphone/) dient der Orientierung. Wenn Sie danach Arbeit vorschlagen möchten, hilft die Anleitung zu [Webinaraufgaben](/de/guides/webinar-checked-actions/).
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline. Premium macht unzugängliche Quellen nicht verfügbar. Wird die Aufnahme unerreichbar, bleiben unvollständige Prüfungen offen.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline. Wird die Aufnahme unerreichbar, bleiben unvollständige Prüfungen offen.
 
 Damas Technologies LLC

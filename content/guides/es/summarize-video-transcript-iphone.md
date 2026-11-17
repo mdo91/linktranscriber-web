@@ -4,7 +4,7 @@ description: "Resume una transcripción de vídeo con Damas en iPhone y comprueb
 slug: "summarize-video-transcript-iphone"
 locale: "es"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "resumir clase de youtube"
 topics: ["resumir transcripción de vídeo", "resumen de vídeo", "iPhone"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "translate-social-video-iphone"
 translationKey: "summarize-video-transcript-iphone"
 ---
 
-Para resumir una clase de YouTube, facilita a Damas un enlace público compatible y utiliza la transcripción y el resumen integrado. Contrasta ese resumen con la grabación antes de convertirlo en apuntes. Las preguntas de repaso se redactan a mano o, de forma opcional, en otro LLM como paso externo.
+Para resumir un vídeo público compatible en Damas, crea una transcripción y elige un resumen breve o detallado con estilo Estándar o Profesional. Indica el tema, el público o el contexto y el idioma de salida. Conserva la transcripción original y guarda el resultado de IA por separado; contrasta los detalles con la fuente. Damas también ofrece guías de estudio, cuestionarios con respuestas explicadas y tarjetas de pregunta y respuesta.
+
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
 
 ## Empieza con una fuente compatible
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. No admite contenido privado, restringido ni en directo. Necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Envía solo contenido que tengas permiso para procesar.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. No admite contenido privado, restringido ni en directo. Envía solo contenido que tengas permiso para procesar.
 
 Si la transcripción contiene pasajes dudosos, compáralos primero con la grabación. Resumir un texto impreciso puede trasladar los mismos errores a una versión más corta.
 
@@ -47,9 +49,9 @@ Esta plantilla es un ejemplo para completar a mano, no un formato automático de
 - Ejemplo: anota el que realmente utiliza la clase, con cifras y unidades.
 - Duda: marca palabras inciertas o información que requiere mirar la imagen.
 
-## Opcional: prepara preguntas en otro LLM
+## Orienta el resultado de IA en Damas
 
-Copia la transcripción revisada en otro servicio solo si tienes permiso para compartirla allí. Es un flujo externo separado, sin integración con Damas ni función propia de tarjetas de estudio. Ejemplo de instrucción para copiar:
+Elige la herramienta de IA adecuada en Damas e indica el tema, el público o el contexto y el idioma de salida. El ejemplo siguiente ilustra un contexto centrado en la fuente; revisa el resultado con la transcripción y el vídeo. Conserva la transcripción original y guarda el resultado de IA por separado.
 
 > Utiliza solo la transcripción siguiente para redactar cinco preguntas de repaso con respuestas breves. Incluye una pregunta sobre una excepción o limitación. No añadas hechos externos. Si falta una respuesta, indica «no se menciona». Separa las paráfrasis de las citas literales. Transcripción: [pega el texto comprobado].
 
@@ -57,6 +59,6 @@ Verifica cada respuesta en la grabación y después intenta responder sin consul
 
 Para obtener el texto completo, consulta la [guía de transcripción](/es/guides/transcribe-social-video-link-iphone/). Para clases en otro idioma, sigue la [guía de traducción](/es/guides/translate-social-video-iphone/). Damas aporta texto editable y copiable y una visión general; los materiales de estudio personalizados necesitan tu revisión.
 
-El tiempo y la precisión varían. Damas no descarga archivos multimedia, no incrusta subtítulos ni procesa sin conexión. Premium tampoco garantiza el acceso a todas las fuentes.
+El tiempo y la precisión varían. Damas no descarga archivos multimedia, no incrusta subtítulos ni procesa sin conexión.
 
 Damas Technologies LLC

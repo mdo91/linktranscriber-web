@@ -4,7 +4,7 @@ description: "Check interview quotations against the recording, preserve context
 slug: "verify-interview-quotes"
 locale: "en"
 publishedAt: "2026-10-22"
-updatedAt: "2026-10-22"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "check quotes from a video interview transcript"
 topics: ["check quotes from a video interview transcript", "Damas"]
@@ -15,9 +15,11 @@ translationKey: "verify-interview-quotes"
 
 To check quotes from a video interview transcript, use Damas to obtain the speech as editable text, then replay each candidate passage in the original video. Confirm the words, speaker and surrounding question before quoting. A transcript helps you locate material; your listening establishes whether a quotation is usable.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the source and transcript
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, you need iOS 18.6 or later, internet, Premium and consent for AI processing. Only submit material you are authorized to process. Private, restricted, live or inaccessible sources are unsuitable; a public link does not guarantee successful processing.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Only submit material you are authorized to process. Private, restricted, live or inaccessible sources are unsuitable; a public link does not guarantee successful processing.
 
 1. Open the interview on its original platform. Keep its link and title in your notes.
 2. Paste the supported link into Damas and use the transcription workflow, following the current app instructions and AI consent.

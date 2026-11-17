@@ -4,7 +4,7 @@ description: "Reliez les deux côtés d’une analogie de cours et conservez ses
 slug: "lecture-analogy-limits"
 locale: "fr"
 publishedAt: "2026-11-16"
-updatedAt: "2026-11-16"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Comment résumer une analogie dans un cours vidéo sans la prendre pour une preuve ?"
 topics: ["Analogies dans les cours"]
@@ -15,9 +15,11 @@ translationKey: "lecture-analogy-limits"
 
 Pour résumer une analogie dans un cours vidéo, repérez la comparaison complète avec la transcription et le résumé intégré de Damas. Relevez les correspondances réellement expliquées, puis écrivez ce que l’image éclaire et ce qu’elle ne permet pas de conclure. Vous construisez cette fiche à la main ; Damas fournit du texte lisible, modifiable et copiable.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Retrouver la comparaison complète
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
 
 1. Gardez le lien original et le titre du cours. Choisissez une analogie précise.
 2. Fournissez le lien compatible dans Damas. Suivez les indications actuelles de transcription et de résumé intégré, après lecture du consentement IA.
@@ -53,6 +55,6 @@ Avant de copier, contrôlez chaque correspondance, sa preuve et les points ouver
 
 Aucun LLM externe n’est nécessaire. Une mise en forme facultative dans un autre LLM exige l’autorisation de partager le texte et la vérification de chaque correspondance ; ce n’est ni une intégration Damas ni une analyse automatique. N’inventez aucun fait, citation, responsable ou délai.
 
-Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers vidéo, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions. Si la source devient inaccessible, laissez les contrôles inachevés ouverts et respectez les droits de réutilisation.
+Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers vidéo, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Si la source devient inaccessible, laissez les contrôles inachevés ouverts et respectez les droits de réutilisation.
 
 Damas Technologies LLC

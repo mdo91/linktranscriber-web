@@ -4,7 +4,7 @@ description: "Distingue la ausencia de subtítulos, un enlace inaccesible y una 
 slug: "youtube-missing-transcript"
 locale: "es"
 publishedAt: "2026-11-04"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "transcribir video de youtube a texto sin subtitulos"
 topics: ["Texto sin subtítulos disponibles"]
@@ -14,6 +14,8 @@ translationKey: "youtube-missing-transcript"
 ---
 
 Para intentar transcribir a texto un vídeo de YouTube sin subtítulos disponibles, comprueba primero que puedes abrir la grabación y oír la voz que necesitas. Si es un vídeo público compatible de hasta 90 minutos y tienes permiso para procesarlo, puedes probar la transcripción de voz de Damas. La ausencia de texto en YouTube y el fallo de una solicitud en Damas son observaciones distintas: ninguna demuestra la causa de la otra ni garantiza un resultado utilizable.
+
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
 
 ## Decide qué falta antes de enviar el enlace
 
@@ -30,7 +32,7 @@ Estas decisiones son manuales, sin diagnóstico automático. La información pú
 
 ## Prueba el flujo de voz compatible
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Envía solo material que tengas permiso para procesar. Poder verlo en tu cuenta no garantiza acceso para el procesamiento.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Envía solo material que tengas permiso para procesar. Poder verlo en tu cuenta no garantiza acceso para el procesamiento.
 
 1. Comprueba enlace original, duración y disponibilidad pública como grabación. Usa el enlace compatible, sin descargar ni subir un archivo de vídeo.
 2. Facilita el enlace en Damas y sigue las instrucciones actuales de transcripción. Revisa el consentimiento de IA.
@@ -59,6 +61,6 @@ No hace falta un LLM externo. Si decides usar otro para organizar texto autoriza
 
 Consulta la [transcripción desde un enlace](/es/guides/transcribe-social-video-link-iphone/) para el flujo habitual. La guía sobre [voz y texto en pantalla](/es/guides/instagram-speech-caption-check/) usa un Reel público para explicar cómo separar fuentes. Antes de usar palabras exactas, aplica la [verificación de citas](/es/guides/verify-interview-quotes/). Damas proporciona texto editable y copiable para esa revisión.
 
-Damas no descarga medios ni admite subidas de archivos. Tampoco dobla voces, incrusta subtítulos ni procesa sin conexión. Premium no garantiza acceso ni precisión. Si pierdes acceso al original, deja las comprobaciones pendientes y reutiliza el texto solo dentro de tus permisos.
+Damas no descarga medios ni admite subidas de archivos. Tampoco dobla voces, incrusta subtítulos ni procesa sin conexión. Si pierdes acceso al original, deja las comprobaciones pendientes y reutiliza el texto solo dentro de tus permisos.
 
 Damas Technologies LLC

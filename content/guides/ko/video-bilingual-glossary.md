@@ -4,7 +4,7 @@ description: "원문 문장과 번역문을 대조해 서로 다른 의미를 �
 slug: "video-bilingual-glossary"
 locale: "ko"
 publishedAt: "2026-10-25"
-updatedAt: "2026-10-25"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "유튜브 동영상 번역"
 topics: ["유튜브 동영상 번역","Damas"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 유튜브 동영상을 번역한 뒤 이중 언어 용어집을 만들려면 Damas에서 원래 언어의 텍스트 기록과 번역문을 준비하고, 용어마다 원문 문장과 문맥에 맞는 뜻을 기록하세요. 같은 단어라도 뜻이 다르면 항목을 나누고, 불명확한 대응은 보류하세요. 용어집은 직접 작성하거나 선택적으로 다른 LLM에서 초안을 만듭니다. Damas는 받아쓰기, 70개 언어로 번역, 요약, 텍스트 편집과 복사를 제공합니다.
 
+iPhone에서는 iOS 18.6 이상과 인터넷이 필요합니다. 온라인 처리와 구매에는 Apple로 로그인하고 AI 처리 동의를 확인하세요. 처리에는 미디어 분과 Insight 크레딧이 사용됩니다. 확정 전에 잔액, 사용 내역과 처리 비용을 확인하세요. 이용 가능한 요금제와 선택형 추가 팩은 앱에 표시됩니다.
+
 ## 원본과 두 텍스트 준비하기
 
-Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 동영상 링크를 지원합니다. iPhone에서는 iOS 18.6 이상, 인터넷, Premium, AI 처리 동의가 필요합니다. 처리할 권한이 있는 자료만 제출하세요. 비공개, 접근 제한, 실시간 영상은 지원되지 않으며 공개 영상도 접근할 수 없으면 처리에 실패할 수 있습니다.
+Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 동영상 링크를 지원합니다. 처리할 권한이 있는 자료만 제출하세요. 비공개, 접근 제한, 실시간 영상은 지원되지 않으며 공개 영상도 접근할 수 없으면 처리에 실패할 수 있습니다.
 
 1. 원래 플랫폼에서 영상을 열고 링크와 제목을 작업 메모에 남기세요.
 2. 지원되는 링크를 Damas에 입력하세요. 현재 앱 안내에 따라 원래 언어의 받아쓰기와 지원되는 대상 언어로의 번역을 진행하고 AI 처리 동의를 읽으세요.
@@ -53,6 +55,6 @@ Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 동영상 링크
 
 처음 텍스트를 얻는 방법은 [받아쓰기 안내](/ko/guides/transcribe-social-video-link-iphone/), 대상 언어 선택은 [번역 안내](/ko/guides/translate-social-video-iphone/)를 참고하세요. [앱 내 요약](/ko/guides/summarize-video-transcript-iphone/)으로 전체 흐름을 파악하더라도 각 용어는 전체 문맥으로 확인하세요.
 
-처리 시간과 정확도는 달라집니다. Damas는 미디어 다운로드, 더빙, 자막 삽입, 오프라인 처리를 지원하지 않습니다. Premium도 접근할 수 없는 원본을 이용 가능하게 만들지는 않습니다.
+처리 시간과 정확도는 달라집니다. Damas는 미디어 다운로드, 더빙, 자막 삽입, 오프라인 처리를 지원하지 않습니다.
 
 Damas Technologies LLC

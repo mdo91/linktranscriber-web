@@ -4,7 +4,7 @@ description: "Damas dökümünden seçtiğiniz alıntıları özgün kayıtta s�
 slug: "verify-interview-quotes"
 locale: "tr"
 publishedAt: "2026-10-22"
-updatedAt: "2026-10-22"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "video röportajındaki alıntıları doğrulama"
 topics: ["video röportajındaki alıntıları doğrulama", "Damas"]
@@ -15,9 +15,11 @@ translationKey: "verify-interview-quotes"
 
 Video röportajındaki alıntıları doğrulamak için Damas ile döküm hazırlayın, ardından her alıntı adayını özgün videoda yeniden dinleyin. Sözcükleri, konuşmacıyı ve önceki soruyu doğrulayın. Metin ilgili bölümü bulmayı kolaylaştırır; alıntıyı doğrulamak için kayıtla karşılaştırmak gerekir.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Kaynağı ve dökümü hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı, canlı veya erişilemeyen kaynaklar bu iş akışına uygun değildir. Herkese açık bir bağlantı da işlemenin başarılı olacağını garanti etmez.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı, canlı veya erişilemeyen kaynaklar bu iş akışına uygun değildir. Herkese açık bir bağlantı da işlemenin başarılı olacağını garanti etmez.
 
 1. Röportajı özgün platformunda açın. Bağlantısını ve başlığını notlarınızda saklayın.
 2. Desteklenen bağlantıyı Damas’a girin. Güncel uygulama yönergelerine göre yazıya çevirme akışını kullanın ve yapay zekâ onayını okuyun.

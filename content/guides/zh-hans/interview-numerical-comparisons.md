@@ -4,7 +4,7 @@ description: "记录人数、比例的分母和比较对象，把自己计算的
 slug: "interview-numerical-comparisons"
 locale: "zh-hans"
 publishedAt: "2026-11-10"
-updatedAt: "2026-11-10"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "核实视频访谈引用中的人数与百分比比较"
 topics: ["数字比较"]
@@ -15,9 +15,11 @@ translationKey: "interview-numerical-comparisons"
 
 引用视频访谈中的数字时，可以用 Damas 可编辑的文字稿找到相关段落，再回听每个数字究竟衡量什么。先记录对象、时间范围和比例的分母，再进行比较；自己的计算要写在引文之外。即使数字抄对了，混淆人数与比例仍会改变意思。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 计算之前先核对原话
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。在 iPhone 上需要 iOS 18.6 或更高版本、互联网连接、Premium 和 AI 处理同意。只提交有权处理的内容。私密、访问受限和直播视频不受支持；公开来源也可能无法访问。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。只提交有权处理的内容。私密、访问受限和直播视频不受支持；公开来源也可能无法访问。
 
 1. 打开原访谈，保存链接和标题，把想了解的比较写成一个问题。
 2. 将受支持的链接提供给 Damas，按当前应用指引生成原语言文字稿，并阅读 AI 处理同意内容。
@@ -50,6 +52,6 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 遇到外语，可用[原文与译文对照](/zh-hans/guides/transcript-translation-meaning-check/)检查含义；交给别人时可参照[带原文依据的视频笔记](/zh-hans/guides/share-checked-video-notes/)。此方法无需外部 LLM。若选择用另一个 LLM 整理格式，须有权分享文本，并逐项重新核查；这不是 Damas 集成功能或自动数字验证。
 
-处理耗时与准确度因情况而异。原视频无法访问时，未完成的检查应继续保留为待核实。Damas 不下载媒体、不支持文件导入、配音、字幕嵌入或离线处理。Premium 不能绕过来源限制。分享内容须遵守再利用权限。
+处理耗时与准确度因情况而异。原视频无法访问时，未完成的检查应继续保留为待核实。Damas 不下载媒体、不支持文件导入、配音、字幕嵌入或离线处理。分享内容须遵守再利用权限。
 
 Damas Technologies LLC

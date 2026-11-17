@@ -4,7 +4,7 @@ description: "Sayıları, paydaları ve karşılaştırılan grupları kaydedin;
 slug: "interview-numerical-comparisons"
 locale: "tr"
 publishedAt: "2026-11-10"
-updatedAt: "2026-11-10"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "video röportajı alıntılarında sayısal karşılaştırmaları doğrulama"
 topics: ["Sayısal karşılaştırmalar"]
@@ -15,9 +15,11 @@ translationKey: "interview-numerical-comparisons"
 
 Video röportajındaki sayısal bir karşılaştırmayı aktarmak için Damas’ın düzenlenebilir dökümünde değerleri bulun, sonra her birinin neyi ölçtüğünü özgün kayıttan dinleyin. Karşılaştırmadan önce grubu, dönemi ve paydayı kaydedin. Kendi hesabınızı alıntının dışında tutun: doğru kopyalanmış bir sayı bile yanıltıcı karşılaştırmaya dönüşebilir.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Hesaplamadan önce sözleri kontrol edin
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
 
 1. Özgün röportajı açıp bağlantısını ve başlığını saklayın. Öğrenmek istediğiniz karşılaştırmayı soru olarak yazın.
 2. Desteklenen bağlantıyı Damas’a girin. Özgün dilde döküm için güncel uygulama yönergelerini izleyip yapay zekâ onayını okuyun.
@@ -50,6 +52,6 @@ Kişi sayısı ile oran etiketleri, her paydanın dayanağı, dönemler ve grupl
 
 Başka dil için [özgün metin ile çeviri karşılaştırmasını](/tr/guides/transcript-translation-meaning-check/) kullanın. Sonucu aktarırken [kaynak bölümleriyle video notları](/tr/guides/share-checked-video-notes/) yardımcı olur. Harici LLM gerekmez. İsteğe bağlı olarak başka bir LLM’de biçimlendirme yaparsanız metni paylaşma izninizi kontrol edip her sonucu yeniden inceleyin; bu Damas entegrasyonu veya otomatik sayısal doğrulama değildir.
 
-İşleme süresi ve doğruluk değişir. Kaynağa erişilemezse bitmemiş kontrolleri açık bırakın. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium kaynak kısıtlarını aşmaz. Paylaşımda yeniden kullanım haklarınıza uyun.
+İşleme süresi ve doğruluk değişir. Kaynağa erişilemezse bitmemiş kontrolleri açık bırakın. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Paylaşımda yeniden kullanım haklarınıza uyun.
 
 Damas Technologies LLC

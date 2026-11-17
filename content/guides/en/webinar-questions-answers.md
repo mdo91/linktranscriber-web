@@ -4,7 +4,7 @@ description: "Match webinar questions to checked answer passages, preserve parti
 slug: "webinar-questions-answers"
 locale: "en"
 publishedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "summarize webinar questions and answers"
 topics: ["Webinar questions and answers"]
@@ -15,9 +15,11 @@ translationKey: "webinar-questions-answers"
 
 To summarize webinar questions and answers, prepare a transcript and built-in summary in Damas, then match each actual question to its supporting answer passage. Split multipart questions and mark each part answered, partly answered, unanswered in the recording, or unclear because the audio cannot be checked. Damas provides editable, copyable text; you build this question-to-answer record manually.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare an accessible recording
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, you need iOS 18.6 or later, internet, Premium and consent for AI processing. Process only material you are authorized to use. Private, restricted and live videos are unsupported. A recording that you can watch in your own account may still be inaccessible for processing.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process only material you are authorized to use. Private, restricted and live videos are unsupported. A recording that you can watch in your own account may still be inaccessible for processing.
 
 1. Open the recording on its original platform. Keep its link and title in your working note.
 2. Provide the supported link in Damas. Follow the current app instructions for transcription and the built-in summary, reviewing AI consent before proceeding.
@@ -53,6 +55,6 @@ No external LLM is needed. If you optionally copy the checked text into another 
 
 Keep the original link, webinar title and unanswered questions with the final record. Start with [video transcription](/guides/transcribe-social-video-link-iphone/) for the text. The [summary guide](/guides/summarize-video-transcript-iphone/) covers the overview; use [checked webinar actions](/guides/webinar-checked-actions/) if you later want to propose follow-up work. Do not treat an unanswered question as an assigned task.
 
-Processing time and accuracy vary with the source, audio and connection. Damas does not download media, embed subtitles or process offline. Premium cannot make inaccessible material available. If the recording becomes inaccessible, unfinished checks remain unresolved. Share the finished record only within your reuse rights.
+Processing time and accuracy vary with the source, audio and connection. Damas does not download media, embed subtitles or process offline. If the recording becomes inaccessible, unfinished checks remain unresolved. Share the finished record only within your reuse rights.
 
 Damas Technologies LLC

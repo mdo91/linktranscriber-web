@@ -4,7 +4,7 @@ description: "공개 릴스의 음성과 화면 자막을 따로 확인하고, �
 slug: "instagram-speech-caption-check"
 locale: "ko"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "인스타그램 영상 텍스트"
 topics: ["음성과 화면 글자"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 인스타그램 영상의 텍스트를 만들 때는 지원되는 공개 릴스의 음성을 Damas로 받아쓰고, 화면 자막은 직접 확인해 별도로 기록하세요. 들은 말, 화면에서 읽은 글자, 둘 사이의 차이를 나누면 자막을 실제 발언으로 섞지 않을 수 있습니다. Damas는 편집하고 복사할 수 있는 기록을 제공하며 비교는 수작업입니다.
 
+iPhone에서는 iOS 18.6 이상과 인터넷이 필요합니다. 온라인 처리와 구매에는 Apple로 로그인하고 AI 처리 동의를 확인하세요. 처리에는 미디어 분과 Insight 크레딧이 사용됩니다. 확정 전에 잔액, 사용 내역과 처리 비용을 확인하세요. 이용 가능한 요금제와 선택형 추가 팩은 앱에 표시됩니다.
+
 ## 릴스와 음성 기록 준비하기
 
-Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 영상 링크를 지원합니다. iPhone에서는 iOS 18.6 이상, 인터넷, Premium, AI 처리 동의가 필요합니다. 처리 권한이 있는 자료만 제출하세요. 비공개, 접근 제한, 실시간 영상은 지원되지 않으며 공개 원본도 접근할 수 없으면 처리에 실패할 수 있습니다.
+Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 영상 링크를 지원합니다. 처리 권한이 있는 자료만 제출하세요. 비공개, 접근 제한, 실시간 영상은 지원되지 않으며 공개 원본도 접근할 수 없으면 처리에 실패할 수 있습니다.
 
 1. Instagram에서 릴스를 열고 원본 링크를 메모에 남기세요. 확인하려는 내용이 들리는 음성에 포함되는지 살펴보세요.
 2. 지원되는 링크를 Damas에 입력하고 현재 받아쓰기 안내와 AI 처리 동의를 확인하세요.
@@ -51,6 +53,6 @@ Damas는 최대 90분의 YouTube, Instagram, X 공개 주문형 영상 링크를
 
 첫 단계는 [받아쓰기 안내](/ko/guides/transcribe-social-video-link-iphone/), 다른 언어로 읽기는 70개 언어로 제공되는 [텍스트 번역](/ko/guides/translate-social-video-iphone/)을 참고하세요. 차이를 확인한 뒤 [앱 내 요약](/ko/guides/summarize-video-transcript-iphone/)으로 개요를 볼 수 있습니다.
 
-처리 시간과 정확도는 달라집니다. 미디어 다운로드, 더빙, 자막 삽입, 오프라인 처리는 지원하지 않습니다. Premium도 접근 제한을 우회하지 않습니다. 원본을 볼 수 없게 되면 끝내지 못한 검토는 미확인으로 남기고 공유 권한을 지키세요.
+처리 시간과 정확도는 달라집니다. 미디어 다운로드, 더빙, 자막 삽입, 오프라인 처리는 지원하지 않습니다. 원본을 볼 수 없게 되면 끝내지 못한 검토는 미확인으로 남기고 공유 권한을 지키세요.
 
 Damas Technologies LLC

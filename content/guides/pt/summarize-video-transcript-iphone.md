@@ -4,7 +4,7 @@ description: "Resuma uma transcrição de vídeo com o Damas no iPhone e confira
 slug: "summarize-video-transcript-iphone"
 locale: "pt"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "resumir aula do youtube"
 topics: ["resumir transcrição de vídeo", "resumo de vídeo", "iPhone"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "translate-social-video-iphone"
 translationKey: "summarize-video-transcript-iphone"
 ---
 
-Para resumir uma aula do YouTube, forneça ao Damas um link público compatível e use a transcrição e o resumo integrado. Confira o resumo na gravação antes de transformá-lo em notas de estudo. Perguntas de revisão podem ser escritas por você ou elaboradas numa etapa opcional em outro LLM.
+Para resumir um vídeo público compatível no Damas, crie uma transcrição e escolha um resumo curto ou detalhado, no estilo Padrão ou Profissional. Indique tema, público ou contexto e o idioma de saída. Preserve a transcrição original e salve o resultado de IA separadamente; confira os detalhes na fonte. O Damas também oferece guias de estudo, testes com respostas explicadas e cartões de pergunta e resposta.
+
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
 
 ## Comece com uma fonte compatível
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. Você precisa de iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Envie apenas conteúdo que você tem autorização para processar.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. Envie apenas conteúdo que você tem autorização para processar.
 
 Se a transcrição tiver trechos incertos, confira-os primeiro com a gravação. Resumir um texto impreciso pode carregar os mesmos erros para uma versão mais curta.
 
@@ -47,9 +49,9 @@ Use este modelo ilustrativo para preencher manualmente; ele não é um formato a
 - Exemplo: registre o exemplo realmente usado, com números e unidades.
 - Dúvida: marque palavras incertas ou informações que dependem da imagem.
 
-## Opcional: crie um rascunho de perguntas em outro LLM
+## Oriente o resultado de IA no Damas
 
-Copie a transcrição revisada para outro serviço somente se tiver autorização para compartilhá-la ali. É um fluxo externo separado, sem integração com o Damas nem recurso próprio de cartões de estudo. Exemplo de comando para copiar:
+Escolha a ferramenta de IA adequada no Damas e informe tema, público ou contexto e idioma de saída. O exemplo abaixo ilustra um contexto baseado na fonte; confira o resultado com a transcrição e o vídeo. Preserve a transcrição original e salve o resultado de IA separadamente.
 
 > Use apenas a transcrição abaixo para elaborar cinco perguntas de revisão com respostas curtas. Inclua uma pergunta sobre uma exceção ou limitação. Não acrescente fatos externos. Marque respostas ausentes como “não informado”. Separe paráfrases de citações literais. Transcrição: [cole o texto conferido].
 
@@ -57,6 +59,6 @@ Confira cada resposta na gravação e tente responder sem consultar as notas. Re
 
 Para obter o texto completo, consulte o [guia de transcrição](/pt/guides/transcribe-social-video-link-iphone/). Para aulas em outro idioma, veja o [guia de tradução](/pt/guides/translate-social-video-iphone/). O Damas fornece texto editável e copiável e uma visão geral; o material de estudo personalizado precisa da sua revisão.
 
-O tempo e a precisão variam. O Damas não baixa mídia, não incorpora legendas e não processa offline. Mesmo com Premium, fontes inacessíveis podem falhar.
+O tempo e a precisão variam. O Damas não baixa mídia, não incorpora legendas e não processa offline.
 
 Damas Technologies LLC

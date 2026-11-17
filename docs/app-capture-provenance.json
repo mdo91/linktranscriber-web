@@ -1,0 +1,113 @@
+{
+  "product": "Damas",
+  "captured_on": "2026-11-17",
+  "device": "iPhone 18 Pro",
+  "runtime": "iOS 27.0",
+  "device_uuid": "4007035B-C765-4A7C-B3A9-DF1E2F23D6BB",
+  "bundle_id": "com.damas.ai.recording.storecapture",
+  "configuration": "V3Staging (DEBUG)",
+  "data": "Original offline sample: Make room for focused work",
+  "renderer": "Production SwiftUI RecordingDetailsView and InsightResultView",
+  "network_processing": false,
+  "purchases": false,
+  "scenes": [
+    "transcript",
+    "summary",
+    "mind-map",
+    "checklist",
+    "quiz",
+    "flashcards"
+  ],
+  "map_capture_zoom": 0.65,
+  "interaction_state": {
+    "checklist": "First two actions checked",
+    "quiz": "First answer selected correctly with explanation",
+    "flashcards": "First answer revealed"
+  },
+  "devices": {
+    "iphone_original": {
+      "name": "iPhone 18 Pro",
+      "runtime": "iOS 27.0",
+      "uuid": "09DCFE75-8A63-4973-8106-30FE5A208CA0",
+      "scenes": [
+        "transcript",
+        "summary",
+        "checklist",
+        "quiz",
+        "flashcards"
+      ]
+    },
+    "iphone_clean_map": {
+      "name": "Damas Website Capture (iPhone 18 Pro)",
+      "runtime": "iOS 27.0",
+      "uuid": "4007035B-C765-4A7C-B3A9-DF1E2F23D6BB",
+      "scenes": [
+        "mind-map"
+      ],
+      "account": "none",
+      "zoom": 0.65,
+      "nodes": 4
+    },
+    "ipad_supplemental": {
+      "name": "iPad Pro 13-inch (M5)",
+      "runtime": "iOS 27.0",
+      "uuid": "FE37CC02-D12D-4C8C-9798-F1B3FDFED2EF",
+      "scenes": [
+        "mind-map-ipad"
+      ],
+      "zoom": 1.0,
+      "nodes": 5
+    }
+  },
+  "files": {
+    "checklist.png": {
+      "width": 1206,
+      "height": 2622,
+      "bytes": 183578,
+      "sha256": "f219f8b1ee22a968328ac677c6a890db1e3344ba3e1c6184bea343973c1f743f",
+      "visually_reviewed": true
+    },
+    "flashcards.png": {
+      "width": 1206,
+      "height": 2622,
+      "bytes": 186913,
+      "sha256": "e5a195ad9b3ae0bad83566b387ce381611d11c8c5e2f3625939ef360df8f709c",
+      "visually_reviewed": true
+    },
+    "mind-map-ipad.png": {
+      "width": 2064,
+      "height": 2752,
+      "bytes": 575881,
+      "sha256": "05f473e94f66b4a4b03fc677a16d044be6fd0f239cdc8a301d88969f1f995d52",
+      "visually_reviewed": true
+    },
+    "mind-map.png": {
+      "width": 1206,
+      "height": 2622,
+      "bytes": 364461,
+      "sha256": "a454207ff0c474c6e565b7b220e746a8c674f4c44e195d583f3e8d4dbf3494e4",
+      "visually_reviewed": true
+    },
+    "quiz.png": {
+      "width": 1206,
+      "height": 2622,
+      "bytes": 231667,
+      "sha256": "948f880c8bc1c335005ab056dae6b847fddda3773c6c1b565550ea05d4ad2e29",
+      "visually_reviewed": true
+    },
+    "summary.png": {
+      "width": 1206,
+      "height": 2622,
+      "bytes": 187957,
+      "sha256": "a45056336258b65f929073ffc2f93c56026b3443db827a7fa34964c932aafa07",
+      "visually_reviewed": true
+    },
+    "transcript.png": {
+      "width": 1206,
+      "height": 2622,
+      "bytes": 653881,
+      "sha256": "f19bfdf99d559009756b795e60f80ed9ab9e773dd36d783e2d9b89116ad24510",
+      "visually_reviewed": true
+    }
+  }
+}

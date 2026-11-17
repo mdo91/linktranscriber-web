@@ -4,7 +4,7 @@ description: "X klibindeki doğrulanmış konuşmayı, gönderi yorumunu ve eksi
 slug: "x-summary-post-context"
 locale: "tr"
 publishedAt: "2026-10-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "x videosunun bağlamını koruyarak özet çıkarma"
 topics: ["X videosunda bağlam"]
@@ -15,9 +15,11 @@ translationKey: "x-summary-post-context"
 
 X videosunun bağlamını koruyarak özet çıkarmak için Damas’ta döküm ve uygulama içi özet hazırlayın, ardından klibi gönderinin yazılı yorumundan ayrı inceleyin. Konuşmacının söylediklerini, hesabın eklediklerini ve klibin kanıtlamadığı noktaları ayırın. Damas düzenlenebilir ve kopyalanabilir metin sunar; bu kaynak kaydını siz hazırlarsınız.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Klibi ve genel bakışı hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki herkese açık, isteğe bağlı izlenen, en fazla 90 dakikalık desteklenen video bağlantılarını kabul eder. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca izinli içeriği işleyin. Özel, kısıtlı ve canlı videolar desteklenmez; açık kaynaklar da erişilemez olabilir.
+Damas, YouTube, Instagram ve X üzerindeki herkese açık, isteğe bağlı izlenen, en fazla 90 dakikalık desteklenen video bağlantılarını kabul eder. Yalnızca izinli içeriği işleyin. Özel, kısıtlı ve canlı videolar desteklenmez; açık kaynaklar da erişilemez olabilir.
 
 1. X gönderisini açıp özgün bağlantıyı saklayın. Yazılı yorumu kendiniz okuyun. Hesabın kendi kaydını mı başkasının klibini mi paylaştığı belirlenemiyorsa açık bırakın.
 2. Desteklenen bağlantıyı Damas’a girin. Yapay zekâ onayını okuyup güncel döküm ve uygulama içi özet yönergelerini izleyin.
@@ -48,6 +50,6 @@ Harici LLM gerekmez. İsterseniz kopyalanmış metni başka bir LLM’de biçiml
 
 Tam metin için [döküm rehberine](/tr/guides/transcribe-social-video-link-iphone/) bakın. [Özet rehberi](/tr/guides/summarize-video-transcript-iphone/) genel bakışı açıklar; tam sözleri aktarmadan önce [alıntı doğrulamayı](/tr/guides/verify-interview-quotes/) kullanın.
 
-Süre ve doğruluk kaynağa, sese ve bağlantıya göre değişir. Damas medya indirmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium erişim kısıtını aşmaz. Klip erişilemezse tamamlanmamış kontrolleri açık bırakın ve paylaşırken yeniden kullanım izinlerine uyun.
+Süre ve doğruluk kaynağa, sese ve bağlantıya göre değişir. Damas medya indirmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Klip erişilemezse tamamlanmamış kontrolleri açık bırakın ve paylaşırken yeniden kullanım izinlerine uyun.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "用 Damas 文字稿寻找引用候选，再对照原视频核实�
 slug: "verify-interview-quotes"
 locale: "zh-hans"
 publishedAt: "2026-10-22"
-updatedAt: "2026-10-22"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "核实视频访谈中的引用"
 topics: ["核实视频访谈中的引用", "Damas"]
@@ -15,9 +15,11 @@ translationKey: "verify-interview-quotes"
 
 要核实视频访谈中的引用，先用 Damas 生成文字稿，再回到原视频逐段重听候选引文。确认准确措辞、发言者和前面的提问后，再决定是否引用。文字稿方便寻找材料，但验证引文需要对照原始录音。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备来源与文字稿
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。在 iPhone 上使用时，需要 iOS 18.6 或更高版本、互联网连接、Premium 和 AI 处理同意。请只提交有权处理的内容。私密、访问受限、直播或无法访问的来源不适合此流程。公开链接也不保证一定能处理成功。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。请只提交有权处理的内容。私密、访问受限、直播或无法访问的来源不适合此流程。公开链接也不保证一定能处理成功。
 
 1. 在原平台打开访谈，把链接和标题保存在笔记里。
 2. 将支持的链接输入 Damas，按当前应用指引使用转写流程，并阅读 AI 处理同意内容。

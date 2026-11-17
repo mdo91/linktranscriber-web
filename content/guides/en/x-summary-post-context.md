@@ -4,7 +4,7 @@ description: "Summarize a public X clip with Damas, then separate checked speech
 slug: "x-summary-post-context"
 locale: "en"
 publishedAt: "2026-10-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "summarize x video without losing context"
 topics: ["X video context"]
@@ -15,9 +15,11 @@ translationKey: "x-summary-post-context"
 
 To summarize an X video without losing context, use Damas for the transcript and built-in summary, then check the clip separately from the post’s written commentary. Record what the speaker actually says, what the posting account adds and what the clip cannot establish. Damas provides editable, copyable text; you make this attribution record manually.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the clip and an overview
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, you need iOS 18.6 or later, internet, Premium and consent for AI processing. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public media can also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public media can also be inaccessible.
 
 1. Open the X post and keep its original link. Read the post text yourself and note whether the account is posting its own recording or sharing someone else’s clip; leave this uncertain if you cannot establish it.
 2. Provide the supported video link in Damas and follow the current instructions for transcription and the built-in summary. Review AI consent before proceeding.
@@ -48,6 +50,6 @@ No external LLM is needed. If you optionally ask another LLM to format copied te
 
 Start with [video transcription](/guides/transcribe-social-video-link-iphone/) for the full text. The [summary guide](/guides/summarize-video-transcript-iphone/) explains the overview; use [quotation checking](/guides/verify-interview-quotes/) before repeating exact words.
 
-Processing time and accuracy vary with the source, audio and connection. Damas does not download media, dub speech, embed subtitles or process offline. Premium cannot bypass source restrictions. If the clip becomes inaccessible, keep unfinished checks unresolved and share only within your reuse rights.
+Processing time and accuracy vary with the source, audio and connection. Damas does not download media, dub speech, embed subtitles or process offline. If the clip becomes inaccessible, keep unfinished checks unresolved and share only within your reuse rights.
 
 Damas Technologies LLC

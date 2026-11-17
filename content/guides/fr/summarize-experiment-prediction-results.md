@@ -4,7 +4,7 @@ description: "Gardez séparés le résultat prévu, l’observation et l’expli
 slug: "summarize-experiment-prediction-results"
 locale: "fr"
 publishedAt: "2026-11-15"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Comment résumer une expérience présentée dans un cours YouTube en distinguant prévision et résultat ?"
 topics: ["Résumé d’expériences"]
@@ -15,9 +15,11 @@ translationKey: "summarize-experiment-prediction-results"
 
 Pour résumer une expérience dans un cours YouTube, utilisez la transcription et le résumé intégré de Damas pour retrouver la démonstration, puis séparez prévision, observation et explication. Comparez le résultat à ce qui était annoncé avant de rédiger le texte court. Vous construisez cette fiche à la main ; Damas fournit du texte à lire, modifier et copier.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer la démonstration complète
 
-Damas accepte les liens vidéo publics à la demande compatibles de YouTube, Instagram et X, jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande compatibles de YouTube, Instagram et X, jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
 
 1. Gardez le lien original et le titre. Choisissez une expérience précise.
 2. Fournissez le lien compatible dans Damas. Suivez les indications actuelles pour la transcription et le résumé intégré, après lecture du consentement IA.
@@ -56,6 +58,6 @@ Vérifiez : essai identifié, conditions, prévision, observation, comparaison, 
 
 Aucun LLM externe n’est nécessaire. Une mise en forme facultative dans un autre LLM exige une autorisation de partage et une vérification complète ; ce n’est pas une intégration Damas. Pour la structure de l’explication, consultez les [idées et arguments](/fr/guides/lecture-argument-map/). Avant une citation, suivez la [vérification des propos](/fr/guides/verify-interview-quotes/).
 
-Temps et précision varient. Un résumé fidèle ne valide pas indépendamment l’expérience. Damas ne télécharge pas les médias, n’importe pas de fichiers vidéo, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions. Une source devenue inaccessible laisse les contrôles inachevés ouverts ; respectez vos droits de réutilisation.
+Temps et précision varient. Un résumé fidèle ne valide pas indépendamment l’expérience. Damas ne télécharge pas les médias, n’importe pas de fichiers vidéo, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Une source devenue inaccessible laisse les contrôles inachevés ouverts ; respectez vos droits de réutilisation.
 
 Damas Technologies LLC

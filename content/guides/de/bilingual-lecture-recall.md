@@ -4,7 +4,7 @@ description: "Fassen Sie eine Vorlesung in zweisprachigen Notizen zusammen und e
 slug: "bilingual-lecture-recall"
 locale: "de"
 publishedAt: "2026-11-12"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Wie kann ich eine Videovorlesung in zweisprachigen Lernnotizen zusammenfassen und mein Verständnis in beiden Sprachen prüfen?"
 topics: ["Zusammenfassung und zweisprachiges Lernen"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","translate-social-video-iphone","t
 translationKey: "bilingual-lecture-recall"
 ---
 
-Um eine Videovorlesung in zweisprachigen Lernnotizen zusammenzufassen, wählen Sie mit der Damas-Zusammenfassung einen Begriff oder Zusammenhang aus und prüfen seine vollständige Erklärung in Originaltranskript und Übersetzung. Erklären Sie die Idee anschließend ohne die Zielantwort in beiden Sprachrichtungen. So können Sie entscheiden, ob Sie ein Wort oder die Erklärung selbst erneut ansehen müssen. Notizen und Abrufübung erstellen Sie von Hand.
+Bereiten Sie zum Lernen Transkript und Übersetzung in Damas vor und erstellen Sie einen Lernleitfaden, Quizfragen mit erklärten Antworten oder Frage-Antwort-Karteikarten. Wählen Sie die Sprache und beschreiben Sie Begriff oder Zielgruppe als Kontext. Prüfen Sie jede Antwort an der Originalerklärung. Die zweisprachige Abrufübung unten bleibt Ihre eigene Übung, ohne Versprechen einer automatischen Benotung.
+
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
 
 ## Quelle, Überblick und Übersetzung vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verwenden Sie nur Material, das Sie verarbeiten dürfen. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verwenden Sie nur Material, das Sie verarbeiten dürfen. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
 
 1. Wählen Sie eine Lernfrage und behalten Sie Link und Titel der Vorlesung.
 2. Geben Sie den unterstützten Link in Damas ein. Folgen Sie den aktuellen Hinweisen zu Originaltranskription, integrierter Zusammenfassung und Übersetzung in eine unterstützte Zielsprache. Lesen Sie die KI-Einwilligung.
@@ -50,10 +52,10 @@ Wird beim Rückweg daraus „Eine Möglichkeit auswählen und danach vergleichen
 
 Ändern Sie nur den betroffenen Teil und versuchen Sie beide Richtungen erneut. Die Notiz ist eine Arbeitshilfe, kein automatischer Test oder Nachweis eines Lernerfolgs. Ergänzen Sie keine Erklärung, Beispiele oder Zitate als angebliche Aussagen des Vortragenden.
 
-Ein externes LLM ist nicht nötig. Eine optionale Formatierung in einem anderen LLM erfordert Erlaubnis zur Textweitergabe und Prüfung aller Vorschläge. Sie ist keine Damas-Integration, automatische Karteikarte oder Benotung.
+Damas bietet Zusammenfassungen, bearbeitbare Mindmaps, Aktionschecklisten, Schritt-für-Schritt-Anleitungen, Lernleitfäden, Quizfragen mit erklärten Antworten und Frage-Antwort-Karteikarten. Geben Sie Thema, Zielgruppe oder Kontext sowie die Ausgabesprache an. Prüfen Sie jede vorgeschlagene Beziehung oder Antwort an der Quelle; die detaillierten Vergleichs- und Prüfmethoden in diesem Leitfaden erfordern weiterhin Ihr Urteil.
 
 Für die Ausgangstexte helfen [Übersetzung](/de/guides/translate-social-video-iphone/) und [Sinnvergleich](/de/guides/transcript-translation-meaning-check/). Behalten Sie die Quelle bei den kopierten Notizen und beachten Sie Ihre Nutzungsrechte. Wird die Aufnahme unzugänglich, bleiben unvollständige Prüfungen offen.
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Zugangsbeschränkungen.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline.
 
 Damas Technologies LLC

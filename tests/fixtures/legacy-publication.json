@@ -1,0 +1,1340 @@
+{
+  "sourceCommit": "54ee499fc72acfbe5369556ab9b0a84cc23a164b",
+  "routes": [
+    "/",
+    "/guides/",
+    "/media-kit/",
+    "/privacy-policy.html",
+    "/terms-of-use.html",
+    "/support.html",
+    "/fr/",
+    "/fr/guides/",
+    "/fr/media-kit/",
+    "/fr/privacy-policy.html",
+    "/fr/terms-of-use.html",
+    "/fr/support.html",
+    "/de/",
+    "/de/guides/",
+    "/de/media-kit/",
+    "/de/privacy-policy.html",
+    "/de/terms-of-use.html",
+    "/de/support.html",
+    "/ja/",
+    "/ja/guides/",
+    "/ja/media-kit/",
+    "/ja/privacy-policy.html",
+    "/ja/terms-of-use.html",
+    "/ja/support.html",
+    "/ko/",
+    "/ko/guides/",
+    "/ko/media-kit/",
+    "/ko/privacy-policy.html",
+    "/ko/terms-of-use.html",
+    "/ko/support.html",
+    "/ms/",
+    "/ms/guides/",
+    "/ms/media-kit/",
+    "/ms/privacy-policy.html",
+    "/ms/terms-of-use.html",
+    "/ms/support.html",
+    "/pt/",
+    "/pt/guides/",
+    "/pt/media-kit/",
+    "/pt/privacy-policy.html",
+    "/pt/terms-of-use.html",
+    "/pt/support.html",
+    "/ru/",
+    "/ru/guides/",
+    "/ru/media-kit/",
+    "/ru/privacy-policy.html",
+    "/ru/terms-of-use.html",
+    "/ru/support.html",
+    "/zh-hans/",
+    "/zh-hans/guides/",
+    "/zh-hans/media-kit/",
+    "/zh-hans/privacy-policy.html",
+    "/zh-hans/terms-of-use.html",
+    "/zh-hans/support.html",
+    "/es/",
+    "/es/guides/",
+    "/es/media-kit/",
+    "/es/privacy-policy.html",
+    "/es/terms-of-use.html",
+    "/es/support.html",
+    "/tr/",
+    "/tr/guides/",
+    "/tr/media-kit/",
+    "/tr/privacy-policy.html",
+    "/tr/terms-of-use.html",
+    "/tr/support.html"
+  ],
+  "guides": [
+    {
+      "path": "/de/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/de/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/de/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/de/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/de/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/de/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/de/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/de/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/de/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/de/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/de/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/de/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/de/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/de/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/de/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/de/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/de/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/de/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-10-25"
+    },
+    {
+      "path": "/de/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/de/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/de/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/guides/interview-theme-summary/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-10-25"
+    },
+    {
+      "path": "/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/guides/youtube-missing-transcript/",
+      "translationKey": "youtube-missing-transcript",
+      "publishedAt": "2026-11-04"
+    },
+    {
+      "path": "/es/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/es/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/es/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/es/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/es/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/es/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/es/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/es/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/es/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/es/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/es/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/es/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/es/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/es/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/es/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/es/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/es/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/es/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-10-25"
+    },
+    {
+      "path": "/es/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/es/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/es/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/es/guides/youtube-missing-transcript/",
+      "translationKey": "youtube-missing-transcript",
+      "publishedAt": "2026-11-04"
+    },
+    {
+      "path": "/fr/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/fr/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/fr/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/fr/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/fr/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/fr/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/fr/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/fr/guides/lecture-study-notes/",
+      "translationKey": "lecture-study-notes",
+      "publishedAt": "2026-10-25"
+    },
+    {
+      "path": "/fr/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/fr/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/fr/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/fr/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/fr/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/fr/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/fr/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/fr/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/fr/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/fr/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/fr/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/fr/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/fr/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/fr/guides/youtube-translation-without-captions/",
+      "translationKey": "youtube-translation-without-captions",
+      "publishedAt": "2026-11-04"
+    },
+    {
+      "path": "/ja/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-05"
+    },
+    {
+      "path": "/ja/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/ja/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/ja/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/ja/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/ja/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/ja/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/ja/guides/narrated-event-timeline/",
+      "translationKey": "narrated-event-timeline",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/ja/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/ja/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/ja/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/ja/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ja/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ja/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/ja/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ja/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/ja/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/ja/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/ja/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-10-25"
+    },
+    {
+      "path": "/ja/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/ja/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/ja/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/ja/guides/youtube-missing-transcript/",
+      "translationKey": "youtube-missing-transcript",
+      "publishedAt": "2026-11-04"
+    },
+    {
+      "path": "/ko/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-05"
+    },
+    {
+      "path": "/ko/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/ko/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/ko/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/ko/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/ko/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/ko/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/ko/guides/narrated-event-timeline/",
+      "translationKey": "narrated-event-timeline",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/ko/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/ko/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/ko/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/ko/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ko/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ko/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/ko/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ko/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/ko/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/ko/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/ko/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-10-25"
+    },
+    {
+      "path": "/ko/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/ko/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/ko/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/ms/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-05"
+    },
+    {
+      "path": "/ms/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/ms/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/ms/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/ms/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/ms/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/ms/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/ms/guides/narrated-event-timeline/",
+      "translationKey": "narrated-event-timeline",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/ms/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/ms/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/ms/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/ms/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ms/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ms/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/ms/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ms/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/ms/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/ms/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/ms/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-11-06"
+    },
+    {
+      "path": "/ms/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/ms/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/ms/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/pt/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/pt/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/pt/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/pt/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/pt/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/pt/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/pt/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/pt/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/pt/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/pt/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/pt/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/pt/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/pt/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/pt/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/pt/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/pt/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/pt/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/pt/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-11-06"
+    },
+    {
+      "path": "/pt/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/pt/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/pt/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/ru/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-05"
+    },
+    {
+      "path": "/ru/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/ru/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/ru/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/ru/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/ru/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/ru/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/ru/guides/narrated-event-timeline/",
+      "translationKey": "narrated-event-timeline",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/ru/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/ru/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/ru/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/ru/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ru/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ru/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/ru/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/ru/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/ru/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/ru/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/ru/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-11-06"
+    },
+    {
+      "path": "/ru/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/ru/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/ru/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/tr/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/tr/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/tr/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/tr/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/tr/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/tr/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/tr/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/tr/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/tr/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/tr/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/tr/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/tr/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/tr/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/tr/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/tr/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/tr/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/tr/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/tr/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-10-25"
+    },
+    {
+      "path": "/tr/guides/webinar-checked-actions/",
+      "translationKey": "webinar-checked-actions",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/tr/guides/webinar-questions-answers/",
+      "translationKey": "webinar-questions-answers",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "path": "/tr/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    },
+    {
+      "path": "/zh-hans/guides/bilingual-lecture-recall/",
+      "translationKey": "bilingual-lecture-recall",
+      "publishedAt": "2026-11-05"
+    },
+    {
+      "path": "/zh-hans/guides/instagram-speech-caption-check/",
+      "translationKey": "instagram-speech-caption-check",
+      "publishedAt": "2026-10-29"
+    },
+    {
+      "path": "/zh-hans/guides/interview-numerical-comparisons/",
+      "translationKey": "interview-numerical-comparisons",
+      "publishedAt": "2026-11-10"
+    },
+    {
+      "path": "/zh-hans/guides/interview-theme-matrix/",
+      "translationKey": "interview-theme-matrix",
+      "publishedAt": "2026-10-30"
+    },
+    {
+      "path": "/zh-hans/guides/lecture-analogy-limits/",
+      "translationKey": "lecture-analogy-limits",
+      "publishedAt": "2026-11-16"
+    },
+    {
+      "path": "/zh-hans/guides/lecture-argument-map/",
+      "translationKey": "lecture-argument-map",
+      "publishedAt": "2026-11-12"
+    },
+    {
+      "path": "/zh-hans/guides/lecture-definition-boundaries/",
+      "translationKey": "lecture-definition-boundaries",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "path": "/zh-hans/guides/narrated-event-timeline/",
+      "translationKey": "narrated-event-timeline",
+      "publishedAt": "2026-11-13"
+    },
+    {
+      "path": "/zh-hans/guides/product-demo-requirements/",
+      "translationKey": "product-demo-requirements",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "path": "/zh-hans/guides/share-checked-video-notes/",
+      "translationKey": "share-checked-video-notes",
+      "publishedAt": "2026-11-02"
+    },
+    {
+      "path": "/zh-hans/guides/summarize-experiment-prediction-results/",
+      "translationKey": "summarize-experiment-prediction-results",
+      "publishedAt": "2026-11-15"
+    },
+    {
+      "path": "/zh-hans/guides/summarize-video-transcript-iphone/",
+      "translationKey": "summarize-video-transcript-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/zh-hans/guides/transcribe-social-video-link-iphone/",
+      "translationKey": "transcribe-social-video-link-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/zh-hans/guides/transcript-translation-meaning-check/",
+      "translationKey": "transcript-translation-meaning-check",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "path": "/zh-hans/guides/translate-social-video-iphone/",
+      "translationKey": "translate-social-video-iphone",
+      "publishedAt": "2026-10-20"
+    },
+    {
+      "path": "/zh-hans/guides/tutorial-checked-checklist/",
+      "translationKey": "tutorial-checked-checklist",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "path": "/zh-hans/guides/tutorial-result-mismatch/",
+      "translationKey": "tutorial-result-mismatch",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "path": "/zh-hans/guides/verify-interview-quotes/",
+      "translationKey": "verify-interview-quotes",
+      "publishedAt": "2026-10-22"
+    },
+    {
+      "path": "/zh-hans/guides/video-bilingual-glossary/",
+      "translationKey": "video-bilingual-glossary",
+      "publishedAt": "2026-10-24"
+    },
+    {
+      "path": "/zh-hans/guides/x-summary-post-context/",
+      "translationKey": "x-summary-post-context",
+      "publishedAt": "2026-10-31"
+    }
+  ],
+  "assets": [
+    {
+      "file": "public/apple-touch-icon.png",
+      "sha256": "0e137cd37cea8680bd83afb2748559c0aa4279eb07719412d14ce00e1cc2dc28"
+    },
+    {
+      "file": "public/assets/01-links.png",
+      "sha256": "2b712dc32ea7c5edbc2d753f66e53b5df62720ee8416f8ae6d503c2f442f9f5e"
+    },
+    {
+      "file": "public/assets/01-links.webp",
+      "sha256": "92e893387b78124c3fd6612ae6499c198d794f2eb80753bbf15fd7730702e915"
+    },
+    {
+      "file": "public/assets/02-languages.png",
+      "sha256": "8613e05923ac5b3483d08323fde6ab45c902ce529f8ed16fea4277ef45cb7904"
+    },
+    {
+      "file": "public/assets/02-languages.webp",
+      "sha256": "7131a13a57114fb46e5b2a7cc73b05bac2d0fab89d3b6ed5e36a52ef6a3647e7"
+    },
+    {
+      "file": "public/assets/03-transcript.png",
+      "sha256": "26bc2da848c135339aa351cb1251fc070eefe7d66641b0b6942bb5e3741cf6cc"
+    },
+    {
+      "file": "public/assets/03-transcript.webp",
+      "sha256": "42eee09729386281fc12153e94c7b44b4d2eb37bd3d082514e922ea8cc4e578c"
+    },
+    {
+      "file": "public/assets/04-summary.png",
+      "sha256": "601c798947963e110cba5b070ac9e6e7ab85ba7c27e9dfb2980421f403c43d08"
+    },
+    {
+      "file": "public/assets/04-summary.webp",
+      "sha256": "ee95bd376fe14172bd84b9a8dba9b4df5dfb9d2579bb4c8227ee861a84b398f0"
+    },
+    {
+      "file": "public/assets/06-long-translation.png",
+      "sha256": "6c7f77b4e529389bb987914e2a30f7fab624aadfdd6e08ac25e71ade5c0c04a2"
+    },
+    {
+      "file": "public/assets/06-long-translation.webp",
+      "sha256": "f16ee917fa90451eeabcbcd33d2ccb4da3c0caabb34c36d0f53fbcb88bfd5e71"
+    },
+    {
+      "file": "public/assets/damas-editorial-artwork.png",
+      "sha256": "679e23487e67397c0b8a9780de645ac783ceeb558e82a112ef55c70ff1baa7d7"
+    },
+    {
+      "file": "public/assets/damas-editorial-artwork.webp",
+      "sha256": "d2dba3e34fb15edd53aca7002bd4c1daca950c6ccf1943949e098617a319124d"
+    },
+    {
+      "file": "public/assets/damas-icon.png",
+      "sha256": "248298f92791dc644a712cbf63fac99edd0e7a51ef1c3e766c3e23cfb32967de"
+    },
+    {
+      "file": "public/assets/damas-icon.webp",
+      "sha256": "68d329e60e77b92edf56c3a1dadd64a98f99074f54d5d3e34e587ac0c6551e01"
+    },
+    {
+      "file": "public/assets/damas-preview.mp4",
+      "sha256": "6a1c22c314efb87c149513740d017ecead3e5cdc0f974d561116ae027981d1f0"
+    },
+    {
+      "file": "public/favicon.ico",
+      "sha256": "9d48487ac0af913991a9390bb29584c1c3760db02337c16677b7fbd42e806703"
+    },
+    {
+      "file": "public/favicon.png",
+      "sha256": "8a259986995f50b8a793c1fc3ed7e90ec9f6d39e89b4a28c3dc97cbf4e612ed8"
+    },
+    {
+      "file": "public/squatvision-privacy-policy.html",
+      "sha256": "9c98fbb0f048d400e0902337665cfefc39f68124346263edcff3eb3f7a76806a"
+    },
+    {
+      "file": "public/src/styles/cartoon.css",
+      "sha256": "ae826060da194c94118fff2adb2ae1291e1891d1acd6c63df7f256b99c5589ca"
+    }
+  ]
+}

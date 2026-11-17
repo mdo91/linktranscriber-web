@@ -4,7 +4,7 @@ description: "Bina nota mengikut konsep daripada transkrip dan terjemahan, kemud
 slug: "bilingual-lecture-recall"
 locale: "ms"
 publishedAt: "2026-11-05"
-updatedAt: "2026-11-05"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "buat nota dwibahasa daripada kuliah youtube"
 topics: ["Nota belajar dwibahasa"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone", "transcript-translation-meaning-c
 translationKey: "bilingual-lecture-recall"
 ---
 
-Untuk buat nota dwibahasa daripada kuliah YouTube, sediakan transkrip bahasa asal dan terjemahan dalam Damas, kemudian catat bukti dan penerangan sendiri bagi satu konsep. Tutup satu bahasa dan cuba menerangkan dalam bahasa yang lain, kemudian tukar arah. Bezakan kesukaran mencari ungkapan daripada kesukaran memahami hubungan konsep untuk memilih bahagian yang perlu diulang kaji. Nota dan latihan ini anda buat sendiri; ia bukan pemarkahan automatik Damas.
+Untuk belajar, sediakan transkrip dan terjemahan dalam Damas, kemudian buat panduan belajar, kuiz dengan jawapan berpenjelasan atau kad imbas soal jawab. Pilih bahasa dan nyatakan konsep atau khalayak sebagai konteks. Semak jawapan dengan penjelasan asal. Latihan ingatan dwibahasa di bawah kekal latihan sendiri, tanpa janji pemarkahan automatik.
+
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
 
 ## Sediakan dua teks daripada kuliah yang sama
 
-Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Gunakan hanya bahan yang anda berhak proses. Video peribadi, terhad dan langsung tidak disokong; video awam juga boleh tidak dapat dicapai untuk pemprosesan.
+Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong sehingga 90 minit. Gunakan hanya bahan yang anda berhak proses. Video peribadi, terhad dan langsung tidak disokong; video awam juga boleh tidak dapat dicapai untuk pemprosesan.
 
 1. Buka kuliah dan simpan pautan asal serta tajuk. Tulis soalan yang mahu anda terangkan selepas belajar.
 2. Masukkan pautan yang disokong dalam Damas. Ikuti arahan aplikasi semasa untuk transkripsi bahasa asal dan terjemahan kepada bahasa pembelajaran yang disokong. Baca persetujuan AI.
@@ -57,9 +59,9 @@ Ini contoh pengajaran rekaan, bukan petikan kuliah sebenar. Bayangkan kuliah men
 
 Simpan jawapan sebelum dan selepas pembetulan bersama petikan untuk dirujuk semula. Jangan anggap nombor ciptaan sendiri sebagai contoh pensyarah, atau mereka fakta, petikan, pemilik tugas dan tarikh akhir.
 
-## Pilihan: draf nota dalam LLM lain
+## Pandu hasil AI dalam Damas
 
-Anda boleh menulis nota secara manual. Salin teks yang disemak ke perkhidmatan lain hanya jika anda berhak berkongsi dengannya. Ini langkah draf luaran, bukan integrasi atau ciri pembelajaran automatik Damas. Contoh arahan untuk disalin:
+Pilih alat AI yang sesuai dalam Damas dan nyatakan topik, khalayak atau konteks serta bahasa hasil. Contoh berikut menunjukkan konteks berasaskan sumber; semak hasil dengan transkrip dan video. Kekalkan transkrip asal dan simpan hasil AI secara berasingan.
 
 > Gunakan teks asal dan terjemahan di bawah sahaja untuk mendraf nota dwibahasa tentang satu konsep. Asingkan soalan, petikan bukti asal, terjemahan sepadan, penerangan yang mengekalkan syarat dan perkara belum disahkan. Tambahkan soalan latihan penerangan dalam dua arah. Jangan tambah pengetahuan luar, contoh atau petikan rekaan. Jika jawapan tiada, tulis “tidak dinyatakan”. Jangan beri markah kefahaman. Sumber: [pautan]. Asal: [teks]. Terjemahan: [teks].
 
@@ -67,6 +69,6 @@ Semak setiap padanan dan penerangan dengan video, lalu buang cadangan tanpa bukt
 
 Rujuk [panduan ringkasan](/ms/guides/summarize-video-transcript-iphone/) untuk gambaran keseluruhan dan [panduan terjemahan](/ms/guides/translate-social-video-iphone/) untuk bahasa sasaran. Jika maksud bahan meragukan, lakukan [semakan transkrip dan terjemahan](/ms/guides/transcript-translation-meaning-check/) sebelum berlatih. Damas menyediakan teks yang boleh dibaca, disunting dan disalin supaya anda boleh membina nota sambil merujuk bukti.
 
-Masa pemprosesan dan ketepatan bergantung pada sumber, audio serta sambungan. Muat turun media, import fail, alih suara, pembenaman sari kata dan pemprosesan luar talian tidak disokong. Premium tidak memintas sekatan sumber. Patuhi hak penggunaan apabila berkongsi.
+Masa pemprosesan dan ketepatan bergantung pada sumber, audio serta sambungan. Muat turun media, import fail, alih suara, pembenaman sari kata dan pemprosesan luar talian tidak disokong. Patuhi hak penggunaan apabila berkongsi.
 
 Damas Technologies LLC

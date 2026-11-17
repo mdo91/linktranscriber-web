@@ -4,7 +4,7 @@ description: "Separa la voz de un Reel público de sus textos en pantalla, compr
 slug: "instagram-speech-caption-check"
 locale: "es"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "transcribir video instagram"
 topics: ["Voz y texto en pantalla"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 Para transcribir un vídeo de Instagram sin mezclar fuentes, usa Damas para obtener la voz de un Reel público compatible y lee los textos en pantalla por separado. Registra lo que has oído, lo que has leído y las discrepancias en campos distintos. Damas proporciona texto editable y copiable; la comparación es manual.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Prepara el Reel y la transcripción
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Procesa solo material autorizado. No se admiten vídeos privados, restringidos ni en directo; una fuente pública también puede estar inaccesible.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Procesa solo material autorizado. No se admiten vídeos privados, restringidos ni en directo; una fuente pública también puede estar inaccesible.
 
 1. Abre el Reel en Instagram y conserva su enlace original. Comprueba si contiene voz audible relacionada con tu pregunta.
 2. Facilita el enlace compatible en Damas. Sigue las indicaciones actuales de transcripción y lee el consentimiento de IA.
@@ -51,6 +53,6 @@ Guarda juntos enlace original, voz comprobada, nota visual separada y preguntas 
 
 Para empezar, consulta la [transcripción desde un enlace](/es/guides/transcribe-social-video-link-iphone/). Para leer la voz en otro idioma, utiliza la [traducción en texto](/es/guides/translate-social-video-iphone/), disponible a 70 idiomas. Tras comprobar las discrepancias, el [resumen integrado](/es/guides/summarize-video-transcript-iphone/) puede ayudarte a orientarte.
 
-El tiempo y la precisión varían. Damas no descarga archivos multimedia, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Premium no elude restricciones de acceso. Si el Reel deja de estar disponible, conserva las comprobaciones incompletas como pendientes y respeta tus permisos al compartir.
+El tiempo y la precisión varían. Damas no descarga archivos multimedia, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Si el Reel deja de estar disponible, conserva las comprobaciones incompletas como pendientes y respeta tus permisos al compartir.
 
 Damas Technologies LLC

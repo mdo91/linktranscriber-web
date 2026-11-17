@@ -4,7 +4,7 @@ description: "Untuk menyusun tema dan percanggahan daripada temu bual video, sed
 slug: "interview-theme-matrix"
 locale: "ms"
 publishedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "susun tema dan percanggahan daripada temu bual video"
 topics: ["Tema dan pandangan temu bual"]
@@ -15,9 +15,11 @@ translationKey: "interview-theme-matrix"
 
 Untuk menyusun tema dan percanggahan daripada temu bual video, sediakan transkrip dalam Damas, kemudian bina jadual mengikut tema dan penutur. Simpan petikan sokongan dan bandingkan syarat setiap pandangan sebelum menyatakan bahawa ia bercanggah. Ringkasan terbina dalam membantu orientasi; jadual dan rumusan perbandingan ialah kerja manual daripada teks yang boleh disunting dan disalin.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan sumber dan transkrip
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Hantar hanya bahan yang anda berhak proses. Kandungan peribadi, terhad, langsung atau tidak boleh diakses tidak sesuai. Pautan awam juga boleh gagal diproses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Hantar hanya bahan yang anda berhak proses. Kandungan peribadi, terhad, langsung atau tidak boleh diakses tidak sesuai. Pautan awam juga boleh gagal diproses.
 
 1. Buka temu bual pada platform asal dan simpan pautan serta tajuknya dalam nota.
 2. Masukkan pautan yang disokong dalam Damas. Gunakan transkripsi mengikut arahan aplikasi semasa dan baca persetujuan AI.

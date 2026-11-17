@@ -4,7 +4,7 @@ description: "Untuk menghasilkan tindakan susulan daripada webinar, dapatkan dan
 slug: "webinar-checked-actions"
 locale: "ms"
 publishedAt: "2026-10-24"
-updatedAt: "2026-10-24"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "hasilkan tindakan susulan daripada webinar"
 topics: ["hasilkan tindakan susulan daripada webinar","Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone","summarize-video-transcript-ipho
 translationKey: "webinar-checked-actions"
 ---
 
-Untuk menghasilkan tindakan susulan daripada webinar, dapatkan dan semak transkrip dalam Damas, kemudian asingkan komitmen jelas, saranan dan cadangan anda sendiri. Tulis senarai secara manual atau, sebagai pilihan, draf dalam LLM lain. Damas menyediakan teks boleh sunting dan ringkasan terbina dalam; senarai tugas tersuai disediakan secara berasingan.
+Untuk menghasilkan tindakan daripada webinar rakaman, dapatkan dan semak transkrip dalam Damas, kemudian buat senarai semak tindakan dalam app. Nyatakan topik, khalayak atau konteks. Asingkan komitmen jelas, saranan dan cadangan sendiri; semak pemilik tugas serta tarikh akhir dengan sumber sebelum menerima butiran yang dijana.
+
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
 
 ## Mulakan dengan sumber yang disokong
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong. Anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Hantar hanya kandungan yang anda berhak proses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong. Hantar hanya kandungan yang anda berhak proses.
 
 ## Hasilkan gambaran yang berguna
 
@@ -42,9 +44,9 @@ Ini contoh pengajaran rekaan, bukan petikan rakaman sebenar. Bayangkan pembentan
 - Pemilik tugas: tidak dinyatakan. Tarikh akhir: tidak dinyatakan. Jangan isikan pembentang atau Jumaat depan.
 - Cadangan sendiri: tanya pasukan sama ada mahu menjalankan ujian. Jangan labelkan sebagai komitmen pembentang.
 
-## Pilihan: arahan untuk LLM lain
+## Pandu hasil AI dalam Damas
 
-Kongsi transkrip yang disemak dengan perkhidmatan lain hanya jika anda dibenarkan. Ini aliran luaran, bukan integrasi Damas atau penciptaan tugas automatik. Contoh untuk disalin:
+Pilih alat AI yang sesuai dalam Damas dan nyatakan topik, khalayak atau konteks serta bahasa hasil. Contoh berikut menunjukkan konteks berasaskan sumber; semak hasil dengan transkrip dan video. Kekalkan transkrip asal dan simpan hasil AI secara berasingan.
 
 > Gunakan transkrip webinar yang disemak ini sahaja. Senaraikan tindakan calon, petikan sokongan, syarat dan status: komitmen jelas, saranan, cadangan saya atau belum disahkan. Isi pemilik tugas dan tarikh akhir hanya jika dikaitkan secara jelas dengan tindakan; selain itu tulis “tidak dinyatakan”. Jangan cipta fakta atau petikan. Asingkan cadangan saya daripada komitmen penutur. Sumber: [pautan]. Transkrip: [teks].
 
@@ -52,6 +54,6 @@ Dengar semula sokongan setiap item dan semak penafian, nama, tarikh serta syarat
 
 Mulakan dengan [panduan transkripsi](/ms/guides/transcribe-social-video-link-iphone/). Gunakan [ringkasan](/ms/guides/summarize-video-transcript-iphone/) untuk gambaran umum dan [terjemahan](/ms/guides/translate-social-video-iphone/) untuk bahasa lain; semak ungkapan penting dengan sumber asal.
 
-Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian. Premium tidak menjadikan sumber yang tidak boleh diakses tersedia.
+Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian.
 
 Damas Technologies LLC

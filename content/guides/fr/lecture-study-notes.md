@@ -4,7 +4,7 @@ description: "Transformez une transcription vérifiée en fiches définition–e
 slug: "lecture-study-notes"
 locale: "fr"
 publishedAt: "2026-10-25"
-updatedAt: "2026-10-25"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "notes de cours à partir d’une vidéo"
 topics: ["notes de cours à partir d’une vidéo","Damas"]
@@ -13,11 +13,13 @@ related: ["translate-social-video-iphone","transcribe-social-video-link-iphone",
 translationKey: "lecture-study-notes"
 ---
 
-Pour créer des notes de cours à partir d’une vidéo, préparez une transcription dans Damas, vérifiez les passages importants à l’écoute, puis classez les définitions, exemples et exceptions. Rédigez ensuite des questions avec des réponses étayées par la source et testez-vous sans regarder les notes. Damas fournit le texte modifiable et copiable ainsi qu’un résumé intégré ; les fiches et questions sont un travail manuel ou une étape facultative dans un autre LLM.
+Pour créer des notes de cours à partir d’une vidéo, préparez et vérifiez sa transcription dans Damas, puis créez un guide d’étude, un quiz avec réponses expliquées ou des cartes question-réponse dans l’app. Précisez la notion, le public ou le contexte et choisissez la langue de sortie. Vérifiez les définitions, exemples, exceptions et réponses dans l’explication originale, puis testez-vous sans regarder les notes. La fiche détaillée ci-dessous reste une méthode de révision personnelle.
+
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
 
 ## Préparer le cours et sa transcription
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez seulement les contenus autorisés. Les vidéos privées, restreintes et en direct ne sont pas prises en charge ; une source publique inaccessible peut également échouer.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez seulement les contenus autorisés. Les vidéos privées, restreintes et en direct ne sont pas prises en charge ; une source publique inaccessible peut également échouer.
 
 1. Choisissez une vidéo compatible et écrivez une question d’apprentissage précise. Conservez le lien original, le titre et le nom de la personne qui enseigne, s’il est indiqué.
 2. Fournissez le lien dans Damas et suivez les indications actuelles de transcription. Lisez le consentement IA avant de poursuivre.
@@ -43,9 +45,9 @@ Cet exemple pédagogique est inventé et ne cite aucun cours réel. Imaginons qu
 
 Ce modèle ne prouve rien sur votre propre vidéo. Gardez seulement les éléments qu’elle étaye, sans inventer de faits, de citations, de responsables ou d’échéances.
 
-## Facultatif : consigne à copier dans un autre LLM
+## Guider le résultat IA dans Damas
 
-Partagez le texte avec cet autre service uniquement si vous en avez le droit. Cette étape externe n’est ni une intégration Damas ni une fonction automatique de cartes de révision.
+Choisissez l’outil IA adapté dans Damas, précisez le sujet, le public ou le contexte et la langue de sortie. L’exemple suivant illustre un contexte centré sur la source ; vérifiez le résultat avec la transcription et la vidéo. Conservez la transcription originale et enregistrez le résultat IA séparément.
 
 > À partir de cette transcription vérifiée uniquement, prépare une fiche par notion : définition reformulée, passage justificatif, exemple donné, condition ou exception et point visuel à revoir. Écris « non indiqué » pour les informations absentes. Propose ensuite des questions de révision avec réponses brèves et passages d’appui, dont une question sur une limite. N’ajoute ni faits extérieurs ni citations inventées. Distingue citation, reformulation et incertitude. Source : [lien]. Texte : [transcription].
 
@@ -55,6 +57,6 @@ Conservez le lien et les questions non résolues avec vos notes finales. Si la s
 
 Pour obtenir le texte, consultez le [guide de transcription](/fr/guides/transcribe-social-video-link-iphone/). Le [résumé](/fr/guides/summarize-video-transcript-iphone/) aide à vous orienter. Pour un cours dans une autre langue, utilisez la [traduction](/fr/guides/translate-social-video-iphone/) et vérifiez le sens avant de préparer les réponses.
 
-Temps de traitement et précision varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne rend pas disponible une source inaccessible.
+Temps de traitement et précision varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion.
 
 Damas Technologies LLC

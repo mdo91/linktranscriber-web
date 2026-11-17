@@ -4,7 +4,7 @@ description: "Ordnen Sie die Beziehungen einer Analogie zu und erhalten Sie ihre
 slug: "lecture-analogy-limits"
 locale: "de"
 publishedAt: "2026-11-16"
-updatedAt: "2026-11-16"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Wie kann ich eine Analogie aus einer Videovorlesung zusammenfassen, ohne sie als Beweis zu behandeln?"
 topics: ["Analogien in Vorlesungen"]
@@ -15,9 +15,11 @@ translationKey: "lecture-analogy-limits"
 
 Um eine Analogie aus einer Videovorlesung zusammenzufassen, suchen Sie mit Damas-Transkript und integrierter Zusammenfassung die vollständige Erklärung. Ordnen Sie nur ausdrücklich erklärte Beziehungen zu und halten Sie die Grenzen fest. Die Zuordnung und Kurzfassung erstellen Sie selbst; Damas liefert lesbaren, bearbeitbaren und kopierbaren Text.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Die vollständige Erklärung finden
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Nutzen Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Nutzen Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
 
 1. Bewahren Sie Originallink und Titel auf. Wählen Sie eine Analogie.
 2. Geben Sie den unterstützten Link in Damas ein. Folgen Sie den aktuellen Hinweisen zu Transkription und integrierter Zusammenfassung und lesen Sie die KI-Einwilligung.
@@ -53,6 +55,6 @@ Prüfen Sie vor dem Kopieren jede Beziehung, ihre Belegstelle und offene Fragen.
 
 Ein externes LLM ist nicht nötig. Freiwilliges Formatieren in einem anderen LLM erfordert die Erlaubnis zur Textweitergabe und die Prüfung jeder Zuordnung. Es ist keine Damas-Integration oder automatische Analyse. Erfinden Sie keine Fakten, Zitate, Zuständigen oder Fristen.
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Videodateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Beschränkungen. Wird die Quelle unzugänglich, bleiben unfertige Prüfungen offen. Beachten Sie die Nutzungsrechte.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Videodateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Wird die Quelle unzugänglich, bleiben unfertige Prüfungen offen. Beachten Sie die Nutzungsrechte.
 
 Damas Technologies LLC

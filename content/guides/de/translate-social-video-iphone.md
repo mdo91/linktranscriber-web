@@ -4,7 +4,7 @@ description: "Übersetzen Sie die Sprache eines öffentlichen YouTube-Videos mit
 slug: "translate-social-video-iphone"
 locale: "de"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube video übersetzen"
 topics: ["YouTube-Video übersetzen", "Videoübersetzung", "iPhone"]
@@ -15,9 +15,11 @@ translationKey: "translate-social-video-iphone"
 
 Um ein YouTube-Video auf dem iPhone mit Damas zu übersetzen, geben Sie einen geeigneten öffentlichen Link ein und wählen im Übersetzungsablauf die Zielsprache. Damas übersetzt die gesprochenen Inhalte in Text in einer von 70 Sprachen. Derselbe Ablauf gilt für unterstützte öffentliche Instagram- und X-Videos; prüfen Sie den Sinn am Original.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Einen geeigneten Link vorbereiten
 
-Das Video muss öffentlich, auf Abruf verfügbar und höchstens 90 Minuten lang sein. Private, eingeschränkte und Live-Inhalte werden nicht unterstützt. Benötigt werden iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung.
+Das Video muss öffentlich, auf Abruf verfügbar und höchstens 90 Minuten lang sein. Private, eingeschränkte und Live-Inhalte werden nicht unterstützt.
 
 Die App hat 11 Oberflächensprachen. Diese unterscheiden sich von den 70 Übersetzungssprachen: Die Sprache der Bedienoberfläche zu ändern ist eine andere Aufgabe als die Zielsprache des Textes auszuwählen.
 

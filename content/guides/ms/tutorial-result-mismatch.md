@@ -4,7 +4,7 @@ description: "Bandingkan titik pertama yang berbeza, asingkan pemerhatian daripa
 slug: "tutorial-result-mismatch"
 locale: "ms"
 publishedAt: "2026-11-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "semak tutorial video apabila hasil sendiri mula berbeza"
 topics: ["Mengikuti tutorial"]
@@ -15,9 +15,11 @@ translationKey: "tutorial-result-mismatch"
 
 Jika hasil anda berbeza daripada tutorial video, gunakan transkrip Damas yang disemak untuk mencari hasil terakhir yang sepadan dan perbezaan pertama yang dapat diperhatikan. Bandingkan kedua-duanya dengan demonstrasi sebelum mengubah sesuatu. Semakan manual ini membantu menyediakan soalan khusus, bukan diagnosis automatik atau jaminan pembaikan.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan penerangan dan sumber
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI diperlukan. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam yang tidak boleh diakses juga boleh gagal.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam yang tidak boleh diakses juga boleh gagal.
 
 1. Buka tutorial pada platform asal dan simpan pautan serta tajuknya dalam nota kerja.
 2. Masukkan pautan yang disokong dalam Damas. Ikut arahan transkripsi semasa dan baca persetujuan AI.
@@ -54,6 +56,6 @@ Salin nota ringkas: pautan dan tajuk, operasi dan petikan yang disemak, keadaan 
 
 LLM luaran tidak diperlukan. Pemformatan pilihan dalam LLM lain memerlukan izin perkongsian teks dan semakan setiap punca yang dicadangkan; ini bukan integrasi Damas. Asingkan pemerhatian, bukti dan ketidakpastian. Jangan cipta fakta, petikan, pemilik tugas atau tarikh akhir.
 
-Simpan pautan bersama senarai akhir. Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian. Premium tidak menjadikan sumber yang tidak boleh diakses tersedia.
+Simpan pautan bersama senarai akhir. Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "Bezakan transkripsi dan terjemahan, cari peringkat bermulanya rala
 slug: "transcript-translation-meaning-check"
 locale: "ms"
 publishedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "beza transkripsi dengan terjemahan video"
 topics: ["Semakan maksud terjemahan"]
@@ -15,9 +15,11 @@ translationKey: "transcript-translation-meaning-check"
 
 Transkripsi video menulis pertuturan dalam bahasa asal, manakala terjemahan menyampaikan maksud dalam bahasa lain. Untuk menyemak perbezaannya, bandingkan dahulu transkrip asal dengan audio, kemudian pernyataan lengkap yang sama dengan teks terjemahan. Damas menyediakan teks yang boleh disunting dan disalin; anda sendiri merekodkan sama ada ralat bermula pada transkripsi atau terjemahan.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan dua teks daripada sumber yang sama
 
-Damas menyokong pautan video awam atas permintaan daripada YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI diperlukan. Hantar hanya bahan yang anda dibenarkan untuk proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh tidak dapat dicapai.
+Damas menyokong pautan video awam atas permintaan daripada YouTube, Instagram dan X sehingga 90 minit. Hantar hanya bahan yang anda dibenarkan untuk proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh tidak dapat dicapai.
 
 1. Buka sumber dan simpan pautan serta tajuknya. Pilih satu pernyataan bersama ayat sebelum dan selepasnya.
 2. Masukkan pautan yang disokong dalam Damas. Ikut arahan semasa untuk transkripsi bahasa asal dan terjemahan kepada bahasa sasaran yang disokong. Baca persetujuan AI dan tunggu hasilnya.
@@ -53,6 +55,6 @@ LLM luaran tidak diperlukan. Jika anda memilih untuk menyalin teks yang dibenark
 
 Lihat [panduan terjemahan](/ms/guides/translate-social-video-iphone/) untuk bahasa sasaran dan [panduan transkripsi](/ms/guides/transcribe-social-video-link-iphone/) untuk teks asal. Untuk kata-kata tepat, rujuk [semakan petikan](/ms/guides/verify-interview-quotes/). Damas menyediakan teks untuk dibaca, disunting dan disalin.
 
-Masa dan ketepatan berubah mengikut keadaan. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan sumber. Jika sumber tidak lagi dapat dicapai, semakan belum selesai kekal terbuka. Patuhi hak perkongsian anda.
+Masa dan ketepatan berubah mengikut keadaan. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Jika sumber tidak lagi dapat dicapai, semakan belum selesai kekal terbuka. Patuhi hak perkongsian anda.
 
 Damas Technologies LLC

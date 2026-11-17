@@ -4,7 +4,7 @@ description: "Um Themen und Widersprüche in einem Video Interview herauszuarbei
 slug: "interview-theme-matrix"
 locale: "de"
 publishedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Themen und Widersprüche in einem Video Interview herausarbeiten"
 topics: ["Interviewthemen und Positionen"]
@@ -15,9 +15,11 @@ translationKey: "interview-theme-matrix"
 
 Um Themen und Widersprüche in einem Video Interview herauszuarbeiten, erstellen Sie mit Damas ein Transkript und ordnen die Positionen anschließend in einer Tabelle nach Thema und Person. Bewahren Sie Belegstellen auf und vergleichen Sie deren Bedingungen, bevor Sie einen Widerspruch feststellen. Die integrierte Zusammenfassung hilft beim Überblick; Tabelle und Synthese erstellen Sie selbst aus dem bearbeitbaren und kopierbaren Text.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Quelle und Text vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Reichen Sie nur Material ein, das Sie verarbeiten dürfen. Private, eingeschränkte, Live- oder unzugängliche Quellen eignen sich nicht. Auch ein öffentlicher Link kann bei der Verarbeitung scheitern.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Reichen Sie nur Material ein, das Sie verarbeiten dürfen. Private, eingeschränkte, Live- oder unzugängliche Quellen eignen sich nicht. Auch ein öffentlicher Link kann bei der Verarbeitung scheitern.
 
 1. Öffnen Sie das Interview auf der ursprünglichen Plattform und bewahren Sie Link und Titel auf.
 2. Geben Sie den geeigneten Link in Damas ein. Nutzen Sie die Transkription gemäß den aktuellen App-Hinweisen und lesen Sie die KI-Einwilligung.

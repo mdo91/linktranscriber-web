@@ -4,7 +4,7 @@ description: "把结论、原文依据、核查范围和待确认项一起交给
 slug: "share-checked-video-notes"
 locale: "zh-hans"
 publishedAt: "2026-11-02"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "复制核实后的视频笔记时保留原文和来源链接"
 topics: ["分享核实后的笔记"]
@@ -15,15 +15,17 @@ translationKey: "share-checked-video-notes"
 
 复制核实后的视频笔记时，要保留原文和来源链接：把 Damas 中复核过的文字复制到自己的文档，再为每条结论配上依据段落。附上原视频链接、核查范围和待确认项。发送前只阅读这份交付笔记，检查其中的依据是否真的支持结论。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备可核查的文字
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。在 iPhone 上需要 iOS 18.6 或更高版本、互联网连接、Premium 和 AI 处理同意。只处理及分享有权使用的内容。不支持私密、访问受限和直播视频；公开视频也可能无法访问。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。只处理及分享有权使用的内容。不支持私密、访问受限和直播视频；公开视频也可能无法访问。
 
 1. 打开原视频，保留原始链接与标题。
 2. 把支持的链接输入 Damas，按当前转写指引操作，并阅读 AI 同意内容。
 3. 等待处理。应用内摘要可帮助了解概况，依据仍须回到完整段落。
 4. 回听姓名、数量、否定词和条件，只按音频能确认的内容编辑、复制文字。
-5. 在自己的文档中制作交付笔记。以下结构是手动整理，并非 Damas 的分享或引文功能。
+5. 在 Damas 中阅读、编辑、复制或分享文本与笔记。下文的依据结构需手动整理，并非自动引文或同步功能。
 
 ## 从接收者的问题选择依据
 
@@ -55,6 +57,6 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 准备原文可看[转写指南](/zh-hans/guides/transcribe-social-video-link-iphone/)，准确措辞可看[引用核实](/zh-hans/guides/verify-interview-quotes/)。使用译文作为依据前，先做[含义比较](/zh-hans/guides/transcript-translation-meaning-check/)。Damas 提供可阅读、编辑和复制的文字。
 
-处理时间和准确度会变化。Damas 不下载媒体、不上传文件、不配音、不嵌入字幕，也不离线处理。Premium 不能绕过来源限制。
+处理时间和准确度会变化。Damas 不下载媒体、不上传文件、不配音、不嵌入字幕，也不离线处理。
 
 Damas Technologies LLC

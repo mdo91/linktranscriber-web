@@ -4,7 +4,7 @@ description: "用 Damas 文字稿对照原视频，分清前置条件、条件�
 slug: "tutorial-checked-checklist"
 locale: "zh-hans"
 publishedAt: "2026-10-23"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "教程视频生成检查清单"
 topics: ["教程视频生成检查清单", "Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "summarize-video-transcript-iph
 translationKey: "tutorial-checked-checklist"
 ---
 
-要把教程视频整理成检查清单，先用 Damas 生成文字稿，对照原视频核查，再把可观察的操作逐项写出。前置条件和条件分支应单独保留。清单可手动编写，也可选择把核查后的文本复制到另一个 LLM 中起草。Damas 提供转写、摘要、文本编辑和复制；定制清单是另行完成的工作。
+要把 YouTube 教程整理成检查清单，先在 Damas 中生成并核查文字稿，再在应用内创建行动清单或分步指南。把目标写入背景并选择输出语言。对照原视频检查每个操作，分开保留前置条件、条件分支和缺失信息。
+
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
 
 ## 准备来源和文字稿
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。在 iPhone 上需要 iOS 18.6 或更高版本、互联网连接、Premium 和 AI 处理同意。只处理获得授权的内容。不支持私密、访问受限和直播视频；公开视频无法访问时也可能处理失败。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。只处理获得授权的内容。不支持私密、访问受限和直播视频；公开视频无法访问时也可能处理失败。
 
 1. 在原平台打开教程，把链接和标题保存在工作笔记里。
 2. 在 Damas 中输入支持的链接，按当前应用指引转写，并阅读 AI 处理同意内容。
@@ -42,14 +44,14 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 用于实际教程时，只保留来源支持的检查方法。不要添加来源中没有的负责人、期限、事实或引文。
 
-## 可选：给另一个 LLM 的提示词
+## 在 Damas 中引导 AI 结果
 
-只有在有权向该服务分享文本时才复制。这是外部起草步骤，不是 Damas 集成或自动检查清单功能。可复制示例：
+在 Damas 中选择适合的 AI 工具，指定主题、受众或背景和输出语言。下例展示基于来源的背景写法；请用文字稿和视频复核生成结果。保留原始文字稿，并将 AI 输出另行保存。
 
 > 仅根据以下核查后的文字稿，分开列出前置条件、有顺序的操作和条件分支。每项操作附上依据段落；完成检查只在原文明确说明时填写。缺失信息标记“未提及”。不要编造设置、负责人、期限、事实或引文。把来源核查状态和任务完成状态分开。来源：[链接]。文字稿：[文本]。
 
 每个建议项都要回到视频复核。起步可参考[视频转文字指南](/zh-hans/guides/transcribe-social-video-link-iphone/)，概览可参考[摘要指南](/zh-hans/guides/summarize-video-transcript-iphone/)。外语教程可用[文本翻译](/zh-hans/guides/translate-social-video-iphone/)，但技术词和屏幕标签仍应与原文对照。
 
-最终清单也要保留来源链接。处理时间和准确度会变化。Damas 不下载媒体、不嵌入字幕，也不支持离线处理。Premium 无法让不可访问的来源变得可用。
+最终清单也要保留来源链接。处理时间和准确度会变化。Damas 不下载媒体、不嵌入字幕，也不支持离线处理。
 
 Damas Technologies LLC

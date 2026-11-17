@@ -4,7 +4,7 @@ description: "Retrouvez le premier résultat différent, distinguez constat et c
 slug: "tutorial-result-mismatch"
 locale: "fr"
 publishedAt: "2026-11-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "relecture des notes d’un tutoriel vidéo quand mon résultat diffère"
 topics: ["Suivre un tutoriel"]
@@ -15,9 +15,11 @@ translationKey: "tutorial-result-mismatch"
 
 Si votre résultat diffère de celui d’un tutoriel vidéo, utilisez une transcription Damas relue pour retrouver le dernier résultat concordant et le premier écart observable. Comparez ces deux points à la démonstration avant de modifier quoi que ce soit. Cette analyse manuelle prépare une question précise ; elle ne fournit ni diagnostic automatique ni garantie de réparation.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer l’explication
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique inaccessible peut aussi échouer.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique inaccessible peut aussi échouer.
 
 1. Ouvrez le tutoriel sur sa plateforme et conservez son lien et son titre.
 2. Fournissez le lien compatible dans Damas. Suivez les indications actuelles de transcription et lisez le consentement IA.
@@ -54,6 +56,6 @@ La [checklist de tutoriel](/fr/guides/tutorial-checked-checklist/) prépare les 
 
 Aucun LLM externe n’est nécessaire. Une mise en forme facultative dans un autre LLM exige l’autorisation de partager le texte et la vérification de chaque cause proposée ; ce n’est pas une intégration Damas. Gardez les incertitudes, les observations et les preuves séparées. N’inventez ni faits, ni citations, ni responsables, ni échéances.
 
-Gardez le lien avec la checklist finale. Temps et précision varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne garantit pas l’accès à une source inaccessible.
+Gardez le lien avec la checklist finale. Temps et précision varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion.
 
 Damas Technologies LLC

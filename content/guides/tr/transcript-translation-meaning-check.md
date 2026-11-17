@@ -4,7 +4,7 @@ description: "Hatanın dökümde mi çeviride mi başladığını bulun; koşull
 slug: "transcript-translation-meaning-check"
 locale: "tr"
 publishedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "video dökümünü çeviri metniyle karşılaştırma"
 topics: ["Çevrilen anlamı doğrulama"]
@@ -15,9 +15,11 @@ translationKey: "transcript-translation-meaning-check"
 
 Video dökümünü çeviri metniyle karşılaştırmak için önce özgün dökümü ses kaydından doğrulayın, ardından aynı tam ifadeyi çeviride inceleyin. Farkın yazıya çevirme aşamasında mı, diller arası çeviride mi başladığını kaydedin. Damas düzenlenebilir ve kopyalanabilir metinler sağlar; karşılaştırma ve kontrol kaydı elle hazırlanır.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Aynı kaynaktan iki metin hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içeriği gönderin. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
 
 1. Videoyu açıp bağlantısını ve başlığını saklayın. Önceki ve sonraki cümleyle birlikte bir ifade seçin.
 2. Uygun bağlantıyı Damas’a girin. Güncel yönergelere göre özgün dilde döküm ve desteklenen hedef dilde çeviri işlemlerini kullanın. Yapay zekâ onayını okuyup sonuçları bekleyin.
@@ -53,6 +55,6 @@ Harici LLM gerekmez. İzinli metinleri isteğe bağlı olarak başka bir LLM’y
 
 [Çeviri rehberi](/tr/guides/translate-social-video-iphone/) hedef dili, [döküm rehberi](/tr/guides/transcribe-social-video-link-iphone/) özgün metni açıklar. Tek tek terimler için [iki dilli terim listesine](/tr/guides/video-bilingual-glossary/) bakın. Damas metinleri okumanız, düzenlemeniz ve kopyalamanız için hazırlar.
 
-Süre ve doğruluk değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez veya çevrimdışı işlemez. Premium erişim engellerini aşmaz. Kaynak erişilemezse eksik kontroller açık kalır. Paylaşım izinlerinize uyun.
+Süre ve doğruluk değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez veya çevrimdışı işlemez. Kaynak erişilemezse eksik kontroller açık kalır. Paylaşım izinlerinize uyun.
 
 Damas Technologies LLC

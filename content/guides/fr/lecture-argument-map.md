@@ -4,7 +4,7 @@ description: "Construisez un schéma des conclusions, raisons et exemples d’un
 slug: "lecture-argument-map"
 locale: "fr"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Comment résumer un cours YouTube en reliant les idées à leurs arguments ?"
 topics: ["Résumé de cours et argumentation"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","verify-interview-quotes","share-c
 translationKey: "lecture-argument-map"
 ---
 
-Pour résumer un cours YouTube en reliant les idées à leurs arguments, utilisez la transcription et le résumé intégré de Damas pour choisir une conclusion, puis retrouvez son explication complète. Séparez affirmations, raisons et exemples. Tracez une relation seulement si le cours l’explique. Le schéma et la synthèse sont votre travail manuel ; Damas fournit du texte modifiable et copiable.
+Pour relier les affirmations et raisons d’un cours YouTube, partez d’une transcription vérifiée dans Damas et créez une carte mentale modifiable dans l’app. Indiquez la question à explorer comme contexte. Contrôlez chaque affirmation, raison, exemple et relation dans l’explication complète. Les relevés détaillés ci-dessous sont une méthode de vérification manuelle ; une carte générée ne valide pas le raisonnement.
+
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
 
 ## Préparer l’explication complète
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement des contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement des contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
 
 1. Gardez le lien et le titre du cours. Écrivez la question à laquelle votre schéma doit répondre.
 2. Fournissez le lien compatible dans Damas et suivez les indications actuelles de transcription et de résumé intégré, après lecture du consentement IA.
@@ -53,8 +55,8 @@ Distinguez un mot inaudible, une relation non expliquée et votre propre interpr
 
 Avant de copier, vérifiez chaque idée et chaque lien, le statut des exemples et les conditions. Gardez la source et les questions ouvertes. Le schéma décrit un raisonnement ; il n’en prouve pas indépendamment la vérité.
 
-Aucun LLM externe n’est nécessaire. Une mise en forme facultative dans un autre LLM exige l’autorisation de transmettre le texte et la vérification de tous les liens proposés. Ce travail externe n’est ni une intégration ni une fonction de schéma automatique de Damas.
+Damas propose des résumés, des cartes mentales modifiables, des listes d’actions, des guides étape par étape, des guides d’étude, des quiz avec réponses expliquées et des cartes question-réponse. Précisez le sujet, le public ou le contexte et choisissez la langue de sortie. Vérifiez chaque relation ou réponse à la source ; les méthodes détaillées de comparaison et de vérification de ce guide demandent toujours votre jugement.
 
-Pour citer, utilisez la [vérification du mot à mot](/fr/guides/verify-interview-quotes/) ; pour transmettre, gardez des [notes reliées aux passages sources](/fr/guides/share-checked-video-notes/). Durée et précision varient. Si la source devient inaccessible, laissez les contrôles inachevés ouverts. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne fonctionne pas hors ligne. Premium ne contourne pas les restrictions. Respectez vos droits de réutilisation.
+Pour citer, utilisez la [vérification du mot à mot](/fr/guides/verify-interview-quotes/) ; pour transmettre, gardez des [notes reliées aux passages sources](/fr/guides/share-checked-video-notes/). Durée et précision varient. Si la source devient inaccessible, laissez les contrôles inachevés ouverts. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne fonctionne pas hors ligne. Respectez vos droits de réutilisation.
 
 Damas Technologies LLC

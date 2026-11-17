@@ -4,7 +4,7 @@ description: "Tukar pautan video awam YouTube, Instagram atau X kepada teks deng
 slug: "transcribe-social-video-link-iphone"
 locale: "ms"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "transkripsi video kepada teks"
 topics: ["transkripsi video kepada teks", "pautan video", "iPhone"]
@@ -15,11 +15,13 @@ translationKey: "transcribe-social-video-link-iphone"
 
 Untuk menukar video kepada teks pada iPhone, masukkan pautan awam YouTube, Instagram atau X yang disokong ke dalam Damas dan gunakan aliran transkripsi. Hasilnya ialah teks pertuturan video. Semak dengan audio asal sebelum menyunting atau menyalin nota.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Semak video sebelum bermula
 
 Pilih video awam atas permintaan yang tidak melebihi 90 minit. Kandungan peribadi, terhad dan siaran langsung tidak disokong. Proses hanya kandungan yang anda berhak gunakan: kebolehan membuka pautan sahaja bukan bukti kebenaran.
 
-Damas memerlukan iOS 18.6 atau lebih baharu, sambungan internet, Premium dan persetujuan pemprosesan AI. Semak keperluan ini sebelum menghantar video yang panjang.
+Semak keperluan ini sebelum menghantar video yang panjang.
 
 ## Daripada pautan kepada transkrip
 

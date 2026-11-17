@@ -4,7 +4,7 @@ description: "把讲座定义整理成条件表，区分符合定义、不满足
 slug: "lecture-definition-boundaries"
 locale: "zh-hans"
 publishedAt: "2026-11-14"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "怎样总结讲座中的定义，判断哪些例子符合条件？"
 topics: ["讲座总结与定义"]
@@ -15,9 +15,11 @@ translationKey: "lecture-definition-boundaries"
 
 总结讲座中的定义时，先用 Damas 的文字稿和应用内摘要定位完整解释，再列出讲者实际提出的条件。逐项检查例子后，才写简短定义。把结果分为“符合定义”“不满足必要条件”和“信息不足，暂不能判断”。这张表由你利用可编辑、可复制的文本手动制作。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 找到完整解释
 
-Damas 支持最长90分钟的 YouTube、Instagram 和 X 受支持公开点播视频链接。iPhone 需要 iOS 18.6 或更高版本、互联网、Premium 和 AI 处理同意。只处理获得授权的内容。不支持私密、受限或直播视频，公开来源也可能无法访问。
+Damas 支持最长90分钟的 YouTube、Instagram 和 X 受支持公开点播视频链接。只处理获得授权的内容。不支持私密、受限或直播视频，公开来源也可能无法访问。
 
 1. 保留讲座链接和标题，选择一个需要理解的术语。
 2. 在 Damas 中提供受支持链接，按当前指引使用转写和应用内摘要，阅读 AI 同意说明。
@@ -57,6 +59,6 @@ Damas 支持最长90分钟的 YouTube、Instagram 和 X 受支持公开点播视
 
 无需外部 LLM。若选择让另一个 LLM 整理格式，需要有权分享文本，并核查每个建议条件。这是独立的外部步骤，不是 Damas 集成。原话参照[引文核查](/zh-hans/guides/verify-interview-quotes/)；外语材料可用[翻译](/zh-hans/guides/translate-social-video-iphone/)，并核对原意。
 
-准确度和处理时间会变化。Damas 不下载媒体、不导入文件、不配音、不嵌入字幕，也不离线处理。Premium 不绕过访问限制。如果录制内容无法访问，未完成核查的部分保持开放，并遵守再利用权限。
+准确度和处理时间会变化。Damas 不下载媒体、不导入文件、不配音、不嵌入字幕，也不离线处理。如果录制内容无法访问，未完成核查的部分保持开放，并遵守再利用权限。
 
 Damas Technologies LLC

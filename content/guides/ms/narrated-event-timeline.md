@@ -4,7 +4,7 @@ description: "Asingkan susunan pertuturan daripada masa kejadian dan bina ringka
 slug: "narrated-event-timeline"
 locale: "ms"
 publishedAt: "2026-11-12"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Bagaimana meringkaskan video YouTube mengikut urutan kejadian apabila penceritaan melompat antara masa?"
 topics: ["Ringkasan mengikut urutan kejadian"]
@@ -15,9 +15,11 @@ translationKey: "narrated-event-timeline"
 
 Untuk meringkaskan video YouTube mengikut urutan kejadian, sediakan transkrip dan ringkasan terbina dalam Damas, kemudian bina rekod bagi setiap kejadian secara manual. Asingkan susunan disebut dalam rakaman daripada masa kejadian yang diterangkan. Sambungkan hanya hubungan masa yang disokong sumber dan biarkan kejadian tanpa tarikh atau kedudukan yang jelas sebagai belum ditentukan.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan video dan penerangan penuh
 
-Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong sehingga 90 minit. Pada iPhone, iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI diperlukan. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh dicapai.
+Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong sehingga 90 minit. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh dicapai.
 
 1. Simpan pautan asal dan tajuk. Tulis kejadian atau episod yang ingin difahami.
 2. Masukkan pautan yang disokong dalam Damas. Ikut arahan semasa untuk transkripsi dan ringkasan terbina dalam serta baca persetujuan AI.
@@ -57,6 +59,6 @@ LLM luaran tidak diperlukan. Jika anda memilih pemformatan dalam LLM lain, kongs
 
 Pastikan setiap kejadian mempunyai sokongan, susunan rakaman berasingan daripada masa kejadian, asas tarikh relatif disahkan dan hubungan yang tidak diketahui masih terbuka. Simpan pautan dan soalan belum selesai bersama nota akhir. Untuk kata-kata tepat, gunakan [semakan petikan](/ms/guides/verify-interview-quotes/); untuk tarikh siaran dan konteks klip, lihat [ringkasan video X](/ms/guides/x-summary-post-context/). Jika membaca dalam bahasa lain, semak makna melalui [terjemahan teks](/ms/guides/translate-social-video-iphone/). Terjemahan kepada 70 bahasa berbeza daripada sebelas bahasa antara muka.
 
-Ketepatan dan masa pemprosesan berubah-ubah. Jika sumber tidak lagi boleh dicapai, semakan belum selesai kekal terbuka. Kongsi dalam had hak penggunaan semula anda. Damas tidak memuat turun media, menerima muat naik fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan akses.
+Ketepatan dan masa pemprosesan berubah-ubah. Jika sumber tidak lagi boleh dicapai, semakan belum selesai kekal terbuka. Kongsi dalam had hak penggunaan semula anda. Damas tidak memuat turun media, menerima muat naik fail, mengalih suara, membenamkan sari kata atau memproses di luar talian.
 
 Damas Technologies LLC

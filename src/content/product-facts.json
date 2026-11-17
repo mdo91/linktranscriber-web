@@ -1,7 +1,6 @@
 {
-  "verifiedAt": "2026-10-29",
+  "verifiedAt": "2026-11-17",
   "appStoreId": 6766233794,
-  "version": "1.5.4",
   "sources": [
     "https://itunes.apple.com/lookup?id=6766233794&country=us",
     "https://apps.apple.com/us/app/damas-video-link-transcriber/id6766233794"
@@ -22,16 +21,53 @@
     "transcription",
     "translation",
     "summary",
-    "transcript-reuse"
+    "mind-map",
+    "action-checklist",
+    "step-by-step-guide",
+    "study-guide",
+    "quiz",
+    "flashcards",
+    "ai-output-guidance",
+    "separate-ai-outputs",
+    "transcript-reuse",
+    "usage-and-cost-review",
+    "background-processing",
+    "completion-notifications"
   ],
   "translationTargets": 70,
   "interfaceLanguages": 11,
-  "workflow": "Paste a supported public video link. Transcribe speech, translate it or create a built-in summary. Notes can be read, edited and copied. For custom flashcards, checklists or action items, copy the transcript into another tool; these are optional external workflows, not dedicated Damas features.",
+  "workflow": "Paste a supported public video link up to 90 minutes. Transcribe speech in its original language or translate into 70 languages. Create a short or detailed Standard or Professional summary, editable mind map, action checklist, step-by-step guide, study guide, quiz with explained answers or question-and-answer flashcards. Guide outputs with a topic, audience or context and choose their language. Preserve the original transcript and save AI outputs separately. Read, edit, copy and share text and notes. Processing continues after leaving the app and completion notifications are available.",
   "limitations": [
-    "Internet, Premium and AI consent required",
+    "Internet, Sign in with Apple for online processing and purchases, and consent for AI processing are required; processing consumes media minutes and Insight credits.",
     "Only process material you are authorized to use",
     "Private, restricted and live videos are unsupported",
     "Processing time and results vary",
     "No guaranteed accuracy, offline processing, media downloading, dubbing, subtitle embedding, or unsupported file imports/exports"
-  ]
+  ],
+  "ownerConfirmedAt": "2026-11-17",
+  "appStoreMetadataVerifiedAt": "2026-10-29",
+  "lastVerifiedAppStoreVersion": "1.5.4",
+  "featureSource": "Owner-provided release description, confirmed 2026-11-17; Apple sources below retain the separately dated compatibility baseline.",
+  "summaryOptions": {
+    "lengths": [
+      "short",
+      "detailed"
+    ],
+    "styles": [
+      "Standard",
+      "Professional"
+    ]
+  },
+  "aiGuidance": [
+    "topic",
+    "audience",
+    "context",
+    "output language"
+  ],
+  "processingAndPurchases": {
+    "signIn": "Sign in with Apple is required for online processing and purchases.",
+    "usage": "Processing uses media minutes and Insight credits.",
+    "review": "Balances, usage history and processing cost can be checked before confirming.",
+    "availability": "Available plans and optional top-up packs are shown in the app; do not invent prices, quotas or unlimited/free-use claims."
+  }
 }

@@ -4,7 +4,7 @@ description: "Transforme um link público do YouTube, Instagram ou X em texto co
 slug: "transcribe-social-video-link-iphone"
 locale: "pt"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "transcrever vídeo em texto"
 topics: ["transcrever vídeo em texto", "transcrição por link", "iPhone"]
@@ -14,6 +14,8 @@ translationKey: "transcribe-social-video-link-iphone"
 ---
 
 Para transcrever um vídeo em texto no iPhone, cole um link público compatível do YouTube, Instagram ou X no Damas e use o fluxo de transcrição. O resultado é uma versão escrita da fala: compare com o áudio original antes de editar ou copiar as suas notas.
+
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
 
 ## Que tipo de vídeo você quer transcrever?
 
@@ -25,7 +27,7 @@ Se o material está apenas salvo como arquivo no seu aparelho, estas instruçõe
 
 Escolha um vídeo público sob demanda com até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. Processe apenas materiais para os quais você tem autorização: conseguir abrir um link não significa ter permissão para processá-lo.
 
-O Damas exige iOS 18.6 ou posterior, conexão com a internet, Premium e consentimento para processamento por IA. Verifique essas condições antes de enviar um vídeo longo.
+Verifique essas condições antes de enviar um vídeo longo.
 
 ## Do link à transcrição
 
@@ -39,15 +41,13 @@ Essas etapas descrevem o fluxo geral. Os nomes e a disposição das telas podem 
 
 ## O link não foi processado: o que conferir?
 
-- **Origem e acesso:** confirme que o link leva a um vídeo público do YouTube, Instagram ou X. Vídeos privados, restritos ou ao vivo não são compatíveis; conseguir assistir na sua conta não garante que o conteúdo possa ser processado.
-- **Duração:** confira se o vídeo tem até 90 minutos antes de enviá-lo.
-- **Conexão e requisitos:** verifique a conexão com a internet e as condições de Premium e de consentimento apresentadas no app. A duração do processamento depende da fonte; não há um prazo garantido para todos os vídeos.
+- **Origem e acesso:** confirme que o link leva a um vídeo público do YouTube, Instagram ou X. Vídeos privados, restritos ou ao vivo não são compatíveis; conseguir assistir na sua conta não garante que o conteúdo possa ser processado. - **Duração:** confira se o vídeo tem até 90 minutos antes de enviá-lo. A duração do processamento depende da fonte; não há um prazo garantido para todos os vídeos.
 
 Se o vídeo continuar indisponível, não tente contornar restrições de acesso. Escolha outro conteúdo público compatível que você tenha autorização para processar.
 
 ## É possível transcrever de graça por este método?
 
-O fluxo descrito aqui requer Damas Premium. Consulte os planos, preços e qualquer oferta de teste elegível no app antes de contratar; esta orientação não promete transcrição gratuita. O processamento também exige internet.
+Consulte os planos, preços e qualquer oferta de teste elegível no app antes de contratar; esta orientação não promete transcrição gratuita. O processamento também exige internet.
 
 ## Confira os trechos importantes
 

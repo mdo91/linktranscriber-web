@@ -4,7 +4,7 @@ description: "Relevez les effectifs, les dénominateurs et les groupes comparés
 slug: "interview-numerical-comparisons"
 locale: "fr"
 publishedAt: "2026-11-10"
-updatedAt: "2026-11-10"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "vérifier les comparaisons chiffrées dans les citations d’une interview vidéo"
 topics: ["Comparaisons chiffrées"]
@@ -15,9 +15,11 @@ translationKey: "interview-numerical-comparisons"
 
 Pour citer une comparaison chiffrée dans une interview vidéo, repérez les valeurs avec la transcription modifiable de Damas, puis réécoutez ce que mesure chacune. Notez le groupe, la période et le dénominateur avant de comparer. Gardez vos calculs hors des guillemets : un chiffre fidèlement recopié peut tout de même conduire à une comparaison trompeuse.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Retrouver les mots avant de calculer
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Ne traitez que des contenus autorisés. Les vidéos privées, restreintes et en direct ne sont pas prises en charge ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Ne traitez que des contenus autorisés. Les vidéos privées, restreintes et en direct ne sont pas prises en charge ; une source publique peut aussi être inaccessible.
 
 1. Ouvrez l’interview, conservez le lien et le titre, puis formulez la comparaison recherchée comme une question.
 2. Fournissez le lien compatible dans Damas. Suivez les indications actuelles pour la transcription en langue originale et lisez le consentement IA.
@@ -50,6 +52,6 @@ Avant de partager, vérifiez les libellés effectif/proportion, chaque dénomina
 
 Pour une autre langue, utilisez la [comparaison original–traduction](/fr/guides/transcript-translation-meaning-check/). Les [notes reliées aux sources](/fr/guides/share-checked-video-notes/) facilitent la transmission. Aucun LLM externe n’est nécessaire. Une mise en forme facultative dans un autre LLM exige l’autorisation de partager le texte et la vérification de chaque résultat ; ce n’est pas une intégration Damas.
 
-Durée et précision varient. Si la source devient inaccessible, laissez les contrôles inachevés en attente. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions. Respectez vos droits de réutilisation.
+Durée et précision varient. Si la source devient inaccessible, laissez les contrôles inachevés en attente. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Respectez vos droits de réutilisation.
 
 Damas Technologies LLC
