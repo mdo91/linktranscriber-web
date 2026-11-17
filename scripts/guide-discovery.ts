@@ -28,7 +28,7 @@ function followedLinks($: CheerioAPI, route: string, origin: string, base: strin
   const links = new Set<string>();
   $('body a[href]').each((_, element) => {
     const anchor = $(element);
-    if ((anchor.attr('rel') || '').toLowerCase().split(/\s+/).includes('nofollow')) return;
+    if ((anchor.attr('rel') || '').toLowerCase().split(/\s+/).includes('nofollow') || anchor.attr('download') !== undefined) return;
     if (anchor.parents().addBack().toArray().some(ancestor => hidden($, ancestor))) return;
     for (const details of anchor.parents('details:not([open])').toArray()) {
       const summary = $(details).children('summary').first().get(0);
