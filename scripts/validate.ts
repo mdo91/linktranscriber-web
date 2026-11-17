@@ -4,9 +4,11 @@ import { load } from 'cheerio';
 import { locales, origin, texts } from '../src/site';
 import { loadPosts } from '../src/posts';
 import product from '../src/content/product-facts.json';
+import { validateGuideDiscovery } from './guide-discovery';
 
 const root = resolve(process.argv[2] || 'dist');
 if (!existsSync(root)) throw new Error('Build the website before validating its output.');
+const publishedGuides = loadPosts();
 const manifest = JSON.parse(readFileSync('.generated/manifest.json', 'utf8')) as { urls: { path: string; lastmod?: string; group: string }[]; posts: number };
 const pages = new Map(manifest.urls.map(u => [u.path, u]));
 const base = (process.env.BASE_PATH || '/').replace(/\/$/, '');
@@ -17,6 +19,11 @@ const check = (condition: unknown, message: string) => { if (!condition) failure
 const fileFor = (path: string) => resolve(root, '.' + path + (path.endsWith('/') ? 'index.html' : ''));
 const sitemap = load(readFileSync(resolve(root, 'sitemap.xml'), 'utf8'), { xml: true });
 const sitemapUrls = new Map(sitemap('url').toArray().map(el => [sitemap(el).find('loc').text(), el]));
+failures.push(...validateGuideDiscovery({
+  publishedGuides, locales, origin, basePath: process.env.BASE_PATH || '/', manifestUrls: manifest.urls,
+  sitemapXml: readFileSync(resolve(root, 'sitemap.xml'), 'utf8'),
+  readPage: route => existsSync(fileFor(route)) ? readFileSync(fileFor(route), 'utf8') : undefined,
+}));
 check(sitemapUrls.size === pages.size, 'Sitemap page count differs from publication manifest');
 const walk = (dir: string): string[] => readdirSync(dir, { withFileTypes: true }).flatMap(e => e.isDirectory() ? walk(resolve(dir, e.name)) : [resolve(dir, e.name)]);
 check(walk(root).filter(f => f.endsWith('.html')).length === pages.size + 2, 'Unexpected or missing HTML artifacts');
@@ -80,6 +87,6 @@ check(notFound('meta[name="robots"]').attr('content')?.startsWith('noindex'), '4
 check(!sitemapUrls.has(origin + '/404.html'), '404 must be excluded from sitemap');
 check(readFileSync(resolve(root, 'robots.txt'), 'utf8').includes(`${origin}/sitemap.xml`), 'Robots must reference canonical sitemap');
 check(existsSync(fileFor('/squatvision-privacy-policy.html')), 'Existing Squat League policy missing');
-check(manifest.posts === loadPosts().length, 'Published article count mismatch');
+check(manifest.posts === publishedGuides.length, 'Published article count mismatch');
 if (failures.length) throw new Error(`Publication validation failed:\n${[...new Set(failures)].join('\n')}`);
 console.log(`Validated ${pages.size} published pages, ${manifest.posts} guides, ${locales.length} locales, links, metadata, schema and sitemap (${base || '/'}).`);
