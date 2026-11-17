@@ -10,7 +10,7 @@
     "iPadOS 18.6 or later (iPad)",
     "Apple-listed Mac compatibility: macOS 15.6 or later"
   ],
-  "platformNote": "Current Apple Compatibility metadata separately verifies macOS 15.6. The current row does not state a minimum chip: keep chip evidence unavailable, do not infer Intel support, and do not describe a separately tested native Mac interface, synchronization or unverified device controls. Existing screenshots show iPhone.",
+  "platformNote": "Apple lookup and App Store compatibility metadata reviewed on 2026-11-17 verify iOS 18.6 or later for iPhone, iPadOS 18.6 or later for iPad, and macOS 15.6 or later for Mac. Keep chip evidence unavailable; do not infer Intel support or describe a separately tested native Mac interface, synchronization or unverified device controls. Existing screenshots show iPhone.",
   "supportedSources": [
     "public on-demand YouTube",
     "public on-demand Instagram",
@@ -45,7 +45,7 @@
     "No guaranteed accuracy, offline processing, media downloading, dubbing, subtitle embedding, or unsupported file imports/exports"
   ],
   "ownerConfirmedAt": "2026-11-17",
-  "appStoreMetadataVerifiedAt": "2026-10-29",
+  "appStoreMetadataVerifiedAt": "2026-11-17",
   "lastVerifiedAppStoreVersion": "1.5.4",
   "featureSource": "Owner-provided release description, confirmed 2026-11-17; Apple sources below retain the separately dated compatibility baseline.",
   "summaryOptions": {

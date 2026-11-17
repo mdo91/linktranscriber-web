@@ -56,7 +56,7 @@
   .facts div { display: grid; gap: .15rem; padding-left: 1.5rem; border-left: 1px solid var(--line); }
   .facts div:first-child { border: 0; padding-left: 0; }
   .facts strong { font-size: 1.3rem; letter-spacing: -.025em; }
-  .facts span { font-size: .8rem; color: var(--muted); }
+  .facts span { font-size: .8rem; color: var(--muted); overflow-wrap:anywhere; hyphens:auto; }
   .section-heading { max-width: 740px; margin-bottom: 2.5rem; }
   .section-heading p:not(.eyebrow) { margin-top: 1.15rem; color: var(--muted); }
   .feature-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
@@ -98,6 +98,7 @@
   footer p { margin-block: .8rem 1.5rem; font-size: .84rem; color: var(--muted); max-width: 650px; }
   footer nav { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; font-size: .8rem; margin-bottom: 1.5rem; }
   footer small { font-size: .75rem; color: var(--muted); }
+  footer .asset-attribution { display:block; max-width:70em; margin-top:.6rem; }
   .breadcrumbs { display: flex; flex-wrap: wrap; gap: .5rem; color: var(--muted); font-size: .76rem; margin-bottom: 2.5rem; }
   .library > .lead { max-width: 750px; margin-block: 1.5rem 3rem; }
   .library h1, .legal-wrap h1 { max-width: 1000px; }
@@ -211,9 +212,16 @@
   .hero-art img { aspect-ratio:3 / 2; object-fit:contain; width:100%; }
   .hero-art::before { content:''; position:absolute; z-index:-1; inset:5% 0 4%; background:#eee3f3; border-radius:43% 57% 54% 46% / 49% 42% 58% 51%; transform:rotate(-5deg); }
   .scribble { display:block; color:#9b74bd; width:150px; height:50px; margin:0 auto 1rem 2rem; transform:rotate(9deg); }
-  .platforms { color:var(--ink); border:0; padding:.6rem 0 0; gap:.6rem; flex-wrap:wrap; }
-  .platforms span { padding:.3rem .85rem; border:1px solid #d8c9df; border-radius:999px; font-weight:600; font-size:.78rem; background:#fffcf8; }
+  .platform-support { text-align:center; }
+  .platform-label { color:var(--muted); font-size:.875rem; line-height:1.5; }
+  .platforms { color:var(--ink); border:0; padding:.75rem 0 0; gap:.5rem; flex-wrap:wrap; }
+  .platforms span { display:inline-flex; align-items:center; gap:.4rem; padding:.4rem .55rem; border:1px solid #d8c9df; border-radius:999px; font-weight:600; font-size:.875rem; line-height:1.4; background:#fffcf8; }
+  .platforms .platform-icon { display:block; width:24px; height:24px; flex:none; aspect-ratio:auto; object-fit:contain; }
   .hero-download { gap:1.5rem; }
+  .store-badge { display:inline-block; flex:none; line-height:0; border-radius:7px; }
+  .store-badge img { width:auto; height:48px; }
+  .device-availability { margin-top:1rem; font-size:.9375rem; font-weight:600; line-height:1.5; }
+  .hero .fine.device-requirements { margin-top:.4rem; font-size:.875rem; line-height:1.55; }
   .app-store-qr { width:76px; font-size:.65rem; }
   .app-store-qr img { width:76px; height:76px; border-radius:8px; }
   .hero .fine { font-size:.76rem; max-width:38em; }

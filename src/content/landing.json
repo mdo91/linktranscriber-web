@@ -7,6 +7,9 @@
     "heroAccent": "text you can use.",
     "heroDescription": "Bring transcription, translation and AI tools together to understand ideas, make a plan and study what matters.",
     "heroNote": "Sign in with Apple. Internet required. Processing uses media minutes and Insight credits. Plans and packs are shown in the app.",
+    "supportedLinksLabel": "Supported public video links",
+    "deviceAvailability": "Available on iPhone, iPad and Mac",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Check the App Store for current device compatibility.",
     "foundationTitle": "Start with the words. Go further with the ideas.",
     "foundationBody": "Add a public X, YouTube or Instagram video link up to 90 minutes long. Transcribe speech in its original language or translate it into 70 languages.",
     "howTitle": "From a link to your next step.",
@@ -122,7 +125,7 @@
       },
       {
         "q": "Which devices can I use?",
-        "a": "Check the current App Store listing for iPhone, iPad and Mac compatibility and regional availability."
+        "a": "Damas is available on iPhone, iPad and Mac. Requires iOS 18.6 or later, iPadOS 18.6 or later, or macOS 15.6 or later. Check the current App Store listing for device compatibility and regional availability."
       }
     ],
     "closingTitle": "Give your next video a useful next step.",
@@ -143,6 +146,9 @@
     "heroAccent": "textes utiles.",
     "heroDescription": "Réunissez transcription, traduction et outils IA pour comprendre les idées, préparer un plan et étudier ce qui compte.",
     "heroNote": "Connexion avec Apple. Internet requis. Le traitement utilise des minutes média et des crédits Insight. Offres et packs dans l’app.",
+    "supportedLinksLabel": "Liens de vidéos publiques compatibles",
+    "deviceAvailability": "Disponible sur iPhone, iPad et Mac",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Consultez l’App Store pour connaître les appareils actuellement compatibles.",
     "foundationTitle": "Partez des mots. Approfondissez les idées.",
     "foundationBody": "Ajoutez un lien vidéo public X, YouTube ou Instagram de 90 minutes maximum. Transcrivez la parole dans sa langue d’origine ou traduisez-la dans 70 langues.",
     "howTitle": "Du lien à la prochaine étape.",
@@ -258,7 +264,7 @@
       },
       {
         "q": "Quels appareils sont compatibles ?",
-        "a": "Consultez la fiche App Store actuelle pour la compatibilité iPhone, iPad et Mac et la disponibilité dans votre région."
+        "a": "Damas est disponible sur iPhone, iPad et Mac. Nécessite iOS 18.6 ou ultérieur, iPadOS 18.6 ou ultérieur, ou macOS 15.6 ou ultérieur. Consultez la fiche App Store actuelle pour la compatibilité des appareils et la disponibilité dans votre région."
       }
     ],
     "closingTitle": "Donnez une suite utile à votre prochaine vidéo.",
@@ -279,6 +285,9 @@
     "heroAccent": "Text, der dich weiterbringt.",
     "heroDescription": "Transkription, Übersetzung und KI-Tools an einem Ort: Ideen verstehen, Schritte planen und gezielt lernen.",
     "heroNote": "Mit Apple anmelden. Internet erforderlich. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben. Tarife und Pakete stehen in der App.",
+    "supportedLinksLabel": "Unterstützte öffentliche Videolinks",
+    "deviceAvailability": "Für iPhone, iPad und Mac verfügbar",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Prüfe die aktuelle Gerätekompatibilität im App Store.",
     "foundationTitle": "Mit den Worten anfangen. Mit den Ideen weiterdenken.",
     "foundationBody": "Füge einen öffentlichen X-, YouTube- oder Instagram-Videolink mit bis zu 90 Minuten Länge hinzu. Transkribiere Sprache im Original oder übersetze sie in 70 Sprachen.",
     "howTitle": "Vom Link zum nächsten Schritt.",
@@ -394,7 +403,7 @@
       },
       {
         "q": "Welche Geräte werden unterstützt?",
-        "a": "Prüfe den aktuellen App-Store-Eintrag auf iPhone-, iPad- und Mac-Kompatibilität sowie regionale Verfügbarkeit."
+        "a": "Damas ist für iPhone, iPad und Mac verfügbar. Erfordert iOS 18.6 oder neuer, iPadOS 18.6 oder neuer oder macOS 15.6 oder neuer. Prüfe im aktuellen App-Store-Eintrag die Gerätekompatibilität und regionale Verfügbarkeit."
       }
     ],
     "closingTitle": "Mach aus dem nächsten Video einen nächsten Schritt.",
@@ -415,6 +424,9 @@
     "heroAccent": "使えるテキストに。",
     "heroDescription": "文字起こし、翻訳、AIツールをひとつに。内容を理解し、行動を計画し、大切なことを学べます。",
     "heroNote": "Appleでサインイン。インターネット接続が必要です。処理にはメディア分数とInsightクレジットを使用します。プランとパックはアプリ内で確認できます。",
+    "supportedLinksLabel": "対応する公開動画リンク",
+    "deviceAvailability": "iPhone、iPad、Macで利用できます",
+    "deviceRequirements": "iOS 18.6以降 · iPadOS 18.6以降 · macOS 15.6以降。最新の対応端末はApp Storeでご確認ください。",
     "foundationTitle": "言葉を読み、アイデアを広げる。",
     "foundationBody": "最長90分のX、YouTube、Instagramの公開動画リンクを追加。音声を元の言語で文字起こしするか、70言語に翻訳できます。",
     "howTitle": "リンクから、次に使える形へ。",
@@ -530,7 +542,7 @@
       },
       {
         "q": "どの端末で使えますか？",
-        "a": "iPhone、iPad、Macの対応条件と地域ごとの提供状況は、最新のApp Storeの情報をご確認ください。"
+        "a": "DamasはiPhone、iPad、Macで利用できます。iOS 18.6以降、iPadOS 18.6以降、またはmacOS 15.6以降が必要です。最新の対応端末と地域ごとの提供状況はApp Storeでご確認ください。"
       }
     ],
     "closingTitle": "次の動画を、役立つ次の一歩に。",
@@ -551,6 +563,9 @@
     "heroAccent": "활용할 수 있는 텍스트로.",
     "heroDescription": "받아쓰기, 번역과 AI 도구를 한곳에서. 아이디어를 이해하고, 계획을 세우고, 필요한 내용을 공부하세요.",
     "heroNote": "Apple로 로그인하세요. 인터넷 연결이 필요합니다. 처리에는 미디어 분과 Insight 크레딧이 사용됩니다. 요금제와 팩은 앱에서 확인하세요.",
+    "supportedLinksLabel": "지원되는 공개 영상 링크",
+    "deviceAvailability": "iPhone, iPad 및 Mac에서 이용 가능",
+    "deviceRequirements": "iOS 18.6 이상 · iPadOS 18.6 이상 · macOS 15.6 이상. 최신 기기 호환 정보는 App Store에서 확인하세요.",
     "foundationTitle": "말을 읽고, 아이디어를 넓혀 보세요.",
     "foundationBody": "최대 90분 길이의 공개 X, YouTube 또는 Instagram 동영상 링크를 추가하세요. 음성을 원어로 받아쓰거나 70개 언어로 번역할 수 있습니다.",
     "howTitle": "링크에서 다음 단계까지.",
@@ -666,7 +681,7 @@
       },
       {
         "q": "어떤 기기에서 사용할 수 있나요?",
-        "a": "iPhone, iPad, Mac 호환 조건과 지역별 제공 여부는 최신 App Store 정보를 확인하세요."
+        "a": "Damas는 iPhone, iPad 및 Mac에서 이용할 수 있습니다. iOS 18.6 이상, iPadOS 18.6 이상 또는 macOS 15.6 이상이 필요합니다. 최신 기기 호환 정보와 지역별 제공 여부는 App Store에서 확인하세요."
       }
     ],
     "closingTitle": "다음 동영상에서, 다음 행동으로.",
@@ -687,6 +702,9 @@
     "heroAccent": "teks yang boleh digunakan.",
     "heroDescription": "Gabungkan transkripsi, terjemahan dan alat AI untuk memahami idea, merancang tindakan dan mempelajari perkara yang penting.",
     "heroNote": "Log masuk dengan Apple. Internet diperlukan. Pemprosesan menggunakan minit media dan kredit Insight. Pelan dan pek dipaparkan dalam aplikasi.",
+    "supportedLinksLabel": "Pautan video awam yang disokong",
+    "deviceAvailability": "Tersedia pada iPhone, iPad dan Mac",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Semak App Store untuk keserasian peranti terkini.",
     "foundationTitle": "Mulakan dengan kata-kata. Kembangkan idea.",
     "foundationBody": "Tambah pautan video awam X, YouTube atau Instagram sepanjang maksimum 90 minit. Transkripsikan pertuturan dalam bahasa asal atau terjemahkannya ke dalam 70 bahasa.",
     "howTitle": "Daripada pautan kepada langkah seterusnya.",
@@ -802,7 +820,7 @@
       },
       {
         "q": "Peranti manakah yang disokong?",
-        "a": "Semak penyenaraian App Store semasa untuk keserasian iPhone, iPad dan Mac serta ketersediaan di rantau anda."
+        "a": "Damas tersedia pada iPhone, iPad dan Mac. Memerlukan iOS 18.6 atau lebih baharu, iPadOS 18.6 atau lebih baharu, atau macOS 15.6 atau lebih baharu. Semak penyenaraian App Store semasa untuk keserasian peranti dan ketersediaan di rantau anda."
       }
     ],
     "closingTitle": "Jadikan video seterusnya langkah yang berguna.",
@@ -823,6 +841,9 @@
     "heroAccent": "texto para usar.",
     "heroDescription": "Reúna transcrição, tradução e ferramentas de IA para entender ideias, montar um plano e estudar o que importa.",
     "heroNote": "Entre com a Apple. É preciso ter internet. O processamento usa minutos de mídia e créditos Insight. Planos e pacotes estão no app.",
+    "supportedLinksLabel": "Links de vídeos públicos compatíveis",
+    "deviceAvailability": "Disponível no iPhone, iPad e Mac",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Confira a compatibilidade atual dos aparelhos na App Store.",
     "foundationTitle": "Comece pelas palavras. Vá além com as ideias.",
     "foundationBody": "Adicione um link público de vídeo do X, YouTube ou Instagram de até 90 minutos. Transcreva a fala no idioma original ou traduza para 70 idiomas.",
     "howTitle": "Do link ao próximo passo.",
@@ -938,7 +959,7 @@
       },
       {
         "q": "Quais aparelhos posso usar?",
-        "a": "Confira a página atual na App Store para saber a compatibilidade com iPhone, iPad e Mac e a disponibilidade na sua região."
+        "a": "O Damas está disponível no iPhone, iPad e Mac. Requer iOS 18.6 ou posterior, iPadOS 18.6 ou posterior ou macOS 15.6 ou posterior. Confira a página atual na App Store para saber a compatibilidade dos aparelhos e a disponibilidade na sua região."
       }
     ],
     "closingTitle": "Dê ao próximo vídeo um próximo passo útil.",
@@ -959,6 +980,9 @@
     "heroAccent": "текст для ваших задач.",
     "heroDescription": "Расшифровка, перевод и ИИ-инструменты в одном месте — чтобы разобраться в идеях, составить план и изучить важное.",
     "heroNote": "Вход с Apple. Нужен интернет. Обработка расходует медиаминуты и кредиты Insight. Тарифы и пакеты указаны в приложении.",
+    "supportedLinksLabel": "Поддерживаемые публичные видеоссылки",
+    "deviceAvailability": "Доступно на iPhone, iPad и Mac",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Актуальную совместимость устройств смотрите в App Store.",
     "foundationTitle": "Начните со слов. Продолжите работу с идеями.",
     "foundationBody": "Добавьте публичную ссылку на видео из X, YouTube или Instagram длительностью до 90 минут. Расшифруйте речь на исходном языке или переведите на один из 70 языков.",
     "howTitle": "От ссылки к следующему шагу.",
@@ -1074,7 +1098,7 @@
       },
       {
         "q": "Какие устройства поддерживаются?",
-        "a": "Актуальные требования для iPhone, iPad и Mac и доступность в вашем регионе смотрите на странице приложения в App Store."
+        "a": "Damas доступен на iPhone, iPad и Mac. Требуется iOS 18.6 или новее, iPadOS 18.6 или новее либо macOS 15.6 или новее. Актуальную совместимость устройств и доступность в вашем регионе смотрите на странице приложения в App Store."
       }
     ],
     "closingTitle": "Пусть следующее видео поможет сделать следующий шаг.",
@@ -1095,6 +1119,9 @@
     "heroAccent": "用得上的文字。",
     "heroDescription": "将转写、翻译和 AI 工具放在一起，帮助你理解想法、制订计划，学习重要内容。",
     "heroNote": "使用 Apple 登录。需要互联网连接。处理会消耗媒体分钟数和 Insight 点数。套餐与加购包在 App 内显示。",
+    "supportedLinksLabel": "支持的公开视频链接",
+    "deviceAvailability": "可在 iPhone、iPad 和 Mac 上使用",
+    "deviceRequirements": "iOS 18.6 及以上 · iPadOS 18.6 及以上 · macOS 15.6 及以上。请在 App Store 查看最新的设备兼容信息。",
     "foundationTitle": "从文字出发，让想法延伸。",
     "foundationBody": "添加最长 90 分钟的 X、YouTube 或 Instagram 公开视频链接。可按原语言转写语音，或翻译成 70 种语言。",
     "howTitle": "从一个链接，到下一步行动。",
@@ -1210,7 +1237,7 @@
       },
       {
         "q": "可以在哪些设备上使用？",
-        "a": "请查看最新的 App Store 页面，确认 iPhone、iPad、Mac 兼容要求及所在地区的可用情况。"
+        "a": "Damas 可在 iPhone、iPad 和 Mac 上使用。需要 iOS 18.6、iPadOS 18.6 或 macOS 15.6 及以上版本。请在 App Store 查看最新的设备兼容信息及所在地区的可用情况。"
       }
     ],
     "closingTitle": "让下一个视频，带来实用的下一步。",
@@ -1231,6 +1258,9 @@
     "heroAccent": "texto que puedes usar.",
     "heroDescription": "Reúne transcripción, traducción y herramientas de IA para comprender ideas, preparar un plan y estudiar lo que importa.",
     "heroNote": "Inicia sesión con Apple. Se necesita internet. El procesamiento usa minutos multimedia y créditos Insight. Planes y paquetes en la app.",
+    "supportedLinksLabel": "Enlaces de vídeos públicos compatibles",
+    "deviceAvailability": "Disponible en iPhone, iPad y Mac",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Consulta la compatibilidad actual de los dispositivos en la App Store.",
     "foundationTitle": "Empieza por las palabras. Sigue con las ideas.",
     "foundationBody": "Añade un enlace público de X, YouTube o Instagram de hasta 90 minutos. Transcribe el habla en su idioma original o tradúcela a 70 idiomas.",
     "howTitle": "Del enlace al siguiente paso.",
@@ -1346,7 +1376,7 @@
       },
       {
         "q": "¿En qué dispositivos funciona?",
-        "a": "Consulta la ficha actual de la App Store para conocer la compatibilidad con iPhone, iPad y Mac y la disponibilidad en tu región."
+        "a": "Damas está disponible en iPhone, iPad y Mac. Requiere iOS 18.6 o posterior, iPadOS 18.6 o posterior, o macOS 15.6 o posterior. Consulta la ficha actual de la App Store para conocer la compatibilidad de los dispositivos y la disponibilidad en tu región."
       }
     ],
     "closingTitle": "Dale a tu próximo vídeo un siguiente paso útil.",
@@ -1367,6 +1397,9 @@
     "heroAccent": "kullanabileceğiniz metne dönüştürün.",
     "heroDescription": "Fikirleri anlamak, plan yapmak ve önemli konuları çalışmak için deşifre, çeviri ve yapay zekâ araçlarını bir arada kullanın.",
     "heroNote": "Apple ile giriş yapın. İnternet gerekir. İşlemlerde medya dakikaları ve Insight kredileri kullanılır. Plan ve paketler uygulamada gösterilir.",
+    "supportedLinksLabel": "Desteklenen herkese açık video bağlantıları",
+    "deviceAvailability": "iPhone, iPad ve Mac’te kullanılabilir",
+    "deviceRequirements": "iOS 18.6+ · iPadOS 18.6+ · macOS 15.6+. Güncel cihaz uyumluluğu için App Store’u kontrol edin.",
     "foundationTitle": "Sözlerden başlayın. Fikirlerle ilerleyin.",
     "foundationBody": "90 dakikaya kadar olan, herkese açık bir X, YouTube veya Instagram video bağlantısı ekleyin. Konuşmayı özgün dilinde metne dönüştürün ya da 70 dile çevirin.",
     "howTitle": "Bağlantıdan bir sonraki adıma.",
@@ -1482,7 +1515,7 @@
       },
       {
         "q": "Hangi cihazlarda kullanabilirim?",
-        "a": "iPhone, iPad ve Mac uyumluluğu ile bölgesel kullanılabilirlik için güncel App Store sayfasını kontrol edin."
+        "a": "Damas, iPhone, iPad ve Mac’te kullanılabilir. iOS 18.6 veya sonrası, iPadOS 18.6 veya sonrası ya da macOS 15.6 veya sonrası gerekir. Cihaz uyumluluğu ve bölgesel kullanılabilirlik için güncel App Store sayfasını kontrol edin."
       }
     ],
     "closingTitle": "Sıradaki videonuz, faydalı bir sonraki adıma dönüşsün.",

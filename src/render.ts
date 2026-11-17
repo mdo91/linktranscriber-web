@@ -2,6 +2,7 @@ import { marked } from 'marked';
 import verification from './content/site-verification.json';
 import product from './content/product-facts.json';
 import landing from './content/landing.json';
+import platformAssets from './content/platform-assets.json';
 import type { Post } from './posts';
 import type { LegalPageContent, PageSubsection } from './content/legal/types';
 import { appUrl, campaign, date, escape as e, localPath, locales, origin, siteName, sitePath, texts, type Locale } from './site';
@@ -10,11 +11,17 @@ const organization = { '@type': 'Organization', '@id': `${origin}/#organization`
 const asset = (name: string) => sitePath(`/assets/${name}`);
 const link = (url: string, label: string, attrs = '') => `<a href="${e(url)}" ${attrs}>${e(label)}</a>`;
 const download = (locale: Locale, placement: string, slug = '') => link(campaign(locale, placement, slug), texts[locale].download, 'class="button" data-download="true"');
+function platformIcon(id: 'youtube' | 'x' | 'instagram') {
+  const icon = platformAssets.platforms[id] as { file: string; inlineSvg: string | null };
+  return icon.inlineSvg
+    ? icon.inlineSvg.replace(/<svg\b/, '<svg class="platform-icon" aria-hidden="true" focusable="false"')
+    : `<img class="platform-icon" src="${asset(icon.file.replace('public/assets/', ''))}" width="24" height="24" alt="" aria-hidden="true">`;
+}
 function heroDownload(locale: Locale) {
-  const t = texts[locale];
+  const t = texts[locale], l = landing[locale], badge = platformAssets.badges[locale];
   // Vite applies the deployment base when bundling this generated asset.
   const qrImage = `/assets/app-store-qr-${locale}.svg?no-inline`;
-  return `<div class="hero-download">${download(locale, 'hero')}<a class="app-store-qr" href="${e(campaign(locale, 'hero-qr'))}" data-download="true" aria-label="${e(t.qrCodeLabel)}: ${e(t.download)}"><img src="${qrImage}" width="144" height="144" alt=""><span>${e(t.qrCodeLabel)}</span></a></div>`;
+  return `<div class="hero-download"><a class="store-badge" href="${e(campaign(locale, 'hero'))}" data-download="true" aria-label="${e(t.download)}"><img src="${asset(`app-store-badge-${locale}.svg`)}" width="${Math.round(badge.width)}" height="${Math.round(badge.height)}" style="aspect-ratio:${badge.width}/${badge.height}" alt=""></a><a class="app-store-qr" href="${e(campaign(locale, 'hero-qr'))}" data-download="true" aria-label="${e(t.qrCodeLabel)}: ${e(t.download)}"><img src="${qrImage}" width="144" height="144" alt=""><span>${e(t.qrCodeLabel)}</span></a></div><p class="device-availability">${e(l.deviceAvailability)}</p><p class="fine device-requirements">${e(l.deviceRequirements)}</p>`;
 }
 function navigation(locale: Locale, alternates: Alternates) {
   const t = texts[locale];
@@ -22,7 +29,7 @@ function navigation(locale: Locale, alternates: Alternates) {
 }
 function footer(locale: Locale) {
   const t = texts[locale];
-  return `<footer class="wrap"><a class="brand" href="${sitePath(localPath(locale))}">Damas</a><p>${e(t.footerNote)}</p><nav aria-label="${e(t.legalLinks.privacy)}">${link(sitePath(localPath(locale, '/privacy-policy.html')), t.legalLinks.privacy)}${link(sitePath(localPath(locale, '/terms-of-use.html')), t.legalLinks.terms)}${link(sitePath(localPath(locale, '/support.html')), t.legalLinks.support)}${link('mailto:hi@damastechnologies.com', 'hi@damastechnologies.com')}</nav><small>© Damas Technologies LLC</small></footer>`;
+  return `<footer class="wrap"><a class="brand" href="${sitePath(localPath(locale))}">Damas</a><p>${e(t.footerNote)}</p><nav aria-label="${e(t.legalLinks.privacy)}">${link(sitePath(localPath(locale, '/privacy-policy.html')), t.legalLinks.privacy)}${link(sitePath(localPath(locale, '/terms-of-use.html')), t.legalLinks.terms)}${link(sitePath(localPath(locale, '/support.html')), t.legalLinks.support)}${link('mailto:hi@damastechnologies.com', 'hi@damastechnologies.com')}</nav><small>© Damas Technologies LLC</small><small class="asset-attribution">${e(t.assetAttribution)}</small></footer>`;
 }
 export function page(locale: Locale, path: string, title: string, description: string, content: string, options: { alternates?: Alternates; schema?: object[]; noindex?: boolean } = {}) {
   const t = texts[locale];
@@ -44,7 +51,7 @@ export function home(locale: Locale, posts: Post[]) {
   const featuredSlugs = ['transcribe-social-video-link-iphone', 'summarize-video-transcript-iphone', 'translate-social-video-iphone', 'lecture-argument-map', 'tutorial-checked-checklist', 'webinar-checked-actions'];
   const featured = featuredSlugs.flatMap(slug => { const post = posts.find(p => p.slug === slug); return post ? [post] : []; });
   const scribble = `<svg class="scribble" viewBox="0 0 180 60" fill="none" aria-hidden="true"><path d="M8 40C37 9 84 13 104 25c20 13-17 28-26 14-8-14 33-25 78-12m-17-13 23 13-23 13" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-  const content = `<section class="hero wrap"><div class="hero-copy"><p class="eyebrow hero-kicker"><span aria-hidden="true">✳</span> ${e(l.heroKicker)}</p><h1>${e(l.heroStart)} <span class="marked">${e(l.heroAccent)}</span></h1><p class="lead">${e(l.heroDescription)}</p>${heroDownload(locale)}<p class="fine">${e(l.heroNote)}</p></div><div class="hero-art">${drawing('connections', l.heroArtAlt, true)}${scribble}<div class="platforms" aria-label="YouTube, Instagram, X"><span>YouTube</span><span>Instagram</span><span>X</span></div></div></section>
+  const content = `<section class="hero wrap"><div class="hero-copy"><p class="eyebrow hero-kicker"><span aria-hidden="true">✳</span> ${e(l.heroKicker)}</p><h1>${e(l.heroStart)} <span class="marked">${e(l.heroAccent)}</span></h1><p class="lead">${e(l.heroDescription)}</p>${heroDownload(locale)}<p class="fine">${e(l.heroNote)}</p></div><div class="hero-art">${drawing('connections', l.heroArtAlt, true)}${scribble}<div class="platform-support"><p class="platform-label">${e(l.supportedLinksLabel)}</p><div class="platforms"><span data-platform="youtube">${platformIcon('youtube')}YouTube</span><span data-platform="x">${platformIcon('x')}X</span><span data-platform="instagram">${platformIcon('instagram')}Instagram</span></div></div></div></section>
   <div class="facts wrap">${t.facts.map((f: { value: string; label: string }) => `<div><strong>${e(f.value)}</strong><span>${e(f.label)}</span></div>`).join('')}</div>
   <section class="workflow wrap"><div class="section-heading"><p class="eyebrow">Damas</p><h2>${e(l.foundationTitle)}</h2><p>${e(l.foundationBody)}</p></div><h3 class="workflow-title">${e(l.howTitle)}</h3><ol class="steps">${l.steps.map(s => `<li><h3>${e(s.title)}</h3><p>${e(s.body)}</p></li>`).join('')}</ol></section>
   <section class="outcomes" id="features"><div class="wrap"><div class="section-heading"><p class="eyebrow">${e(t.nav.features)}</p><h2>${e(l.outcomesTitle)}</h2><p>${e(l.outcomesIntro)}</p></div>${l.outcomes.map((o, i) => `<article class="outcome outcome-${i}"><div class="outcome-copy"><p class="eyebrow"><span class="chapter">0${i + 1}</span> ${e(o.kicker)}</p><h3>${e(o.title)}</h3><p>${e(o.body)}</p><ul class="benefits">${o.bullets.map(b => `<li>${e(b)}</li>`).join('')}</ul>${i === 0 ? `<p class="fine">${e(l.screenshotsNote)}</p>` : ''}</div><div class="screens-pair">${pairs[i].map((name, n) => screen(name, o.captions[n])).join('')}</div></article>`).join('')}</div></section>
