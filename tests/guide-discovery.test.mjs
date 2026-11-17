@@ -37,7 +37,7 @@ test('published source drives discovery checks at the root and repository deploy
 });
 
 test('a published guide cannot be orphaned from its index or hidden behind nofollow', () => {
-  for (const link of ['', `<a rel="nofollow" href="${guide}">Read guide</a>`, `<link rel="alternate" href="${guide}">`]) {
+  for (const link of ['', `<a rel="nofollow" href="${guide}">Read guide</a>`, `<a download href="${guide}">Read guide</a>`, `<link rel="alternate" href="${guide}">`]) {
     const { pages, input } = fixture();
     pages.set('/guides/', document('/guides/', link));
     const errors = validateGuideDiscovery(input);
