@@ -33,7 +33,8 @@
     "updated": "Updated",
     "published": "Published",
     "downloadCTA": "Open a public video link in Damas and turn its words into something you can use.",
-    "footerNote": "Check the current App Store listing for iPhone, iPad and Mac compatibility and regional availability.",
+    "footerNote": "Damas is available on iPhone, iPad and Mac. Requires iOS 18.6 or later, iPadOS 18.6 or later, or macOS 15.6 or later. Check the current App Store listing for device compatibility and regional availability.",
+    "assetAttribution": "Apple, the Apple logo and App Store are trademarks of Apple Inc., registered in the U.S. and other countries.",
     "nav": {
       "features": "Features",
       "guides": "Guides",
@@ -119,7 +120,7 @@
       },
       {
         "q": "Which devices can I use?",
-        "a": "Check the current App Store listing for iPhone, iPad and Mac compatibility and regional availability."
+        "a": "Damas is available on iPhone, iPad and Mac. Requires iOS 18.6 or later, iPadOS 18.6 or later, or macOS 15.6 or later. Check the current App Store listing for device compatibility and regional availability."
       }
     ],
     "mediaKit": {
@@ -180,7 +181,8 @@
     "updated": "Mis à jour",
     "published": "Publié",
     "downloadCTA": "Ouvrez un lien vidéo public dans Damas et transformez ses paroles en contenu utile.",
-    "footerNote": "Consultez la fiche App Store actuelle pour la compatibilité iPhone, iPad et Mac et la disponibilité dans votre région.",
+    "footerNote": "Damas est disponible sur iPhone, iPad et Mac. Nécessite iOS 18.6 ou ultérieur, iPadOS 18.6 ou ultérieur, ou macOS 15.6 ou ultérieur. Consultez la fiche App Store actuelle pour la compatibilité des appareils et la disponibilité dans votre région.",
+    "assetAttribution": "Apple, le logo Apple et App Store sont des marques d’Apple Inc., déposées aux États-Unis et dans d’autres pays.",
     "nav": {
       "features": "Fonctionnalités",
       "guides": "Guides",
@@ -266,7 +268,7 @@
       },
       {
         "q": "Quels appareils sont compatibles ?",
-        "a": "Consultez la fiche App Store actuelle pour la compatibilité iPhone, iPad et Mac et la disponibilité dans votre région."
+        "a": "Damas est disponible sur iPhone, iPad et Mac. Nécessite iOS 18.6 ou ultérieur, iPadOS 18.6 ou ultérieur, ou macOS 15.6 ou ultérieur. Consultez la fiche App Store actuelle pour la compatibilité des appareils et la disponibilité dans votre région."
       }
     ],
     "mediaKit": {
@@ -327,7 +329,8 @@
     "updated": "Aktualisiert",
     "published": "Veröffentlicht",
     "downloadCTA": "Öffne einen öffentlichen Videolink in Damas und nutze seine Worte für dein Vorhaben.",
-    "footerNote": "Prüfe den aktuellen App-Store-Eintrag auf iPhone-, iPad- und Mac-Kompatibilität sowie regionale Verfügbarkeit.",
+    "footerNote": "Damas ist für iPhone, iPad und Mac verfügbar. Erfordert iOS 18.6 oder neuer, iPadOS 18.6 oder neuer oder macOS 15.6 oder neuer. Prüfe im aktuellen App-Store-Eintrag die Gerätekompatibilität und regionale Verfügbarkeit.",
+    "assetAttribution": "Apple, das Apple Logo und App Store sind Marken von Apple Inc., eingetragen in den USA und anderen Ländern.",
     "nav": {
       "features": "Funktionen",
       "guides": "Anleitungen",
@@ -413,7 +416,7 @@
       },
       {
         "q": "Welche Geräte werden unterstützt?",
-        "a": "Prüfe den aktuellen App-Store-Eintrag auf iPhone-, iPad- und Mac-Kompatibilität sowie regionale Verfügbarkeit."
+        "a": "Damas ist für iPhone, iPad und Mac verfügbar. Erfordert iOS 18.6 oder neuer, iPadOS 18.6 oder neuer oder macOS 15.6 oder neuer. Prüfe im aktuellen App-Store-Eintrag die Gerätekompatibilität und regionale Verfügbarkeit."
       }
     ],
     "mediaKit": {
@@ -474,7 +477,8 @@
     "updated": "更新日",
     "published": "公開日",
     "downloadCTA": "Damasで公開動画リンクを開いて、その言葉を使える形にしましょう。",
-    "footerNote": "iPhone、iPad、Macの対応条件と地域ごとの提供状況は、最新のApp Storeの情報をご確認ください。",
+    "footerNote": "DamasはiPhone、iPad、Macで利用できます。iOS 18.6以降、iPadOS 18.6以降、またはmacOS 15.6以降が必要です。最新の対応端末と地域ごとの提供状況はApp Storeでご確認ください。",
+    "assetAttribution": "Apple、Appleロゴ、App Storeは、米国およびその他の国で登録されたApple Inc.の商標です。",
     "nav": {
       "features": "機能",
       "guides": "ガイド",
@@ -560,7 +564,7 @@
       },
       {
         "q": "どの端末で使えますか？",
-        "a": "iPhone、iPad、Macの対応条件と地域ごとの提供状況は、最新のApp Storeの情報をご確認ください。"
+        "a": "DamasはiPhone、iPad、Macで利用できます。iOS 18.6以降、iPadOS 18.6以降、またはmacOS 15.6以降が必要です。最新の対応端末と地域ごとの提供状況はApp Storeでご確認ください。"
       }
     ],
     "mediaKit": {
@@ -621,7 +625,8 @@
     "updated": "업데이트",
     "published": "게시일",
     "downloadCTA": "Damas에서 공개 동영상 링크를 열고 그 내용을 활용할 수 있는 텍스트로 바꿔 보세요.",
-    "footerNote": "iPhone, iPad, Mac 호환 조건과 지역별 제공 여부는 최신 App Store 정보를 확인하세요.",
+    "footerNote": "Damas는 iPhone, iPad 및 Mac에서 이용할 수 있습니다. iOS 18.6 이상, iPadOS 18.6 이상 또는 macOS 15.6 이상이 필요합니다. 최신 기기 호환 정보와 지역별 제공 여부는 App Store에서 확인하세요.",
+    "assetAttribution": "Apple, Apple 로고 및 App Store는 미국 및 기타 국가에 등록된 Apple Inc.의 상표입니다.",
     "nav": {
       "features": "기능",
       "guides": "가이드",
@@ -707,7 +712,7 @@
       },
       {
         "q": "어떤 기기에서 사용할 수 있나요?",
-        "a": "iPhone, iPad, Mac 호환 조건과 지역별 제공 여부는 최신 App Store 정보를 확인하세요."
+        "a": "Damas는 iPhone, iPad 및 Mac에서 이용할 수 있습니다. iOS 18.6 이상, iPadOS 18.6 이상 또는 macOS 15.6 이상이 필요합니다. 최신 기기 호환 정보와 지역별 제공 여부는 App Store에서 확인하세요."
       }
     ],
     "mediaKit": {
@@ -768,7 +773,8 @@
     "updated": "Dikemas kini",
     "published": "Diterbitkan",
     "downloadCTA": "Buka pautan video awam dalam Damas dan jadikan kata-katanya sesuatu yang boleh anda gunakan.",
-    "footerNote": "Semak penyenaraian App Store semasa untuk keserasian iPhone, iPad dan Mac serta ketersediaan di rantau anda.",
+    "footerNote": "Damas tersedia pada iPhone, iPad dan Mac. Memerlukan iOS 18.6 atau lebih baharu, iPadOS 18.6 atau lebih baharu, atau macOS 15.6 atau lebih baharu. Semak penyenaraian App Store semasa untuk keserasian peranti dan ketersediaan di rantau anda.",
+    "assetAttribution": "Apple, logo Apple dan App Store ialah tanda dagangan Apple Inc. yang berdaftar di A.S. dan negara lain.",
     "nav": {
       "features": "Ciri",
       "guides": "Panduan",
@@ -854,7 +860,7 @@
       },
       {
         "q": "Peranti manakah yang disokong?",
-        "a": "Semak penyenaraian App Store semasa untuk keserasian iPhone, iPad dan Mac serta ketersediaan di rantau anda."
+        "a": "Damas tersedia pada iPhone, iPad dan Mac. Memerlukan iOS 18.6 atau lebih baharu, iPadOS 18.6 atau lebih baharu, atau macOS 15.6 atau lebih baharu. Semak penyenaraian App Store semasa untuk keserasian peranti dan ketersediaan di rantau anda."
       }
     ],
     "mediaKit": {
@@ -915,7 +921,8 @@
     "updated": "Atualizado em",
     "published": "Publicado em",
     "downloadCTA": "Abra um link público de vídeo no Damas e transforme suas palavras em algo que você pode usar.",
-    "footerNote": "Confira a página atual na App Store para saber a compatibilidade com iPhone, iPad e Mac e a disponibilidade na sua região.",
+    "footerNote": "O Damas está disponível no iPhone, iPad e Mac. Requer iOS 18.6 ou posterior, iPadOS 18.6 ou posterior ou macOS 15.6 ou posterior. Confira a página atual na App Store para saber a compatibilidade dos aparelhos e a disponibilidade na sua região.",
+    "assetAttribution": "Apple, o logotipo da Apple e App Store são marcas comerciais da Apple Inc., registradas nos EUA e em outros países.",
     "nav": {
       "features": "Recursos",
       "guides": "Guias",
@@ -1001,7 +1008,7 @@
       },
       {
         "q": "Quais aparelhos posso usar?",
-        "a": "Confira a página atual na App Store para saber a compatibilidade com iPhone, iPad e Mac e a disponibilidade na sua região."
+        "a": "O Damas está disponível no iPhone, iPad e Mac. Requer iOS 18.6 ou posterior, iPadOS 18.6 ou posterior ou macOS 15.6 ou posterior. Confira a página atual na App Store para saber a compatibilidade dos aparelhos e a disponibilidade na sua região."
       }
     ],
     "mediaKit": {
@@ -1062,7 +1069,8 @@
     "updated": "Обновлено",
     "published": "Опубликовано",
     "downloadCTA": "Откройте публичную видеоссылку в Damas и превратите слова в материал для ваших задач.",
-    "footerNote": "Актуальные требования для iPhone, iPad и Mac и доступность в вашем регионе смотрите на странице приложения в App Store.",
+    "footerNote": "Damas доступен на iPhone, iPad и Mac. Требуется iOS 18.6 или новее, iPadOS 18.6 или новее либо macOS 15.6 или новее. Актуальную совместимость устройств и доступность в вашем регионе смотрите на странице приложения в App Store.",
+    "assetAttribution": "Apple, логотип Apple и App Store — товарные знаки Apple Inc., зарегистрированные в США и других странах.",
     "nav": {
       "features": "Возможности",
       "guides": "Руководства",
@@ -1148,7 +1156,7 @@
       },
       {
         "q": "Какие устройства поддерживаются?",
-        "a": "Актуальные требования для iPhone, iPad и Mac и доступность в вашем регионе смотрите на странице приложения в App Store."
+        "a": "Damas доступен на iPhone, iPad и Mac. Требуется iOS 18.6 или новее, iPadOS 18.6 или новее либо macOS 15.6 или новее. Актуальную совместимость устройств и доступность в вашем регионе смотрите на странице приложения в App Store."
       }
     ],
     "mediaKit": {
@@ -1209,7 +1217,8 @@
     "updated": "更新日期",
     "published": "发布日期",
     "downloadCTA": "在 Damas 中打开公开视频链接，把其中的话语变成用得上的内容。",
-    "footerNote": "请查看最新的 App Store 页面，确认 iPhone、iPad、Mac 兼容要求及所在地区的可用情况。",
+    "footerNote": "Damas 可在 iPhone、iPad 和 Mac 上使用。需要 iOS 18.6、iPadOS 18.6 或 macOS 15.6 及以上版本。请在 App Store 查看最新的设备兼容信息及所在地区的可用情况。",
+    "assetAttribution": "Apple、Apple 标志和 App Store 是 Apple Inc. 在美国及其他国家或地区注册的商标。",
     "nav": {
       "features": "功能",
       "guides": "指南",
@@ -1295,7 +1304,7 @@
       },
       {
         "q": "可以在哪些设备上使用？",
-        "a": "请查看最新的 App Store 页面，确认 iPhone、iPad、Mac 兼容要求及所在地区的可用情况。"
+        "a": "Damas 可在 iPhone、iPad 和 Mac 上使用。需要 iOS 18.6、iPadOS 18.6 或 macOS 15.6 及以上版本。请在 App Store 查看最新的设备兼容信息及所在地区的可用情况。"
       }
     ],
     "mediaKit": {
@@ -1356,7 +1365,8 @@
     "updated": "Actualizado",
     "published": "Publicado",
     "downloadCTA": "Abre un enlace público de vídeo en Damas y convierte sus palabras en algo que puedas usar.",
-    "footerNote": "Consulta la ficha actual de la App Store para conocer la compatibilidad con iPhone, iPad y Mac y la disponibilidad en tu región.",
+    "footerNote": "Damas está disponible en iPhone, iPad y Mac. Requiere iOS 18.6 o posterior, iPadOS 18.6 o posterior, o macOS 15.6 o posterior. Consulta la ficha actual de la App Store para conocer la compatibilidad de los dispositivos y la disponibilidad en tu región.",
+    "assetAttribution": "Apple, el logotipo de Apple y App Store son marcas de Apple Inc., registradas en EE. UU. y otros países.",
     "nav": {
       "features": "Funciones",
       "guides": "Guías",
@@ -1442,7 +1452,7 @@
       },
       {
         "q": "¿En qué dispositivos funciona?",
-        "a": "Consulta la ficha actual de la App Store para conocer la compatibilidad con iPhone, iPad y Mac y la disponibilidad en tu región."
+        "a": "Damas está disponible en iPhone, iPad y Mac. Requiere iOS 18.6 o posterior, iPadOS 18.6 o posterior, o macOS 15.6 o posterior. Consulta la ficha actual de la App Store para conocer la compatibilidad de los dispositivos y la disponibilidad en tu región."
       }
     ],
     "mediaKit": {
@@ -1503,7 +1513,8 @@
     "updated": "Güncellendi",
     "published": "Yayımlandı",
     "downloadCTA": "Damas’ta herkese açık bir video bağlantısı açın ve içindeki sözleri kullanabileceğiniz bir içeriğe dönüştürün.",
-    "footerNote": "iPhone, iPad ve Mac uyumluluğu ile bölgesel kullanılabilirlik için güncel App Store sayfasını kontrol edin.",
+    "footerNote": "Damas, iPhone, iPad ve Mac’te kullanılabilir. iOS 18.6 veya sonrası, iPadOS 18.6 veya sonrası ya da macOS 15.6 veya sonrası gerekir. Cihaz uyumluluğu ve bölgesel kullanılabilirlik için güncel App Store sayfasını kontrol edin.",
+    "assetAttribution": "Apple, Apple logosu ve App Store, Apple Inc.’in ABD ve diğer ülkelerde tescilli ticari markalarıdır.",
     "nav": {
       "features": "Özellikler",
       "guides": "Rehberler",
@@ -1589,7 +1600,7 @@
       },
       {
         "q": "Hangi cihazlarda kullanabilirim?",
-        "a": "iPhone, iPad ve Mac uyumluluğu ile bölgesel kullanılabilirlik için güncel App Store sayfasını kontrol edin."
+        "a": "Damas, iPhone, iPad ve Mac’te kullanılabilir. iOS 18.6 veya sonrası, iPadOS 18.6 veya sonrası ya da macOS 15.6 veya sonrası gerekir. Cihaz uyumluluğu ve bölgesel kullanılabilirlik için güncel App Store sayfasını kontrol edin."
       }
     ],
     "mediaKit": {
