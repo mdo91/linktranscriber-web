@@ -4,7 +4,7 @@ description: "Résumez une définition avec ses conditions, puis distinguez les 
 slug: "lecture-definition-boundaries"
 locale: "fr"
 publishedAt: "2026-11-14"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Comment résumer une définition présentée dans un cours vidéo pour savoir quels exemples y correspondent ?"
 topics: ["Résumés de cours et définitions"]
@@ -15,9 +15,11 @@ translationKey: "lecture-definition-boundaries"
 
 Pour résumer une définition de cours, repérez son explication avec la transcription et le résumé intégré de Damas, puis relevez les conditions réellement énoncées. Confrontez chaque exemple à ces conditions avant de rédiger la version courte. Gardez trois résultats possibles : conforme à la définition, exclu par une condition ou indéterminé faute d’information. Ce tableau est votre travail manuel, à partir du texte modifiable et copiable.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Retrouver l’explication entière
 
-Damas accepte les liens vidéo publics à la demande compatibles de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande compatibles de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
 
 1. Conservez le lien et le titre du cours, puis choisissez une seule notion.
 2. Fournissez le lien dans Damas. Suivez les indications actuelles de transcription et de résumé intégré, après lecture du consentement IA.
@@ -57,6 +59,6 @@ Gardez définition courte, passages contrôlés, tableau et lien ensemble. Cache
 
 Aucun LLM externe n’est nécessaire. Une mise en forme facultative dans un autre LLM exige l’autorisation de transmettre le texte et une vérification de chaque condition ; ce n’est pas une intégration Damas ni une notation automatique. Pour les mots exacts, consultez les [citations](/fr/guides/verify-interview-quotes/) ; pour une autre langue, la [traduction](/fr/guides/translate-social-video-iphone/) et le contrôle du sens original.
 
-Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions. Si la source devient inaccessible, laissez les contrôles inachevés ouverts et respectez les droits de réutilisation.
+Temps et précision varient. Damas ne télécharge pas les médias, n’importe pas de fichiers, ne double pas les voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Si la source devient inaccessible, laissez les contrôles inachevés ouverts et respectez les droits de réutilisation.
 
 Damas Technologies LLC

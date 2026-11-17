@@ -4,7 +4,7 @@ description: "Dersteki iddiaları, gerekçeleri ve örnekleri ayrı kaydedin; ba
 slug: "lecture-argument-map"
 locale: "tr"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Bir YouTube dersini iddia ve gerekçeleri birbirine bağlayarak nasıl özetlerim?"
 topics: ["Ders özeti ve argüman haritası"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","verify-interview-quotes","share-c
 translationKey: "lecture-argument-map"
 ---
 
-Bir YouTube dersini iddia ve gerekçeleri birbirine bağlayarak özetlemek için Damas dökümü ve uygulama içi özetten bir sonuç seçin, sonra açıklamanın tamamına dönün. İddiaları, gerekçeleri ve örnekleri ayrı kaydedip yalnızca anlatıcının açıkladığı ilişkileri bağlayın. Haritayı ve son özeti kendiniz hazırlarsınız; Damas okunabilir, düzenlenebilir ve kopyalanabilir metin sağlar.
+Bir YouTube dersinin iddia ve gerekçelerini bağlamak için incelenmiş Damas dökümünden uygulamada düzenlenebilir zihin haritası oluşturun. Araştırmak istediğiniz soruyu bağlam olarak belirtin. Her iddiayı, gerekçeyi, örneği ve bağlantıyı açıklamanın tamamından kontrol edin. Aşağıdaki ayrıntılı dayanak kayıtları elle yapılan bir inceleme yöntemidir; üretilmiş harita argümanı doğrulamaz.
+
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
 
 ## Açıklamanın tamamını hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen videoların desteklenen bağlantılarını işler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan materyali kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklar da erişilemez olabilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen videoların desteklenen bağlantılarını işler. Yalnızca işleme izniniz olan materyali kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklar da erişilemez olabilir.
 
 1. Özgün bağlantıyı ve ders başlığını saklayın. Anlamak istediğiniz soruyu yazın.
 2. Desteklenen bağlantıyı Damas’a girip güncel döküm ve uygulama içi özet yönergelerini izleyin. Yapay zekâ onayını okuyun.
@@ -53,8 +55,8 @@ Duyulmayan sözleri, açıklanmamış ilişkiyi ve sizin makul bulduğunuz ek ge
 
 Kopyalamadan önce her ifade ve bağlantının dayanağını, örneklerin statüsünü ve koşulları kontrol edin. Kaynak bağlantısını ve açık soruları saklayın. Harita açıklamanın yapısını gösterir; iddiaların doğruluğunu bağımsız olarak kanıtlamaz.
 
-Harici LLM gerekmez. Başka bir LLM’de isteğe bağlı biçimlendirme, metni paylaşma izni ve önerilen her bağlantının kontrolünü gerektirir. Bu harici taslak çalışmasıdır; Damas entegrasyonu veya otomatik argüman haritası özelliği değildir.
+Damas özetler, düzenlenebilir zihin haritaları, eylem kontrol listeleri, adım adım rehberler, çalışma rehberleri, açıklamalı yanıtları olan testler ve soru-cevap bilgi kartları sunar. Konu, hedef kitle veya bağlam belirtip çıktı dilini seçin. Her bağlantı veya yanıtı kaynakla kontrol edin; bu rehberdeki ayrıntılı karşılaştırma ve doğrulama yöntemleri yine sizin değerlendirmenizi gerektirir.
 
-Tam ifadeler için [alıntı doğrulama](/tr/guides/verify-interview-quotes/), aktarım için [kaynak bölümlü notlar](/tr/guides/share-checked-video-notes/) yardımcı olur. Süre ve doğruluk değişir. Kaynak erişilemez olursa tamamlanmamış kontrolleri açık bırakın. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium erişim kısıtlarını aşmaz. Yeniden kullanım haklarınıza uygun paylaşın.
+Tam ifadeler için [alıntı doğrulama](/tr/guides/verify-interview-quotes/), aktarım için [kaynak bölümlü notlar](/tr/guides/share-checked-video-notes/) yardımcı olur. Süre ve doğruluk değişir. Kaynak erişilemez olursa tamamlanmamış kontrolleri açık bırakın. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Yeniden kullanım haklarınıza uygun paylaşın.
 
 Damas Technologies LLC

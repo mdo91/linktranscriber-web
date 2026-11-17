@@ -4,7 +4,7 @@ description: "Webinardan eylem maddeleri çıkarmak için Damas ile döküm haz�
 slug: "webinar-checked-actions"
 locale: "tr"
 publishedAt: "2026-10-24"
-updatedAt: "2026-10-24"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "webinardan eylem maddeleri çıkarma"
 topics: ["webinardan eylem maddeleri çıkarma","Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone","summarize-video-transcript-ipho
 translationKey: "webinar-checked-actions"
 ---
 
-Webinardan eylem maddeleri çıkarmak için Damas ile döküm hazırlayıp kayıtla karşılaştırın, ardından açık taahhütleri, önerileri ve kendi takip fikirlerinizi ayırın. Listeyi elle veya isteğe bağlı olarak başka bir LLM’de hazırlayın. Damas düzenlenebilir metin ve uygulama içi özet sağlar; özel görev listesi ayrı bir taslak adımıdır.
+Kaydedilmiş bir webinardan eylemler çıkarmak için Damas’ta dökümü oluşturup inceleyin, ardından uygulamada eylem kontrol listesi hazırlayın. Konu, hedef kitle veya bağlam belirtin. Açık taahhütleri, önerileri ve kendi tekliflerinizi ayırın; üretilen ayrıntıları kabul etmeden önce sorumluları ve tarihleri kaynaktan kontrol edin.
+
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
 
 ## Desteklenen bir kaynakla başlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Özel, erişimi kısıtlı ve canlı içerikleri desteklemez. iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içerikleri gönderin.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Özel, erişimi kısıtlı ve canlı içerikleri desteklemez. Yalnızca işleme izniniz olan içerikleri gönderin.
 
 ## Yararlı bir genel bakış oluşturun
 
@@ -42,9 +44,9 @@ Bu, gerçek bir kayıttan alıntı olmayan kurmaca bir öğretim örneğidir. Su
 - Sorumlu: belirtilmedi. Son tarih: belirtilmedi. Sunum yapan kişiyi veya gelecek cumayı eklemeyin.
 - Kendi teklifiniz: ekibe denemeyi isteyip istemediğini sormak. Bunu konuşmacının taahhüdü olarak sunmayın.
 
-## İsteğe bağlı: başka bir LLM için istem
+## Damas’ta yapay zekâ sonucunu yönlendirin
 
-Kontrol edilmiş dökümü başka bir hizmetle yalnızca paylaşma izniniz varsa paylaşın. Bu harici bir akıştır; Damas entegrasyonu veya otomatik görev oluşturma özelliği değildir. Kopyalanabilir örnek:
+Damas’ta uygun yapay zekâ aracını seçip konu, hedef kitle veya bağlam ve çıktı dili belirtin. Aşağıdaki örnek, kaynağa dayalı bir bağlamı gösterir; sonucu döküm ve videoyla kontrol edin. Özgün dökümü koruyup yapay zekâ çıktısını ayrı kaydedin.
 
 > Yalnızca bu kontrol edilmiş webinar dökümünü kullan. Eylem adaylarını dayanak bölümü, koşul ve durumuyla listele: açık taahhüt, öneri, benim teklifim veya belirsiz. Sorumlu ve son tarihi ancak eylemle açıkça ilişkilendirilmişse yaz; aksi hâlde “belirtilmedi” de. Olgu veya alıntı uydurma. Benim tekliflerimi konuşmacının taahhütlerinden ayır. Kaynak: [bağlantı]. Döküm: [metin].
 
@@ -52,6 +54,6 @@ Her maddenin dayanağını kayıtta yeniden dinleyin; olumsuzlukları, adları, 
 
 Başlamak için [yazıya çevirme rehberine](/tr/guides/transcribe-social-video-link-iphone/) bakın. Genel bakış için [özeti](/tr/guides/summarize-video-transcript-iphone/), başka dil için [çeviriyi](/tr/guides/translate-social-video-iphone/) kullanın; önemli ifadeleri özgün kaynakla doğrulayın.
 
-İşleme süresi ve doğruluk değişir. Damas medya indirmez, altyazı gömmez ve çevrimdışı işlemez. Premium erişilemeyen kaynağı kullanılabilir hâle getirmez.
+İşleme süresi ve doğruluk değişir. Damas medya indirmez, altyazı gömmez ve çevrimdışı işlemez.
 
 Damas Technologies LLC

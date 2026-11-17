@@ -4,7 +4,7 @@ description: "Para organizar temas y contradicciones de una entrevista en vídeo
 slug: "interview-theme-matrix"
 locale: "es"
 publishedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "organizar temas y contradicciones de una entrevista en vídeo"
 topics: ["Temas y puntos de vista"]
@@ -15,9 +15,11 @@ translationKey: "interview-theme-matrix"
 
 Para organizar temas y contradicciones de una entrevista en vídeo, prepara una transcripción en Damas y crea una tabla por tema y persona. Conserva los pasajes de apoyo y compara las condiciones antes de afirmar que hay desacuerdo. El resumen integrado ayuda a orientarte; la tabla y la síntesis son un trabajo manual a partir del texto editable y copiable.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Prepara la fuente y la transcripción
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Envía solo material que tengas permiso para procesar. Las fuentes privadas, restringidas, en directo o inaccesibles no sirven para este flujo. Un enlace público también puede fallar al procesarse.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Envía solo material que tengas permiso para procesar. Las fuentes privadas, restringidas, en directo o inaccesibles no sirven para este flujo. Un enlace público también puede fallar al procesarse.
 
 1. Abre la entrevista en su plataforma original y guarda el enlace y el título en tus notas.
 2. Facilita el enlace compatible en Damas. Usa la transcripción siguiendo las indicaciones actuales de la app y lee el consentimiento de IA.

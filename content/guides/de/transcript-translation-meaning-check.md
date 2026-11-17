@@ -4,7 +4,7 @@ description: "Prüfen Sie, ob ein Fehler im Transkript oder erst in der Überset
 slug: "transcript-translation-meaning-check"
 locale: "de"
 publishedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Originaltranskript und Videoübersetzung vergleichen"
 topics: ["Übersetzten Sinn prüfen"]
@@ -15,9 +15,11 @@ translationKey: "transcript-translation-meaning-check"
 
 Um Originaltranskript und Videoübersetzung zu vergleichen, prüfen Sie zuerst den ursprünglichen Wortlaut an der Aufnahme und danach dieselbe vollständige Aussage im übersetzten Text. Halten Sie fest, ob die Abweichung bei der Transkription oder bei der Übersetzung beginnt. Damas liefert bearbeitbare und kopierbare Texte; Vergleich und Prüfnotiz erstellen Sie selbst.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Zwei Texte derselben Quelle vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten Sie nur erlaubte Inhalte. Private, eingeschränkte und Live-Videos werden nicht unterstützt; auch öffentliche Quellen können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten Sie nur erlaubte Inhalte. Private, eingeschränkte und Live-Videos werden nicht unterstützt; auch öffentliche Quellen können unzugänglich sein.
 
 1. Öffnen Sie das Video und behalten Sie Link und Titel. Wählen Sie eine Aussage mit dem Satz davor und danach.
 2. Geben Sie den unterstützten Link in Damas ein. Folgen Sie den aktuellen Hinweisen zur Transkription in der Originalsprache und Übersetzung in eine unterstützte Zielsprache. Lesen Sie die KI-Einwilligung und warten Sie auf die Ergebnisse.
@@ -53,6 +55,6 @@ Ein externes LLM ist nicht erforderlich. Optional dürfen Sie erlaubte Texte dor
 
 Die [Übersetzung](/de/guides/translate-social-video-iphone/) erklärt die Zielsprache, die [Transkription](/de/guides/transcribe-social-video-link-iphone/) den Originaltext. Für einzelne Begriffe hilft das [zweisprachige Glossar](/de/guides/video-bilingual-glossary/). Damas liefert die Texte zum Lesen, Bearbeiten und Kopieren.
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Quellenbeschränkung. Wird die Quelle unzugänglich, bleiben unvollständige Prüfungen offen. Beachten Sie Ihre Nutzungsrechte.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Wird die Quelle unzugänglich, bleiben unvollständige Prüfungen offen. Beachten Sie Ihre Nutzungsrechte.
 
 Damas Technologies LLC

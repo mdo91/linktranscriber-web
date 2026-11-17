@@ -4,7 +4,7 @@ description: "Séparez la parole d’un Reel public des textes visibles, vérifi
 slug: "instagram-speech-caption-check"
 locale: "fr"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "transcription vidéo instagram"
 topics: ["Parole et texte à l’écran"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 Pour obtenir une transcription vidéo Instagram sans mélanger les sources, utilisez Damas pour transcrire la parole d’un Reel public compatible, puis regardez vous-même les textes à l’écran. Conservez séparément les mots entendus, les mots lus et leurs éventuels désaccords. Damas fournit un texte modifiable et copiable ; cette comparaison reste manuelle.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer le Reel et sa transcription
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique inaccessible peut aussi échouer.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique inaccessible peut aussi échouer.
 
 1. Ouvrez le Reel sur Instagram, conservez son lien original et vérifiez qu’il contient une parole audible utile à votre question.
 2. Fournissez le lien compatible dans Damas. Suivez les indications actuelles de transcription et lisez le consentement IA.
@@ -51,6 +53,6 @@ Gardez ensemble lien original, parole contrôlée, note visuelle et questions ou
 
 Le [guide de transcription](/fr/guides/transcribe-social-video-link-iphone/) explique le départ. Pour lire la parole dans une autre langue, utilisez la [traduction en texte](/fr/guides/translate-social-video-iphone/), proposée vers 70 langues. Après vérification des désaccords, le [résumé intégré](/fr/guides/summarize-video-transcript-iphone/) peut donner un aperçu.
 
-Temps et précision varient. Damas ne télécharge pas les médias, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions. Si le Reel devient inaccessible, les contrôles inachevés restent ouverts. Respectez vos droits lors du partage.
+Temps et précision varient. Damas ne télécharge pas les médias, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Si le Reel devient inaccessible, les contrôles inachevés restent ouverts. Respectez vos droits lors du partage.
 
 Damas Technologies LLC

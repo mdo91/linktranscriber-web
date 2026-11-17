@@ -4,7 +4,7 @@ description: "Separate the predicted outcome, observed result and lecturer’s e
 slug: "summarize-experiment-prediction-results"
 locale: "en"
 publishedAt: "2026-11-15"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "How can I summarize an experiment in a YouTube lecture without confusing its prediction and result?"
 topics: ["Summarizing experiments"]
@@ -15,9 +15,11 @@ translationKey: "summarize-experiment-prediction-results"
 
 To summarize an experiment in a YouTube lecture, use a Damas transcript and built-in summary to locate the demonstration, then record the prediction, observation and explanation separately. Compare the result with the prediction before writing your short account. You make this experiment record manually; Damas supplies text you can read, edit and copy.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the complete demonstration
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, iOS 18.6 or later, internet, Premium and consent for AI processing are required. Process only material you are authorized to use. Private, restricted and live videos are unsupported; a public recording can also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process only material you are authorized to use. Private, restricted and live videos are unsupported; a public recording can also be inaccessible.
 
 1. Keep the original link and title. Choose one experiment rather than the whole lecture.
 2. Provide the supported link in Damas and follow the current transcription and built-in summary instructions, reviewing AI consent.
@@ -56,6 +58,6 @@ Use this manual checklist: which trial; under what conditions; what was predicte
 
 No external LLM is needed. Optional formatting in another LLM is a separate external step requiring permission to share the text and review of every output; it is not a Damas integration. For the wider explanation, see [claims and reasons](/guides/lecture-argument-map/). Before quoting, use [quotation checking](/guides/verify-interview-quotes/).
 
-Accuracy and processing time vary. A faithful summary does not independently validate the experiment. Damas does not download media, accept video file uploads, dub audio, embed subtitles or process offline. Premium cannot bypass restrictions. If the source becomes inaccessible, leave unfinished checks open and share only within your reuse rights.
+Accuracy and processing time vary. A faithful summary does not independently validate the experiment. Damas does not download media, accept video file uploads, dub audio, embed subtitles or process offline. If the source becomes inaccessible, leave unfinished checks open and share only within your reuse rights.
 
 Damas Technologies LLC

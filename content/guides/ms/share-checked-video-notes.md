@@ -4,7 +4,7 @@ description: "Sediakan nota untuk penerima dengan petikan sokongan, batas semaka
 slug: "share-checked-video-notes"
 locale: "ms"
 publishedAt: "2026-11-02"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "kongsi nota video yang disemak dengan petikan asal dan pautan sumber"
 topics: ["Perkongsian nota yang disemak"]
@@ -15,15 +15,17 @@ translationKey: "share-checked-video-notes"
 
 Untuk berkongsi nota video yang disemak dengan petikan asal dan pautan sumber, salin teks yang diteliti dalam Damas ke dokumen anda, kemudian padankan setiap kesimpulan dengan petikan sokongan. Sertakan pautan video asal, skop semakan dan persoalan terbuka. Sebelum menghantar, baca nota itu sahaja untuk memastikan buktinya benar-benar menyokong kesimpulan.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan teks untuk disemak
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Proses dan kongsi hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh diakses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Proses dan kongsi hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh diakses.
 
 1. Buka sumber dan simpan pautan asal serta tajuknya.
 2. Masukkan pautan yang disokong ke Damas, ikuti arahan transkripsi semasa dan baca persetujuan AI.
 3. Tunggu hasil. Ringkasan terbina dalam membantu orientasi, tetapi petikan penuh diperlukan sebagai sokongan.
 4. Dengar semula nama, kuantiti, penafian dan syarat. Sunting dan salin hanya perkara yang disokong oleh rakaman.
-5. Bina nota dalam dokumen sendiri. Struktur di bawah disediakan secara manual, bukan fungsi perkongsian atau petikan Damas.
+5. Baca, sunting, salin atau kongsi teks dan nota dalam Damas. Sediakan struktur bukti di bawah secara manual; ia bukan fungsi petikan atau penyegerakan automatik.
 
 ## Pilih petikan untuk soalan penerima
 
@@ -55,6 +57,6 @@ LLM luaran tidak diperlukan. Pemformatan pilihan dalam LLM lain memerlukan keben
 
 Gunakan [transkripsi](/ms/guides/transcribe-social-video-link-iphone/) untuk teks awal dan [semakan petikan](/ms/guides/verify-interview-quotes/) untuk kata-kata tepat. Bagi bukti terjemahan, buat [perbandingan maksud](/ms/guides/transcript-translation-meaning-check/) dahulu. Damas menyediakan teks untuk dibaca, disunting dan disalin.
 
-Tempoh dan ketepatan berubah-ubah. Damas tidak memuat turun media, menerima muat naik fail, mengalih suara, membenam sari kata atau memproses di luar talian. Premium tidak memintas sekatan sumber.
+Tempoh dan ketepatan berubah-ubah. Damas tidak memuat turun media, menerima muat naik fail, mengalih suara, membenam sari kata atau memproses di luar talian.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "分清 X 视频中核实过的发言、帖文评论和缺失背景
 slug: "x-summary-post-context"
 locale: "zh-hans"
 publishedAt: "2026-10-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "X（推特）视频总结"
 topics: ["X 视频的背景与出处"]
@@ -15,9 +15,11 @@ translationKey: "x-summary-post-context"
 
 做 X（推特）视频总结时，先在 Damas 中准备文字稿和应用内摘要，再把视频发言与帖文评论分开核查。记录发言者说了什么、发布账号补充了什么，以及视频本身无法说明什么。Damas 提供可编辑、可复制的文字；出处记录由您手动整理。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备视频与概览
 
-Damas 支持 YouTube、Instagram 和 X 的公开点播视频链接，时长不超过90分钟。在 iPhone 上需要 iOS 18.6 或更高版本、互联网、Premium 和 AI 处理同意。只处理您获准使用的素材。不支持私密、受限或直播内容；公开素材也可能无法访问。
+Damas 支持 YouTube、Instagram 和 X 的公开点播视频链接，时长不超过90分钟。只处理您获准使用的素材。不支持私密、受限或直播内容；公开素材也可能无法访问。
 
 1. 打开 X 帖文，保存原始链接。自己阅读帖文评论。无法确定账号发布的是自己拍摄还是他人片段时，标为待确认。
 2. 把支持的视频链接输入 Damas，阅读 AI 处理同意，按当前指引使用转写和应用内摘要。
@@ -48,6 +50,6 @@ Damas 支持 YouTube、Instagram 和 X 的公开点播视频链接，时长不�
 
 完整文字可参考[转写指南](/zh-hans/guides/transcribe-social-video-link-iphone/)，概览可参考[摘要指南](/zh-hans/guides/summarize-video-transcript-iphone/)。使用准确措辞前请做[引用核实](/zh-hans/guides/verify-interview-quotes/)。
 
-处理时间与准确度因来源、音频和连接而异。Damas 不下载媒体、不配音、不嵌入字幕，也不离线处理。Premium 无法绕过来源限制。片段无法访问时，未完成的核查仍需保留，并在再利用权限内分享。
+处理时间与准确度因来源、音频和连接而异。Damas 不下载媒体、不配音、不嵌入字幕，也不离线处理。片段无法访问时，未完成的核查仍需保留，并在再利用权限内分享。
 
 Damas Technologies LLC

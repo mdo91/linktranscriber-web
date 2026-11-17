@@ -4,7 +4,7 @@ description: "区分转写与翻译，定位错误产生的阶段，并对照原
 slug: "transcript-translation-meaning-check"
 locale: "zh-hans"
 publishedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "视频转写和视频翻译有什么区别"
 topics: ["核查译文含义"]
@@ -15,9 +15,11 @@ translationKey: "transcript-translation-meaning-check"
 
 视频转写把发言保留为原语言文字，翻译则用另一种语言表达含义。核查两者的区别时，先把原语言文字稿与音频对照，再比较译文中的同一段完整发言。Damas 提供可编辑、可复制的两种文本；错误始于转写还是翻译，需要你手动核查和记录。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备同一来源的两种文本
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。在 iPhone 上需要 iOS 18.6 或更高版本、互联网、Premium 和 AI 处理同意。只提交有权处理的内容。不支持私密、受限或直播视频；公开视频也可能无法访问。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。只提交有权处理的内容。不支持私密、受限或直播视频；公开视频也可能无法访问。
 
 1. 打开原视频，保留链接和标题。选出要核查的发言，并保留前后各一句。
 2. 把支持的链接输入 Damas，按当前应用指引使用原语言转写和支持的目标语言翻译。阅读 AI 同意内容，等待结果。
@@ -53,6 +55,6 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 选择目标语言可参考[翻译指南](/zh-hans/guides/translate-social-video-iphone/)，准备原文可参考[转写指南](/zh-hans/guides/transcribe-social-video-link-iphone/)。个别术语可整理成[双语术语表](/zh-hans/guides/video-bilingual-glossary/)。Damas 帮你准备可阅读、编辑和复制的文本。
 
-处理时间和准确度会变化。Damas 不下载媒体、不导入文件、不配音、不嵌入字幕，也不离线处理。Premium 不能绕过来源限制。原视频无法访问时，未完成的核查仍保留待确认状态。分享时遵守使用权限。
+处理时间和准确度会变化。Damas 不下载媒体、不导入文件、不配音、不嵌入字幕，也不离线处理。原视频无法访问时，未完成的核查仍保留待确认状态。分享时遵守使用权限。
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "Confrontez vos critères aux passages et aux gestes d’une démon
 slug: "product-demo-requirements"
 locale: "fr"
 publishedAt: "2026-11-08"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "résumer une vidéo de démonstration selon ses besoins"
 topics: ["Évaluer une démonstration"]
@@ -15,9 +15,11 @@ translationKey: "product-demo-requirements"
 
 Pour résumer une démonstration vidéo selon vos besoins, préparez une transcription et un résumé intégré avec Damas, puis confrontez chaque critère à ce que montre réellement la vidéo. Séparez résultat visible, affirmation orale et essai manquant. Cette fiche est votre analyse manuelle, pas une évaluation automatique de Damas ni une garantie que le produit vous conviendra.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer la vidéo et vos critères
 
-Damas accepte les liens vidéo publics à la demande YouTube, Instagram et X compatibles, jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Utilisez seulement du contenu autorisé. Les vidéos privées, restreintes et en direct ne sont pas prises en charge ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande YouTube, Instagram et X compatibles, jusqu’à 90 minutes. Utilisez seulement du contenu autorisé. Les vidéos privées, restreintes et en direct ne sont pas prises en charge ; une source publique peut aussi être inaccessible.
 
 1. Écrivez vos besoins avant de lire le résumé : quel résultat doit être observable, avec quelles données et dans quelles conditions ? Ce sont vos critères, pas les promesses de la personne qui présente.
 2. Conservez le lien original et le titre. Fournissez le lien compatible dans Damas, puis suivez les consignes actuelles de transcription et de résumé intégré après lecture du consentement IA.
@@ -44,10 +46,10 @@ Exemple pédagogique inventé concernant un outil non précisé : ce ne sont ni 
 
 Inutile de calculer une note globale. Choisissez le point non résolu qui pourrait changer votre décision et formulez une question précise. Un résumé fluide ne transforme pas un besoin non testé en critère satisfait. N’inventez ni responsable, ni échéance, ni citation, ni résultat. Si la source devient inaccessible, laissez les vérifications inachevées ouvertes.
 
-Vous pouvez remplir la fiche à la main. En option, copiez le texte vérifié et autorisé dans un autre LLM pour proposer des lignes, en séparant vos critères des passages sources. Contrôlez chaque rapprochement : c’est une rédaction externe, pas une intégration Damas ni un test automatique.
+Damas propose des résumés, des cartes mentales modifiables, des listes d’actions, des guides étape par étape, des guides d’étude, des quiz avec réponses expliquées et des cartes question-réponse. Précisez le sujet, le public ou le contexte et choisissez la langue de sortie. Vérifiez chaque relation ou réponse à la source ; les méthodes détaillées de comparaison et de vérification de ce guide demandent toujours votre jugement.
 
 Le [guide du résumé](/fr/guides/summarize-video-transcript-iphone/) explique le parcours dans l’application. Consultez la [vérification des citations](/fr/guides/verify-interview-quotes/) avant de reprendre une promesse et le [partage avec les sources](/fr/guides/share-checked-video-notes/) pour transmettre votre analyse.
 
-Gardez le lien original, la date de votre analyse et les questions restantes avec la fiche copiée. Durée de traitement et précision varient. Damas ne télécharge pas de médias, n’importe pas de fichiers, ne double pas la voix, n’incruste pas de sous-titres et ne fonctionne pas hors ligne. Premium ne contourne pas les restrictions. Respectez vos droits de réutilisation.
+Gardez le lien original, la date de votre analyse et les questions restantes avec la fiche copiée. Durée de traitement et précision varient. Damas ne télécharge pas de médias, n’importe pas de fichiers, ne double pas la voix, n’incruste pas de sous-titres et ne fonctionne pas hors ligne. Respectez vos droits de réutilisation.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "Relacione os dois lados de uma analogia e preserve seus limites ao
 slug: "lecture-analogy-limits"
 locale: "pt"
 publishedAt: "2026-11-16"
-updatedAt: "2026-11-16"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Como resumir uma analogia de uma aula em vídeo sem tratá-la como prova?"
 topics: ["Analogias em aulas"]
@@ -15,9 +15,11 @@ translationKey: "lecture-analogy-limits"
 
 Para resumir uma analogia de uma aula em vídeo, use a transcrição e o resumo integrado do Damas para localizar a comparação completa. Registre apenas as relações explicadas e seus limites antes de escrever o parágrafo final. Você monta esse registro manualmente; o Damas fornece texto que pode ler, editar e copiar.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Recupere a explicação completa
 
-O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Use apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem estar inacessíveis.
+O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Use apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem estar inacessíveis.
 
 1. Guarde o link e o título da aula. Escolha uma analogia.
 2. Forneça o link compatível ao Damas. Siga as orientações atuais para transcrição e resumo integrado e leia o consentimento de IA.
@@ -53,6 +55,6 @@ Antes de copiar, confira cada relação e seu apoio. Guarde link e dúvidas. Use
 
 Nenhum LLM externo é necessário. A formatação opcional em outro LLM exige permissão para compartilhar o texto e revisão de cada proposta; é uma etapa externa, sem integração ou análise automática do Damas. Não invente fatos, citações, responsáveis ou prazos.
 
-Tempo e precisão variam. O Damas não oferece download de mídia, importação de arquivos de vídeo, dublagem, legendas embutidas ou processamento offline. Premium não contorna restrições. Se a fonte ficar inacessível, mantenha verificações incompletas em aberto e respeite os direitos de reutilização.
+Tempo e precisão variam. O Damas não oferece download de mídia, importação de arquivos de vídeo, dublagem, legendas embutidas ou processamento offline. Se a fonte ficar inacessível, mantenha verificações incompletas em aberto e respeite os direitos de reutilização.
 
 Damas Technologies LLC

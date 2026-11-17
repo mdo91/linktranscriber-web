@@ -4,7 +4,7 @@ description: "Monte uma nota para outra pessoa com trechos de apoio, limites exp
 slug: "share-checked-video-notes"
 locale: "pt"
 publishedAt: "2026-11-02"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "compartilhar notas de vídeo verificadas com trechos da fonte"
 topics: ["Compartilhamento de notas verificadas"]
@@ -15,15 +15,17 @@ translationKey: "share-checked-video-notes"
 
 Para compartilhar notas de vídeo verificadas com trechos da fonte, copie o texto revisado no Damas para seu documento e associe cada conclusão ao trecho que a sustenta. Inclua link original, alcance da revisão e dúvidas pendentes. Antes de enviar, leia apenas a nota de entrega e confira se os trechos sustentam as conclusões.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare o texto
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe e compartilhe apenas material autorizado. Fontes privadas, restritas e ao vivo não são aceitas; uma fonte pública também pode estar inacessível.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. Processe e compartilhe apenas material autorizado. Fontes privadas, restritas e ao vivo não são aceitas; uma fonte pública também pode estar inacessível.
 
 1. Abra a fonte e guarde seu link original e título.
 2. Informe o link compatível no Damas, siga as instruções atuais de transcrição e leia o consentimento de IA.
 3. Aguarde o resultado. O resumo integrado ajuda a orientar a leitura; use o trecho completo como evidência.
 4. Ouça novamente nomes, quantidades, negativas e condições. Edite e copie apenas o que a gravação sustenta.
-5. Monte a nota no seu próprio documento. A estrutura abaixo é manual, sem função de compartilhamento ou citação automática do Damas.
+5. Leia, edite, copie ou compartilhe textos e notas no Damas. Prepare manualmente a estrutura de evidências abaixo; ela não é um recurso automático de citações ou sincronização.
 
 ## Escolha os trechos a partir da pergunta de quem recebe
 
@@ -55,6 +57,6 @@ Outro LLM não é necessário. Uma formatação opcional em outro LLM exige perm
 
 A [transcrição](/pt/guides/transcribe-social-video-link-iphone/) fornece o texto inicial. Use a [verificação de citações](/pt/guides/verify-interview-quotes/) para palavras exatas e a [comparação de sentido](/pt/guides/transcript-translation-meaning-check/) para evidências traduzidas. O Damas fornece texto para ler, editar e copiar.
 
-Tempo e precisão variam. O Damas não baixa mídia, não aceita uploads de arquivos, não dubla, não incorpora legendas nem processa offline. Premium não contorna restrições da fonte.
+Tempo e precisão variam. O Damas não baixa mídia, não aceita uploads de arquivos, não dubla, não incorpora legendas nem processa offline.
 
 Damas Technologies LLC

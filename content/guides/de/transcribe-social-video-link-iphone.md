@@ -4,7 +4,7 @@ description: "Wandeln Sie einen öffentlichen YouTube-, Instagram- oder X-Videol
 slug: "transcribe-social-video-link-iphone"
 locale: "de"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "video in text umwandeln"
 topics: ["Video in Text umwandeln", "Videotranskription", "iPhone"]
@@ -15,11 +15,13 @@ translationKey: "transcribe-social-video-link-iphone"
 
 Um ein Video auf dem iPhone in Text umzuwandeln, geben Sie einen unterstützten öffentlichen YouTube-, Instagram- oder X-Link in Damas ein und nutzen die Transkription. Das Ergebnis ist ein Text der gesprochenen Inhalte. Prüfen Sie ihn am Video, bevor Sie Ihre Notizen bearbeiten oder kopieren.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Das Video zuerst prüfen
 
 Wählen Sie ein öffentliches Video auf Abruf mit höchstens 90 Minuten Länge. Private, eingeschränkte und Live-Inhalte werden nicht unterstützt. Verarbeiten Sie nur Inhalte, für die Sie eine Erlaubnis haben: Ein erreichbarer Link allein ist keine solche Erlaubnis.
 
-Damas erfordert iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Prüfen Sie diese Voraussetzungen vor der Übermittlung eines langen Videos.
+Prüfen Sie diese Voraussetzungen vor der Übermittlung eines langen Videos.
 
 ## Vom Link zum Transkript
 

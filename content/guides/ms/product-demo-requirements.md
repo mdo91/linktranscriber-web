@@ -4,7 +4,7 @@ description: "Bandingkan keperluan anda dengan hasil yang ditunjukkan, dakwaan p
 slug: "product-demo-requirements"
 locale: "ms"
 publishedAt: "2026-11-08"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "ringkasan video demo produk mengikut keperluan sendiri"
 topics: ["Menilai demo produk"]
@@ -15,9 +15,11 @@ translationKey: "product-demo-requirements"
 
 Untuk meringkaskan demo produk mengikut keperluan sendiri, sediakan transkrip dan ringkasan terbina dalam melalui Damas, kemudian bandingkan setiap keperluan dengan demonstrasi sebenar. Asingkan hasil yang dilihat, dakwaan lisan dan ujian yang belum dibuat. Jadual ini ialah penilaian manual anda, bukan penilaian automatik Damas atau jaminan bahawa produk itu sesuai.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan sumber dan keperluan anda
 
-Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong, sehingga 90 minit. Pada iPhone, iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI diperlukan. Gunakan hanya bahan yang anda dibenarkan proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh diakses untuk pemprosesan.
+Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong, sehingga 90 minit. Gunakan hanya bahan yang anda dibenarkan proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh diakses untuk pemprosesan.
 
 1. Tulis keperluan sebelum membaca ringkasan: hasil apa mesti kelihatan, dengan input apa dan dalam keadaan apa? Ini kriteria anda, bukan janji pembentang.
 2. Simpan pautan asal dan tajuk. Berikan pautan yang disokong kepada Damas dan ikut arahan semasa untuk transkripsi serta ringkasan terbina dalam selepas membaca persetujuan AI.
@@ -44,10 +46,10 @@ Ini contoh pengajaran rekaan tentang alat tanpa nama, bukan fungsi Damas, ujian 
 
 Anda tidak perlu memberikan skor keseluruhan. Pilih keperluan belum selesai yang boleh mengubah keputusan dan tulis soalan susulan yang khusus. Ringkasan yang lancar tidak menjadikan syarat belum diuji sebagai lulus. Jangan cipta pemilik tugas, tarikh akhir, petikan atau hasil. Jika rakaman tidak lagi boleh diakses, biarkan semakan yang belum selesai sebagai belum dipastikan.
 
-Jadual ini boleh dibuat secara manual. Jika mahu, salin teks yang disemak dan dibenarkan ke LLM lain untuk mendraf barisnya. Berikan kriteria sendiri dan petikan sumber secara berasingan, lalu semak setiap padanan. Ini langkah draf luaran, bukan integrasi Damas atau ujian produk automatik.
+Damas menyediakan ringkasan, peta minda boleh sunting, senarai semak tindakan, panduan langkah demi langkah, panduan belajar, kuiz dengan jawapan berpenjelasan dan kad imbas soal jawab. Nyatakan topik, khalayak atau konteks dan pilih bahasa hasil. Semak setiap hubungan atau jawapan dengan sumber; kaedah perbandingan dan semakan terperinci dalam panduan ini masih memerlukan pertimbangan anda.
 
 Lihat [aliran ringkasan umum](/ms/guides/summarize-video-transcript-iphone/) untuk langkah aplikasi. Gunakan [semakan petikan](/ms/guides/verify-interview-quotes/) sebelum mengulang kata-kata tepat dan [perkongsian berserta sumber](/ms/guides/share-checked-video-notes/) apabila menghantar penilaian kepada orang lain.
 
-Simpan pautan asal, tarikh semakan dan baki soalan bersama jadual yang disalin. Masa pemprosesan dan ketepatan berbeza-beza. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan sumber. Kongsi hanya dalam hak penggunaan semula anda.
+Simpan pautan asal, tarikh semakan dan baki soalan bersama jadual yang disalin. Masa pemprosesan dan ketepatan berbeza-beza. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Kongsi hanya dalam hak penggunaan semula anda.
 
 Damas Technologies LLC

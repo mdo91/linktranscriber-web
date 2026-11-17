@@ -4,7 +4,7 @@ description: "Separate a missing YouTube transcript from an inaccessible source 
 slug: "youtube-missing-transcript"
 locale: "en"
 publishedAt: "2026-11-04"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube video doesn t have transcript"
 topics: ["Missing transcript"]
@@ -14,6 +14,8 @@ translationKey: "youtube-missing-transcript"
 ---
 
 When a YouTube video does not have a transcript available to you, first check whether the video itself is accessible and contains audible speech. If it is a supported public recording of up to 90 minutes that you have permission to process, you can try the speech transcription workflow in Damas. A missing transcript on YouTube and a failed Damas request are separate observations; neither establishes the cause of the other or guarantees a usable result.
+
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
 
 ## Identify what is missing before submitting the link
 
@@ -30,7 +32,7 @@ These are manual decisions, not an automatic diagnostic feature. The published p
 
 ## Try the supported speech workflow
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, it requires iOS 18.6 or later, internet, Premium and consent for AI processing. Only submit material you are authorized to process. A video you can watch in your account may still be inaccessible for processing.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Only submit material you are authorized to process. A video you can watch in your account may still be inaccessible for processing.
 
 1. Check the original link, duration and public, on-demand availability. Retain the link rather than downloading or uploading a video file.
 2. Provide the supported link in Damas. Follow the current app instructions for transcription and review the AI consent.
@@ -59,6 +61,6 @@ No external LLM is needed. If you optionally use another LLM to organize authori
 
 For the regular app flow, see [video link transcription](/guides/transcribe-social-video-link-iphone/). The [speech and caption guide](/guides/instagram-speech-caption-check/) explains how to keep visual text separate, using a public Reel as its example. Before using exact wording, follow [quotation checking](/guides/verify-interview-quotes/). Damas provides editable, copyable speech text for this review.
 
-Damas does not download media, accept file uploads, dub audio, embed subtitles or process offline. Premium does not guarantee access or accuracy. If the original becomes inaccessible, leave unfinished checks unresolved and reuse text only within your rights.
+Damas does not download media, accept file uploads, dub audio, embed subtitles or process offline. If the original becomes inaccessible, leave unfinished checks unresolved and reuse text only within your rights.
 
 Damas Technologies LLC

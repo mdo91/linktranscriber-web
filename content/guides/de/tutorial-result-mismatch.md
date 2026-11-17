@@ -4,7 +4,7 @@ description: "Vergleichen Sie den ersten abweichenden Zwischenstand mit dem Tuto
 slug: "tutorial-result-mismatch"
 locale: "de"
 publishedAt: "2026-11-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Video Anleitung bei abweichendem Ergebnis auswerten"
 topics: ["Mit einem Tutorial arbeiten"]
@@ -15,9 +15,11 @@ translationKey: "tutorial-result-mismatch"
 
 Weicht Ihr Ergebnis vom Video-Tutorial ab, suchen Sie mit einem geprüften Damas-Transkript den letzten übereinstimmenden und den ersten erkennbar abweichenden Zwischenstand. Vergleichen Sie beide mit der Vorführung, bevor Sie etwas ändern. Die manuelle Auswertung führt zu einer gezielten Rückfrage; sie ist keine automatische Fehlerdiagnose oder Reparaturgarantie.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Die Erklärung vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone brauchen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch unzugängliche öffentliche Quellen können scheitern.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch unzugängliche öffentliche Quellen können scheitern.
 
 1. Öffnen Sie das Tutorial auf der ursprünglichen Plattform und behalten Sie Link und Titel in Ihrer Notiz.
 2. Geben Sie den unterstützten Link in Damas ein. Nutzen Sie die Transkription nach den aktuellen App-Hinweisen und lesen Sie die KI-Einwilligung.
@@ -54,6 +56,6 @@ Die [Tutorial-Checkliste](/de/guides/tutorial-checked-checklist/) bereitet den A
 
 Ein externes LLM ist nicht nötig. Optionale Formatierung in einem anderen LLM erfordert Erlaubnis zur Textweitergabe und die Prüfung jeder vorgeschlagenen Ursache; sie ist keine Damas-Integration. Unsicherheiten, eigene Beobachtungen und Belege bleiben getrennt. Erfinden Sie keine Fakten, Zitate, Zuständigen oder Fristen.
 
-Behalten Sie den Quelllink bei der fertigen Liste. Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline. Premium macht unzugängliche Quellen nicht verfügbar.
+Behalten Sie den Quelllink bei der fertigen Liste. Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline.
 
 Damas Technologies LLC

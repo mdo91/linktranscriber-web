@@ -4,7 +4,7 @@ description: "Hubungkan dakwaan, alasan dan contoh kuliah dengan petikan sumber.
 slug: "lecture-argument-map"
 locale: "ms"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Bagaimana meringkaskan kuliah YouTube dengan peta dakwaan dan alasan?"
 topics: ["Ringkasan kuliah dan peta hujah"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","verify-interview-quotes","share-c
 translationKey: "lecture-argument-map"
 ---
 
-Untuk meringkaskan kuliah YouTube dengan peta dakwaan dan alasan, gunakan transkrip dan ringkasan terbina dalam Damas untuk memilih satu kesimpulan, kemudian baca penerangan penuhnya. Rekod dakwaan, alasan dan contoh secara berasingan. Hubungkan hanya hubungan yang diterangkan oleh pensyarah. Anda melukis peta dan menulis rumusan sendiri; Damas menyediakan teks yang boleh dibaca, disunting dan disalin.
+Untuk menghubungkan dakwaan dan sebab dalam kuliah YouTube, mulakan dengan transkrip Damas yang disemak dan buat peta minda boleh sunting dalam app. Nyatakan soalan yang ingin diterokai sebagai konteks. Semak setiap dakwaan, sebab, contoh dan hubungan dalam penjelasan penuh. Rekod bukti terperinci di bawah ialah kaedah semakan manual; peta yang dijana tidak mengesahkan hujah.
+
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
 
 ## Sediakan penerangan penuh
 
-Damas menerima pautan video awam atas permintaan yang disokong daripada YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh tidak dapat diakses.
+Damas menerima pautan video awam atas permintaan yang disokong daripada YouTube, Instagram dan X sehingga 90 minit. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh tidak dapat diakses.
 
 1. Simpan pautan asal dan tajuk kuliah. Tulis soalan yang hendak difahami.
 2. Masukkan pautan yang disokong dalam Damas dan ikuti arahan semasa untuk transkripsi serta ringkasan terbina dalam. Baca persetujuan AI.
@@ -53,8 +55,8 @@ Bezakan kata-kata yang tidak jelas, hubungan yang tidak diterangkan dan penjelas
 
 Sebelum menyalin, semak bahawa setiap pernyataan dan hubungan mempunyai petikan, contoh kekal sebagai contoh, syarat dipelihara dan hubungan yang tidak diketahui dibiarkan terbuka. Simpan pautan sumber dan soalan tertunggak. Peta menerangkan struktur hujah, bukan mengesahkan kebenaran dakwaan secara bebas.
 
-LLM lain tidak diperlukan. Pemformatan pilihan dalam LLM lain memerlukan izin berkongsi teks dan semakan setiap hubungan yang dicadangkan. Itu langkah draf luaran, bukan integrasi Damas atau ciri peta hujah automatik.
+Damas menyediakan ringkasan, peta minda boleh sunting, senarai semak tindakan, panduan langkah demi langkah, panduan belajar, kuiz dengan jawapan berpenjelasan dan kad imbas soal jawab. Nyatakan topik, khalayak atau konteks dan pilih bahasa hasil. Semak setiap hubungan atau jawapan dengan sumber; kaedah perbandingan dan semakan terperinci dalam panduan ini masih memerlukan pertimbangan anda.
 
-Gunakan [semakan petikan](/ms/guides/verify-interview-quotes/) bagi kata-kata tepat dan [nota bersama petikan sumber](/ms/guides/share-checked-video-notes/) sebelum berkongsi. Masa dan ketepatan berubah-ubah. Jika sumber tidak dapat diakses, biarkan semakan belum selesai terbuka. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan. Kongsi mengikut hak penggunaan semula anda.
+Gunakan [semakan petikan](/ms/guides/verify-interview-quotes/) bagi kata-kata tepat dan [nota bersama petikan sumber](/ms/guides/share-checked-video-notes/) sebelum berkongsi. Masa dan ketepatan berubah-ubah. Jika sumber tidak dapat diakses, biarkan semakan belum selesai terbuka. Damas tidak memuat turun media, mengimport fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Kongsi mengikut hak penggunaan semula anda.
 
 Damas Technologies LLC

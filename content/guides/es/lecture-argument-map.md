@@ -4,7 +4,7 @@ description: "Construye un mapa del razonamiento de una clase con pasajes para c
 slug: "lecture-argument-map"
 locale: "es"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "¿Cómo resumir una clase de YouTube conectando afirmaciones, razones y ejemplos?"
 topics: ["Resumen de clases y argumentos"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","verify-interview-quotes","share-c
 translationKey: "lecture-argument-map"
 ---
 
-Para resumir una clase de YouTube conectando afirmaciones, razones y ejemplos, elige una conclusión con la transcripción y el resumen integrado de Damas y vuelve a su explicación completa. Registra cada elemento por separado y dibuja una relación solo si la clase la explica. Tú construyes el mapa y redactas la síntesis; Damas aporta texto editable y copiable.
+Para conectar afirmaciones y razones de una clase de YouTube, parte de una transcripción revisada en Damas y crea un mapa mental editable en la app. Indica como contexto la pregunta que quieres explorar. Comprueba afirmaciones, razones, ejemplos y relaciones en la explicación completa. Las fichas detalladas siguientes son un método de revisión manual; el mapa generado no verifica el argumento.
+
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
 
 ## Prepara la explicación completa
 
-Damas admite enlaces compatibles de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Utiliza solo material autorizado. No se admiten vídeos privados, restringidos ni en directo; una fuente pública también puede resultar inaccesible.
+Damas admite enlaces compatibles de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Utiliza solo material autorizado. No se admiten vídeos privados, restringidos ni en directo; una fuente pública también puede resultar inaccesible.
 
 1. Guarda el enlace original y el título de la clase. Escribe la pregunta que quieres comprender.
 2. Facilita el enlace compatible en Damas y sigue las indicaciones actuales para transcripción y resumen integrado. Lee el consentimiento de IA.
@@ -53,8 +55,8 @@ Distingue palabras inaudibles, relaciones no explicadas y razones plausibles que
 
 Antes de copiar, comprueba que cada afirmación y conexión tenga un pasaje, que los ejemplos sigan siendo ejemplos y que se conserven las condiciones. Guarda el enlace y las dudas pendientes. El mapa describe la explicación, sin verificar de forma independiente la verdad de sus afirmaciones.
 
-No necesitas un LLM externo. Dar formato opcionalmente en otro LLM exige permiso para compartir el texto y comprobar cada relación propuesta. Es una tarea externa de borrador, sin integración ni mapa automático de Damas.
+Damas incluye resúmenes, mapas mentales editables, listas de acciones, guías paso a paso, guías de estudio, cuestionarios con respuestas explicadas y tarjetas de pregunta y respuesta. Indica tema, público o contexto y elige el idioma. Comprueba cada relación o respuesta en la fuente; los métodos detallados de comparación y revisión de esta guía siguen necesitando tu criterio.
 
-Para palabras exactas, sigue la [comprobación de citas](/es/guides/verify-interview-quotes/). Al compartir, conserva [apuntes con pasajes de origen](/es/guides/share-checked-video-notes/). Tiempo y precisión varían. Si la fuente queda inaccesible, deja las comprobaciones incompletas abiertas. Damas no descarga medios, importa archivos, dobla voces, incrusta subtítulos ni procesa sin conexión. Premium no elude restricciones. Respeta tus derechos de reutilización.
+Para palabras exactas, sigue la [comprobación de citas](/es/guides/verify-interview-quotes/). Al compartir, conserva [apuntes con pasajes de origen](/es/guides/share-checked-video-notes/). Tiempo y precisión varían. Si la fuente queda inaccesible, deja las comprobaciones incompletas abiertas. Damas no descarga medios, importa archivos, dobla voces, incrusta subtítulos ni procesa sin conexión. Respeta tus derechos de reutilización.
 
 Damas Technologies LLC

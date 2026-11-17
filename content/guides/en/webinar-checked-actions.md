@@ -4,7 +4,7 @@ description: "To turn a webinar transcript into action items, obtain and check t
 slug: "webinar-checked-actions"
 locale: "en"
 publishedAt: "2026-10-24"
-updatedAt: "2026-10-24"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "how to turn a webinar transcript into action items"
 topics: ["how to turn a webinar transcript into action items","Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone","summarize-video-transcript-ipho
 translationKey: "webinar-checked-actions"
 ---
 
-To turn a webinar transcript into action items, obtain and check the transcript in Damas, then separate explicit commitments from recommendations and your own proposed follow-up. Prepare the action list manually or optionally in another LLM. Damas supplies editable text and a built-in summary; the custom task list is a separate drafting step.
+To turn a recorded webinar into action items, obtain and review the transcript in Damas, then create an action checklist in the app. Use the topic, audience or context to guide the result. Separate explicit commitments, recommendations and your own proposals; check owners and deadlines against the source rather than accepting generated details without evidence.
+
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
 
 ## Start with a supported source
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. It does not support private, restricted or live content. You need iOS 18.6 or later, an internet connection, Premium and consent for AI processing. Submit only content you are authorized to process.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. It does not support private, restricted or live content. Submit only content you are authorized to process.
 
 ## Make a useful overview
 
@@ -42,9 +44,9 @@ This is an invented teaching example, not a quotation from a real recording. Sup
 - Owner: not stated. Deadline: not stated. Do not assign the presenter or invent next Friday.
 - Proposed follow-up: ask your team whether to run the test. Label this as your proposal, not the speaker’s commitment.
 
-## Optional prompt for another LLM
+## Guide the AI result in Damas
 
-Only share the checked transcript with another service if you have permission. This is an external workflow, not a Damas integration or automatic task feature. Example copy/paste prompt:
+Choose the relevant AI tool in Damas and use a topic, audience or context to guide the result, with your preferred output language. The following example shows the kind of source-focused context you can supply; review the generated result against the transcript and video. Keep the original transcript and save the AI output separately.
 
 > Use only the checked webinar transcript below. List candidate actions with supporting passages, conditions and status: explicit commitment, recommendation, proposed follow-up or unresolved. Include owners and deadlines only when explicitly linked to the action; otherwise write “not stated”. Do not invent facts or quotations. Keep my proposals separate from speaker commitments. Source: [link]. Transcript: [text].
 
@@ -52,6 +54,6 @@ Replay the supporting passage for every item, checking negatives, names, dates a
 
 For the text, follow [video transcription](/guides/transcribe-social-video-link-iphone/). Use [summaries](/guides/summarize-video-transcript-iphone/) for orientation and [translation](/guides/translate-social-video-iphone/) for another language; check important wording in the original.
 
-Processing time and accuracy vary. Damas does not download media, embed subtitles or process offline. Premium cannot make inaccessible content available.
+Processing time and accuracy vary. Damas does not download media, embed subtitles or process offline.
 
 Damas Technologies LLC

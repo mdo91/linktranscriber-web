@@ -4,7 +4,7 @@ description: "Préparez une checklist avec prérequis, étapes conditionnelles e
 slug: "tutorial-checked-checklist"
 locale: "fr"
 publishedAt: "2026-10-23"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "créer une checklist à partir d’un tutoriel vidéo"
 topics: ["créer une checklist à partir d’un tutoriel vidéo", "Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "summarize-video-transcript-iph
 translationKey: "tutorial-checked-checklist"
 ---
 
-Pour créer une checklist à partir d’un tutoriel vidéo, obtenez une transcription dans Damas, comparez-la à la vidéo et rédigez une action observable par ligne. Séparez les prérequis des étapes conditionnelles. La checklist se prépare à la main ou, au choix, dans un autre LLM après copie du texte vérifié ; Damas fournit la transcription, le résumé, l’édition et la copie.
+Pour créer une checklist à partir d’un tutoriel YouTube, obtenez et vérifiez la transcription dans Damas, puis créez une liste d’actions ou un guide étape par étape dans l’app. Indiquez votre objectif comme contexte et choisissez la langue de sortie. Comparez chaque action à la vidéo en distinguant prérequis, étapes conditionnelles et informations absentes.
+
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
 
 ## Préparer le texte et la vidéo
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique inaccessible peut aussi échouer.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique inaccessible peut aussi échouer.
 
 1. Ouvrez le tutoriel sur sa plateforme et conservez son lien et son titre.
 2. Fournissez le lien compatible dans Damas. Suivez les indications actuelles de transcription et lisez le consentement IA.
@@ -42,14 +44,14 @@ Cet exemple pédagogique ne cite aucune vidéo réelle. Imaginons un tutoriel qu
 
 Dans votre cas réel, retenez uniquement les contrôles étayés par la vidéo. N’inventez ni responsable, ni échéance, ni fait, ni citation.
 
-## Facultatif : consigne pour un autre LLM
+## Guider le résultat IA dans Damas
 
-Partagez le texte avec ce service uniquement si vous en avez le droit. Ce travail externe n’est ni une intégration Damas ni une fonction de checklist automatique. Exemple à copier :
+Choisissez l’outil IA adapté dans Damas, précisez le sujet, le public ou le contexte et la langue de sortie. L’exemple suivant illustre un contexte centré sur la source ; vérifiez le résultat avec la transcription et la vidéo. Conservez la transcription originale et enregistrez le résultat IA séparément.
 
 > À partir de cette transcription vérifiée uniquement, sépare les prérequis, les actions ordonnées et les branches conditionnelles. Pour chaque action, conserve le passage justificatif et un critère de contrôle seulement s’il est indiqué. Écris « non précisé » pour les lacunes. N’invente aucun réglage, responsable, délai, fait ou citation. Distingue vérification de la source et exécution. Lien : [lien]. Texte : [transcription].
 
 Vérifiez chaque proposition dans la vidéo. Le [guide de transcription](/fr/guides/transcribe-social-video-link-iphone/) explique le départ ; le [guide du résumé](/fr/guides/summarize-video-transcript-iphone/) aide à préparer un aperçu. Pour une autre langue, consultez la [traduction](/fr/guides/translate-social-video-iphone/) et contrôlez les libellés techniques dans l’original.
 
-Gardez le lien avec la checklist finale. Temps et précision varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne garantit pas l’accès à une source inaccessible.
+Gardez le lien avec la checklist finale. Temps et précision varient. Damas ne télécharge pas les médias, n’incruste pas de sous-titres et ne traite pas hors connexion.
 
 Damas Technologies LLC

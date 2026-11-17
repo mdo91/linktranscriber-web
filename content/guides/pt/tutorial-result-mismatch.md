@@ -4,7 +4,7 @@ description: "Compare o primeiro resultado diferente com a demonstração, separ
 slug: "tutorial-result-mismatch"
 locale: "pt"
 publishedAt: "2026-11-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "rever tutorial em vídeo quando meu resultado diverge"
 topics: ["Acompanhar um tutorial"]
@@ -15,9 +15,11 @@ translationKey: "tutorial-result-mismatch"
 
 Se seu resultado divergir de um tutorial em vídeo, use uma transcrição conferida no Damas para localizar o último resultado igual e a primeira diferença observável. Compare esses dois pontos com a demonstração antes de mudar algo. Essa revisão manual prepara uma pergunta específica; não é diagnóstico automático nem garantia de conserto.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare a explicação e a fonte
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas inacessíveis também podem falhar.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas inacessíveis também podem falhar.
 
 1. Abra o tutorial na plataforma original e guarde o link e o título nas notas.
 2. Informe o link compatível no Damas. Siga as instruções atuais de transcrição e leia o consentimento de IA.
@@ -54,6 +56,6 @@ A [checklist de tutorial](/pt/guides/tutorial-checked-checklist/) prepara as eta
 
 Não é necessário um LLM externo. A formatação opcional em outro LLM exige permissão para compartilhar o texto e conferência de cada causa sugerida; não é integração do Damas. Separe observações, evidências e incertezas. Nunca invente fatos, citações, responsáveis ou prazos.
 
-Guarde o link junto da checklist final. Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas nem processa offline. Premium não torna acessível uma fonte indisponível.
+Guarde o link junto da checklist final. Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas nem processa offline.
 
 Damas Technologies LLC

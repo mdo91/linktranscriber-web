@@ -4,7 +4,7 @@ description: "使用 iPhone 上的 Damas 将 YouTube、Instagram 或 X 公开视
 slug: "transcribe-social-video-link-iphone"
 locale: "zh-hans"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "视频转文字"
 topics: ["视频转文字", "视频链接转文字", "iPhone"]
@@ -15,11 +15,13 @@ translationKey: "transcribe-social-video-link-iphone"
 
 在 iPhone 上将视频转成文字，可以把支持的 YouTube、Instagram 或 X 公开链接输入 Damas，再使用转录流程。结果是视频里说话内容的文字稿；先对照原始音频核查，再编辑或复制笔记。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 开始前检查视频条件
 
 选择公开的点播视频，时长不超过 90 分钟。私密、访问受限和直播内容不受支持。只能处理您获得授权的内容：能够打开一个链接，并不代表已经拥有处理权限。
 
-Damas 需要 iOS 18.6 或更高版本、互联网连接、Premium 及 AI 处理同意。提交较长视频之前，请先确认这些条件。
+提交较长视频之前，请先确认这些条件。
 
 ## 从链接生成文字稿
 

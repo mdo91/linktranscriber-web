@@ -4,7 +4,7 @@ description: "Build a bilingual glossary from a Damas transcript and translation
 slug: "video-bilingual-glossary"
 locale: "en"
 publishedAt: "2026-10-25"
-updatedAt: "2026-10-25"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "translate youtube transcript"
 topics: ["translate youtube transcript","Damas"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 To translate a YouTube transcript into a checked bilingual glossary, use Damas to prepare the original-language transcript and a text translation, then record each useful term with its source sentence and contextual meaning. Keep different senses separate and leave uncertain matches unresolved. The glossary is your manual work or an optional draft in another LLM; Damas provides transcription, translation into 70 languages, summaries, editing and copying.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the video and both texts
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, it requires iOS 18.6 or later, internet, Premium and consent for AI processing. Submit only material you are authorized to process. Private, restricted and live videos are unsupported; inaccessible public sources can also fail.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Submit only material you are authorized to process. Private, restricted and live videos are unsupported; inaccessible public sources can also fail.
 
 1. Open the video on its original platform and retain its link and title in your working note.
 2. Paste the supported link into Damas. Follow the current app instructions for original-language transcription and translation into your chosen supported language, reviewing the AI consent.
@@ -53,6 +55,6 @@ Check every proposed sentence and meaning against the recording and delete unsup
 
 For the initial text, follow [video transcription](/guides/transcribe-social-video-link-iphone/); for target-language selection, see [video translation](/guides/translate-social-video-iphone/). A [built-in summary](/guides/summarize-video-transcript-iphone/) can orient you, but each term needs its full context.
 
-Processing time and accuracy vary. Damas does not download media, dub speech, embed subtitles or process offline. Premium cannot make an inaccessible source available.
+Processing time and accuracy vary. Damas does not download media, dub speech, embed subtitles or process offline.
 
 Damas Technologies LLC

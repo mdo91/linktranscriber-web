@@ -4,7 +4,7 @@ description: "Compare checked speech with translated text, locate the stage of a
 slug: "transcript-translation-meaning-check"
 locale: "en"
 publishedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "compare youtube transcript with translation"
 topics: ["Checking translated meaning"]
@@ -15,9 +15,11 @@ translationKey: "transcript-translation-meaning-check"
 
 To compare a YouTube transcript with its translation, first check the original-language transcript against the audio, then compare the same complete claim in the translated text. Record whether a discrepancy begins in transcription or in translation. Damas supplies both kinds of editable, copyable text; the comparison and review record are manual work.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare two texts from one source
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, iOS 18.6 or later, internet, Premium and AI processing consent are required. Submit only material you have permission to process. Private, restricted and live videos are unsupported; a public source can also be inaccessible.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Submit only material you have permission to process. Private, restricted and live videos are unsupported; a public source can also be inaccessible.
 
 1. Open the source and keep its link and title. Choose one claim you need to understand, including the sentence before and after it.
 2. Provide the supported link in Damas. Follow the current app instructions for original-language transcription and translation into your supported target language. Review the AI consent and wait for processing.
@@ -53,6 +55,6 @@ No external LLM is needed. If you optionally copy authorized text into another L
 
 Use [video translation](/guides/translate-social-video-iphone/) to choose the target text and [transcription](/guides/transcribe-social-video-link-iphone/) to retain the original. For individual terms, continue with the [bilingual glossary](/guides/video-bilingual-glossary/). Damas gives you text to read, edit and copy before making your reviewed note.
 
-Processing time and accuracy vary. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Premium cannot bypass source restrictions. If the source becomes inaccessible, unfinished checks stay unresolved. Share only within your rights.
+Processing time and accuracy vary. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. If the source becomes inaccessible, unfinished checks stay unresolved. Share only within your rights.
 
 Damas Technologies LLC

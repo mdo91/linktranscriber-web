@@ -4,7 +4,7 @@ description: "Vergleichen Sie eigene Anforderungen mit gezeigten Abläufen und A
 slug: "product-demo-requirements"
 locale: "de"
 publishedAt: "2026-11-08"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "produktdemo video nach eigenen anforderungen zusammenfassen"
 topics: ["Produktdemo auswerten"]
@@ -15,9 +15,11 @@ translationKey: "product-demo-requirements"
 
 Um eine Produktdemo anhand Ihrer Anforderungen zusammenzufassen, erstellen Sie mit Damas ein Transkript und eine integrierte Zusammenfassung. Vergleichen Sie danach jede Anforderung mit der tatsächlichen Vorführung. Trennen Sie sichtbare Ergebnisse, mündliche Behauptungen und fehlende Tests. Die Prüftabelle erstellen Sie selbst; sie ist keine automatische Damas-Bewertung oder Zusicherung der Eignung.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Quelle und Anforderungen vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone brauchen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Quellen können unzugänglich sein.
 
 1. Schreiben Sie Ihre Anforderungen vor dem Lesen der Zusammenfassung auf: Welches Ergebnis muss mit welchen Eingaben unter welchen Bedingungen sichtbar sein? Das sind Ihre Kriterien, keine Aussagen der vorführenden Person.
 2. Bewahren Sie Originallink und Titel auf. Geben Sie den unterstützten Link in Damas ein und folgen Sie nach der KI-Einwilligung den aktuellen Hinweisen zu Transkription und integrierter Zusammenfassung.
@@ -44,10 +46,10 @@ Dieses erfundene Lehrbeispiel betrifft ein unbenanntes Werkzeug, keine Damas-Fun
 
 Eine Gesamtnote ist nicht nötig. Wählen Sie die offene Anforderung, die Ihre Entscheidung verändern könnte, und formulieren Sie eine konkrete Rückfrage. Eine gut lesbare Zusammenfassung darf keinen fehlenden Test ersetzen. Erfinden Sie keine Zuständigen, Fristen, Zitate oder Ergebnisse. Wird die Aufnahme unzugänglich, bleiben unvollständige Prüfungen offen.
 
-Die Tabelle lässt sich von Hand erstellen. Optional können Sie erlaubten, geprüften Text in ein anderes LLM kopieren und einen Entwurf anfordern. Geben Sie eigene Kriterien und Quellen getrennt an und prüfen Sie jede Zuordnung. Das ist ein externer Entwurfsschritt, keine Damas-Integration oder automatische Produkterprobung.
+Damas bietet Zusammenfassungen, bearbeitbare Mindmaps, Aktionschecklisten, Schritt-für-Schritt-Anleitungen, Lernleitfäden, Quizfragen mit erklärten Antworten und Frage-Antwort-Karteikarten. Geben Sie Thema, Zielgruppe oder Kontext sowie die Ausgabesprache an. Prüfen Sie jede vorgeschlagene Beziehung oder Antwort an der Quelle; die detaillierten Vergleichs- und Prüfmethoden in diesem Leitfaden erfordern weiterhin Ihr Urteil.
 
 Den App-Ablauf erklärt die [allgemeine Zusammenfassung](/de/guides/summarize-video-transcript-iphone/). Vor wörtlicher Weitergabe hilft die [Zitatprüfung](/de/guides/verify-interview-quotes/); für Empfänger eignet sich die Anleitung zum [Teilen mit Quellenbelegen](/de/guides/share-checked-video-notes/).
 
-Bewahren Sie Originallink, Datum der Auswertung und offene Fragen bei der kopierten Tabelle auf. Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Zugangssperren. Beachten Sie Ihre Nutzungsrechte.
+Bewahren Sie Originallink, Datum der Auswertung und offene Fragen bei der kopierten Tabelle auf. Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Beachten Sie Ihre Nutzungsrechte.
 
 Damas Technologies LLC

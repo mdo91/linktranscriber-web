@@ -4,7 +4,7 @@ description: "Buat ringkasan video daripada transkrip dengan Damas pada iPhone, 
 slug: "summarize-video-transcript-iphone"
 locale: "ms"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "ringkaskan kuliah youtube"
 topics: ["ringkasan video", "ringkasan transkrip", "iPhone"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "translate-social-video-iphone"
 translationKey: "summarize-video-transcript-iphone"
 ---
 
-Untuk meringkaskan kuliah YouTube, masukkan pautan awam yang disokong dalam Damas dan gunakan transkripsi serta ringkasan terbina dalam. Semak gambaran itu dengan rakaman sebelum menjadikannya nota belajar. Soalan ulang kaji boleh ditulis sendiri atau didraf melalui langkah pilihan dalam LLM lain.
+Untuk meringkaskan video awam yang disokong dalam Damas, buat transkrip dan pilih ringkasan pendek atau terperinci dalam gaya Standard atau Profesional. Nyatakan topik, khalayak atau konteks serta bahasa hasil. Simpan transkrip asal dan hasil AI secara berasingan, kemudian semak butiran penting dengan sumber. Damas juga menyediakan panduan belajar, kuiz dengan jawapan berpenjelasan dan kad imbas soal jawab.
+
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
 
 ## Mulakan dengan sumber yang disokong
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong. Anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Hantar hanya kandungan yang anda berhak proses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong. Hantar hanya kandungan yang anda berhak proses.
 
 Jika transkrip mempunyai bahagian yang tidak jelas, semak dengan rakaman terlebih dahulu. Meringkaskan transkrip yang tidak tepat boleh membawa kesilapan yang sama ke dalam teks yang lebih pendek.
 
@@ -47,9 +49,9 @@ Gunakan rangka contoh ini dan isi hanya maklumat yang sudah disemak. Ini bukan f
 - Contoh: contoh sebenar daripada kuliah, termasuk nombor dan unit.
 - Belum pasti: perkataan kabur atau maklumat yang memerlukan rujukan visual.
 
-## Pilihan: draf soalan ulang kaji dalam LLM lain
+## Pandu hasil AI dalam Damas
 
-Salin transkrip yang disemak ke perkhidmatan lain hanya jika anda dibenarkan berkongsi kandungan itu. Ini langkah luaran, bukan integrasi Damas atau ciri kad imbas terbina dalam. Contoh arahan untuk disalin:
+Pilih alat AI yang sesuai dalam Damas dan nyatakan topik, khalayak atau konteks serta bahasa hasil. Contoh berikut menunjukkan konteks berasaskan sumber; semak hasil dengan transkrip dan video. Kekalkan transkrip asal dan simpan hasil AI secara berasingan.
 
 > Gunakan transkrip di bawah sahaja untuk mendraf lima soalan ulang kaji dengan jawapan pendek. Sertakan satu soalan tentang pengecualian atau batasan. Jangan tambah fakta luar. Jika jawapan tiada, tandakan “tidak dinyatakan”. Bezakan parafrasa daripada petikan tepat. Transkrip: [tampal teks yang disemak].
 
@@ -57,6 +59,6 @@ Bandingkan setiap jawapan dengan rakaman, kemudian cuba menjawab tanpa nota. Ton
 
 Untuk teks penuh, ikuti [panduan transkripsi](/ms/guides/transcribe-social-video-link-iphone/). Untuk kuliah dalam bahasa lain, rujuk [panduan terjemahan](/ms/guides/translate-social-video-iphone/). Damas menyediakan teks yang boleh disunting dan disalin serta ringkasan; bahan ulang kaji tersuai perlu anda semak sendiri.
 
-Masa pemprosesan dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian. Premium juga tidak menjamin akses kepada semua sumber.
+Masa pemprosesan dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian.
 
 Damas Technologies LLC

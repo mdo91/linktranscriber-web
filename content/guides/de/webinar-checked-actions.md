@@ -4,7 +4,7 @@ description: "Um Aufgaben aus einem Webinar abzuleiten, erstellen und prüfen Si
 slug: "webinar-checked-actions"
 locale: "de"
 publishedAt: "2026-10-24"
-updatedAt: "2026-10-24"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "aufgaben aus einem webinar ableiten"
 topics: ["aufgaben aus einem webinar ableiten","Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone","summarize-video-transcript-ipho
 translationKey: "webinar-checked-actions"
 ---
 
-Um Aufgaben aus einem Webinar abzuleiten, erstellen und prüfen Sie das Transkript in Damas. Trennen Sie anschließend ausdrückliche Zusagen von Empfehlungen und eigenen Vorschlägen. Die Aufgabenliste schreiben Sie selbst oder optional mit einem anderen LLM. Damas bietet bearbeitbaren Text und eine integrierte Zusammenfassung; die eigene Aufgabenstruktur entsteht separat.
+Für Aufgaben aus einem aufgezeichneten Webinar erstellen und prüfen Sie dessen Transkript in Damas und erzeugen anschließend eine Aktionscheckliste in der App. Geben Sie Thema, Zielgruppe oder Kontext an. Trennen Sie ausdrückliche Zusagen, Empfehlungen und eigene Vorschläge; prüfen Sie Zuständige und Fristen an der Quelle, statt erzeugte Angaben ungeprüft zu übernehmen.
+
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
 
 ## Mit einer geeigneten Quelle beginnen
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Private, eingeschränkte und Live-Inhalte sind ausgeschlossen. Sie benötigen iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Reichen Sie nur Inhalte ein, die Sie verarbeiten dürfen.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Private, eingeschränkte und Live-Inhalte sind ausgeschlossen. Reichen Sie nur Inhalte ein, die Sie verarbeiten dürfen.
 
 ## Einen hilfreichen Überblick erstellen
 
@@ -42,9 +44,9 @@ Dieses erfundene Lehrbeispiel zitiert keine echte Aufnahme. Angenommen, im Webin
 - Zuständig: nicht angegeben. Frist: nicht angegeben. Weder den Vortragenden noch nächsten Freitag ergänzen.
 - Eigener Vorschlag: im Team nachfragen, ob der Versuch sinnvoll ist. Das ist keine Zusage aus dem Webinar.
 
-## Optional: Kopiertext für ein anderes LLM
+## Das KI-Ergebnis in Damas anleiten
 
-Geben Sie das geprüfte Transkript nur mit entsprechender Erlaubnis an einen anderen Dienst weiter. Dies ist ein externer Arbeitsschritt, keine Damas-Integration oder automatische Aufgabenfunktion. Beispiel:
+Wählen Sie das passende KI-Werkzeug in Damas und geben Sie Thema, Zielgruppe oder Kontext sowie die Ausgabesprache an. Das folgende Beispiel zeigt einen quellenbezogenen Kontext; prüfen Sie das Ergebnis an Transkript und Video. Behalten Sie das Originaltranskript und speichern Sie das KI-Ergebnis separat.
 
 > Nutze nur dieses geprüfte Webinar-Transkript. Liste mögliche Aufgaben mit Belegpassage, Bedingung und Status: ausdrückliche Zusage, Empfehlung, eigener Vorschlag oder ungeklärt. Nenne Zuständige und Fristen nur bei ausdrücklicher Verbindung zur Handlung, sonst „nicht angegeben“. Erfinde keine Fakten oder Zitate. Trenne meine Vorschläge von den Zusagen der Sprechenden. Quelle: [Link]. Text: [Transkript].
 
@@ -52,6 +54,6 @@ Hören Sie jede Belegpassage nach und prüfen Sie Verneinungen, Namen, Daten und
 
 Den Einstieg erklärt die [Transkription](/de/guides/transcribe-social-video-link-iphone/). Zur Orientierung hilft die [Zusammenfassung](/de/guides/summarize-video-transcript-iphone/), bei einer anderen Sprache die [Übersetzung](/de/guides/translate-social-video-iphone/). Prüfen Sie wichtige Formulierungen am Original.
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline. Premium macht unzugängliche Quellen nicht verfügbar.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, bettet keine Untertitel ein und verarbeitet nicht offline.
 
 Damas Technologies LLC

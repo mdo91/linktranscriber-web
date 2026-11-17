@@ -4,7 +4,7 @@ description: "在 iPhone 上用 Damas 从视频文字稿生成内容总结，再
 slug: "summarize-video-transcript-iphone"
 locale: "zh-hans"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube 讲座 总结"
 topics: ["视频内容总结", "文字稿摘要", "iPhone"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "translate-social-video-iphone"
 translationKey: "summarize-video-transcript-iphone"
 ---
 
-要总结 YouTube 讲座，可以将支持的公开视频链接粘贴到 Damas，生成文字稿和应用内摘要，再对照原视频整理成学习笔记。复习题需要自己编写，或选择将文字稿复制到另一个 LLM 中另行起草。
+在 Damas 中总结支持的公开视频，可以先生成文字稿，再选择标准或专业风格的简短或详细摘要。您可以指定主题、受众或背景以及输出语言。保留原始文字稿，将 AI 结果另行保存，并对照来源核查重要细节。Damas 也可在应用内生成学习指南、附答案解析的测验和问答式闪卡。
+
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
 
 ## 从支持的来源开始
 
-Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。不支持私密、访问受限或直播内容。需要 iOS 18.6 或更高版本、互联网连接、Premium 及 AI 处理同意。请仅提交您有权处理的内容。
+Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链接。不支持私密、访问受限或直播内容。请仅提交您有权处理的内容。
 
 如果文字稿里有不明确的段落，请先与录音对照。总结不准确的文字稿，可能让同样的错误进入更短的文本。
 
@@ -47,9 +49,9 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 - 具体例子：记录讲座实际使用的例子，核对数字和单位。
 - 待确认：听不清的术语，或需要查看画面才能确定的信息。
 
-## 可选：用另一个 LLM 起草复习题
+## 在 Damas 中引导 AI 结果
 
-只有在有权向该服务分享内容时，才将核查后的文字稿复制过去。这是在外部工具中进行的额外步骤，并非 Damas 集成或内置记忆卡片功能。可复制的提示词示例：
+在 Damas 中选择适合的 AI 工具，指定主题、受众或背景和输出语言。下例展示基于来源的背景写法；请用文字稿和视频复核生成结果。保留原始文字稿，并将 AI 输出另行保存。
 
 > 仅根据以下文字稿，起草五道带简短答案的复习题，其中一道询问例外或限制。不要补充外部事实。没有答案时标记“未提及”。区分转述和直接引用。文字稿：[粘贴核查后的文本]。
 
@@ -57,6 +59,6 @@ Damas 支持最长 90 分钟的 YouTube、Instagram 和 X 公开点播视频链�
 
 需要全文时，参阅[视频转文字指南](/zh-hans/guides/transcribe-social-video-link-iphone/)；遇到外语讲座时，参阅[视频翻译指南](/zh-hans/guides/translate-social-video-iphone/)。Damas 提供可编辑、可复制的文字稿和摘要，定制学习资料仍需自行核查。
 
-处理时间和准确度会变化。Damas 不下载媒体、不嵌入字幕，也不能离线处理。即使使用 Premium，无法访问的来源仍可能处理失败。
+处理时间和准确度会变化。Damas 不下载媒体、不嵌入字幕，也不能离线处理。
 
 Damas Technologies LLC

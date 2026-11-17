@@ -4,7 +4,7 @@ description: "Damas ile herkese açık YouTube videosundaki konuşmayı iPhone�
 slug: "translate-social-video-iphone"
 locale: "tr"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube video çeviri"
 topics: ["YouTube video çeviri", "konuşma çevirisi", "iPhone"]
@@ -15,9 +15,11 @@ translationKey: "translate-social-video-iphone"
 
 iPhone’da YouTube videosunu Damas ile çevirmek için uygun bir herkese açık bağlantı girin ve çeviri akışında hedef dili seçin. Konuşmayı 70 dilden birinde çeviri metni olarak okuyabilirsiniz. Desteklenen Instagram ve X videolarında da aynı akış kullanılır; anlamı özgün bağlamla kontrol edin.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Uygun bir bağlantı hazırlayın
 
-Video herkese açık, isteğe bağlı izlenen ve en fazla 90 dakika uzunluğunda olmalıdır. Özel, erişimi kısıtlı ve canlı içerikler desteklenmez. iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir.
+Video herkese açık, isteğe bağlı izlenen ve en fazla 90 dakika uzunluğunda olmalıdır. Özel, erişimi kısıtlı ve canlı içerikler desteklenmez.
 
 Uygulamanın 11 arayüz dili vardır. Bu liste, 70 çeviri dilinden ayrıdır: uygulamanın ekran dilini değiştirmek ile çevrilen metnin dilini seçmek aynı işlem değildir.
 

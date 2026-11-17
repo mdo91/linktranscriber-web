@@ -4,7 +4,7 @@ description: "Resume una clase en apuntes bilingües y usa dos intentos de recue
 slug: "bilingual-lecture-recall"
 locale: "es"
 publishedAt: "2026-11-12"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "¿Cómo resumir una clase en vídeo en apuntes bilingües y comprobar lo que recuerdo en ambos idiomas?"
 topics: ["Resumen y estudio bilingüe"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","translate-social-video-iphone","t
 translationKey: "bilingual-lecture-recall"
 ---
 
-Para resumir una clase en vídeo en apuntes bilingües, elige un concepto con el resumen de Damas y comprueba su explicación completa en la transcripción y la traducción. Explícalo después sin mirar la respuesta en el otro idioma y repite en sentido inverso. Contrasta ambos intentos con la fuente para decidir si debes repasar una palabra o la relación entre ideas. Los apuntes y el ejercicio se preparan a mano.
+Para estudiar, prepara la transcripción y traducción en Damas y crea una guía de estudio, un cuestionario con respuestas explicadas o tarjetas de pregunta y respuesta. Elige el idioma e indica el concepto o el público como contexto. Contrasta las respuestas con la explicación original. El ejercicio bilingüe siguiente sigue siendo una práctica personal, sin promesa de calificación automática.
+
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
 
 ## Prepara la clase y los textos
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Procesa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; las fuentes públicas también pueden resultar inaccesibles.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Procesa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; las fuentes públicas también pueden resultar inaccesibles.
 
 1. Escribe una pregunta de estudio y conserva el enlace y el título de la clase.
 2. Facilita el enlace compatible en Damas. Sigue las indicaciones actuales para la transcripción original, el resumen integrado y la traducción a un idioma disponible. Lee el consentimiento de IA.
@@ -50,10 +52,10 @@ Si al volver al español escribes «elegir una opción y después comparar», ha
 
 Corrige solo la parte afectada y prueba de nuevo en ambas direcciones. Guarda los errores como observaciones de trabajo, sin puntuación automática ni diagnóstico de capacidad. No añadas ejemplos, explicaciones o citas ausentes como si procedieran del docente.
 
-No hace falta otro LLM. Dar formato opcionalmente en otro LLM exige permiso para compartir el texto y revisar cada sugerencia. Es una etapa externa, sin integración con Damas, tarjetas ni evaluación automáticas.
+Damas incluye resúmenes, mapas mentales editables, listas de acciones, guías paso a paso, guías de estudio, cuestionarios con respuestas explicadas y tarjetas de pregunta y respuesta. Indica tema, público o contexto y elige el idioma. Comprueba cada relación o respuesta en la fuente; los métodos detallados de comparación y revisión de esta guía siguen necesitando tu criterio.
 
 Para comprobar los textos iniciales, consulta la [traducción](/es/guides/translate-social-video-iphone/) y la [comparación de sentido](/es/guides/transcript-translation-meaning-check/). Conserva el enlace con los apuntes copiados y respeta tus derechos de reutilización. Si la fuente deja de ser accesible, las revisiones incompletas siguen pendientes.
 
-El tiempo y la precisión varían. Damas no descarga medios, no importa archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Premium no elude restricciones de acceso.
+El tiempo y la precisión varían. Damas no descarga medios, no importa archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión.
 
 Damas Technologies LLC

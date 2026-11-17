@@ -4,7 +4,7 @@ description: "Monte um mapa da explicação de uma aula, com trechos para cada a
 slug: "lecture-argument-map"
 locale: "pt"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Como resumir uma aula do YouTube ligando afirmações, razões e exemplos?"
 topics: ["Resumo de aulas e mapa de argumentos"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","verify-interview-quotes","share-c
 translationKey: "lecture-argument-map"
 ---
 
-Para resumir uma aula do YouTube ligando afirmações, razões e exemplos, escolha uma conclusão na transcrição e no resumo integrado do Damas e volte à explicação completa. Registre cada elemento e só desenhe uma ligação quando a aula explicar essa relação. Você monta o mapa e escreve a síntese manualmente; o Damas fornece texto que pode ler, editar e copiar.
+Para ligar afirmações e razões de uma aula do YouTube, parta de uma transcrição revisada no Damas e crie um mapa mental editável no app. Informe como contexto a pergunta que deseja explorar. Confira afirmações, razões, exemplos e relações na explicação completa. Os registros detalhados abaixo são um método de revisão manual; um mapa gerado não valida o argumento.
+
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
 
 ## Prepare a explicação completa
 
-O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento com IA. Use apenas material autorizado. Vídeos privados, restritos e ao vivo não são aceitos; uma fonte pública também pode estar inacessível.
+O Damas aceita links compatíveis de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. Use apenas material autorizado. Vídeos privados, restritos e ao vivo não são aceitos; uma fonte pública também pode estar inacessível.
 
 1. Guarde o link original e o título da aula. Escreva a pergunta que deseja compreender.
 2. Insira o link compatível no Damas e siga as orientações atuais para transcrição e resumo integrado. Leia o consentimento de IA.
@@ -53,8 +55,8 @@ Separe palavras inaudíveis, relações não explicadas e razões plausíveis qu
 
 Antes de copiar a síntese, confira se todas as ideias e relações têm trechos, se os exemplos continuam sendo exemplos e se as condições foram mantidas. Guarde o link e as dúvidas. O mapa descreve a estrutura da explicação; não comprova de forma independente a verdade das afirmações.
 
-Não é necessário usar um LLM externo. Uma formatação opcional em outro LLM exige permissão para compartilhar o texto e revisão de cada ligação sugerida. É uma etapa externa de rascunho, sem integração ou mapa automático do Damas.
+O Damas oferece resumos, mapas mentais editáveis, listas de ações, guias passo a passo, guias de estudo, testes com respostas explicadas e cartões de pergunta e resposta. Informe tema, público ou contexto e escolha o idioma. Confira cada relação ou resposta na fonte; os métodos detalhados de comparação e revisão deste guia ainda exigem seu julgamento.
 
-Para palavras exatas, veja a [verificação de citações](/pt/guides/verify-interview-quotes/). Para transmitir a síntese, mantenha [notas com os trechos de origem](/pt/guides/share-checked-video-notes/). Tempo e precisão variam. Se a fonte ficar inacessível, mantenha as verificações incompletas em aberto. O Damas não baixa mídia, importa arquivos, dubla vozes, incorpora legendas nem processa sem internet. Premium não contorna restrições. Respeite seus direitos de reutilização.
+Para palavras exatas, veja a [verificação de citações](/pt/guides/verify-interview-quotes/). Para transmitir a síntese, mantenha [notas com os trechos de origem](/pt/guides/share-checked-video-notes/). Tempo e precisão variam. Se a fonte ficar inacessível, mantenha as verificações incompletas em aberto. O Damas não baixa mídia, importa arquivos, dubla vozes, incorpora legendas nem processa sem internet. Respeite seus direitos de reutilização.
 
 Damas Technologies LLC

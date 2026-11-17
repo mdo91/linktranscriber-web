@@ -4,7 +4,7 @@ description: "Separe a fala de um Reel público dos textos na tela, confira dive
 slug: "instagram-speech-caption-check"
 locale: "pt"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "transcrever vídeo instagram"
 topics: ["Fala e texto na tela"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 Para transcrever um vídeo do Instagram sem misturar fontes, use o Damas para obter a fala de um Reel público compatível e leia os textos na tela separadamente. Registre o que ouviu, o que leu e as divergências em campos distintos. O Damas fornece texto editável e copiável; essa comparação é manual.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare o Reel e a transcrição
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem estar inacessíveis.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem estar inacessíveis.
 
 1. Abra o Reel no Instagram e guarde o link original. Confira se há fala audível relacionada ao que deseja verificar.
 2. Informe o link compatível no Damas. Siga as instruções atuais de transcrição e leia o consentimento de IA.
@@ -51,6 +53,6 @@ Guarde juntos o link original, a fala conferida, a nota visual separada e as per
 
 Para começar, consulte a [transcrição por link](/pt/guides/transcribe-social-video-link-iphone/). Para ler a fala em outro idioma, use a [tradução em texto](/pt/guides/translate-social-video-iphone/), disponível para 70 idiomas. Depois de conferir as divergências, o [resumo integrado](/pt/guides/summarize-video-transcript-iphone/) pode orientar a leitura.
 
-Tempo e precisão variam. O Damas não baixa mídia, não dubla, não incorpora legendas nem processa offline. Premium não contorna restrições de acesso. Se o Reel ficar inacessível, mantenha verificações incompletas pendentes e respeite suas permissões ao compartilhar.
+Tempo e precisão variam. O Damas não baixa mídia, não dubla, não incorpora legendas nem processa offline. Se o Reel ficar inacessível, mantenha verificações incompletas pendentes e respeite suas permissões ao compartilhar.
 
 Damas Technologies LLC

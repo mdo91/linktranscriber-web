@@ -4,7 +4,7 @@ description: "Erstellen Sie ein Glossar mit Originalbelegen, getrennten Bedeutun
 slug: "video-bilingual-glossary"
 locale: "de"
 publishedAt: "2026-10-25"
-updatedAt: "2026-10-25"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "youtube video übersetzer"
 topics: ["youtube video übersetzer","Damas"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 Mit einem YouTube-Video-Übersetzer wie Damas können Sie Originaltranskript und Textübersetzung vorbereiten. Für ein geprüftes zweisprachiges Glossar notieren Sie danach jeden wichtigen Begriff mit seinem Originalsatz und seiner Bedeutung im jeweiligen Zusammenhang. Unterschiedliche Bedeutungen bleiben getrennt, unsichere Zuordnungen offen. Das Glossar erstellen Sie selbst oder optional in einem anderen LLM; Damas bietet Transkription, Übersetzung in 70 Sprachen, Zusammenfassungen, Bearbeiten und Kopieren.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Quelle und beide Texte vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten Sie nur Material, für das Sie die Erlaubnis haben. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch unzugängliche öffentliche Quellen können scheitern.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten Sie nur Material, für das Sie die Erlaubnis haben. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch unzugängliche öffentliche Quellen können scheitern.
 
 1. Öffnen Sie das Video auf der ursprünglichen Plattform und behalten Sie Link und Titel in Ihrer Arbeitsnotiz.
 2. Geben Sie den unterstützten Link in Damas ein. Nutzen Sie nach den aktuellen App-Hinweisen die Transkription in der Originalsprache und die Übersetzung in die gewünschte unterstützte Sprache. Lesen Sie die KI-Einwilligung.
@@ -53,6 +55,6 @@ Prüfen Sie jeden vorgeschlagenen Satz und jede Bedeutung an der Aufnahme. Entfe
 
 Den Einstieg erklärt die [Transkription](/de/guides/transcribe-social-video-link-iphone/), die Sprachauswahl die [Übersetzung](/de/guides/translate-social-video-iphone/). Eine [Zusammenfassung](/de/guides/summarize-video-transcript-iphone/) hilft beim Überblick; Begriffe brauchen den vollständigen Kontext.
 
-Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium macht unzugängliche Quellen nicht verfügbar.
+Dauer und Genauigkeit schwanken. Damas lädt keine Medien herunter, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline.
 
 Damas Technologies LLC

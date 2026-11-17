@@ -4,7 +4,7 @@ description: "Halten Sie Anzahl, Bezugsgruppe und eigene Rechnungen getrennt, be
 slug: "interview-numerical-comparisons"
 locale: "de"
 publishedAt: "2026-11-10"
-updatedAt: "2026-11-10"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Zahlenvergleiche in Zitaten aus Video Interviews prüfen"
 topics: ["Zahlenvergleiche"]
@@ -15,9 +15,11 @@ translationKey: "interview-numerical-comparisons"
 
 Um einen Zahlenvergleich aus einem Video-Interview zu zitieren, suchen Sie die Werte im bearbeitbaren Damas-Transkript und hören nach, was jeder Wert misst. Notieren Sie Gruppe, Zeitraum und Bezugsgröße vor dem Vergleich. Eigene Rechnungen gehören außerhalb des Zitats: Auch richtig abgeschriebene Zahlen können einen irreführenden Vergleich ergeben.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Erst den Wortlaut sichern
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos werden nicht unterstützt; auch öffentliche Quellen können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos werden nicht unterstützt; auch öffentliche Quellen können unzugänglich sein.
 
 1. Öffnen Sie das Interview, behalten Sie Link und Titel und formulieren Sie Ihre Vergleichsfrage.
 2. Geben Sie den geeigneten Link in Damas ein. Folgen Sie den aktuellen Hinweisen für die Transkription in der Originalsprache und lesen Sie die KI-Einwilligung.
@@ -50,6 +52,6 @@ Sind Anzahl und Anteil beschriftet, alle Nenner belegt und Gruppen sowie Zeiträ
 
 Bei einer anderen Sprache hilft der [Vergleich von Original und Übersetzung](/de/guides/transcript-translation-meaning-check/). Für die Übergabe nutzen Sie [Notizen mit Quellenbelegen](/de/guides/share-checked-video-notes/). Ein externes LLM ist nicht nötig. Optionale Formatierung mit einem anderen LLM braucht die Erlaubnis zur Textweitergabe und eine erneute Prüfung; sie ist keine Damas-Integration.
 
-Dauer und Genauigkeit variieren. Wird die Quelle unzugänglich, bleiben offene Prüfungen ungeklärt. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine synchronisierte Sprachausgabe, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Quellenbeschränkungen. Beachten Sie Ihre Nutzungsrechte.
+Dauer und Genauigkeit variieren. Wird die Quelle unzugänglich, bleiben offene Prüfungen ungeklärt. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine synchronisierte Sprachausgabe, bettet keine Untertitel ein und verarbeitet nicht offline. Beachten Sie Ihre Nutzungsrechte.
 
 Damas Technologies LLC

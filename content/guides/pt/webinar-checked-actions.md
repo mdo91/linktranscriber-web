@@ -4,7 +4,7 @@ description: "Para extrair ações de um webinar, obtenha e confira a transcriç
 slug: "webinar-checked-actions"
 locale: "pt"
 publishedAt: "2026-10-24"
-updatedAt: "2026-10-24"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "extrair ações de um webinar"
 topics: ["extrair ações de um webinar","Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone","summarize-video-transcript-ipho
 translationKey: "webinar-checked-actions"
 ---
 
-Para extrair ações de um webinar, obtenha e confira a transcrição no Damas, depois separe compromissos explícitos, recomendações e propostas suas. Prepare a lista manualmente ou, se preferir, em outro LLM. O Damas oferece texto editável e resumo integrado; a lista personalizada de tarefas é uma etapa separada.
+Para extrair ações de um webinar gravado, obtenha e revise a transcrição no Damas e crie uma lista de ações no app. Informe o tema, público ou contexto. Separe compromissos explícitos, recomendações e propostas suas; confira responsáveis e prazos na fonte antes de aceitar detalhes gerados.
+
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
 
 ## Comece com uma fonte compatível
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. Você precisa de iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Envie apenas conteúdo que você tem autorização para processar.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. Envie apenas conteúdo que você tem autorização para processar.
 
 ## Monte uma visão geral útil
 
@@ -42,9 +44,9 @@ Este exemplo didático é inventado, sem citação de gravação real. Imagine q
 - Responsável: não informado. Prazo: não informado. Não preencher com o apresentador nem com a próxima sexta-feira.
 - Proposta sua: perguntar à equipe se deseja fazer o teste. Não registrar como compromisso de quem apresentou.
 
-## Opcional: comando para outro LLM
+## Oriente o resultado de IA no Damas
 
-Compartilhe a transcrição conferida com outro serviço apenas se tiver autorização. Este é um fluxo externo, sem integração com o Damas ou criação automática de tarefas. Exemplo para copiar:
+Escolha a ferramenta de IA adequada no Damas e informe tema, público ou contexto e idioma de saída. O exemplo abaixo ilustra um contexto baseado na fonte; confira o resultado com a transcrição e o vídeo. Preserve a transcrição original e salve o resultado de IA separadamente.
 
 > Use apenas esta transcrição conferida do webinar. Liste ações candidatas com passagem de apoio, condição e status: compromisso explícito, recomendação, proposta minha ou pendência. Inclua responsáveis e prazos somente se estiverem explicitamente ligados à ação; caso contrário, escreva “não informado”. Não invente fatos ou citações. Separe minhas propostas dos compromissos de quem fala. Fonte: [link]. Texto: [transcrição].
 
@@ -52,6 +54,6 @@ Ouça o apoio de cada item na gravação, conferindo negativas, nomes, datas e c
 
 Comece pelo [guia de transcrição](/pt/guides/transcribe-social-video-link-iphone/). Use o [resumo](/pt/guides/summarize-video-transcript-iphone/) para orientação e a [tradução](/pt/guides/translate-social-video-iphone/) para outro idioma; confira formulações importantes no original.
 
-Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas nem processa offline. Premium não torna acessível uma fonte indisponível.
+Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas nem processa offline.
 
 Damas Technologies LLC

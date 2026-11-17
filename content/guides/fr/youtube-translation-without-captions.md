@@ -4,7 +4,7 @@ description: "Distinguez sous-titres absents, source inaccessible et parole ince
 slug: "youtube-translation-without-captions"
 locale: "fr"
 publishedAt: "2026-11-04"
-updatedAt: "2026-11-04"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "traduire une video youtube sans sous titre"
 topics: ["Traduction sans sous-titres disponibles"]
@@ -14,6 +14,8 @@ translationKey: "youtube-translation-without-captions"
 ---
 
 Pour tenter de traduire la parole d’une vidéo YouTube sans sous-titres disponibles, vérifiez d’abord que la vidéo est accessible et contient une voix audible. Si son lien public est compatible, que la vidéo dure au maximum 90 minutes et que vous avez l’autorisation de la traiter, vous pouvez essayer le parcours de traduction en texte de Damas. L’absence de sous-titres sur YouTube ne prouve ni la cause d’un éventuel échec dans Damas, ni la réussite future de la demande. Le résultat recherché ici est un texte à lire et à vérifier.
+
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
 
 ## Séparer trois obstacles avant de commencer
 
@@ -30,7 +32,7 @@ Ces décisions sont manuelles. Les faits publics du produit n’expliquent pas p
 
 ## Préparer un texte que vous pourrez contrôler
 
-Damas accepte les liens vidéo publics à la demande compatibles de YouTube, Instagram et X, jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement des contenus autorisés. Pouvoir regarder une vidéo dans votre compte ne garantit pas son accessibilité pour le traitement.
+Damas accepte les liens vidéo publics à la demande compatibles de YouTube, Instagram et X, jusqu’à 90 minutes. Traitez uniquement des contenus autorisés. Pouvoir regarder une vidéo dans votre compte ne garantit pas son accessibilité pour le traitement.
 
 1. Vérifiez le lien original, la durée et l’accès public à la vidéo enregistrée. Utilisez le lien compatible, sans télécharger ni importer un fichier vidéo.
 2. Fournissez le lien dans Damas et suivez les indications actuelles du parcours de traduction. Lisez le consentement au traitement par IA.
@@ -61,6 +63,6 @@ Ce travail ne nécessite aucun LLM externe. Une mise en forme facultative dans u
 
 Pour choisir le texte cible, consultez la [traduction vidéo](/fr/guides/translate-social-video-iphone/). La [comparaison du sens](/fr/guides/transcript-translation-meaning-check/) explique le contrôle approfondi d’un passage. La [distinction entre parole et texte à l’écran](/fr/guides/instagram-speech-caption-check/) utilise un Reel public comme exemple. Damas fournit du texte modifiable et copiable pour préparer cette lecture.
 
-Damas ne télécharge pas les médias, n’importe pas de fichiers vidéo, ne double pas les voix, n’incruste pas de sous-titres et ne fonctionne pas hors connexion pour ce traitement. Premium ne garantit ni l’accès ni l’exactitude. Si la source devient inaccessible, laissez les contrôles inachevés ouverts et respectez vos droits de réutilisation.
+Damas ne télécharge pas les médias, n’importe pas de fichiers vidéo, ne double pas les voix, n’incruste pas de sous-titres et ne fonctionne pas hors connexion pour ce traitement. Si la source devient inaccessible, laissez les contrôles inachevés ouverts et respectez vos droits de réutilisation.
 
 Damas Technologies LLC

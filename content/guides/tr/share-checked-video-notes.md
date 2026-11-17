@@ -4,7 +4,7 @@ description: "Kaynak bölümleri ve kontrol sınırlarıyla bir paylaşım notu 
 slug: "share-checked-video-notes"
 locale: "tr"
 publishedAt: "2026-11-02"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "doğrulanmış video notlarını kaynak alıntılarıyla paylaşma"
 topics: ["Doğrulanmış notları paylaşma"]
@@ -15,15 +15,17 @@ translationKey: "share-checked-video-notes"
 
 Doğrulanmış video notlarını kaynak alıntılarıyla paylaşmak için Damas’ta kontrol ettiğiniz metni kendi belgenize kopyalayın ve her sonucu onu destekleyen bölüme bağlayın. Özgün video bağlantısını, kontrol kapsamını ve açık soruları ekleyin. Göndermeden önce yalnızca paylaşım notunu okuyup içindeki dayanakların sonuçları gerçekten destekleyip desteklemediğine bakın.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Kontrol edilecek metni hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme ve paylaşma izniniz olan içeriği kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynak da erişilemez olabilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme ve paylaşma izniniz olan içeriği kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynak da erişilemez olabilir.
 
 1. Kaynağı açıp özgün bağlantıyı ve başlığı saklayın.
 2. Desteklenen bağlantıyı Damas’a girin, güncel döküm yönergelerini izleyin ve yapay zekâ onayını okuyun.
 3. İşlemeyi bekleyin. Uygulama içi özet genel bakış sağlayabilir; dayanak için tam bölüme dönün.
 4. Adları, miktarları, olumsuzlukları ve koşulları yeniden dinleyin. Yalnızca kayıtla doğrulayabildiğiniz metni düzenleyip kopyalayın.
-5. Notu kendi belgenizde oluşturun. Aşağıdaki biçim elle hazırlanır; Damas’ın paylaşım veya otomatik alıntı özelliği değildir.
+5. Damas’ta metin ve notlarınızı okuyun, düzenleyin, kopyalayın veya paylaşın. Aşağıdaki dayanak yapısını elle hazırlayın; bu, otomatik alıntı veya eşitleme özelliği değildir.
 
 ## Alıcının sorusuna göre dayanak seçin
 
@@ -55,6 +57,6 @@ Harici LLM gerekmez. Başka bir LLM’de isteğe bağlı biçimlendirme için me
 
 Başlangıç metni için [döküm rehberine](/tr/guides/transcribe-social-video-link-iphone/), tam sözcükler için [alıntı kontrolüne](/tr/guides/verify-interview-quotes/) bakın. Çevrilmiş dayanakları önce [anlam karşılaştırmasıyla](/tr/guides/transcript-translation-meaning-check/) inceleyin. Damas okunup düzenlenebilen ve kopyalanabilen metin sağlar.
 
-Süre ve doğruluk değişir. Damas medya indirmez, dosya yükleme kabul etmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium kaynak kısıtlarını aşmaz.
+Süre ve doğruluk değişir. Damas medya indirmez, dosya yükleme kabul etmez, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez.
 
 Damas Technologies LLC

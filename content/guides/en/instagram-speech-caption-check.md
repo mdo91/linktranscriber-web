@@ -4,7 +4,7 @@ description: "Keep a public Reel’s spoken words separate from visible captions
 slug: "instagram-speech-caption-check"
 locale: "en"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "instagram video transcript"
 topics: ["Speech and captions"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 To make an Instagram video transcript without mixing sources, use Damas to transcribe the speech from a supported public Reel, then inspect the visible captions yourself. Keep what you heard, what you read on screen and any disagreement in separate records. Damas supplies editable, copyable text; this comparison is your manual work.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the Reel and its transcript
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone you need iOS 18.6 or later, internet, Premium and AI processing consent. Submit only material you are authorized to process. Private, restricted and live videos are unsupported; even a public source can be inaccessible.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Submit only material you are authorized to process. Private, restricted and live videos are unsupported; even a public source can be inaccessible.
 
 1. Open the Reel on Instagram and keep its original link in your working note. Confirm that it contains audible speech relevant to your question.
 2. Paste the supported link into Damas and follow the current transcription instructions. Review the AI consent before proceeding.
@@ -51,6 +53,6 @@ Keep the source link, the checked speech, the separate visual note and unresolve
 
 For the initial text, see [video link transcription](/guides/transcribe-social-video-link-iphone/). To read the speech in another language, use [text translation](/guides/translate-social-video-iphone/), which translates into 70 languages. For an overview after checking discrepancies, see [built-in summaries](/guides/summarize-video-transcript-iphone/).
 
-Accuracy and processing time vary. Damas does not download media, dub speech, embed subtitles or process offline. Premium does not bypass source restrictions. If the Reel becomes inaccessible, leave unfinished checks unresolved and share only within your reuse rights.
+Accuracy and processing time vary. Damas does not download media, dub speech, embed subtitles or process offline. If the Reel becomes inaccessible, leave unfinished checks unresolved and share only within your reuse rights.
 
 Damas Technologies LLC

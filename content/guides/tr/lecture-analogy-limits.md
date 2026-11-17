@@ -4,7 +4,7 @@ description: "Benzetmenin iki tarafındaki ilişkileri eşleştirin, sınırlar�
 slug: "lecture-analogy-limits"
 locale: "tr"
 publishedAt: "2026-11-16"
-updatedAt: "2026-11-16"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Video dersindeki bir benzetmeyi kanıt saymadan nasıl özetlerim?"
 topics: ["Derslerde benzetmeler"]
@@ -15,9 +15,11 @@ translationKey: "lecture-analogy-limits"
 
 Video dersindeki bir benzetmeyi özetlemek için Damas dökümü ve uygulama içi özetle açıklamanın tamamını bulun. Yalnızca anlatıcının kurduğu ilişkileri eşleştirin ve benzetmenin nerede sona erdiğini belirtin. Eşleştirme ile son paragrafı elle hazırlarsınız; Damas okunabilen, düzenlenebilen ve kopyalanabilen metin sağlar.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Açıklamanın tamamını bulun
 
-Damas, YouTube, Instagram ve X üzerindeki desteklenen, herkese açık, isteğe bağlı izlenen video bağlantılarını 90 dakikaya kadar işler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki desteklenen, herkese açık, isteğe bağlı izlenen video bağlantılarını 90 dakikaya kadar işler. Yalnızca işleme izniniz olan içeriği kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
 
 1. Kaynak bağlantısını ve ders başlığını saklayıp tek bir benzetme seçin.
 2. Desteklenen bağlantıyı Damas’a girin. Güncel döküm ve uygulama içi özet yönergelerini izleyip yapay zekâ onayını okuyun.
@@ -53,6 +55,6 @@ Kopyalamadan önce her ilişkinin dayanağını kontrol edin. Kaynak bağlantıs
 
 Harici LLM gerekmez. Başka bir LLM’de isteğe bağlı biçimlendirme metni paylaşma izni ve her eşleştirmenin kontrolünü gerektirir; bu harici adımdır, Damas entegrasyonu veya otomatik analiz değildir. Olgu, alıntı, sorumlu veya son tarih uydurmayın.
 
-Süre ve doğruluk değişir. Damas medya indirmez, video dosyası içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium kısıtları aşmaz. Kaynak erişilemez olursa tamamlanmamış kontrolleri açık bırakın ve yeniden kullanım haklarını koruyun.
+Süre ve doğruluk değişir. Damas medya indirmez, video dosyası içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Kaynak erişilemez olursa tamamlanmamış kontrolleri açık bırakın ve yeniden kullanım haklarını koruyun.
 
 Damas Technologies LLC

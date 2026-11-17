@@ -4,7 +4,7 @@ description: "Connect a lecture’s claims, reasons and examples using source pa
 slug: "lecture-argument-map"
 locale: "en"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "How can I summarize a YouTube lecture as a map of claims and reasons?"
 topics: ["Lecture summaries and argument maps"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","verify-interview-quotes","share-c
 translationKey: "lecture-argument-map"
 ---
 
-To summarize a YouTube lecture as an argument map, use the Damas transcript and built-in summary to choose one conclusion, then return to the complete explanation. Give claims, reasons and examples separate records. Connect them only where the lecturer explains the relationship. You draw the map and write the final summary yourself; Damas provides editable, copyable text.
+To summarize a YouTube lecture as a map of claims and reasons, start with a reviewed Damas transcript and create an editable mind map in the app. Add the question you want to explore as context. Check each claim, reason, example and connection against the complete explanation. The detailed evidence records below are a manual review method; a generated map does not verify the argument.
+
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
 
 ## Prepare the full explanation
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, you need iOS 18.6 or later, internet, Premium and consent for AI processing. Use only material you are authorized to process. Private, restricted and live videos are unsupported; public sources can also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Use only material you are authorized to process. Private, restricted and live videos are unsupported; public sources can also be inaccessible.
 
 1. Keep the original link and lecture title. Write the question you want the map to answer.
 2. Paste the supported link into Damas. Follow the current transcription and built-in summary instructions, reviewing AI consent.
@@ -53,8 +55,8 @@ Separate three problems: inaudible wording, an unexplained relationship, and you
 
 Before copying your summary, check that every statement and connection has a passage, examples remain examples, conditions survive and unknown links stay open. Keep the source link and unresolved questions. This describes the lecturer’s argument; it does not independently prove their claims true.
 
-No external LLM is needed. Optional formatting in another LLM requires permission to share the text and review of every proposed connection. It is an external drafting step, not a Damas integration or automatic argument-mapping feature.
+Damas includes summaries, editable mind maps, action checklists, step-by-step guides, study guides, quizzes with explained answers and question-and-answer flashcards. Guide the relevant tool with a topic, audience or context and select the output language. Review every proposed relationship or answer against the source; the detailed comparison and verification methods in this guide still require your judgment.
 
-Use [quotation checking](/guides/verify-interview-quotes/) for exact words and [source-linked notes](/guides/share-checked-video-notes/) when sharing. Processing time and accuracy vary. If the source becomes inaccessible, leave unfinished checks open. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Premium cannot bypass restrictions. Share only within your reuse rights.
+Use [quotation checking](/guides/verify-interview-quotes/) for exact words and [source-linked notes](/guides/share-checked-video-notes/) when sharing. Processing time and accuracy vary. If the source becomes inaccessible, leave unfinished checks open. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Share only within your reuse rights.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "Localiza errores de transcripción o traducción y comprueba condi
 slug: "transcript-translation-meaning-check"
 locale: "es"
 publishedAt: "2026-11-01"
-updatedAt: "2026-11-01"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "comparar la transcripción original y la traducción de un vídeo"
 topics: ["Comprobación del sentido traducido"]
@@ -15,9 +15,11 @@ translationKey: "transcript-translation-meaning-check"
 
 Para comparar la transcripción original y la traducción de un vídeo, comprueba primero las palabras en el audio y después la misma afirmación completa en el texto traducido. Registra si la discrepancia empieza en la transcripción o en la traducción. Damas proporciona textos editables y copiables; la comparación y su ficha de revisión se hacen a mano.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Prepara dos textos de la misma fuente
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Envía solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede resultar inaccesible.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Envía solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede resultar inaccesible.
 
 1. Abre el vídeo y guarda su enlace y título. Elige una afirmación junto con la frase anterior y la siguiente.
 2. Facilita el enlace compatible en Damas. Sigue las indicaciones actuales para la transcripción en el idioma original y la traducción al idioma de destino compatible. Lee el consentimiento de IA y espera los resultados.
@@ -53,6 +55,6 @@ No hace falta un LLM externo. Si decides copiar textos autorizados en otro LLM, 
 
 La [traducción](/es/guides/translate-social-video-iphone/) explica el idioma de destino; la [transcripción](/es/guides/transcribe-social-video-link-iphone/) conserva el original. Para términos concretos, consulta el [glosario bilingüe](/es/guides/video-bilingual-glossary/). Damas prepara los textos para leer, editar y copiar.
 
-El tiempo y la precisión varían. Damas no descarga medios, no importa archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Premium no elude restricciones. Si la fuente resulta inaccesible, las comprobaciones incompletas siguen pendientes. Respeta tus derechos de reutilización.
+El tiempo y la precisión varían. Damas no descarga medios, no importa archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Si la fuente resulta inaccesible, las comprobaciones incompletas siguen pendientes. Respeta tus derechos de reutilización.
 
 Damas Technologies LLC

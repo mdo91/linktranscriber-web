@@ -4,7 +4,7 @@ description: "Build a compact handoff note with checked passages, clear limits a
 slug: "share-checked-video-notes"
 locale: "en"
 publishedAt: "2026-11-02"
-updatedAt: "2026-11-02"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "how to share checked video notes with source passages"
 topics: ["Sharing checked notes"]
@@ -15,15 +15,17 @@ translationKey: "share-checked-video-notes"
 
 To share checked video notes with source passages, copy reviewed text from Damas into your chosen document, then pair each conclusion with the passage that supports it. Give the recipient the original video link, the scope of your check and any unresolved points. Before sending, read only the handoff note and test whether its evidence actually supports its conclusion.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare text you can review
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, you need iOS 18.6 or later, internet, Premium and AI processing consent. Process and share only material you are authorized to use. Private, restricted and live sources are unsupported; public media may also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process and share only material you are authorized to use. Private, restricted and live sources are unsupported; public media may also be inaccessible.
 
 1. Open the source and keep its original link and title.
 2. Paste the supported link into Damas and follow the current transcription instructions, reviewing AI consent.
 3. Wait for processing. Use a built-in summary for orientation if useful, then return to the full passage.
 4. Replay the source to check names, quantities, negatives and conditions. Edit and copy the text only as far as the recording supports.
-5. Prepare the handoff in your own document. The structure below is manual, not a Damas sharing or citation feature.
+5. Read, edit, copy or share your text and notes in Damas. Prepare the evidence structure below manually; it is not an automatic citation or synchronization feature.
 
 ## Make a small evidence packet for the reader
 
@@ -55,6 +57,6 @@ No external LLM is needed. Optional formatting in another LLM requires permissio
 
 Use [transcription](/guides/transcribe-social-video-link-iphone/) for the starting text and [quotation checking](/guides/verify-interview-quotes/) for exact words. For translated evidence, use the [meaning comparison](/guides/transcript-translation-meaning-check/) before handing it on. Damas gives you editable, copyable text for this review.
 
-Processing time and accuracy vary. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Premium cannot bypass source restrictions.
+Processing time and accuracy vary. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline.
 
 Damas Technologies LLC

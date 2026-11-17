@@ -4,7 +4,7 @@ description: "Para sacar acciones de un webinar, obtén y comprueba la transcrip
 slug: "webinar-checked-actions"
 locale: "es"
 publishedAt: "2026-10-24"
-updatedAt: "2026-10-24"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "sacar acciones de un webinar"
 topics: ["sacar acciones de un webinar","Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone","summarize-video-transcript-ipho
 translationKey: "webinar-checked-actions"
 ---
 
-Para sacar acciones de un webinar, obtén y comprueba la transcripción en Damas, después separa los compromisos explícitos de las recomendaciones y tus propias propuestas. Prepara la lista a mano o, de forma opcional, en otro LLM. Damas aporta texto editable y un resumen integrado; la lista personalizada de tareas se redacta por separado.
+Para sacar acciones de un webinar grabado, obtén y revisa su transcripción en Damas y crea una lista de acciones en la app. Indica el tema, el público o el contexto. Separa compromisos explícitos, recomendaciones y propuestas propias; comprueba responsables y fechas en la fuente antes de aceptar los detalles generados.
+
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
 
 ## Empieza con una fuente compatible
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. No admite contenido privado, restringido ni en directo. Necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Envía solo contenido que tengas permiso para procesar.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. No admite contenido privado, restringido ni en directo. Envía solo contenido que tengas permiso para procesar.
 
 ## Crea una visión general útil
 
@@ -42,9 +44,9 @@ Este ejemplo didáctico es inventado y no cita una grabación real. Imagina que 
 - Responsable: no se menciona. Plazo: no se menciona. No asignar a quien presenta ni inventar el próximo viernes.
 - Propuesta tuya: preguntar al equipo si quiere hacer la prueba. No atribuirla como compromiso del webinar.
 
-## Opcional: instrucción para otro LLM
+## Orienta el resultado de IA en Damas
 
-Comparte la transcripción comprobada con otro servicio solo si tienes permiso. Es un flujo externo, sin integración con Damas ni creación automática de tareas. Ejemplo para copiar:
+Elige la herramienta de IA adecuada en Damas e indica el tema, el público o el contexto y el idioma de salida. El ejemplo siguiente ilustra un contexto centrado en la fuente; revisa el resultado con la transcripción y el vídeo. Conserva la transcripción original y guarda el resultado de IA por separado.
 
 > Utiliza solo esta transcripción comprobada del webinar. Enumera posibles acciones con fragmento de apoyo, condición y estado: compromiso explícito, recomendación, propuesta mía o pendiente. Incluye responsables y plazos solo si están expresamente vinculados a la acción; en otro caso escribe «no se menciona». No inventes hechos ni citas. Separa mis propuestas de los compromisos expresados. Fuente: [enlace]. Texto: [transcripción].
 
@@ -52,6 +54,6 @@ Vuelve a escuchar el apoyo de cada elemento y comprueba negaciones, nombres, fec
 
 Empieza por la [transcripción](/es/guides/transcribe-social-video-link-iphone/). El [resumen](/es/guides/summarize-video-transcript-iphone/) ayuda a orientarte y la [traducción](/es/guides/translate-social-video-iphone/) a entender otro idioma; verifica las expresiones importantes en el original.
 
-El tiempo y la precisión varían. Damas no descarga archivos multimedia, no incrusta subtítulos ni procesa sin conexión. Premium no vuelve accesible una fuente no disponible.
+El tiempo y la precisión varían. Damas no descarga archivos multimedia, no incrusta subtítulos ni procesa sin conexión.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "把讲述顺序与事件时间分开记录，只连接来源支持
 slug: "narrated-event-timeline"
 locale: "zh-hans"
 publishedAt: "2026-11-13"
-updatedAt: "2026-11-13"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "怎样按事件顺序总结一段在过去与现在之间跳转的 YouTube 视频？"
 topics: ["视频总结与事件顺序"]
@@ -15,9 +15,11 @@ translationKey: "narrated-event-timeline"
 
 要按事件顺序总结一段在过去与现在之间跳转的 YouTube 视频，先在 Damas 准备文字稿与应用内摘要，再手动建立事件记录。把视频中的提及顺序与来源所述的事件时间分开，只连接原文支持的先后关系。无法确定位置的事件单独保留，不为凑齐时间线补写日期。
 
+在 iPhone 上需要 iOS 18.6 或更高版本和互联网连接。在线处理和购买需要通过 Apple 登录，并查看 AI 处理同意说明。处理使用媒体分钟数和 Insight 点数：确认前请检查余额、使用记录和处理费用。可用方案和可选加购包会在应用内显示。
+
 ## 准备完整叙述
 
-Damas 处理最长 90 分钟的 YouTube、Instagram 和 X 中受支持的公开点播视频链接。iPhone 需要 iOS 18.6 或更高版本、互联网、Premium 和 AI 处理同意。仅使用您有权处理的材料。不支持私密、受限或直播视频；公开来源也可能无法访问。
+Damas 处理最长 90 分钟的 YouTube、Instagram 和 X 中受支持的公开点播视频链接。仅使用您有权处理的材料。不支持私密、受限或直播视频；公开来源也可能无法访问。
 
 1. 保存原始链接和标题，写下想弄清的事件过程。
 2. 在 Damas 提供受支持的链接，按当前指引使用转写与应用内摘要，并阅读 AI 同意内容。
@@ -59,6 +61,6 @@ Damas 处理最长 90 分钟的 YouTube、Instagram 和 X 中受支持的公开�
 
 确切措辞可参考[引用核查](/zh-hans/guides/verify-interview-quotes/)，发布日期与帖文语境可参考[X 视频总结](/zh-hans/guides/x-summary-post-context/)。需要翻译时，Damas 支持把语音翻译为 70 种语言的文字；这与十一种界面语言是两回事。译文中的时间表达也应与原文对照。
 
-准确度与处理时间会变化。原视频无法访问时，未完成的检查应保持待确认。Damas 不下载媒体、不导入文件、不配音、不嵌入字幕，也不离线处理。Premium 不能绕过访问限制。请在再利用权限范围内分享。
+准确度与处理时间会变化。原视频无法访问时，未完成的检查应保持待确认。Damas 不下载媒体、不导入文件、不配音、不嵌入字幕，也不离线处理。请在再利用权限范围内分享。
 
 Damas Technologies LLC

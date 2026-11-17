@@ -4,7 +4,7 @@ description: "Para resumir um webinar pelas perguntas e respostas, prepare a tra
 slug: "webinar-questions-answers"
 locale: "pt"
 publishedAt: "2026-10-26"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "resumir webinar"
 topics: ["resumir webinar","Damas"]
@@ -15,9 +15,11 @@ translationKey: "webinar-questions-answers"
 
 Para resumir um webinar pelas perguntas e respostas, prepare a transcrição e o resumo integrado no Damas, depois vincule cada pergunta realmente feita à resposta correspondente. Marque respostas parciais e perguntas sem resposta. Esse registro é montado manualmente com o texto editável e copiável; o Damas não gera esse formato específico automaticamente.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Comece com uma fonte compatível
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. Você precisa de iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Envie apenas conteúdo que você tem autorização para processar.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Conteúdo privado, restrito e ao vivo não é compatível. Envie apenas conteúdo que você tem autorização para processar.
 
 ## Monte uma visão geral útil
 
@@ -47,6 +49,6 @@ Compare cada registro com o vídeo: a resposta corresponde à pergunta e mantém
 
 Guarde o link original, o título e as perguntas em aberto com o registro. Comece pelo [guia de transcrição](/pt/guides/transcribe-social-video-link-iphone/). O [resumo geral](/pt/guides/summarize-video-transcript-iphone/) ajuda a se orientar; para propor trabalho depois, veja as [ações de webinar](/pt/guides/webinar-checked-actions/).
 
-Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas e não processa offline. Premium não torna acessível uma fonte indisponível. Se a gravação desaparecer, as conferências incompletas continuam pendentes.
+Tempo e precisão variam. O Damas não baixa mídia, não incorpora legendas e não processa offline. Se a gravação desaparecer, as conferências incompletas continuam pendentes.
 
 Damas Technologies LLC

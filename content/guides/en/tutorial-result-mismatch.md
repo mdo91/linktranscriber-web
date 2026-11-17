@@ -4,7 +4,7 @@ description: "Compare the first differing result with a tutorial, separate obser
 slug: "tutorial-result-mismatch"
 locale: "en"
 publishedAt: "2026-11-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "use a video tutorial to diagnose the first result mismatch"
 topics: ["Following a tutorial"]
@@ -15,9 +15,11 @@ translationKey: "tutorial-result-mismatch"
 
 When your result differs from a video tutorial, use a reviewed Damas transcript to find the last matching result and the first observable difference. Compare those two checkpoints with the demonstration before changing anything. This manual review produces a focused question about the failed attempt; it does not diagnose the cause automatically or guarantee a repair.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the explanation
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone it requires iOS 18.6 or later, internet, Premium and AI processing consent. Only process material you are authorized to use. Private, restricted and live videos are unsupported; inaccessible public sources can also fail.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Only process material you are authorized to use. Private, restricted and live videos are unsupported; inaccessible public sources can also fail.
 
 1. Open the tutorial on its original platform and retain its link and title in your working note.
 2. Paste the supported link into Damas. Follow the current app instructions for transcription and review the AI consent.
@@ -54,6 +56,6 @@ The [tutorial checklist](/guides/tutorial-checked-checklist/) helps prepare the 
 
 No external LLM is needed. Optional formatting in another LLM requires permission to share the copied text and a check of every proposed cause; it is not a Damas integration. Keep uncertainty, source evidence and your observations separate. Never invent quotes, facts, owners or deadlines.
 
-Processing time and accuracy vary. Damas does not download media, embed subtitles or process offline. Premium cannot make an inaccessible source available. Keep the source link with the final checklist so unresolved items can be revisited.
+Processing time and accuracy vary. Damas does not download media, embed subtitles or process offline. Keep the source link with the final checklist so unresolved items can be revisited.
 
 Damas Technologies LLC

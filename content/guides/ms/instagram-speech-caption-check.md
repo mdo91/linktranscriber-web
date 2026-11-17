@@ -4,7 +4,7 @@ description: "Asingkan pertuturan Reel awam daripada tulisan pada skrin dan simp
 slug: "instagram-speech-caption-check"
 locale: "ms"
 publishedAt: "2026-10-29"
-updatedAt: "2026-10-29"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "tukar pertuturan dalam Instagram Reels awam kepada teks"
 topics: ["Pertuturan dan teks pada skrin"]
@@ -15,9 +15,11 @@ translationKey: "instagram-speech-caption-check"
 
 Untuk menukar pertuturan dalam Instagram Reels awam kepada teks, gunakan transkripsi Damas bagi pautan yang disokong, kemudian baca teks pada skrin sendiri. Catat pertuturan, tulisan yang dilihat dan percanggahan secara berasingan. Damas menyediakan teks boleh sunting dan salin; perbandingan ini ialah kerja manual anda.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan Reel dan transkrip
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Proses hanya kandungan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh gagal jika tidak boleh diakses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Proses hanya kandungan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh gagal jika tidak boleh diakses.
 
 1. Buka Reel pada Instagram dan simpan pautan asal. Pastikan maklumat yang ingin disemak mengandungi pertuturan yang boleh didengar.
 2. Masukkan pautan yang disokong dalam Damas. Ikut arahan transkripsi semasa dan baca persetujuan AI.
@@ -51,6 +53,6 @@ Simpan pautan asal, pertuturan disahkan, nota visual dan soalan terbuka bersama-
 
 Untuk bermula, lihat [panduan transkripsi](/ms/guides/transcribe-social-video-link-iphone/). Untuk bahasa lain, gunakan [terjemahan teks](/ms/guides/translate-social-video-iphone/) kepada 70 bahasa. Selepas menyemak percanggahan, [ringkasan terbina dalam](/ms/guides/summarize-video-transcript-iphone/) membantu mendapatkan gambaran umum.
 
-Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan akses. Jika Reel tidak lagi tersedia, biarkan semakan belum selesai terbuka dan hormati hak penggunaan semasa berkongsi.
+Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, mengalih suara, membenamkan sari kata atau memproses di luar talian. Jika Reel tidak lagi tersedia, biarkan semakan belum selesai terbuka dan hormati hak penggunaan semasa berkongsi.
 
 Damas Technologies LLC

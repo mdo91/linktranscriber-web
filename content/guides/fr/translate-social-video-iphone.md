@@ -4,7 +4,7 @@ description: "Traduisez la parole d’une vidéo YouTube publique en texte avec 
 slug: "translate-social-video-iphone"
 locale: "fr"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-21"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "application traduction video youtube"
 topics: ["traduire une vidéo YouTube", "traduction vidéo", "iPhone"]
@@ -15,9 +15,11 @@ translationKey: "translate-social-video-iphone"
 
 Si vous cherchez une application de traduction de vidéos YouTube sur iPhone, Damas permet de lire la parole sous forme de texte traduit : fournissez un lien public compatible et choisissez la langue cible dans le parcours de traduction. La parole est traduite en texte dans l’une des 70 langues proposées. Le même parcours accepte les vidéos publiques compatibles d’Instagram et de X ; vérifiez le sens dans le contexte original.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer un lien compatible
 
-La vidéo doit être publique, disponible à la demande et durer 90 minutes maximum. Les contenus privés, restreints et en direct ne sont pas pris en charge. Il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA.
+La vidéo doit être publique, disponible à la demande et durer 90 minutes maximum. Les contenus privés, restreints et en direct ne sont pas pris en charge.
 
 Damas propose 11 langues d’interface. Cette liste est différente de celle des 70 langues de traduction : changer la langue de l’application ne choisit pas nécessairement celle du texte traduit.
 
@@ -62,6 +64,6 @@ Comparez chaque proposition à la vidéo. Vérifiez les noms, les chiffres, les 
 
 Pour conserver le détail des propos, consultez le [guide de transcription](/fr/guides/transcribe-social-video-link-iphone/). Pour réduire ensuite le texte, suivez le [guide du résumé](/fr/guides/summarize-video-transcript-iphone/) en gardant à part les termes essentiels. Damas permet de préparer et de copier le texte utile ; la fiche finale reste un travail à vérifier.
 
-La durée du traitement et la précision varient. Damas ne télécharge pas les médias, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas les vidéos hors connexion. Premium ne garantit pas l’accès à une source inaccessible.
+La durée du traitement et la précision varient. Damas ne télécharge pas les médias, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas les vidéos hors connexion.
 
 Damas Technologies LLC

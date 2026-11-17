@@ -4,7 +4,7 @@ description: "Prüfen Sie Wortlaut, Sprecher und Zusammenhang an der Aufnahme un
 slug: "verify-interview-quotes"
 locale: "de"
 publishedAt: "2026-10-22"
-updatedAt: "2026-10-22"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "zitate aus einem video interview prüfen"
 topics: ["zitate aus einem video interview prüfen", "Damas"]
@@ -15,9 +15,11 @@ translationKey: "verify-interview-quotes"
 
 Um Zitate aus einem Video-Interview zu prüfen, erstellen Sie mit Damas ein Transkript und hören jede ausgewählte Stelle im Original nach. Bestätigen Sie Wortlaut, sprechende Person und vorausgehende Frage. Der Text hilft beim Auffinden; erst der Vergleich mit der Aufnahme macht ein Zitat überprüfbar.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Quelle und Text vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Reichen Sie nur Material ein, das Sie verarbeiten dürfen. Private, eingeschränkte, Live- oder unzugängliche Quellen eignen sich nicht. Auch ein öffentlicher Link kann bei der Verarbeitung scheitern.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Reichen Sie nur Material ein, das Sie verarbeiten dürfen. Private, eingeschränkte, Live- oder unzugängliche Quellen eignen sich nicht. Auch ein öffentlicher Link kann bei der Verarbeitung scheitern.
 
 1. Öffnen Sie das Interview auf der ursprünglichen Plattform und bewahren Sie Link und Titel auf.
 2. Geben Sie den geeigneten Link in Damas ein. Nutzen Sie die Transkription gemäß den aktuellen App-Hinweisen und lesen Sie die KI-Einwilligung.

@@ -4,7 +4,7 @@ description: "Keep counts, percentages, comparison groups and your own calculati
 slug: "interview-numerical-comparisons"
 locale: "en"
 publishedAt: "2026-11-10"
-updatedAt: "2026-11-10"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "check numerical comparisons in video interview transcript quotes"
 topics: ["Numerical comparisons"]
@@ -15,9 +15,11 @@ translationKey: "interview-numerical-comparisons"
 
 To quote a numerical comparison from a video interview, use an editable Damas transcript to locate the figures, then check the spoken values and what each value measures. Record the group, period and denominator before comparing them. Keep any calculation you make outside the quotation: a faithfully copied number can still support a misleading comparison.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Get the wording before doing the arithmetic
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, you need iOS 18.6 or later, internet, Premium and consent for AI processing. Submit only material you are authorized to process. Private, restricted and live videos are unsupported; public media can also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Submit only material you are authorized to process. Private, restricted and live videos are unsupported; public media can also be inaccessible.
 
 1. Open the interview and retain its original link and title. Write the comparison you want to understand as a question.
 2. Provide the supported link in Damas and follow the current instructions for original-language transcription, reviewing AI consent.
@@ -50,6 +52,6 @@ Before sharing, check: are counts and shares labeled; is each denominator suppor
 
 For translated speech, keep the original figures and use the [meaning comparison guide](/guides/transcript-translation-meaning-check/). The [source-linked notes guide](/guides/share-checked-video-notes/) helps you hand on the result. No external LLM is needed. Optional formatting in another LLM requires permission to share the text and a fresh check of every field; it is not a Damas integration or automatic numerical verification.
 
-Processing time and accuracy vary. If the source becomes inaccessible, leave unfinished checks unresolved. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Premium cannot bypass source restrictions. Share only within your reuse rights.
+Processing time and accuracy vary. If the source becomes inaccessible, leave unfinished checks unresolved. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Share only within your reuse rights.
 
 Damas Technologies LLC

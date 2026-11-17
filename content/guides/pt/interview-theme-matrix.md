@@ -4,7 +4,7 @@ description: "Para organizar temas e contradições de uma entrevista em vídeo,
 slug: "interview-theme-matrix"
 locale: "pt"
 publishedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "organizar temas e contradições de uma entrevista em vídeo"
 topics: ["Temas e pontos de vista"]
@@ -15,9 +15,11 @@ translationKey: "interview-theme-matrix"
 
 Para organizar temas e contradições de uma entrevista em vídeo, prepare uma transcrição no Damas e monte uma tabela por tema e pessoa. Preserve os trechos de apoio e compare as condições antes de concluir que existe discordância. O resumo integrado ajuda na visão geral; a tabela e a síntese são um trabalho manual a partir do texto editável e copiável.
 
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
+
 ## Prepare a fonte e o texto
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. No iPhone, são necessários iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Envie apenas conteúdo que você tem autorização para processar. Fontes privadas, restritas, ao vivo ou inacessíveis não servem para este fluxo. Mesmo um link público pode falhar no processamento.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X com até 90 minutos. Envie apenas conteúdo que você tem autorização para processar. Fontes privadas, restritas, ao vivo ou inacessíveis não servem para este fluxo. Mesmo um link público pode falhar no processamento.
 
 1. Abra a entrevista na plataforma original e guarde o link e o título nas notas.
 2. Informe o link compatível no Damas. Use a transcrição seguindo as instruções atuais do app e leia o consentimento de IA.

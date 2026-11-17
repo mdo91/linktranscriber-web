@@ -1,0 +1,1498 @@
+{
+  "en": {
+    "title": "Damas — Video transcripts, translation and AI tools",
+    "description": "Turn public YouTube, Instagram and X video links into transcripts, translations, summaries, mind maps, checklists and study tools with Damas.",
+    "heroKicker": "One link. More ways to use it.",
+    "heroStart": "Turn public video links into",
+    "heroAccent": "text you can use.",
+    "heroDescription": "Bring transcription, translation and AI tools together to understand ideas, make a plan and study what matters.",
+    "heroNote": "Sign in with Apple. Internet required. Processing uses media minutes and Insight credits. Plans and packs are shown in the app.",
+    "foundationTitle": "Start with the words. Go further with the ideas.",
+    "foundationBody": "Add a public X, YouTube or Instagram video link up to 90 minutes long. Transcribe speech in its original language or translate it into 70 languages.",
+    "howTitle": "From a link to your next step.",
+    "steps": [
+      {
+        "title": "Add a public video link",
+        "body": "Choose a supported video you have permission to process, up to 90 minutes long."
+      },
+      {
+        "title": "Get the text you need",
+        "body": "Choose transcription or translation, review the cost and confirm processing."
+      },
+      {
+        "title": "Put the ideas to work",
+        "body": "Create AI outputs from your transcript, then review, edit and use the results."
+      }
+    ],
+    "outcomesTitle": "Understand it. Plan with it. Learn from it.",
+    "outcomesIntro": "Choose the tool that fits what you want to do with a video.",
+    "outcomes": [
+      {
+        "kicker": "Understand",
+        "title": "See the ideas and their connections.",
+        "body": "Find the main points in a summary, or explore how they fit together in an editable mind map.",
+        "bullets": [
+          "Short or detailed summaries",
+          "Standard or Professional summary style",
+          "Editable mind maps"
+        ],
+        "captions": [
+          "A summary of the sample transcript",
+          "The same ideas in an editable mind map"
+        ]
+      },
+      {
+        "kicker": "Plan",
+        "title": "Turn useful ideas into practical steps.",
+        "body": "Build an action checklist or a step-by-step guide. Review suggestions against the source before putting them into practice.",
+        "bullets": [
+          "Action checklists",
+          "Step-by-step guides",
+          "Edit the result to suit your task"
+        ],
+        "captions": [
+          "An action checklist from the sample video",
+          "The original transcript remains available"
+        ]
+      },
+      {
+        "kicker": "Study",
+        "title": "Give the material another way to stick.",
+        "body": "Build a study guide, test your understanding or practise recall with question-and-answer flashcards.",
+        "bullets": [
+          "Study guides",
+          "Quizzes with explained answers",
+          "Question-and-answer flashcards"
+        ],
+        "captions": [
+          "A quiz with an explained answer",
+          "A flashcard with its answer revealed"
+        ]
+      }
+    ],
+    "tailorKicker": "Make it relevant",
+    "tailorTitle": "Give AI a little direction.",
+    "tailorBody": "Add a topic, audience or context to guide the result, and choose the output language.",
+    "controls": [
+      "Topic",
+      "Audience or context",
+      "Output language"
+    ],
+    "saveTitle": "Keep the source. Make the output yours.",
+    "saveBody": "Your original transcript stays intact while AI outputs are saved separately. Read, edit, copy and share your texts and notes.",
+    "usageTitle": "Know the cost. Keep moving.",
+    "usageBlocks": [
+      {
+        "title": "Review before you confirm",
+        "body": "Check your media-minute and Insight balances, usage history and processing cost. Optional top-ups and available plans and packs are shown in the app."
+      },
+      {
+        "title": "Come back when it is ready",
+        "body": "Leave the app while processing continues. Get a notification when your job is complete; notification delivery depends on your device settings."
+      }
+    ],
+    "guidesTitle": "Useful answers, beyond the first link.",
+    "guidesIntro": "Explore practical guides to transcription, translation and working with video ideas.",
+    "allGuides": "Explore all guides",
+    "faqTitle": "A few things to know.",
+    "faqs": [
+      {
+        "q": "Which video links can I use?",
+        "a": "Damas supports eligible public, on-demand X, YouTube and Instagram video links up to 90 minutes. Private, restricted and live content is unsupported. Only process content you have permission to use."
+      },
+      {
+        "q": "How many languages does Damas support?",
+        "a": "You can transcribe speech in its original language or translate it into 70 languages. The app interface is available in 11 languages; these are separate language lists."
+      },
+      {
+        "q": "Which AI tools are built in?",
+        "a": "Damas includes short or detailed summaries in Standard or Professional style, editable mind maps, action checklists, step-by-step guides, study guides, quizzes with explained answers and question-and-answer flashcards."
+      },
+      {
+        "q": "Do I need an account, and how does processing work?",
+        "a": "Sign in with Apple to use online processing and purchases. Internet access and AI-processing consent are required. Processing uses media minutes and Insight credits. Review balances and costs before confirming; available plans, packs and optional top-ups are shown in the app."
+      },
+      {
+        "q": "Will AI outputs replace my transcript?",
+        "a": "No. Your original transcript is kept while AI outputs are saved separately. You can read, edit, copy and share texts and notes. Review AI results against the source before relying on them."
+      },
+      {
+        "q": "Can I leave the app while it processes?",
+        "a": "Yes. Processing continues after you leave the app, and Damas can notify you when the job is complete. Notifications depend on your device settings. Processing still requires an internet connection."
+      },
+      {
+        "q": "Which devices can I use?",
+        "a": "Check the current App Store listing for iPhone, iPad and Mac compatibility and regional availability."
+      }
+    ],
+    "closingTitle": "Give your next video a useful next step.",
+    "closingBody": "Open a public video link in Damas and turn its words into something you can use.",
+    "screenshotsNote": "Real iPhone screens with the English interface and original sample content.",
+    "heroArtAlt": "A professional woman at a desk connects notes in a mind map.",
+    "artAlts": [
+      "A professional woman at a desk connects notes in a mind map.",
+      "A professional woman wearing glasses organises cards at her desk.",
+      "A bearded professional man reviews notes in a notebook."
+    ]
+  },
+  "fr": {
+    "title": "Damas — Transcription vidéo, traduction et outils IA",
+    "description": "Transformez des liens vidéo publics YouTube, Instagram et X en transcriptions, traductions, résumés, cartes mentales et outils de révision avec Damas.",
+    "heroKicker": "Un lien. De nouvelles possibilités.",
+    "heroStart": "Transformez vos liens vidéo publics en",
+    "heroAccent": "textes utiles.",
+    "heroDescription": "Réunissez transcription, traduction et outils IA pour comprendre les idées, préparer un plan et étudier ce qui compte.",
+    "heroNote": "Connexion avec Apple. Internet requis. Le traitement utilise des minutes média et des crédits Insight. Offres et packs dans l’app.",
+    "foundationTitle": "Partez des mots. Approfondissez les idées.",
+    "foundationBody": "Ajoutez un lien vidéo public X, YouTube ou Instagram de 90 minutes maximum. Transcrivez la parole dans sa langue d’origine ou traduisez-la dans 70 langues.",
+    "howTitle": "Du lien à la prochaine étape.",
+    "steps": [
+      {
+        "title": "Ajoutez un lien vidéo public",
+        "body": "Choisissez une vidéo compatible de 90 minutes maximum que vous avez le droit de traiter."
+      },
+      {
+        "title": "Obtenez le texte voulu",
+        "body": "Choisissez la transcription ou la traduction, vérifiez le coût, puis confirmez le traitement."
+      },
+      {
+        "title": "Mettez les idées à profit",
+        "body": "Créez des résultats IA à partir de la transcription, puis relisez-les, modifiez-les et utilisez-les."
+      }
+    ],
+    "outcomesTitle": "Comprendre. Planifier. Apprendre.",
+    "outcomesIntro": "Choisissez l’outil adapté à ce que vous souhaitez faire d’une vidéo.",
+    "outcomes": [
+      {
+        "kicker": "Comprendre",
+        "title": "Repérez les idées et leurs liens.",
+        "body": "Retrouvez l’essentiel dans un résumé ou explorez les liens entre les idées dans une carte mentale modifiable.",
+        "bullets": [
+          "Résumés courts ou détaillés",
+          "Style de résumé Standard ou Professional",
+          "Cartes mentales modifiables"
+        ],
+        "captions": [
+          "Un résumé de la transcription d’exemple",
+          "Les mêmes idées dans une carte mentale modifiable"
+        ]
+      },
+      {
+        "kicker": "Planifier",
+        "title": "Passez des idées aux étapes concrètes.",
+        "body": "Créez une liste d’actions ou un guide pas à pas. Comparez les suggestions à la source avant de les appliquer.",
+        "bullets": [
+          "Listes d’actions",
+          "Guides pas à pas",
+          "Résultats modifiables selon votre besoin"
+        ],
+        "captions": [
+          "Une liste d’actions tirée de la vidéo d’exemple",
+          "La transcription originale reste disponible"
+        ]
+      },
+      {
+        "kicker": "Étudier",
+        "title": "Abordez le contenu autrement pour le retenir.",
+        "body": "Créez un guide de révision, testez votre compréhension ou entraînez votre mémoire avec des fiches questions-réponses.",
+        "bullets": [
+          "Guides de révision",
+          "Quiz avec réponses expliquées",
+          "Fiches questions-réponses"
+        ],
+        "captions": [
+          "Un quiz avec une réponse expliquée",
+          "Une fiche dont la réponse a été révélée"
+        ]
+      }
+    ],
+    "tailorKicker": "Selon vos besoins",
+    "tailorTitle": "Donnez une direction à l’IA.",
+    "tailorBody": "Précisez un sujet, un public ou un contexte pour orienter le résultat, puis choisissez la langue de sortie.",
+    "controls": [
+      "Sujet",
+      "Public ou contexte",
+      "Langue de sortie"
+    ],
+    "saveTitle": "Gardez la source. Personnalisez le résultat.",
+    "saveBody": "La transcription originale est conservée et les résultats IA sont enregistrés séparément. Lisez, modifiez, copiez et partagez vos textes et notes.",
+    "usageTitle": "Vérifiez le coût. Poursuivez votre journée.",
+    "usageBlocks": [
+      {
+        "title": "Vérifiez avant de confirmer",
+        "body": "Consultez vos soldes de minutes média et de crédits Insight, l’historique d’utilisation et le coût du traitement. Les offres, packs et recharges facultatives sont présentés dans l’app."
+      },
+      {
+        "title": "Revenez quand tout est prêt",
+        "body": "Quittez l’app pendant que le traitement continue. Une notification vous prévient à la fin, selon les réglages de votre appareil."
+      }
+    ],
+    "guidesTitle": "Des réponses utiles, au-delà du premier lien.",
+    "guidesIntro": "Découvrez des guides pratiques sur la transcription, la traduction et l’utilisation des idées d’une vidéo.",
+    "allGuides": "Voir tous les guides",
+    "faqTitle": "Quelques repères utiles.",
+    "faqs": [
+      {
+        "q": "Quels liens vidéo puis-je utiliser ?",
+        "a": "Damas accepte les liens vidéo publics à la demande X, YouTube et Instagram compatibles, jusqu’à 90 minutes. Les contenus privés, restreints et en direct ne sont pas pris en charge. Traitez uniquement les contenus que vous avez le droit d’utiliser."
+      },
+      {
+        "q": "Combien de langues sont disponibles ?",
+        "a": "Vous pouvez transcrire la parole dans sa langue d’origine ou la traduire dans 70 langues. L’interface de l’app est disponible en 11 langues ; il s’agit de deux listes distinctes."
+      },
+      {
+        "q": "Quels outils IA sont intégrés ?",
+        "a": "Damas propose des résumés courts ou détaillés de style Standard ou Professional, des cartes mentales modifiables, des listes d’actions, des guides pas à pas, des guides de révision, des quiz avec réponses expliquées et des fiches questions-réponses."
+      },
+      {
+        "q": "Faut-il un compte et comment fonctionne le traitement ?",
+        "a": "Connectez-vous avec Apple pour le traitement en ligne et les achats. Internet et le consentement au traitement par IA sont requis. Le traitement utilise des minutes média et des crédits Insight. Vérifiez les soldes et les coûts avant de confirmer ; les offres, packs et recharges facultatives sont indiqués dans l’app."
+      },
+      {
+        "q": "Les résultats IA remplacent-ils ma transcription ?",
+        "a": "Non. La transcription originale est conservée et les résultats IA sont enregistrés séparément. Vous pouvez lire, modifier, copier et partager vos textes et notes. Vérifiez les résultats IA à l’aide de la source avant de vous y fier."
+      },
+      {
+        "q": "Puis-je quitter l’app pendant le traitement ?",
+        "a": "Oui. Le traitement continue et Damas peut vous prévenir une fois terminé, selon les réglages de notification de votre appareil. Une connexion Internet reste nécessaire."
+      },
+      {
+        "q": "Quels appareils sont compatibles ?",
+        "a": "Consultez la fiche App Store actuelle pour la compatibilité iPhone, iPad et Mac et la disponibilité dans votre région."
+      }
+    ],
+    "closingTitle": "Donnez une suite utile à votre prochaine vidéo.",
+    "closingBody": "Ouvrez un lien vidéo public dans Damas et transformez ses paroles en contenu utile.",
+    "screenshotsNote": "Écrans réels de l’app sur iPhone, avec interface anglaise et contenu d’exemple original.",
+    "heroArtAlt": "Une professionnelle à son bureau relie des notes dans une carte mentale.",
+    "artAlts": [
+      "Une professionnelle à son bureau relie des notes dans une carte mentale.",
+      "Une professionnelle portant des lunettes organise des fiches à son bureau.",
+      "Un professionnel barbu relit les notes de son carnet."
+    ]
+  },
+  "de": {
+    "title": "Damas — Videotranskripte, Übersetzung und KI-Tools",
+    "description": "Verwandle öffentliche YouTube-, Instagram- und X-Videolinks mit Damas in Transkripte, Übersetzungen, Zusammenfassungen, Mindmaps und Lernmaterial.",
+    "heroKicker": "Ein Link. Mehr Möglichkeiten.",
+    "heroStart": "Mach aus öffentlichen Videolinks",
+    "heroAccent": "Text, der dich weiterbringt.",
+    "heroDescription": "Transkription, Übersetzung und KI-Tools an einem Ort: Ideen verstehen, Schritte planen und gezielt lernen.",
+    "heroNote": "Mit Apple anmelden. Internet erforderlich. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben. Tarife und Pakete stehen in der App.",
+    "foundationTitle": "Mit den Worten anfangen. Mit den Ideen weiterdenken.",
+    "foundationBody": "Füge einen öffentlichen X-, YouTube- oder Instagram-Videolink mit bis zu 90 Minuten Länge hinzu. Transkribiere Sprache im Original oder übersetze sie in 70 Sprachen.",
+    "howTitle": "Vom Link zum nächsten Schritt.",
+    "steps": [
+      {
+        "title": "Öffentlichen Videolink hinzufügen",
+        "body": "Wähle ein unterstütztes Video mit bis zu 90 Minuten Länge, das du verarbeiten darfst."
+      },
+      {
+        "title": "Den passenden Text erhalten",
+        "body": "Wähle Transkription oder Übersetzung, prüfe die Kosten und bestätige die Verarbeitung."
+      },
+      {
+        "title": "Mit den Ideen arbeiten",
+        "body": "Erstelle KI-Ergebnisse aus dem Transkript. Prüfe sie, bearbeite sie und nutze sie weiter."
+      }
+    ],
+    "outcomesTitle": "Verstehen. Planen. Lernen.",
+    "outcomesIntro": "Wähle das Werkzeug, das zu deinem Vorhaben passt.",
+    "outcomes": [
+      {
+        "kicker": "Verstehen",
+        "title": "Ideen und ihre Zusammenhänge erkennen.",
+        "body": "Erfasse die Kernaussagen in einer Zusammenfassung oder erkunde ihre Verbindungen in einer bearbeitbaren Mindmap.",
+        "bullets": [
+          "Kurze oder ausführliche Zusammenfassungen",
+          "Zusammenfassungsstil Standard oder Professional",
+          "Bearbeitbare Mindmaps"
+        ],
+        "captions": [
+          "Eine Zusammenfassung des Beispieltranskripts",
+          "Dieselben Ideen als bearbeitbare Mindmap"
+        ]
+      },
+      {
+        "kicker": "Planen",
+        "title": "Aus guten Ideen konkrete Schritte machen.",
+        "body": "Erstelle eine Aktionscheckliste oder eine Schritt-für-Schritt-Anleitung. Gleiche Vorschläge mit der Quelle ab, bevor du sie umsetzt.",
+        "bullets": [
+          "Aktionschecklisten",
+          "Schritt-für-Schritt-Anleitungen",
+          "Ergebnisse an deine Aufgabe anpassen"
+        ],
+        "captions": [
+          "Eine Aktionscheckliste zum Beispielvideo",
+          "Das Originaltranskript bleibt verfügbar"
+        ]
+      },
+      {
+        "kicker": "Lernen",
+        "title": "Den Stoff auf neue Weise festigen.",
+        "body": "Erstelle einen Lernleitfaden, prüfe dein Verständnis oder übe das Abrufen mit Frage-Antwort-Karteikarten.",
+        "bullets": [
+          "Lernleitfäden",
+          "Quizfragen mit erklärten Antworten",
+          "Frage-Antwort-Karteikarten"
+        ],
+        "captions": [
+          "Ein Quiz mit einer erklärten Antwort",
+          "Eine Karteikarte mit aufgedeckter Antwort"
+        ]
+      }
+    ],
+    "tailorKicker": "Auf dich abgestimmt",
+    "tailorTitle": "Gib der KI eine Richtung.",
+    "tailorBody": "Ergänze Thema, Zielgruppe oder Kontext und wähle die Ausgabesprache, um das Ergebnis auszurichten.",
+    "controls": [
+      "Thema",
+      "Zielgruppe oder Kontext",
+      "Ausgabesprache"
+    ],
+    "saveTitle": "Die Quelle behalten. Das Ergebnis gestalten.",
+    "saveBody": "Das Originaltranskript bleibt erhalten, während KI-Ergebnisse separat gespeichert werden. Lies, bearbeite, kopiere und teile deine Texte und Notizen.",
+    "usageTitle": "Kosten kennen. Weiterarbeiten.",
+    "usageBlocks": [
+      {
+        "title": "Vor der Bestätigung prüfen",
+        "body": "Sieh dir Medienminuten, Insight-Guthaben, Nutzungsverlauf und Verarbeitungskosten an. Optionale Aufladungen sowie verfügbare Tarife und Pakete findest du in der App."
+      },
+      {
+        "title": "Zurückkommen, wenn es fertig ist",
+        "body": "Du kannst die App verlassen, während die Verarbeitung weiterläuft. Eine Benachrichtigung meldet den Abschluss, abhängig von deinen Geräteeinstellungen."
+      }
+    ],
+    "guidesTitle": "Hilfreiche Antworten über den ersten Link hinaus.",
+    "guidesIntro": "Praktische Anleitungen zu Transkription, Übersetzung und der Arbeit mit Videoideen.",
+    "allGuides": "Alle Anleitungen ansehen",
+    "faqTitle": "Gut zu wissen.",
+    "faqs": [
+      {
+        "q": "Welche Videolinks kann ich verwenden?",
+        "a": "Damas unterstützt geeignete öffentliche, abrufbare X-, YouTube- und Instagram-Videos mit bis zu 90 Minuten Länge. Private, eingeschränkte und live übertragene Inhalte werden nicht unterstützt. Verarbeite nur Inhalte, die du nutzen darfst."
+      },
+      {
+        "q": "Wie viele Sprachen unterstützt Damas?",
+        "a": "Du kannst Sprache im Original transkribieren oder in 70 Sprachen übersetzen. Die App-Oberfläche ist in 11 Sprachen verfügbar. Das sind zwei getrennte Sprachlisten."
+      },
+      {
+        "q": "Welche KI-Tools sind integriert?",
+        "a": "Damas bietet kurze oder ausführliche Zusammenfassungen im Stil Standard oder Professional, bearbeitbare Mindmaps, Aktionschecklisten, Schritt-für-Schritt-Anleitungen, Lernleitfäden, Quizfragen mit erklärten Antworten und Frage-Antwort-Karteikarten."
+      },
+      {
+        "q": "Brauche ich ein Konto und wie wird die Verarbeitung abgerechnet?",
+        "a": "Melde dich für Onlineverarbeitung und Käufe mit Apple an. Internet und die Zustimmung zur KI-Verarbeitung sind erforderlich. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben. Prüfe Guthaben und Kosten vor der Bestätigung. Tarife, Pakete und optionale Aufladungen werden in der App angezeigt."
+      },
+      {
+        "q": "Ersetzen KI-Ergebnisse mein Transkript?",
+        "a": "Nein. Das Originaltranskript bleibt erhalten; KI-Ergebnisse werden separat gespeichert. Du kannst Texte und Notizen lesen, bearbeiten, kopieren und teilen. Prüfe KI-Ergebnisse anhand der Quelle, bevor du dich darauf verlässt."
+      },
+      {
+        "q": "Kann ich die App während der Verarbeitung verlassen?",
+        "a": "Ja. Die Verarbeitung läuft weiter und Damas kann dich nach Abschluss benachrichtigen. Das hängt von deinen Benachrichtigungseinstellungen ab. Eine Internetverbindung ist weiterhin nötig."
+      },
+      {
+        "q": "Welche Geräte werden unterstützt?",
+        "a": "Prüfe den aktuellen App-Store-Eintrag auf iPhone-, iPad- und Mac-Kompatibilität sowie regionale Verfügbarkeit."
+      }
+    ],
+    "closingTitle": "Mach aus dem nächsten Video einen nächsten Schritt.",
+    "closingBody": "Öffne einen öffentlichen Videolink in Damas und nutze seine Worte für dein Vorhaben.",
+    "screenshotsNote": "Echte iPhone-Ansichten mit englischer Oberfläche und eigens erstellten Beispielinhalten.",
+    "heroArtAlt": "Eine Berufstätige verbindet Notizen am Schreibtisch zu einer Mindmap.",
+    "artAlts": [
+      "Eine Berufstätige verbindet Notizen am Schreibtisch zu einer Mindmap.",
+      "Eine Berufstätige mit Brille ordnet Karten an ihrem Schreibtisch.",
+      "Ein bärtiger Berufstätiger liest Notizen in einem Notizbuch."
+    ]
+  },
+  "ja": {
+    "title": "Damas — 動画の文字起こし・翻訳・AIツール",
+    "description": "YouTube、Instagram、Xの公開動画リンクを、文字起こし、翻訳、要約、マインドマップ、チェックリスト、学習教材に。Damasで動画の内容を活用できます。",
+    "heroKicker": "ひとつのリンクから、次の一歩へ。",
+    "heroStart": "公開動画リンクを、",
+    "heroAccent": "使えるテキストに。",
+    "heroDescription": "文字起こし、翻訳、AIツールをひとつに。内容を理解し、行動を計画し、大切なことを学べます。",
+    "heroNote": "Appleでサインイン。インターネット接続が必要です。処理にはメディア分数とInsightクレジットを使用します。プランとパックはアプリ内で確認できます。",
+    "foundationTitle": "言葉を読み、アイデアを広げる。",
+    "foundationBody": "最長90分のX、YouTube、Instagramの公開動画リンクを追加。音声を元の言語で文字起こしするか、70言語に翻訳できます。",
+    "howTitle": "リンクから、次に使える形へ。",
+    "steps": [
+      {
+        "title": "公開動画リンクを追加",
+        "body": "処理する権利のある、対応する最長90分の動画を選びます。"
+      },
+      {
+        "title": "必要なテキストを取得",
+        "body": "文字起こしか翻訳を選び、費用を確認してから処理を確定します。"
+      },
+      {
+        "title": "アイデアを活用",
+        "body": "文字起こしからAIの出力を作成。内容を確認、編集して活用できます。"
+      }
+    ],
+    "outcomesTitle": "理解する。計画する。学ぶ。",
+    "outcomesIntro": "動画の内容をどう使いたいかに合わせて、ツールを選びましょう。",
+    "outcomes": [
+      {
+        "kicker": "理解",
+        "title": "アイデアと、そのつながりをつかむ。",
+        "body": "要約で要点を読み取ったり、編集可能なマインドマップで内容のつながりを確認したりできます。",
+        "bullets": [
+          "短い要約、または詳しい要約",
+          "要約のスタイルはStandardまたはProfessional",
+          "編集可能なマインドマップ"
+        ],
+        "captions": [
+          "サンプルの文字起こしの要約",
+          "同じ内容を編集可能なマインドマップに"
+        ]
+      },
+      {
+        "kicker": "計画",
+        "title": "役立つアイデアを、具体的な手順に。",
+        "body": "アクションチェックリストやステップガイドを作成。実行前に、提案を元の動画と照らし合わせましょう。",
+        "bullets": [
+          "アクションチェックリスト",
+          "ステップガイド",
+          "目的に合わせて結果を編集"
+        ],
+        "captions": [
+          "サンプル動画から作成したアクションチェックリスト",
+          "元の文字起こしも引き続き確認可能"
+        ]
+      },
+      {
+        "kicker": "学習",
+        "title": "別の角度から、学びを深める。",
+        "body": "学習ガイドを作り、クイズで理解を確認し、質問と回答のフラッシュカードで思い出す練習ができます。",
+        "bullets": [
+          "学習ガイド",
+          "回答の解説付きクイズ",
+          "質問と回答のフラッシュカード"
+        ],
+        "captions": [
+          "回答の解説が付いたクイズ",
+          "回答を表示したフラッシュカード"
+        ]
+      }
+    ],
+    "tailorKicker": "目的に合わせて",
+    "tailorTitle": "AIに、方向性を伝える。",
+    "tailorBody": "トピック、対象者、背景情報を加えて結果を調整し、出力言語を選べます。",
+    "controls": [
+      "トピック",
+      "対象者・背景情報",
+      "出力言語"
+    ],
+    "saveTitle": "元のテキストを残し、出力を自分のものに。",
+    "saveBody": "元の文字起こしを保持したまま、AIの出力を別々に保存。テキストやノートを読み、編集、コピー、共有できます。",
+    "usageTitle": "費用を確認して、次のことへ。",
+    "usageBlocks": [
+      {
+        "title": "確定前に確認",
+        "body": "メディア分数とInsightの残高、利用履歴、処理費用を確認できます。任意の追加購入や利用可能なプラン、パックはアプリ内に表示されます。"
+      },
+      {
+        "title": "完了したら戻る",
+        "body": "アプリを離れても処理は続きます。完了時に通知を受け取れます。通知の受信は端末の設定によって異なります。"
+      }
+    ],
+    "guidesTitle": "最初のリンクの、その先に役立つガイド。",
+    "guidesIntro": "文字起こし、翻訳、動画のアイデアの活用方法を、実践的なガイドで紹介します。",
+    "allGuides": "すべてのガイドを見る",
+    "faqTitle": "知っておきたいこと。",
+    "faqs": [
+      {
+        "q": "どの動画リンクを使えますか？",
+        "a": "対応するX、YouTube、Instagramの公開オンデマンド動画リンクを、最長90分まで利用できます。非公開、制限付き、ライブ配信のコンテンツには対応していません。利用する権利のあるコンテンツのみ処理してください。"
+      },
+      {
+        "q": "何言語に対応していますか？",
+        "a": "元の言語で文字起こしするか、70言語に翻訳できます。アプリのインターフェースは11言語に対応しています。翻訳先と表示言語は別の一覧です。"
+      },
+      {
+        "q": "どんなAIツールが使えますか？",
+        "a": "StandardまたはProfessionalスタイルの短い要約・詳しい要約、編集可能なマインドマップ、アクションチェックリスト、ステップガイド、学習ガイド、回答の解説付きクイズ、質問と回答のフラッシュカードを利用できます。"
+      },
+      {
+        "q": "アカウントは必要ですか？処理の仕組みは？",
+        "a": "オンライン処理と購入にはAppleでのサインインが必要です。インターネット接続とAI処理への同意も必要です。処理にはメディア分数とInsightクレジットを使用します。確定前に残高と費用を確認できます。プラン、パック、任意の追加購入はアプリ内に表示されます。"
+      },
+      {
+        "q": "AIの出力で文字起こしが上書きされますか？",
+        "a": "いいえ。元の文字起こしを保持し、AIの出力は別々に保存します。テキストやノートを読み、編集、コピー、共有できます。AIの結果は元の内容と照らし合わせて確認してください。"
+      },
+      {
+        "q": "処理中にアプリを離れても大丈夫ですか？",
+        "a": "はい。アプリを離れても処理は続き、完了時に通知を受け取れます。通知は端末の設定に依存します。処理には引き続きインターネット接続が必要です。"
+      },
+      {
+        "q": "どの端末で使えますか？",
+        "a": "iPhone、iPad、Macの対応条件と地域ごとの提供状況は、最新のApp Storeの情報をご確認ください。"
+      }
+    ],
+    "closingTitle": "次の動画を、役立つ次の一歩に。",
+    "closingBody": "Damasで公開動画リンクを開いて、その言葉を使える形にしましょう。",
+    "screenshotsNote": "実際のiPhone画面です。英語のインターフェースと独自に作成したサンプル内容を表示しています。",
+    "heroArtAlt": "デスクでノートをマインドマップにつなげる社会人の女性。",
+    "artAlts": [
+      "デスクでノートをマインドマップにつなげる社会人の女性。",
+      "眼鏡をかけた社会人の女性がデスクでカードを整理している。",
+      "ひげのある社会人の男性がノートを見直している。"
+    ]
+  },
+  "ko": {
+    "title": "Damas — 동영상 받아쓰기, 번역 및 AI 도구",
+    "description": "공개 YouTube, Instagram, X 동영상 링크를 받아쓰기, 번역, 요약, 마인드맵, 체크리스트와 학습 자료로 바꿔 보세요. Damas에서 내용을 활용할 수 있습니다.",
+    "heroKicker": "하나의 링크, 더 다양한 활용.",
+    "heroStart": "공개 동영상 링크를",
+    "heroAccent": "활용할 수 있는 텍스트로.",
+    "heroDescription": "받아쓰기, 번역과 AI 도구를 한곳에서. 아이디어를 이해하고, 계획을 세우고, 필요한 내용을 공부하세요.",
+    "heroNote": "Apple로 로그인하세요. 인터넷 연결이 필요합니다. 처리에는 미디어 분과 Insight 크레딧이 사용됩니다. 요금제와 팩은 앱에서 확인하세요.",
+    "foundationTitle": "말을 읽고, 아이디어를 넓혀 보세요.",
+    "foundationBody": "최대 90분 길이의 공개 X, YouTube 또는 Instagram 동영상 링크를 추가하세요. 음성을 원어로 받아쓰거나 70개 언어로 번역할 수 있습니다.",
+    "howTitle": "링크에서 다음 단계까지.",
+    "steps": [
+      {
+        "title": "공개 동영상 링크 추가",
+        "body": "처리할 권한이 있는 지원 동영상을 선택하세요. 길이는 최대 90분입니다."
+      },
+      {
+        "title": "필요한 텍스트 얻기",
+        "body": "받아쓰기 또는 번역을 선택하고 비용을 검토한 뒤 처리를 확인하세요."
+      },
+      {
+        "title": "아이디어 활용하기",
+        "body": "받아쓴 텍스트로 AI 결과를 만들고 내용을 검토하고 편집해 활용하세요."
+      }
+    ],
+    "outcomesTitle": "이해하고, 계획하고, 배우세요.",
+    "outcomesIntro": "동영상으로 하려는 일에 맞는 도구를 선택하세요.",
+    "outcomes": [
+      {
+        "kicker": "이해",
+        "title": "아이디어와 그 연결을 살펴보세요.",
+        "body": "요약으로 핵심을 파악하거나 편집 가능한 마인드맵에서 아이디어가 어떻게 이어지는지 확인하세요.",
+        "bullets": [
+          "짧은 요약 또는 상세 요약",
+          "Standard 또는 Professional 요약 스타일",
+          "편집 가능한 마인드맵"
+        ],
+        "captions": [
+          "예시 받아쓰기의 요약",
+          "같은 아이디어를 편집 가능한 마인드맵으로"
+        ]
+      },
+      {
+        "kicker": "계획",
+        "title": "유용한 아이디어를 실행 단계로.",
+        "body": "실행 체크리스트나 단계별 가이드를 만드세요. 실행하기 전에 제안을 원본과 비교해 확인하세요.",
+        "bullets": [
+          "실행 체크리스트",
+          "단계별 가이드",
+          "목적에 맞게 결과 편집"
+        ],
+        "captions": [
+          "예시 동영상으로 만든 실행 체크리스트",
+          "원본 받아쓰기도 계속 확인 가능"
+        ]
+      },
+      {
+        "kicker": "학습",
+        "title": "다른 방식으로 익혀 보세요.",
+        "body": "학습 가이드를 만들고, 퀴즈로 이해도를 확인하고, 질문과 답변 플래시카드로 떠올리는 연습을 하세요.",
+        "bullets": [
+          "학습 가이드",
+          "정답 해설이 있는 퀴즈",
+          "질문과 답변 플래시카드"
+        ],
+        "captions": [
+          "정답 해설이 있는 퀴즈",
+          "답변을 펼친 플래시카드"
+        ]
+      }
+    ],
+    "tailorKicker": "목적에 맞게",
+    "tailorTitle": "AI에 방향을 알려 주세요.",
+    "tailorBody": "주제, 대상 또는 맥락을 더해 결과를 조정하고 출력 언어를 선택하세요.",
+    "controls": [
+      "주제",
+      "대상 또는 맥락",
+      "출력 언어"
+    ],
+    "saveTitle": "원본은 보관하고, 결과는 다듬으세요.",
+    "saveBody": "원본 받아쓰기는 그대로 두고 AI 결과는 별도로 저장합니다. 텍스트와 노트를 읽고, 편집하고, 복사하고, 공유하세요.",
+    "usageTitle": "비용을 확인하고, 하던 일을 계속하세요.",
+    "usageBlocks": [
+      {
+        "title": "확인하기 전에 검토",
+        "body": "미디어 분과 Insight 잔액, 사용 내역, 처리 비용을 확인하세요. 선택적 추가 구매와 이용 가능한 요금제 및 팩은 앱에 표시됩니다."
+      },
+      {
+        "title": "준비되면 돌아오세요",
+        "body": "앱을 나가도 처리는 계속됩니다. 완료 알림을 받을 수 있으며, 알림 수신은 기기 설정에 따라 달라집니다."
+      }
+    ],
+    "guidesTitle": "첫 링크 다음에도 도움이 되는 가이드.",
+    "guidesIntro": "받아쓰기, 번역, 동영상 아이디어 활용에 관한 실용적인 가이드를 살펴보세요.",
+    "allGuides": "모든 가이드 보기",
+    "faqTitle": "알아 두면 좋은 내용.",
+    "faqs": [
+      {
+        "q": "어떤 동영상 링크를 사용할 수 있나요?",
+        "a": "최대 90분 길이의 지원되는 공개 주문형 X, YouTube, Instagram 동영상 링크를 사용할 수 있습니다. 비공개, 제한된 콘텐츠 및 실시간 방송은 지원하지 않습니다. 사용할 권한이 있는 콘텐츠만 처리하세요."
+      },
+      {
+        "q": "몇 개 언어를 지원하나요?",
+        "a": "음성을 원어로 받아쓰거나 70개 언어로 번역할 수 있습니다. 앱 인터페이스는 11개 언어로 제공됩니다. 번역 언어와 인터페이스 언어는 서로 다른 목록입니다."
+      },
+      {
+        "q": "어떤 AI 도구가 내장되어 있나요?",
+        "a": "Standard 또는 Professional 스타일의 짧은 요약과 상세 요약, 편집 가능한 마인드맵, 실행 체크리스트, 단계별 가이드, 학습 가이드, 정답 해설이 있는 퀴즈, 질문과 답변 플래시카드를 제공합니다."
+      },
+      {
+        "q": "계정이 필요한가요? 처리 비용은 어떻게 되나요?",
+        "a": "온라인 처리와 구매에는 Apple 로그인이 필요합니다. 인터넷 연결과 AI 처리 동의도 필요합니다. 처리에는 미디어 분과 Insight 크레딧이 사용됩니다. 확인 전에 잔액과 비용을 검토하세요. 요금제, 팩 및 선택적 추가 구매는 앱에 표시됩니다."
+      },
+      {
+        "q": "AI 결과가 원본 받아쓰기를 대체하나요?",
+        "a": "아니요. 원본 받아쓰기는 보관하고 AI 결과는 별도로 저장합니다. 텍스트와 노트를 읽고, 편집하고, 복사하고, 공유할 수 있습니다. AI 결과를 활용하기 전에 원본과 비교해 확인하세요."
+      },
+      {
+        "q": "처리 중 앱을 나가도 되나요?",
+        "a": "네. 앱을 나가도 처리는 계속되며 완료 시 Damas에서 알림을 받을 수 있습니다. 알림 수신은 기기 설정에 따라 달라집니다. 처리에는 계속 인터넷 연결이 필요합니다."
+      },
+      {
+        "q": "어떤 기기에서 사용할 수 있나요?",
+        "a": "iPhone, iPad, Mac 호환 조건과 지역별 제공 여부는 최신 App Store 정보를 확인하세요."
+      }
+    ],
+    "closingTitle": "다음 동영상에서, 다음 행동으로.",
+    "closingBody": "Damas에서 공개 동영상 링크를 열고 그 내용을 활용할 수 있는 텍스트로 바꿔 보세요.",
+    "screenshotsNote": "영어 인터페이스와 직접 만든 예시 콘텐츠를 표시한 실제 iPhone 화면입니다.",
+    "heroArtAlt": "직장인 여성이 책상에서 노트를 마인드맵으로 연결하는 모습.",
+    "artAlts": [
+      "직장인 여성이 책상에서 노트를 마인드맵으로 연결하는 모습.",
+      "안경을 쓴 직장인 여성이 책상에서 카드를 정리하는 모습.",
+      "수염이 있는 직장인 남성이 공책의 메모를 검토하는 모습."
+    ]
+  },
+  "ms": {
+    "title": "Damas — Transkrip video, terjemahan dan alat AI",
+    "description": "Tukar pautan video awam YouTube, Instagram dan X kepada transkrip, terjemahan, ringkasan, peta minda, senarai semak dan bahan belajar dengan Damas.",
+    "heroKicker": "Satu pautan. Lebih banyak kegunaan.",
+    "heroStart": "Tukar pautan video awam kepada",
+    "heroAccent": "teks yang boleh digunakan.",
+    "heroDescription": "Gabungkan transkripsi, terjemahan dan alat AI untuk memahami idea, merancang tindakan dan mempelajari perkara yang penting.",
+    "heroNote": "Log masuk dengan Apple. Internet diperlukan. Pemprosesan menggunakan minit media dan kredit Insight. Pelan dan pek dipaparkan dalam aplikasi.",
+    "foundationTitle": "Mulakan dengan kata-kata. Kembangkan idea.",
+    "foundationBody": "Tambah pautan video awam X, YouTube atau Instagram sepanjang maksimum 90 minit. Transkripsikan pertuturan dalam bahasa asal atau terjemahkannya ke dalam 70 bahasa.",
+    "howTitle": "Daripada pautan kepada langkah seterusnya.",
+    "steps": [
+      {
+        "title": "Tambah pautan video awam",
+        "body": "Pilih video yang disokong, sepanjang maksimum 90 minit, yang anda berhak untuk proses."
+      },
+      {
+        "title": "Dapatkan teks yang diperlukan",
+        "body": "Pilih transkripsi atau terjemahan, semak kos dan sahkan pemprosesan."
+      },
+      {
+        "title": "Gunakan idea tersebut",
+        "body": "Cipta hasil AI daripada transkrip, kemudian semak, sunting dan gunakannya."
+      }
+    ],
+    "outcomesTitle": "Fahami. Rancang. Pelajari.",
+    "outcomesIntro": "Pilih alat yang sesuai dengan tujuan anda menggunakan sesebuah video.",
+    "outcomes": [
+      {
+        "kicker": "Fahami",
+        "title": "Lihat idea dan kaitannya.",
+        "body": "Kenal pasti isi utama melalui ringkasan atau terokai kaitan antara idea dalam peta minda yang boleh disunting.",
+        "bullets": [
+          "Ringkasan pendek atau terperinci",
+          "Gaya ringkasan Standard atau Professional",
+          "Peta minda yang boleh disunting"
+        ],
+        "captions": [
+          "Ringkasan daripada transkrip contoh",
+          "Idea yang sama dalam peta minda yang boleh disunting"
+        ]
+      },
+      {
+        "kicker": "Rancang",
+        "title": "Jadikan idea berguna sebagai langkah praktikal.",
+        "body": "Bina senarai semak tindakan atau panduan langkah demi langkah. Bandingkan cadangan dengan sumber sebelum melaksanakannya.",
+        "bullets": [
+          "Senarai semak tindakan",
+          "Panduan langkah demi langkah",
+          "Sunting hasil mengikut tugasan anda"
+        ],
+        "captions": [
+          "Senarai semak tindakan daripada video contoh",
+          "Transkrip asal masih tersedia"
+        ]
+      },
+      {
+        "kicker": "Belajar",
+        "title": "Pelajari bahan dengan cara yang berbeza.",
+        "body": "Bina panduan belajar, uji pemahaman atau latih ingatan menggunakan kad imbas soal jawab.",
+        "bullets": [
+          "Panduan belajar",
+          "Kuiz dengan penjelasan jawapan",
+          "Kad imbas soal jawab"
+        ],
+        "captions": [
+          "Kuiz dengan penjelasan jawapan",
+          "Kad imbas dengan jawapan yang telah didedahkan"
+        ]
+      }
+    ],
+    "tailorKicker": "Sesuaikan dengan keperluan",
+    "tailorTitle": "Berikan arah kepada AI.",
+    "tailorBody": "Tambah topik, khalayak atau konteks untuk membimbing hasil, dan pilih bahasa output.",
+    "controls": [
+      "Topik",
+      "Khalayak atau konteks",
+      "Bahasa output"
+    ],
+    "saveTitle": "Simpan sumber. Olah hasil anda.",
+    "saveBody": "Transkrip asal dikekalkan manakala hasil AI disimpan secara berasingan. Baca, sunting, salin dan kongsi teks serta nota anda.",
+    "usageTitle": "Ketahui kos. Teruskan urusan anda.",
+    "usageBlocks": [
+      {
+        "title": "Semak sebelum mengesahkan",
+        "body": "Semak baki minit media dan Insight, sejarah penggunaan serta kos pemprosesan. Tambah nilai pilihan dan pelan serta pek yang tersedia dipaparkan dalam aplikasi."
+      },
+      {
+        "title": "Kembali apabila siap",
+        "body": "Anda boleh meninggalkan aplikasi sementara pemprosesan diteruskan. Terima pemberitahuan apabila siap, bergantung pada tetapan peranti anda."
+      }
+    ],
+    "guidesTitle": "Jawapan berguna selepas pautan pertama.",
+    "guidesIntro": "Terokai panduan praktikal tentang transkripsi, terjemahan dan penggunaan idea daripada video.",
+    "allGuides": "Lihat semua panduan",
+    "faqTitle": "Perkara yang perlu diketahui.",
+    "faqs": [
+      {
+        "q": "Pautan video manakah yang boleh digunakan?",
+        "a": "Damas menyokong pautan video awam atas permintaan X, YouTube dan Instagram yang layak, sehingga 90 minit. Kandungan peribadi, terhad dan siaran langsung tidak disokong. Proses hanya kandungan yang anda berhak untuk gunakan."
+      },
+      {
+        "q": "Berapakah bahasa yang disokong?",
+        "a": "Anda boleh mentranskripsikan pertuturan dalam bahasa asal atau menterjemahkannya ke dalam 70 bahasa. Antara muka aplikasi tersedia dalam 11 bahasa. Kedua-duanya ialah senarai bahasa yang berbeza."
+      },
+      {
+        "q": "Apakah alat AI yang tersedia dalam aplikasi?",
+        "a": "Damas menyediakan ringkasan pendek atau terperinci dalam gaya Standard atau Professional, peta minda yang boleh disunting, senarai semak tindakan, panduan langkah demi langkah, panduan belajar, kuiz dengan penjelasan jawapan dan kad imbas soal jawab."
+      },
+      {
+        "q": "Adakah akaun diperlukan dan bagaimana pemprosesan berfungsi?",
+        "a": "Log masuk dengan Apple untuk pemprosesan dalam talian dan pembelian. Internet dan persetujuan pemprosesan AI diperlukan. Pemprosesan menggunakan minit media dan kredit Insight. Semak baki dan kos sebelum mengesahkan. Pelan, pek dan tambah nilai pilihan dipaparkan dalam aplikasi."
+      },
+      {
+        "q": "Adakah hasil AI menggantikan transkrip saya?",
+        "a": "Tidak. Transkrip asal dikekalkan dan hasil AI disimpan secara berasingan. Anda boleh membaca, menyunting, menyalin dan berkongsi teks serta nota. Semak hasil AI dengan sumber sebelum bergantung padanya."
+      },
+      {
+        "q": "Bolehkah saya meninggalkan aplikasi semasa pemprosesan?",
+        "a": "Ya. Pemprosesan diteruskan dan Damas boleh memberitahu anda apabila selesai, bergantung pada tetapan pemberitahuan peranti. Sambungan internet masih diperlukan."
+      },
+      {
+        "q": "Peranti manakah yang disokong?",
+        "a": "Semak penyenaraian App Store semasa untuk keserasian iPhone, iPad dan Mac serta ketersediaan di rantau anda."
+      }
+    ],
+    "closingTitle": "Jadikan video seterusnya langkah yang berguna.",
+    "closingBody": "Buka pautan video awam dalam Damas dan jadikan kata-katanya sesuatu yang boleh anda gunakan.",
+    "screenshotsNote": "Paparan iPhone sebenar dengan antara muka bahasa Inggeris dan kandungan contoh asli.",
+    "heroArtAlt": "Seorang wanita profesional menghubungkan nota dalam peta minda di mejanya.",
+    "artAlts": [
+      "Seorang wanita profesional menghubungkan nota dalam peta minda di mejanya.",
+      "Seorang wanita profesional berkaca mata menyusun kad di mejanya.",
+      "Seorang lelaki profesional berjanggut menyemak nota dalam buku catatan."
+    ]
+  },
+  "pt": {
+    "title": "Damas — Transcrição de vídeo, tradução e ferramentas de IA",
+    "description": "Transforme links públicos de vídeos do YouTube, Instagram e X em transcrições, traduções, resumos, mapas mentais, listas e materiais de estudo com Damas.",
+    "heroKicker": "Um link. Mais formas de aproveitar.",
+    "heroStart": "Transforme links públicos de vídeo em",
+    "heroAccent": "texto para usar.",
+    "heroDescription": "Reúna transcrição, tradução e ferramentas de IA para entender ideias, montar um plano e estudar o que importa.",
+    "heroNote": "Entre com a Apple. É preciso ter internet. O processamento usa minutos de mídia e créditos Insight. Planos e pacotes estão no app.",
+    "foundationTitle": "Comece pelas palavras. Vá além com as ideias.",
+    "foundationBody": "Adicione um link público de vídeo do X, YouTube ou Instagram de até 90 minutos. Transcreva a fala no idioma original ou traduza para 70 idiomas.",
+    "howTitle": "Do link ao próximo passo.",
+    "steps": [
+      {
+        "title": "Adicione um link público de vídeo",
+        "body": "Escolha um vídeo compatível de até 90 minutos que você tenha permissão para processar."
+      },
+      {
+        "title": "Obtenha o texto de que precisa",
+        "body": "Escolha transcrição ou tradução, confira o custo e confirme o processamento."
+      },
+      {
+        "title": "Coloque as ideias em prática",
+        "body": "Crie resultados de IA a partir da transcrição, depois revise, edite e aproveite o conteúdo."
+      }
+    ],
+    "outcomesTitle": "Entenda. Planeje. Aprenda.",
+    "outcomesIntro": "Escolha a ferramenta de acordo com o que você quer fazer com um vídeo.",
+    "outcomes": [
+      {
+        "kicker": "Entender",
+        "title": "Veja as ideias e suas conexões.",
+        "body": "Encontre os pontos principais em um resumo ou explore suas relações em um mapa mental editável.",
+        "bullets": [
+          "Resumos curtos ou detalhados",
+          "Estilo de resumo Standard ou Professional",
+          "Mapas mentais editáveis"
+        ],
+        "captions": [
+          "Um resumo da transcrição de exemplo",
+          "As mesmas ideias em um mapa mental editável"
+        ]
+      },
+      {
+        "kicker": "Planejar",
+        "title": "Transforme boas ideias em passos práticos.",
+        "body": "Monte uma lista de ações ou um guia passo a passo. Confira as sugestões na fonte antes de colocá-las em prática.",
+        "bullets": [
+          "Listas de ações",
+          "Guias passo a passo",
+          "Resultados editáveis para a sua tarefa"
+        ],
+        "captions": [
+          "Uma lista de ações baseada no vídeo de exemplo",
+          "A transcrição original continua disponível"
+        ]
+      },
+      {
+        "kicker": "Estudar",
+        "title": "Dê ao conteúdo outra forma de ficar na memória.",
+        "body": "Monte um guia de estudo, teste sua compreensão ou pratique a recordação com cartões de perguntas e respostas.",
+        "bullets": [
+          "Guias de estudo",
+          "Questionários com respostas explicadas",
+          "Cartões de perguntas e respostas"
+        ],
+        "captions": [
+          "Um questionário com uma resposta explicada",
+          "Um cartão com a resposta revelada"
+        ]
+      }
+    ],
+    "tailorKicker": "Do seu jeito",
+    "tailorTitle": "Dê uma direção à IA.",
+    "tailorBody": "Acrescente um tema, público ou contexto para orientar o resultado e escolha o idioma de saída.",
+    "controls": [
+      "Tema",
+      "Público ou contexto",
+      "Idioma de saída"
+    ],
+    "saveTitle": "Guarde a fonte. Trabalhe no resultado.",
+    "saveBody": "A transcrição original é preservada e os resultados de IA são salvos separadamente. Leia, edite, copie e compartilhe seus textos e notas.",
+    "usageTitle": "Confira o custo. Siga com o seu dia.",
+    "usageBlocks": [
+      {
+        "title": "Revise antes de confirmar",
+        "body": "Consulte os saldos de minutos de mídia e Insight, o histórico de uso e o custo do processamento. Recargas opcionais, planos e pacotes disponíveis aparecem no app."
+      },
+      {
+        "title": "Volte quando estiver pronto",
+        "body": "Saia do app enquanto o processamento continua. Receba uma notificação ao concluir; a entrega depende das configurações do aparelho."
+      }
+    ],
+    "guidesTitle": "Respostas úteis depois do primeiro link.",
+    "guidesIntro": "Explore guias práticos de transcrição, tradução e uso das ideias de um vídeo.",
+    "allGuides": "Ver todos os guias",
+    "faqTitle": "O que você precisa saber.",
+    "faqs": [
+      {
+        "q": "Quais links de vídeo posso usar?",
+        "a": "Damas aceita links públicos de vídeos sob demanda compatíveis do X, YouTube e Instagram, com até 90 minutos. Conteúdos privados, restritos e ao vivo não são aceitos. Processe apenas conteúdo que você tenha permissão para usar."
+      },
+      {
+        "q": "Quantos idiomas são compatíveis?",
+        "a": "Você pode transcrever a fala no idioma original ou traduzir para 70 idiomas. A interface do app está disponível em 11 idiomas; são listas diferentes."
+      },
+      {
+        "q": "Quais ferramentas de IA estão incluídas?",
+        "a": "Damas inclui resumos curtos ou detalhados no estilo Standard ou Professional, mapas mentais editáveis, listas de ações, guias passo a passo, guias de estudo, questionários com respostas explicadas e cartões de perguntas e respostas."
+      },
+      {
+        "q": "Preciso de uma conta e como funciona o processamento?",
+        "a": "Entre com a Apple para usar o processamento online e fazer compras. Internet e consentimento para o processamento por IA são necessários. O processamento usa minutos de mídia e créditos Insight. Confira saldos e custos antes de confirmar. Planos, pacotes e recargas opcionais aparecem no app."
+      },
+      {
+        "q": "Os resultados de IA substituem minha transcrição?",
+        "a": "Não. A transcrição original é preservada e os resultados de IA são salvos separadamente. Você pode ler, editar, copiar e compartilhar textos e notas. Confira os resultados de IA na fonte antes de confiar neles."
+      },
+      {
+        "q": "Posso sair do app durante o processamento?",
+        "a": "Sim. O processamento continua e Damas pode avisar quando terminar, conforme as configurações de notificação do aparelho. Ainda é necessária uma conexão com a internet."
+      },
+      {
+        "q": "Quais aparelhos posso usar?",
+        "a": "Confira a página atual na App Store para saber a compatibilidade com iPhone, iPad e Mac e a disponibilidade na sua região."
+      }
+    ],
+    "closingTitle": "Dê ao próximo vídeo um próximo passo útil.",
+    "closingBody": "Abra um link público de vídeo no Damas e transforme suas palavras em algo que você pode usar.",
+    "screenshotsNote": "Telas reais de iPhone com a interface em inglês e conteúdo de exemplo original.",
+    "heroArtAlt": "Uma profissional conecta notas em um mapa mental à mesa.",
+    "artAlts": [
+      "Uma profissional conecta notas em um mapa mental à mesa.",
+      "Uma profissional de óculos organiza cartões em sua mesa.",
+      "Um profissional de barba revisa notas em um caderno."
+    ]
+  },
+  "ru": {
+    "title": "Damas — Расшифровка видео, перевод и ИИ-инструменты",
+    "description": "Превращайте публичные ссылки YouTube, Instagram и X в расшифровки, переводы, краткие изложения, интеллект-карты, списки действий и учебные материалы.",
+    "heroKicker": "Одна ссылка. Больше возможностей.",
+    "heroStart": "Превращайте публичные видеоссылки в",
+    "heroAccent": "текст для ваших задач.",
+    "heroDescription": "Расшифровка, перевод и ИИ-инструменты в одном месте — чтобы разобраться в идеях, составить план и изучить важное.",
+    "heroNote": "Вход с Apple. Нужен интернет. Обработка расходует медиаминуты и кредиты Insight. Тарифы и пакеты указаны в приложении.",
+    "foundationTitle": "Начните со слов. Продолжите работу с идеями.",
+    "foundationBody": "Добавьте публичную ссылку на видео из X, YouTube или Instagram длительностью до 90 минут. Расшифруйте речь на исходном языке или переведите на один из 70 языков.",
+    "howTitle": "От ссылки к следующему шагу.",
+    "steps": [
+      {
+        "title": "Добавьте публичную видеоссылку",
+        "body": "Выберите поддерживаемое видео до 90 минут, которое вы вправе обрабатывать."
+      },
+      {
+        "title": "Получите нужный текст",
+        "body": "Выберите расшифровку или перевод, проверьте стоимость и подтвердите обработку."
+      },
+      {
+        "title": "Используйте идеи",
+        "body": "Создавайте результаты ИИ на основе расшифровки, проверяйте, редактируйте и используйте их."
+      }
+    ],
+    "outcomesTitle": "Понимайте. Планируйте. Учитесь.",
+    "outcomesIntro": "Выберите инструмент под задачу, которую хотите решить с помощью видео.",
+    "outcomes": [
+      {
+        "kicker": "Понимание",
+        "title": "Разберитесь в идеях и связях между ними.",
+        "body": "Найдите главное в кратком изложении или изучите взаимосвязи в редактируемой интеллект-карте.",
+        "bullets": [
+          "Краткие или подробные изложения",
+          "Стиль изложения Standard или Professional",
+          "Редактируемые интеллект-карты"
+        ],
+        "captions": [
+          "Изложение демонстрационной расшифровки",
+          "Те же идеи в редактируемой интеллект-карте"
+        ]
+      },
+      {
+        "kicker": "Планирование",
+        "title": "Превратите полезные идеи в конкретные шаги.",
+        "body": "Создайте список действий или пошаговое руководство. Сверьте предложения с источником, прежде чем применять их.",
+        "bullets": [
+          "Списки действий",
+          "Пошаговые руководства",
+          "Редактирование под вашу задачу"
+        ],
+        "captions": [
+          "Список действий по демонстрационному видео",
+          "Исходная расшифровка остаётся доступной"
+        ]
+      },
+      {
+        "kicker": "Учёба",
+        "title": "Посмотрите на материал по-новому.",
+        "body": "Создайте учебное пособие, проверьте понимание с помощью викторины или потренируйте память по карточкам с вопросами и ответами.",
+        "bullets": [
+          "Учебные пособия",
+          "Викторины с объяснениями ответов",
+          "Карточки с вопросами и ответами"
+        ],
+        "captions": [
+          "Викторина с объяснением ответа",
+          "Карточка с открытым ответом"
+        ]
+      }
+    ],
+    "tailorKicker": "Под вашу задачу",
+    "tailorTitle": "Задайте ИИ направление.",
+    "tailorBody": "Укажите тему, аудиторию или контекст, чтобы направить результат, и выберите язык вывода.",
+    "controls": [
+      "Тема",
+      "Аудитория или контекст",
+      "Язык вывода"
+    ],
+    "saveTitle": "Сохраните источник. Доработайте результат.",
+    "saveBody": "Исходная расшифровка сохраняется, а результаты ИИ записываются отдельно. Читайте, редактируйте, копируйте и отправляйте свои тексты и заметки.",
+    "usageTitle": "Знайте стоимость. Занимайтесь своими делами.",
+    "usageBlocks": [
+      {
+        "title": "Проверьте перед подтверждением",
+        "body": "Просматривайте остаток медиаминут и кредитов Insight, историю использования и стоимость обработки. Доступные тарифы, пакеты и необязательные пополнения показаны в приложении."
+      },
+      {
+        "title": "Вернитесь, когда всё готово",
+        "body": "Можно выйти из приложения, пока обработка продолжается. После завершения придёт уведомление, если это разрешено настройками устройства."
+      }
+    ],
+    "guidesTitle": "Полезные ответы после первой ссылки.",
+    "guidesIntro": "Практические руководства по расшифровке, переводу и работе с идеями из видео.",
+    "allGuides": "Все руководства",
+    "faqTitle": "Что стоит знать.",
+    "faqs": [
+      {
+        "q": "Какие видеоссылки можно использовать?",
+        "a": "Damas поддерживает подходящие публичные записи видео из X, YouTube и Instagram длительностью до 90 минут. Закрытый контент, материалы с ограниченным доступом и прямые эфиры не поддерживаются. Обрабатывайте только контент, который вы вправе использовать."
+      },
+      {
+        "q": "Сколько языков поддерживается?",
+        "a": "Можно расшифровать речь на исходном языке или перевести её на один из 70 языков. Интерфейс приложения доступен на 11 языках. Это разные списки языков."
+      },
+      {
+        "q": "Какие ИИ-инструменты встроены в приложение?",
+        "a": "Damas предлагает краткие и подробные изложения в стиле Standard или Professional, редактируемые интеллект-карты, списки действий, пошаговые руководства, учебные пособия, викторины с объяснениями ответов и карточки с вопросами и ответами."
+      },
+      {
+        "q": "Нужна ли учётная запись и как работает обработка?",
+        "a": "Для онлайн-обработки и покупок войдите с Apple. Нужны интернет и согласие на обработку ИИ. Расходуются медиаминуты и кредиты Insight. Проверьте баланс и стоимость до подтверждения. Тарифы, пакеты и необязательные пополнения указаны в приложении."
+      },
+      {
+        "q": "Заменят ли результаты ИИ исходную расшифровку?",
+        "a": "Нет. Исходная расшифровка сохраняется, а результаты ИИ записываются отдельно. Тексты и заметки можно читать, редактировать, копировать и отправлять. Перед использованием сверяйте результаты ИИ с источником."
+      },
+      {
+        "q": "Можно ли выйти из приложения во время обработки?",
+        "a": "Да. Обработка продолжится, и Damas сможет сообщить о завершении. Уведомления зависят от настроек устройства. Подключение к интернету по-прежнему необходимо."
+      },
+      {
+        "q": "Какие устройства поддерживаются?",
+        "a": "Актуальные требования для iPhone, iPad и Mac и доступность в вашем регионе смотрите на странице приложения в App Store."
+      }
+    ],
+    "closingTitle": "Пусть следующее видео поможет сделать следующий шаг.",
+    "closingBody": "Откройте публичную видеоссылку в Damas и превратите слова в материал для ваших задач.",
+    "screenshotsNote": "Настоящие экраны iPhone с английским интерфейсом и оригинальным демонстрационным материалом.",
+    "heroArtAlt": "Специалистка за столом связывает заметки в интеллект-карту.",
+    "artAlts": [
+      "Специалистка за столом связывает заметки в интеллект-карту.",
+      "Специалистка в очках раскладывает карточки за рабочим столом.",
+      "Бородатый специалист перечитывает записи в блокноте."
+    ]
+  },
+  "zh-hans": {
+    "title": "Damas — 视频转文字、翻译与 AI 工具",
+    "description": "用 Damas 将 YouTube、Instagram 和 X 的公开视频链接转为文字、译文、摘要、思维导图、行动清单与学习资料，让视频内容派上用场。",
+    "heroKicker": "一个链接，更多用法。",
+    "heroStart": "把公开视频链接变成",
+    "heroAccent": "用得上的文字。",
+    "heroDescription": "将转写、翻译和 AI 工具放在一起，帮助你理解想法、制订计划，学习重要内容。",
+    "heroNote": "使用 Apple 登录。需要互联网连接。处理会消耗媒体分钟数和 Insight 点数。套餐与加购包在 App 内显示。",
+    "foundationTitle": "从文字出发，让想法延伸。",
+    "foundationBody": "添加最长 90 分钟的 X、YouTube 或 Instagram 公开视频链接。可按原语言转写语音，或翻译成 70 种语言。",
+    "howTitle": "从一个链接，到下一步行动。",
+    "steps": [
+      {
+        "title": "添加公开视频链接",
+        "body": "选择你有权处理的受支持视频，时长不超过 90 分钟。"
+      },
+      {
+        "title": "获取需要的文字",
+        "body": "选择转写或翻译，查看费用后再确认处理。"
+      },
+      {
+        "title": "让想法派上用场",
+        "body": "根据转写文字生成 AI 内容，再核对、编辑并使用结果。"
+      }
+    ],
+    "outcomesTitle": "理解、规划、学习。",
+    "outcomesIntro": "根据你想如何利用视频，选择合适的工具。",
+    "outcomes": [
+      {
+        "kicker": "理解",
+        "title": "看清想法，以及它们之间的联系。",
+        "body": "通过摘要掌握要点，或在可编辑的思维导图中探索内容的联系。",
+        "bullets": [
+          "简短或详细摘要",
+          "Standard 或 Professional 摘要风格",
+          "可编辑的思维导图"
+        ],
+        "captions": [
+          "示例转写文字的摘要",
+          "同一内容生成的可编辑思维导图"
+        ]
+      },
+      {
+        "kicker": "规划",
+        "title": "把有用的想法变成具体步骤。",
+        "body": "生成行动清单或分步指南。在付诸实践前，对照原始内容核对建议。",
+        "bullets": [
+          "行动清单",
+          "分步指南",
+          "按任务需要编辑结果"
+        ],
+        "captions": [
+          "根据示例视频生成的行动清单",
+          "原始转写文字仍然保留"
+        ]
+      },
+      {
+        "kicker": "学习",
+        "title": "换一种方式，巩固所学。",
+        "body": "生成学习指南，用测验检查理解，或通过问答闪卡练习回忆。",
+        "bullets": [
+          "学习指南",
+          "附答案解析的测验",
+          "问答闪卡"
+        ],
+        "captions": [
+          "附有答案解析的测验",
+          "已显示答案的闪卡"
+        ]
+      }
+    ],
+    "tailorKicker": "贴合你的需要",
+    "tailorTitle": "给 AI 一点方向。",
+    "tailorBody": "添加主题、受众或背景信息来引导结果，并选择输出语言。",
+    "controls": [
+      "主题",
+      "受众或背景信息",
+      "输出语言"
+    ],
+    "saveTitle": "保留原文，完善结果。",
+    "saveBody": "保留原始转写文字，同时单独保存 AI 输出。阅读、编辑、复制和分享你的文字与笔记。",
+    "usageTitle": "了解费用，继续手头的事。",
+    "usageBlocks": [
+      {
+        "title": "确认前先查看",
+        "body": "查看媒体分钟数和 Insight 余额、使用记录及处理费用。可选充值、当前套餐与加购包均在 App 内显示。"
+      },
+      {
+        "title": "完成后再回来",
+        "body": "离开 App 后，处理仍会继续。任务完成时可收到通知，是否送达取决于设备的通知设置。"
+      }
+    ],
+    "guidesTitle": "从第一个链接开始，找到更多实用答案。",
+    "guidesIntro": "浏览关于转写、翻译及运用视频想法的实用指南。",
+    "allGuides": "查看全部指南",
+    "faqTitle": "你可能想了解这些。",
+    "faqs": [
+      {
+        "q": "可以使用哪些视频链接？",
+        "a": "Damas 支持符合条件的 X、YouTube 和 Instagram 公开点播视频链接，最长 90 分钟。不支持私密、受限内容或直播。请仅处理你有权使用的内容。"
+      },
+      {
+        "q": "支持多少种语言？",
+        "a": "可以按原语言转写语音，或翻译成 70 种语言。App 界面提供 11 种语言。翻译语言与界面语言属于不同列表。"
+      },
+      {
+        "q": "内置哪些 AI 工具？",
+        "a": "Damas 提供 Standard 或 Professional 风格的简短或详细摘要、可编辑思维导图、行动清单、分步指南、学习指南、附答案解析的测验以及问答闪卡。"
+      },
+      {
+        "q": "需要账户吗？处理如何计费？",
+        "a": "在线处理和购买需要使用 Apple 登录，并需要互联网连接和 AI 处理同意。处理会消耗媒体分钟数和 Insight 点数。确认前请查看余额和费用。可用套餐、加购包及可选充值均在 App 内显示。"
+      },
+      {
+        "q": "AI 输出会替换原始转写文字吗？",
+        "a": "不会。原始转写文字会保留，AI 输出单独保存。你可以阅读、编辑、复制和分享文字与笔记。使用 AI 结果前，请对照原始内容核对。"
+      },
+      {
+        "q": "处理时可以离开 App 吗？",
+        "a": "可以。离开 App 后处理仍会继续，完成时 Damas 可发送通知。通知取决于设备设置。处理仍然需要互联网连接。"
+      },
+      {
+        "q": "可以在哪些设备上使用？",
+        "a": "请查看最新的 App Store 页面，确认 iPhone、iPad、Mac 兼容要求及所在地区的可用情况。"
+      }
+    ],
+    "closingTitle": "让下一个视频，带来实用的下一步。",
+    "closingBody": "在 Damas 中打开公开视频链接，把其中的话语变成用得上的内容。",
+    "screenshotsNote": "真实 iPhone 应用画面，使用英文界面和原创示例内容。",
+    "heroArtAlt": "一位职场女性在桌前用思维导图连接笔记。",
+    "artAlts": [
+      "一位职场女性在桌前用思维导图连接笔记。",
+      "一位戴眼镜的职场女性在桌前整理卡片。",
+      "一位留着胡须的职场男性查看笔记本中的记录。"
+    ]
+  },
+  "es": {
+    "title": "Damas — Transcripción de vídeo, traducción e IA",
+    "description": "Convierte enlaces públicos de YouTube, Instagram y X en transcripciones, traducciones, resúmenes, mapas mentales, listas y material de estudio con Damas.",
+    "heroKicker": "Un enlace. Más formas de aprovecharlo.",
+    "heroStart": "Convierte enlaces públicos de vídeo en",
+    "heroAccent": "texto que puedes usar.",
+    "heroDescription": "Reúne transcripción, traducción y herramientas de IA para comprender ideas, preparar un plan y estudiar lo que importa.",
+    "heroNote": "Inicia sesión con Apple. Se necesita internet. El procesamiento usa minutos multimedia y créditos Insight. Planes y paquetes en la app.",
+    "foundationTitle": "Empieza por las palabras. Sigue con las ideas.",
+    "foundationBody": "Añade un enlace público de X, YouTube o Instagram de hasta 90 minutos. Transcribe el habla en su idioma original o tradúcela a 70 idiomas.",
+    "howTitle": "Del enlace al siguiente paso.",
+    "steps": [
+      {
+        "title": "Añade un enlace público de vídeo",
+        "body": "Elige un vídeo compatible de hasta 90 minutos que tengas permiso para procesar."
+      },
+      {
+        "title": "Obtén el texto que necesitas",
+        "body": "Elige transcripción o traducción, revisa el coste y confirma el procesamiento."
+      },
+      {
+        "title": "Pon las ideas en práctica",
+        "body": "Crea resultados de IA a partir de la transcripción, revísalos, edítalos y utilízalos."
+      }
+    ],
+    "outcomesTitle": "Comprende. Planifica. Aprende.",
+    "outcomesIntro": "Elige la herramienta según lo que quieras hacer con un vídeo.",
+    "outcomes": [
+      {
+        "kicker": "Comprender",
+        "title": "Descubre las ideas y sus conexiones.",
+        "body": "Encuentra lo esencial en un resumen o explora las relaciones entre las ideas en un mapa mental editable.",
+        "bullets": [
+          "Resúmenes breves o detallados",
+          "Estilo de resumen Standard o Professional",
+          "Mapas mentales editables"
+        ],
+        "captions": [
+          "Un resumen de la transcripción de ejemplo",
+          "Las mismas ideas en un mapa mental editable"
+        ]
+      },
+      {
+        "kicker": "Planificar",
+        "title": "Convierte las ideas útiles en pasos concretos.",
+        "body": "Crea una lista de acciones o una guía paso a paso. Contrasta las sugerencias con la fuente antes de ponerlas en práctica.",
+        "bullets": [
+          "Listas de acciones",
+          "Guías paso a paso",
+          "Resultados editables según tu tarea"
+        ],
+        "captions": [
+          "Una lista de acciones del vídeo de ejemplo",
+          "La transcripción original sigue disponible"
+        ]
+      },
+      {
+        "kicker": "Estudiar",
+        "title": "Otra forma de afianzar el contenido.",
+        "body": "Crea una guía de estudio, comprueba lo que has entendido o practica el recuerdo con tarjetas de preguntas y respuestas.",
+        "bullets": [
+          "Guías de estudio",
+          "Cuestionarios con respuestas explicadas",
+          "Tarjetas de preguntas y respuestas"
+        ],
+        "captions": [
+          "Un cuestionario con una respuesta explicada",
+          "Una tarjeta con la respuesta visible"
+        ]
+      }
+    ],
+    "tailorKicker": "A tu medida",
+    "tailorTitle": "Dale una dirección a la IA.",
+    "tailorBody": "Añade un tema, un público o un contexto para orientar el resultado y elige el idioma de salida.",
+    "controls": [
+      "Tema",
+      "Público o contexto",
+      "Idioma de salida"
+    ],
+    "saveTitle": "Conserva la fuente. Adapta el resultado.",
+    "saveBody": "La transcripción original se conserva y los resultados de IA se guardan por separado. Lee, edita, copia y comparte tus textos y notas.",
+    "usageTitle": "Conoce el coste. Sigue con tu día.",
+    "usageBlocks": [
+      {
+        "title": "Revisa antes de confirmar",
+        "body": "Consulta los saldos de minutos multimedia e Insight, el historial de uso y el coste del procesamiento. Las recargas opcionales, los planes y los paquetes disponibles se muestran en la app."
+      },
+      {
+        "title": "Vuelve cuando esté listo",
+        "body": "Puedes salir de la app mientras el procesamiento continúa. Recibe una notificación al finalizar, según los ajustes de tu dispositivo."
+      }
+    ],
+    "guidesTitle": "Respuestas útiles más allá del primer enlace.",
+    "guidesIntro": "Descubre guías prácticas de transcripción, traducción y uso de las ideas de un vídeo.",
+    "allGuides": "Ver todas las guías",
+    "faqTitle": "Lo que conviene saber.",
+    "faqs": [
+      {
+        "q": "¿Qué enlaces de vídeo puedo usar?",
+        "a": "Damas admite enlaces públicos de vídeos bajo demanda compatibles de X, YouTube e Instagram, de hasta 90 minutos. No admite contenido privado, restringido ni emisiones en directo. Procesa solo contenido que tengas permiso para usar."
+      },
+      {
+        "q": "¿Cuántos idiomas admite?",
+        "a": "Puedes transcribir el habla en su idioma original o traducirla a 70 idiomas. La interfaz de la app está disponible en 11 idiomas. Son dos listas distintas."
+      },
+      {
+        "q": "¿Qué herramientas de IA están integradas?",
+        "a": "Damas incluye resúmenes breves o detallados de estilo Standard o Professional, mapas mentales editables, listas de acciones, guías paso a paso, guías de estudio, cuestionarios con respuestas explicadas y tarjetas de preguntas y respuestas."
+      },
+      {
+        "q": "¿Necesito una cuenta y cómo funciona el procesamiento?",
+        "a": "Inicia sesión con Apple para el procesamiento en línea y las compras. Se necesitan internet y consentimiento para el procesamiento con IA. Se usan minutos multimedia y créditos Insight. Revisa los saldos y costes antes de confirmar. Los planes, paquetes y recargas opcionales se muestran en la app."
+      },
+      {
+        "q": "¿Los resultados de IA sustituyen mi transcripción?",
+        "a": "No. La transcripción original se conserva y los resultados de IA se guardan por separado. Puedes leer, editar, copiar y compartir tus textos y notas. Contrasta los resultados de IA con la fuente antes de utilizarlos."
+      },
+      {
+        "q": "¿Puedo salir de la app durante el procesamiento?",
+        "a": "Sí. El procesamiento continúa y Damas puede avisarte cuando termine, según los ajustes de notificación del dispositivo. Sigue siendo necesaria una conexión a internet."
+      },
+      {
+        "q": "¿En qué dispositivos funciona?",
+        "a": "Consulta la ficha actual de la App Store para conocer la compatibilidad con iPhone, iPad y Mac y la disponibilidad en tu región."
+      }
+    ],
+    "closingTitle": "Dale a tu próximo vídeo un siguiente paso útil.",
+    "closingBody": "Abre un enlace público de vídeo en Damas y convierte sus palabras en algo que puedas usar.",
+    "screenshotsNote": "Pantallas reales de iPhone con la interfaz en inglés y contenido de ejemplo original.",
+    "heroArtAlt": "Una profesional conecta notas en un mapa mental en su escritorio.",
+    "artAlts": [
+      "Una profesional conecta notas en un mapa mental en su escritorio.",
+      "Una profesional con gafas organiza tarjetas en su escritorio.",
+      "Un profesional con barba repasa las notas de un cuaderno."
+    ]
+  },
+  "tr": {
+    "title": "Damas — Video metinleri, çeviri ve yapay zekâ araçları",
+    "description": "Herkese açık YouTube, Instagram ve X video bağlantılarını Damas ile metne, çeviriye, özete, zihin haritasına, kontrol listesine ve çalışma materyaline dönüştürün.",
+    "heroKicker": "Tek bağlantı. Daha fazla kullanım.",
+    "heroStart": "Herkese açık video bağlantılarını",
+    "heroAccent": "kullanabileceğiniz metne dönüştürün.",
+    "heroDescription": "Fikirleri anlamak, plan yapmak ve önemli konuları çalışmak için deşifre, çeviri ve yapay zekâ araçlarını bir arada kullanın.",
+    "heroNote": "Apple ile giriş yapın. İnternet gerekir. İşlemlerde medya dakikaları ve Insight kredileri kullanılır. Plan ve paketler uygulamada gösterilir.",
+    "foundationTitle": "Sözlerden başlayın. Fikirlerle ilerleyin.",
+    "foundationBody": "90 dakikaya kadar olan, herkese açık bir X, YouTube veya Instagram video bağlantısı ekleyin. Konuşmayı özgün dilinde metne dönüştürün ya da 70 dile çevirin.",
+    "howTitle": "Bağlantıdan bir sonraki adıma.",
+    "steps": [
+      {
+        "title": "Herkese açık video bağlantısı ekleyin",
+        "body": "İşleme hakkınız olan, desteklenen ve 90 dakikayı aşmayan bir video seçin."
+      },
+      {
+        "title": "İhtiyacınız olan metni alın",
+        "body": "Deşifre veya çeviriyi seçin, maliyeti inceleyin ve işlemi onaylayın."
+      },
+      {
+        "title": "Fikirleri kullanın",
+        "body": "Deşifre metninden yapay zekâ çıktıları oluşturun; sonuçları inceleyin, düzenleyin ve kullanın."
+      }
+    ],
+    "outcomesTitle": "Anlayın. Planlayın. Öğrenin.",
+    "outcomesIntro": "Videoyla ne yapmak istediğinize göre bir araç seçin.",
+    "outcomes": [
+      {
+        "kicker": "Anlayın",
+        "title": "Fikirleri ve aralarındaki bağlantıları görün.",
+        "body": "Özetle ana noktaları yakalayın veya düzenlenebilir bir zihin haritasında fikirlerin ilişkilerini keşfedin.",
+        "bullets": [
+          "Kısa veya ayrıntılı özetler",
+          "Standard veya Professional özet stili",
+          "Düzenlenebilir zihin haritaları"
+        ],
+        "captions": [
+          "Örnek deşifre metninin özeti",
+          "Aynı fikirlerin düzenlenebilir zihin haritası"
+        ]
+      },
+      {
+        "kicker": "Planlayın",
+        "title": "Faydalı fikirleri uygulanabilir adımlara dönüştürün.",
+        "body": "Bir eylem kontrol listesi veya adım adım kılavuz oluşturun. Önerileri uygulamadan önce kaynakla karşılaştırın.",
+        "bullets": [
+          "Eylem kontrol listeleri",
+          "Adım adım kılavuzlar",
+          "Görevinize göre düzenlenebilir sonuçlar"
+        ],
+        "captions": [
+          "Örnek videodan oluşturulan eylem kontrol listesi",
+          "Özgün deşifre metni erişilebilir kalır"
+        ]
+      },
+      {
+        "kicker": "Çalışın",
+        "title": "Konuyu farklı bir yoldan pekiştirin.",
+        "body": "Çalışma rehberi hazırlayın, testle anlayışınızı sınayın veya soru-cevap kartlarıyla hatırlama alıştırması yapın.",
+        "bullets": [
+          "Çalışma rehberleri",
+          "Açıklamalı cevaplar içeren testler",
+          "Soru-cevap kartları"
+        ],
+        "captions": [
+          "Cevabı açıklanan bir test sorusu",
+          "Cevabı açılmış bir bilgi kartı"
+        ]
+      }
+    ],
+    "tailorKicker": "İhtiyacınıza göre",
+    "tailorTitle": "Yapay zekâya bir yön verin.",
+    "tailorBody": "Sonucu yönlendirmek için konu, hedef kitle veya bağlam ekleyin ve çıktı dilini seçin.",
+    "controls": [
+      "Konu",
+      "Hedef kitle veya bağlam",
+      "Çıktı dili"
+    ],
+    "saveTitle": "Kaynağı koruyun. Çıktıyı kendinize uyarlayın.",
+    "saveBody": "Özgün deşifre metniniz korunurken yapay zekâ çıktıları ayrı kaydedilir. Metinlerinizi ve notlarınızı okuyun, düzenleyin, kopyalayın ve paylaşın.",
+    "usageTitle": "Maliyeti bilin. Gününüze devam edin.",
+    "usageBlocks": [
+      {
+        "title": "Onaylamadan önce inceleyin",
+        "body": "Medya dakikası ve Insight bakiyelerinizi, kullanım geçmişini ve işlem maliyetini kontrol edin. İsteğe bağlı ek alımlar ile mevcut plan ve paketler uygulamada gösterilir."
+      },
+      {
+        "title": "Hazır olduğunda geri dönün",
+        "body": "İşlem sürerken uygulamadan çıkabilirsiniz. İşiniz tamamlandığında bildirim alabilirsiniz; bildirimlerin ulaşması cihaz ayarlarınıza bağlıdır."
+      }
+    ],
+    "guidesTitle": "İlk bağlantıdan sonra da faydalı yanıtlar.",
+    "guidesIntro": "Deşifre, çeviri ve videolardaki fikirleri kullanma hakkında pratik kılavuzları keşfedin.",
+    "allGuides": "Tüm kılavuzları görün",
+    "faqTitle": "Bilmeniz gerekenler.",
+    "faqs": [
+      {
+        "q": "Hangi video bağlantılarını kullanabilirim?",
+        "a": "Damas; herkese açık, isteğe bağlı izlenebilen ve desteklenen X, YouTube ve Instagram video bağlantılarını 90 dakikaya kadar işler. Özel, erişimi kısıtlı içerikler ve canlı yayınlar desteklenmez. Yalnızca kullanma hakkınız olan içerikleri işleyin."
+      },
+      {
+        "q": "Kaç dil destekleniyor?",
+        "a": "Konuşmayı özgün dilinde metne dönüştürebilir veya 70 dile çevirebilirsiniz. Uygulama arayüzü 11 dilde sunulur. Çeviri dilleri ile arayüz dilleri farklı listelerdir."
+      },
+      {
+        "q": "Hangi yapay zekâ araçları uygulamada bulunuyor?",
+        "a": "Damas; Standard veya Professional stilinde kısa ya da ayrıntılı özetler, düzenlenebilir zihin haritaları, eylem kontrol listeleri, adım adım kılavuzlar, çalışma rehberleri, açıklamalı cevaplar içeren testler ve soru-cevap kartları sunar."
+      },
+      {
+        "q": "Hesap gerekiyor mu, işlemler nasıl çalışıyor?",
+        "a": "Çevrim içi işlemler ve satın alımlar için Apple ile giriş yapın. İnternet bağlantısı ve yapay zekâ işleme onayı gerekir. İşlemlerde medya dakikaları ve Insight kredileri kullanılır. Onaydan önce bakiyeleri ve maliyeti inceleyin. Planlar, paketler ve isteğe bağlı ek alımlar uygulamada gösterilir."
+      },
+      {
+        "q": "Yapay zekâ çıktıları deşifre metnimin yerine mi geçer?",
+        "a": "Hayır. Özgün deşifre metni korunur ve yapay zekâ çıktıları ayrı kaydedilir. Metinleri ve notları okuyabilir, düzenleyebilir, kopyalayabilir ve paylaşabilirsiniz. Yapay zekâ sonuçlarını kullanmadan önce kaynakla karşılaştırın."
+      },
+      {
+        "q": "İşlem sırasında uygulamadan çıkabilir miyim?",
+        "a": "Evet. İşlem devam eder ve tamamlandığında Damas size bildirim gönderebilir. Bildirimler cihaz ayarlarınıza bağlıdır. İşlem için internet bağlantısı gerekmeye devam eder."
+      },
+      {
+        "q": "Hangi cihazlarda kullanabilirim?",
+        "a": "iPhone, iPad ve Mac uyumluluğu ile bölgesel kullanılabilirlik için güncel App Store sayfasını kontrol edin."
+      }
+    ],
+    "closingTitle": "Sıradaki videonuz, faydalı bir sonraki adıma dönüşsün.",
+    "closingBody": "Damas’ta herkese açık bir video bağlantısı açın ve içindeki sözleri kullanabileceğiniz bir içeriğe dönüştürün.",
+    "screenshotsNote": "İngilizce arayüz ve özgün örnek içerikle gösterilen gerçek iPhone ekranları.",
+    "heroArtAlt": "Profesyonel bir kadın, masasında notlarını zihin haritasıyla ilişkilendiriyor.",
+    "artAlts": [
+      "Profesyonel bir kadın, masasında notlarını zihin haritasıyla ilişkilendiriyor.",
+      "Gözlüklü bir profesyonel kadın, masasında kartları düzenliyor.",
+      "Sakallı bir profesyonel erkek, defterindeki notları inceliyor."
+    ]
+  }
+}

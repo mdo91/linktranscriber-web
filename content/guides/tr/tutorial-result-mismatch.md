@@ -4,7 +4,7 @@ description: "İlk farklı sonucu gösterimle karşılaştırın, gözlemleri ol
 slug: "tutorial-result-mismatch"
 locale: "tr"
 publishedAt: "2026-11-09"
-updatedAt: "2026-11-09"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "video eğitim sonuç farkının başladığı noktayı inceleme"
 topics: ["Video eğitimini uygulama"]
@@ -15,9 +15,11 @@ translationKey: "tutorial-result-mismatch"
 
 Sonucunuz video eğitiminden farklıysa kontrol edilmiş Damas dökümüyle son eşleşen durumu ve ilk gözlenebilir farkı bulun. Değişiklik yapmadan önce bu iki noktayı gösterimle karşılaştırın. Bu elle inceleme, soruyu daraltmaya yardımcı olur; otomatik neden teşhisi veya onarım garantisi değildir.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Açıklamayı ve kaynağı hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık bir kaynak da erişilemediğinde işlenemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içeriği kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık bir kaynak da erişilemediğinde işlenemeyebilir.
 
 1. Eğitimi özgün platformunda açın, bağlantısını ve başlığını çalışma notuna kaydedin.
 2. Desteklenen bağlantıyı Damas’a girin. Güncel uygulama yönergeleriyle döküm akışını kullanın ve yapay zekâ onayını okuyun.
@@ -54,6 +56,6 @@ Kısa bir aktarım notuna bağlantı ve başlık, işlem ve doğrulanmış böl�
 
 Harici LLM gerekmez. Başka bir LLM’de isteğe bağlı biçimlendirme için metni paylaşma izni ve önerilen her nedenin kontrolü gerekir; bu Damas entegrasyonu değildir. Gözlem, dayanak ve belirsizliği ayırın. Olgu, alıntı, sorumlu veya son tarih uydurmayın.
 
-Son listede kaynak bağlantısını saklayın. İşleme süresi ve doğruluk değişir. Damas medya indirmez, altyazı gömmez ve çevrimdışı işlemez. Premium, erişilemeyen bir kaynağı erişilebilir hâle getirmez.
+Son listede kaynak bağlantısını saklayın. İşleme süresi ve doğruluk değişir. Damas medya indirmez, altyazı gömmez ve çevrimdışı işlemez.
 
 Damas Technologies LLC

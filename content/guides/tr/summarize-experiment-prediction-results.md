@@ -4,7 +4,7 @@ description: "Tahmini, gözlenen sonucu ve anlatıcının açıklamasını ayır
 slug: "summarize-experiment-prediction-results"
 locale: "tr"
 publishedAt: "2026-11-15"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "YouTube dersindeki bir deneyi, tahmin ile sonucu karıştırmadan nasıl özetlerim?"
 topics: ["Deney özeti"]
@@ -15,9 +15,11 @@ translationKey: "summarize-experiment-prediction-results"
 
 YouTube dersindeki bir deneyi özetlemek için Damas dökümü ve uygulama içi özetle gösterimi bulun, ardından tahmin, gözlem ve açıklamayı ayrı kaydedin. Kısa metni yazmadan önce sonucu tahminle karşılaştırın. Deney kaydını elle hazırlarsınız; Damas okunabilen, düzenlenebilen ve kopyalanabilen metin sağlar.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Gösterimin tamamını hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen videoların desteklenen bağlantılarını kabul eder. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan materyali kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık bir kaynak da erişilemez olabilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen videoların desteklenen bağlantılarını kabul eder. Yalnızca işleme izniniz olan materyali kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık bir kaynak da erişilemez olabilir.
 
 1. Özgün bağlantıyı ve başlığı saklayıp tek bir deney seçin.
 2. Desteklenen bağlantıyı Damas’a girin. Yapay zekâ onayını okuyarak güncel döküm ve uygulama içi özet yönergelerini izleyin.
@@ -56,6 +58,6 @@ Denemeyi, koşulları, tahmini, gözlemi, karşılaştırmayı, açıklamanın s
 
 Harici LLM gerekmez. İsteğe bağlı olarak başka LLM’de biçimlendirmek, metni paylaşma izni ve tüm çıktının kontrolünü gerektirir; bu harici adımdır, Damas entegrasyonu değildir. Açıklamanın bütünü için [iddia ve gerekçe haritasına](/tr/guides/lecture-argument-map/), alıntıdan önce [alıntı kontrolüne](/tr/guides/verify-interview-quotes/) bakın.
 
-Süre ve doğruluk değişir. Kaynağa sadık bir özet deneyin geçerliliğini bağımsız olarak kanıtlamaz. Damas medya indirmez, video dosyası içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium kısıtlamaları aşmaz. Kaynak erişilemez olursa tamamlanmayan kontrolleri açık bırakın ve yeniden kullanım haklarınız içinde paylaşın.
+Süre ve doğruluk değişir. Kaynağa sadık bir özet deneyin geçerliliğini bağımsız olarak kanıtlamaz. Damas medya indirmez, video dosyası içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Kaynak erişilemez olursa tamamlanmayan kontrolleri açık bırakın ve yeniden kullanım haklarınız içinde paylaşın.
 
 Damas Technologies LLC

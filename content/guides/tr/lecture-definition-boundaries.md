@@ -4,7 +4,7 @@ description: "Tanımı koşullara ayırarak özetleyin; uyan, zorunlu koşulu ka
 slug: "lecture-definition-boundaries"
 locale: "tr"
 publishedAt: "2026-11-14"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Bir video dersindeki tanımı, hangi örneklerin uyduğunu ayırt etmek için nasıl özetlerim?"
 topics: ["Ders özetleri ve tanımlar"]
@@ -15,9 +15,11 @@ translationKey: "lecture-definition-boundaries"
 
 Bir dersteki tanımı özetlemek için Damas dökümü ve uygulama içi özetle açıklamayı bulun, ardından gerçekten belirtilen koşulları yazın. Kısa tanımı hazırlamadan önce her örneği bu koşullara göre inceleyin. Üç sonucu ayrı tutun: tanıma uyuyor, zorunlu koşulu karşılamıyor veya bilgi eksikliği nedeniyle henüz belirlenemiyor. Tabloyu, düzenlenip kopyalanabilen metinden yararlanarak kendiniz hazırlarsınız.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Açıklamanın tamamını hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki desteklenen, herkese açık, isteğe bağlı izlenen video bağlantılarını 90 dakikaya kadar işler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içeriği kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki desteklenen, herkese açık, isteğe bağlı izlenen video bağlantılarını 90 dakikaya kadar işler. Yalnızca işleme izniniz olan içeriği kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
 
 1. Dersin bağlantısını ve başlığını saklayıp bir terim seçin.
 2. Desteklenen bağlantıyı Damas’a girin. Güncel döküm ve uygulama içi özet yönergelerini izleyip yapay zekâ onayını okuyun.
@@ -57,6 +59,6 @@ Kısa tanımı, kontrol edilmiş dayanakları, tabloyu ve kaynak bağlantısın�
 
 Harici LLM gerekmez. İsteğe bağlı olarak başka bir LLM’de biçimlendirme yaparsanız metni paylaşma izni alın ve önerilen her koşulu kontrol edin. Bu ayrı bir harici adımdır, Damas entegrasyonu değildir. Tam ifadeler için [alıntı kontrolünü](/tr/guides/verify-interview-quotes/), başka dil için [çeviriyi](/tr/guides/translate-social-video-iphone/) ve özgün anlam kontrolünü kullanın.
 
-Doğruluk ve işleme süresi değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Premium erişim kısıtlarını aşmaz. Kayda erişilemiyorsa tamamlanmamış kontrolleri açık bırakın ve yeniden kullanım haklarını koruyun.
+Doğruluk ve işleme süresi değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez ve çevrimdışı işlemez. Kayda erişilemiyorsa tamamlanmamış kontrolleri açık bırakın ve yeniden kullanım haklarını koruyun.
 
 Damas Technologies LLC

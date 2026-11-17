@@ -4,7 +4,7 @@ description: "Ders özetinden iki dilli kavram notları hazırlayın; iki yönde
 slug: "bilingual-lecture-recall"
 locale: "tr"
 publishedAt: "2026-11-12"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Bir video dersini iki dilde hatırlama çalışması için nasıl özetleyebilirim?"
 topics: ["Özet ve iki dilli öğrenme"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","translate-social-video-iphone","t
 translationKey: "bilingual-lecture-recall"
 ---
 
-Bir video dersini iki dilde hatırlama çalışması için özetlemek üzere Damas özetinden bir kavram seçin, ardından tam açıklamayı özgün döküm ve çeviride kontrol edin. Diğer dildeki yanıta bakmadan fikri anlatın; sonra yönü tersine çevirin. İki denemeyi kaynakla karşılaştırarak bir sözcüğü mü yoksa kavramlar arasındaki ilişkiyi mi yeniden inceleyeceğinize karar verin. Not ve alıştırma elle hazırlanır.
+Çalışmak için Damas’ta döküm ve çeviriyi hazırlayıp çalışma rehberi, açıklamalı yanıtları olan test veya soru-cevap bilgi kartları oluşturun. Dili seçip kavramı veya hedef kitleyi bağlam olarak belirtin. Her yanıtı özgün açıklamayla karşılaştırın. Aşağıdaki iki dilde hatırlama alıştırması kişisel çalışmanızdır; otomatik notlandırma vaadi içermez.
+
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
 
 ## Dersi ve iki metni hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan içerikleri kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki 90 dakikaya kadar herkese açık, isteğe bağlı izlenen video bağlantılarını destekler. Yalnızca işleme izniniz olan içerikleri kullanın. Özel, erişimi kısıtlı ve canlı videolar desteklenmez; herkese açık kaynaklara da erişilemeyebilir.
 
 1. Bir öğrenme sorusu yazın; dersin bağlantısını ve başlığını saklayın.
 2. Desteklenen bağlantıyı Damas’a girin. Özgün dilde döküm, uygulama içi özet ve desteklenen hedef dilde çeviri için güncel yönergeleri izleyin. Yapay zekâ onayını okuyun.
@@ -50,10 +52,10 @@ Türkçeye dönüş denemesi “önce bir seçenek seç, sonra karşılaştır�
 
 Yalnızca etkilenen kısmı düzeltip iki yönde yeniden deneyin. Hataları çalışma gözlemi olarak tutun; otomatik puan veya yetenek değerlendirmesi değildir. Kaynakta bulunmayan açıklama, örnek veya alıntıyı öğretmene atfetmeyin.
 
-Harici LLM gerekmez. İsteğe bağlı olarak başka bir LLM’de biçimlendirme, metni paylaşma izni ve her önerinin kontrolünü gerektirir. Bu harici bir adımdır; Damas entegrasyonu, otomatik bilgi kartı veya değerlendirme özelliği değildir.
+Damas özetler, düzenlenebilir zihin haritaları, eylem kontrol listeleri, adım adım rehberler, çalışma rehberleri, açıklamalı yanıtları olan testler ve soru-cevap bilgi kartları sunar. Konu, hedef kitle veya bağlam belirtip çıktı dilini seçin. Her bağlantı veya yanıtı kaynakla kontrol edin; bu rehberdeki ayrıntılı karşılaştırma ve doğrulama yöntemleri yine sizin değerlendirmenizi gerektirir.
 
 Başlangıç metinleri için [çeviri rehberine](/tr/guides/translate-social-video-iphone/) ve [anlam karşılaştırmasına](/tr/guides/transcript-translation-meaning-check/) bakın. Kopyalanan notlarla kaynak bağlantısını saklayın ve yeniden kullanım izinlerine uyun. Kaynak erişilemezse tamamlanmayan kontroller açık kalır.
 
-Süre ve doğruluk değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez veya çevrimdışı işlemez. Premium erişim kısıtlarını aşmaz.
+Süre ve doğruluk değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez veya çevrimdışı işlemez.
 
 Damas Technologies LLC

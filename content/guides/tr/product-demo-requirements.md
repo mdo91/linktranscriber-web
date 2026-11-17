@@ -4,7 +4,7 @@ description: "Bir video demosunda gösterilen sonuçları, sözlü iddiaları ve
 slug: "product-demo-requirements"
 locale: "tr"
 publishedAt: "2026-11-08"
-updatedAt: "2026-11-08"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "ürün tanıtım videosu özetleme kendi gereksinimlerine göre"
 topics: ["Ürün demosunu değerlendirme"]
@@ -15,9 +15,11 @@ translationKey: "product-demo-requirements"
 
 Ürün demosunu kendi gereksinimlerinize göre özetlemek için Damas ile döküm ve uygulama içi özet hazırlayın, ardından her gereksinimi gerçek gösterimle karşılaştırın. Görünen sonuçları, yalnızca sözle belirtilen iddiaları ve yapılmamış testleri ayırın. Tablo sizin elle hazırladığınız değerlendirmedir; Damas’ın otomatik ürün değerlendirmesi veya uygunluk garantisi değildir.
 
+iPhone’da iOS 18.6 veya sonrası ve internet bağlantısı gerekir. Çevrimiçi işleme ve satın almalar için Apple ile giriş yapın ve yapay zekâ işleme onayını inceleyin. İşleme, medya dakikaları ve Insight kredileri kullanır: onaylamadan önce bakiyeleri, kullanım geçmişini ve maliyeti kontrol edin. Planlar ve isteğe bağlı ek paketler uygulamada gösterilir.
+
 ## Kaynağı ve gereksinimlerinizi hazırlayın
 
-Damas, YouTube, Instagram ve X üzerindeki desteklenen, herkese açık, isteğe bağlı videoların bağlantılarını 90 dakikaya kadar işler. iPhone’da iOS 18.6 veya sonrası, internet, Premium ve yapay zekâ işleme onayı gerekir. Yalnızca işleme izniniz olan kaynakları kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; açık kaynaklara da işleme amacıyla erişilemeyebilir.
+Damas, YouTube, Instagram ve X üzerindeki desteklenen, herkese açık, isteğe bağlı videoların bağlantılarını 90 dakikaya kadar işler. Yalnızca işleme izniniz olan kaynakları kullanın. Özel, kısıtlı ve canlı videolar desteklenmez; açık kaynaklara da işleme amacıyla erişilemeyebilir.
 
 1. Özeti okumadan gereksinimlerinizi yazın: hangi girdiyle, hangi koşulda, hangi sonuç görülmeli? Bunlar sizin ölçütlerinizdir; sunucunun verdiği sözler değildir.
 2. Özgün bağlantıyı ve başlığı saklayın. Desteklenen bağlantıyı Damas’a girin, yapay zekâ onayını inceleyin ve güncel döküm ile uygulama içi özet yönergelerini izleyin.
@@ -44,10 +46,10 @@ Bu, adı belirtilmeyen bir araç hakkında kurmaca öğretim örneğidir; Damas 
 
 Genel puan vermeniz gerekmez. Kararınızı değiştirebilecek açık gereksinimi seçip somut bir takip sorusu yazın. Akıcı bir özet, denenmemiş koşulu karşılanmış gereksinime dönüştürmemelidir. Sorumlu, son tarih, alıntı veya sonuç uydurmayın. Kayıt erişilemez olursa tamamlanmayan kontroller açık kalır.
 
-Tabloyu elle oluşturabilirsiniz. İsterseniz paylaşma izniniz olan kontrol edilmiş metni başka bir LLM’ye kopyalayıp satır taslağı isteyin. Kendi ölçütlerinizi ve kaynak bölümlerini ayrı verin, her eşleştirmeyi inceleyin. Bu dışarıda yapılan taslak çalışmasıdır; Damas entegrasyonu veya otomatik ürün testi değildir.
+Damas özetler, düzenlenebilir zihin haritaları, eylem kontrol listeleri, adım adım rehberler, çalışma rehberleri, açıklamalı yanıtları olan testler ve soru-cevap bilgi kartları sunar. Konu, hedef kitle veya bağlam belirtip çıktı dilini seçin. Her bağlantı veya yanıtı kaynakla kontrol edin; bu rehberdeki ayrıntılı karşılaştırma ve doğrulama yöntemleri yine sizin değerlendirmenizi gerektirir.
 
 Uygulama adımları için [genel özet rehberini](/tr/guides/summarize-video-transcript-iphone/) okuyun. Sözü aynen aktarmadan önce [alıntı kontrolünü](/tr/guides/verify-interview-quotes/), değerlendirmeyi gönderirken [kaynak dayanaklarıyla paylaşmayı](/tr/guides/share-checked-video-notes/) kullanın.
 
-Kopyalanan tablonun yanında özgün bağlantıyı, inceleme tarihini ve kalan soruları tutun. İşleme süresi ve doğruluk değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez veya çevrimdışı işlemez. Premium kaynak kısıtlamalarını aşmaz. Yalnızca yeniden kullanım haklarınız kapsamında paylaşın.
+Kopyalanan tablonun yanında özgün bağlantıyı, inceleme tarihini ve kalan soruları tutun. İşleme süresi ve doğruluk değişir. Damas medya indirmez, dosya içe aktarmaz, dublaj yapmaz, altyazı gömmez veya çevrimdışı işlemez. Yalnızca yeniden kullanım haklarınız kapsamında paylaşın.
 
 Damas Technologies LLC

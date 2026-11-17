@@ -4,7 +4,7 @@ description: "Asingkan pertuturan, ulasan siaran dan konteks yang belum disahkan
 slug: "x-summary-post-context"
 locale: "ms"
 publishedAt: "2026-10-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "ringkasan video X Twitter"
 topics: ["Konteks video X"]
@@ -15,9 +15,11 @@ translationKey: "x-summary-post-context"
 
 Untuk menyediakan ringkasan video X Twitter tanpa mencampurkan sumber, dapatkan transkrip dan ringkasan terbina dalam Damas, kemudian semak klip berasingan daripada ulasan bertulis siaran. Catat kata-kata penutur, tambahan akaun yang menyiarkan dan perkara yang tidak dapat dibuktikan oleh klip. Damas menyediakan teks boleh sunting dan salin; rekod atribusi ini anda sediakan sendiri.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan klip dan gambaran awal
 
-Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong sehingga 90 minit. Pada iPhone, iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI diperlukan. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh gagal diakses.
+Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong sehingga 90 minit. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga boleh gagal diakses.
 
 1. Buka siaran X dan simpan pautan asal. Baca ulasannya sendiri. Jika tidak dapat dipastikan sama ada akaun berkongsi rakaman sendiri atau milik pihak lain, biarkan perkara itu belum disahkan.
 2. Masukkan pautan yang disokong ke Damas. Ikut arahan semasa untuk transkripsi dan ringkasan terbina dalam serta baca persetujuan AI.
@@ -48,6 +50,6 @@ LLM luar tidak diperlukan. Jika anda memilih untuk memformat teks salinan dalam 
 
 [Panduan transkripsi](/ms/guides/transcribe-social-video-link-iphone/) menyediakan teks penuh. [Panduan ringkasan](/ms/guides/summarize-video-transcript-iphone/) menerangkan gambaran awal; gunakan [semakan petikan](/ms/guides/verify-interview-quotes/) sebelum menyalin kata-kata tepat.
 
-Masa dan ketepatan berbeza mengikut sumber, audio dan sambungan. Damas tidak memuat turun media, mengalih suara, membenam sari kata atau memproses luar talian. Premium tidak mengatasi sekatan sumber. Jika klip tidak lagi boleh diakses, biarkan semakan belum selesai terbuka dan kongsi dalam hak penggunaan semula anda.
+Masa dan ketepatan berbeza mengikut sumber, audio dan sambungan. Damas tidak memuat turun media, mengalih suara, membenam sari kata atau memproses luar talian. Jika klip tidak lagi boleh diakses, biarkan semakan belum selesai terbuka dan kongsi dalam hak penggunaan semula anda.
 
 Damas Technologies LLC

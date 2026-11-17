@@ -1,0 +1,258 @@
+{
+  "generatedFor": "2026-11-17 feature rollout",
+  "source": "Original adult editorial artwork and real Damas iPhone simulator screenshots with original sample content",
+  "assets": [
+    {
+      "file": "public/assets/illustration-connections-480.avif",
+      "width": 480,
+      "height": 320,
+      "bytes": 22036,
+      "sha256": "573745faf72f5bc8ec65e5d5b3939137ba918cf8ebab0eb603dbf08bf293059e"
+    },
+    {
+      "file": "public/assets/illustration-connections-480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 39238,
+      "sha256": "92c2923f38ca368ad67f980300adb8d81c38f69d20f1e9b4c9cf6eb739105a88"
+    },
+    {
+      "file": "public/assets/illustration-connections-960.avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 63524,
+      "sha256": "e40477d3bbf01b44f2b96588561bd50f7b824df8c05ad0d8401535e736c9745f"
+    },
+    {
+      "file": "public/assets/illustration-connections-960.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 120376,
+      "sha256": "45fd455b818b114796de3029821c6680dbd5638d11fae95bc5490a3a3bd63991"
+    },
+    {
+      "file": "public/assets/illustration-tailored-480.avif",
+      "width": 480,
+      "height": 320,
+      "bytes": 27021,
+      "sha256": "8ffbb17d9349aed20c1002eac82f3a230d77a5ba1061a9049816211a6fe6aa14"
+    },
+    {
+      "file": "public/assets/illustration-tailored-480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 48412,
+      "sha256": "0efb0ef66f621160974512a8090624b192b8e81b519f44455044976fd47a5fb0"
+    },
+    {
+      "file": "public/assets/illustration-tailored-960.avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 76506,
+      "sha256": "c4c01f7fc4367b352f3be4b5436278079403ee7d7751f2a1993703d620283994"
+    },
+    {
+      "file": "public/assets/illustration-tailored-960.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 149856,
+      "sha256": "43ed0b3a6d0a7d732490c43be25172bb17b88b08aea143fbc42eda3a6b43ee92"
+    },
+    {
+      "file": "public/assets/illustration-ready-480.avif",
+      "width": 480,
+      "height": 320,
+      "bytes": 21484,
+      "sha256": "e5b068f8468012fad3dc6f8897afa2469bab74e5812d2f4d6a1d1f602b969859"
+    },
+    {
+      "file": "public/assets/illustration-ready-480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 37332,
+      "sha256": "8c731e07fb363f8316b586487f173e2db39e347c50b4f0cc5658dcebcdd6b28e"
+    },
+    {
+      "file": "public/assets/illustration-ready-960.avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 64115,
+      "sha256": "60e93816476e5629e140e34940e8c98860f61e8819f1bffabd2222f678df6194"
+    },
+    {
+      "file": "public/assets/illustration-ready-960.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 115830,
+      "sha256": "15be5dbea589f6cacfed2667985a70c65a2ca5940fe99d4268229159a04330af"
+    },
+    {
+      "file": "public/assets/screen-transcript-630.avif",
+      "width": 630,
+      "height": 1370,
+      "bytes": 44970,
+      "sha256": "f53b58c72c6ae654c95f07d24f6e4926f01943c5125551b6b021e6bb14040ac1"
+    },
+    {
+      "file": "public/assets/screen-transcript-630.webp",
+      "width": 630,
+      "height": 1370,
+      "bytes": 57168,
+      "sha256": "75e1db14e1a18cf9254cdedaa0bd1f0b9fb7b21699badec2888a79d622fa1d17"
+    },
+    {
+      "file": "public/assets/screen-transcript-960.avif",
+      "width": 960,
+      "height": 2087,
+      "bytes": 70335,
+      "sha256": "dc091b261d2475c134dfd5b5c3e410ae82a3fb8112aa07b3e8b877875a741b83"
+    },
+    {
+      "file": "public/assets/screen-transcript-960.webp",
+      "width": 960,
+      "height": 2087,
+      "bytes": 90330,
+      "sha256": "73f80831b9c8b4163efc118f7495dfb203247c8307e55222b578dbd711a7f260"
+    },
+    {
+      "file": "public/assets/screen-summary-630.avif",
+      "width": 630,
+      "height": 1370,
+      "bytes": 32170,
+      "sha256": "a6f7acbd23dfa6f651250443595ba5d815aca9ae317885fc50727d96862961cb"
+    },
+    {
+      "file": "public/assets/screen-summary-630.webp",
+      "width": 630,
+      "height": 1370,
+      "bytes": 38348,
+      "sha256": "f872c7d1e00e2b376c60d97526b4620de74ea8e2a2106402e764de26617e34a7"
+    },
+    {
+      "file": "public/assets/screen-summary-960.avif",
+      "width": 960,
+      "height": 2087,
+      "bytes": 48455,
+      "sha256": "b486ea55fda18f275e20d95a647fd2a4247c8c329e77628a46763ac7b7db8b9e"
+    },
+    {
+      "file": "public/assets/screen-summary-960.webp",
+      "width": 960,
+      "height": 2087,
+      "bytes": 61778,
+      "sha256": "9f16e106d28c03deb98590ece3a5035cd46774c42db5a9114698ffb9f9cedb99"
+    },
+    {
+      "file": "public/assets/screen-mind-map-630.avif",
+      "width": 630,
+      "height": 1370,
+      "bytes": 16097,
+      "sha256": "72be7a7749fad0daa82868bf101a2ca4c0143a57c8097fbbd20a46da209db653"
+    },
+    {
+      "file": "public/assets/screen-mind-map-630.webp",
+      "width": 630,
+      "height": 1370,
+      "bytes": 20770,
+      "sha256": "a0f0c72aa88cbc66df6bcd5fac15206fd17880ac1f58387c43a86dff39e827f3"
+    },
+    {
+      "file": "public/assets/screen-mind-map-960.avif",
+      "width": 960,
+      "height": 2087,
+      "bytes": 24797,
+      "sha256": "6921f72595c514d97e46deef085ad9d8723efb4ca932ee111c220d2b4f770240"
+    },
+    {
+      "file": "public/assets/screen-mind-map-960.webp",
+      "width": 960,
+      "height": 2087,
+      "bytes": 34138,
+      "sha256": "9c9be3b7dc72293cc711f43ff7e9b71b4363e97382cc67414fe5e9b22f67b7b3"
+    },
+    {
+      "file": "public/assets/screen-checklist-630.avif",
+      "width": 630,
+      "height": 1370,
+      "bytes": 32563,
+      "sha256": "fe58d99945d6dfe9d7650ac12b44be5bbfce17cd61609de3ee010d4e9de8f48b"
+    },
+    {
+      "file": "public/assets/screen-checklist-630.webp",
+      "width": 630,
+      "height": 1370,
+      "bytes": 39064,
+      "sha256": "19d26ce376d725fd0f552e1eaa5ef5d58dbf4cc21726bbd22506a59918628dce"
+    },
+    {
+      "file": "public/assets/screen-checklist-960.avif",
+      "width": 960,
+      "height": 2087,
+      "bytes": 49494,
+      "sha256": "e5fbc88d0224824fa78f251e33adf06f449f9fa63c690221214fe7acc7fa496c"
+    },
+    {
+      "file": "public/assets/screen-checklist-960.webp",
+      "width": 960,
+      "height": 2087,
+      "bytes": 62496,
+      "sha256": "551c5c718a1a1234c7f40b6dca1660ccbe3975b3caa4c58a4065de51e93bcc79"
+    },
+    {
+      "file": "public/assets/screen-quiz-630.avif",
+      "width": 630,
+      "height": 1370,
+      "bytes": 33715,
+      "sha256": "bdfa2eeac8611c98c3ee057bb4b087296a4d0329c6891e6461608bf842fda47b"
+    },
+    {
+      "file": "public/assets/screen-quiz-630.webp",
+      "width": 630,
+      "height": 1370,
+      "bytes": 44580,
+      "sha256": "53450209bae24bba0140d9c384ca4d9ad0d9988931b710101e355f2a9944bcd9"
+    },
+    {
+      "file": "public/assets/screen-quiz-960.avif",
+      "width": 960,
+      "height": 2087,
+      "bytes": 50380,
+      "sha256": "11e904dd3e09e79580173c7360d87c10a5e3a8675a73ea4b118f20f6b590904f"
+    },
+    {
+      "file": "public/assets/screen-quiz-960.webp",
+      "width": 960,
+      "height": 2087,
+      "bytes": 71304,
+      "sha256": "0b656558ba99f05e38b7f3b4444d3fe362978dadfcf69a8d4adcda4a7ecf54ab"
+    },
+    {
+      "file": "public/assets/screen-flashcards-630.avif",
+      "width": 630,
+      "height": 1370,
+      "bytes": 27416,
+      "sha256": "fd3456fe12ae96a3ddcd08fd91b80e29ca9d3add25473557a5c43d6fcc585672"
+    },
+    {
+      "file": "public/assets/screen-flashcards-630.webp",
+      "width": 630,
+      "height": 1370,
+      "bytes": 35964,
+      "sha256": "170b0b0f785e4633ad0696bd07d4aa2e2ba980c53f924231bcb9a85b994db3cc"
+    },
+    {
+      "file": "public/assets/screen-flashcards-960.avif",
+      "width": 960,
+      "height": 2087,
+      "bytes": 46138,
+      "sha256": "56bd6809da38d04f996a37a08cfcd5d7dfd8ad43a0f513145154b68f7b8aec38"
+    },
+    {
+      "file": "public/assets/screen-flashcards-960.webp",
+      "width": 960,
+      "height": 2087,
+      "bytes": 59108,
+      "sha256": "cb09a6d0cdeb6bc2dc16be4fd17b4cbacc1c73d1f9380fd9d784100c3d07a598"
+    }
+  ]
+}

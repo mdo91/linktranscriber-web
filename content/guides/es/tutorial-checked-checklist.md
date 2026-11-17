@@ -4,7 +4,7 @@ description: "Separa requisitos, pasos condicionales y comprobaciones del result
 slug: "tutorial-checked-checklist"
 locale: "es"
 publishedAt: "2026-10-23"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "crear lista de pasos de un tutorial en vídeo"
 topics: ["crear lista de pasos de un tutorial en vídeo", "Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "summarize-video-transcript-iph
 translationKey: "tutorial-checked-checklist"
 ---
 
-Para crear una lista de pasos de un tutorial en vídeo, obtén la transcripción en Damas, contrástala con la grabación y escribe una acción observable por elemento. Separa los requisitos previos y las ramas condicionales. La lista se prepara a mano o, de forma opcional, copiando el texto revisado en otro LLM. Damas aporta transcripción, resumen, edición y copia de texto.
+Para crear una lista de pasos de un tutorial de YouTube, obtén y revisa la transcripción en Damas y genera una lista de acciones o una guía paso a paso en la app. Indica tu objetivo como contexto y elige el idioma de salida. Comprueba cada acción en el vídeo y separa requisitos previos, pasos condicionales e información ausente.
+
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
 
 ## Prepara la fuente y el texto
 
-Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Procesa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública inaccesible también puede fallar.
+Damas admite enlaces de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Procesa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública inaccesible también puede fallar.
 
 1. Abre el tutorial en la plataforma original y conserva el enlace y el título en tus notas.
 2. Facilita el enlace compatible en Damas. Sigue las indicaciones actuales de transcripción y lee el consentimiento de IA.
@@ -42,14 +44,14 @@ Este ejemplo didáctico es inventado y no cita un vídeo real. Imagina que el tu
 
 En tu lista real, utiliza solo comprobaciones respaldadas por el vídeo. No inventes responsables, plazos, hechos ni citas ausentes de la fuente.
 
-## Opcional: instrucción para otro LLM
+## Orienta el resultado de IA en Damas
 
-Comparte el texto con ese servicio solo si tienes permiso. Es un paso externo de redacción, sin integración con Damas ni función automática de listas. Ejemplo para copiar:
+Elige la herramienta de IA adecuada en Damas e indica el tema, el público o el contexto y el idioma de salida. El ejemplo siguiente ilustra un contexto centrado en la fuente; revisa el resultado con la transcripción y el vídeo. Conserva la transcripción original y guarda el resultado de IA por separado.
 
 > Utiliza solo esta transcripción revisada. Separa requisitos previos, acciones ordenadas y ramas condicionales. Para cada acción incluye el pasaje que la respalda y una comprobación del resultado solo si se indica. Marca las lagunas como «no se menciona». No inventes configuraciones, responsables, plazos, hechos ni citas. Separa la revisión de la fuente de la ejecución de la tarea. Fuente: [enlace]. Texto: [transcripción].
 
 Revisa cada propuesta en el vídeo. La [guía de transcripción](/es/guides/transcribe-social-video-link-iphone/) explica el inicio; la [guía de resumen](/es/guides/summarize-video-transcript-iphone/) ayuda con la visión general. Para otro idioma, usa la [traducción de texto](/es/guides/translate-social-video-iphone/) y contrasta los términos técnicos con el original.
 
-Guarda el enlace con la lista final. El tiempo y la precisión varían. Damas no descarga archivos multimedia, no incrusta subtítulos ni procesa sin conexión. Premium no vuelve accesible una fuente que no está disponible.
+Guarda el enlace con la lista final. El tiempo y la precisión varían. Damas no descarga archivos multimedia, no incrusta subtítulos ni procesa sin conexión.
 
 Damas Technologies LLC

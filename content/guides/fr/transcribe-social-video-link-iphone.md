@@ -4,7 +4,7 @@ description: "Transcrivez un lien vidéo public de YouTube, Instagram ou X en te
 slug: "transcribe-social-video-link-iphone"
 locale: "fr"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "transcrire vidéo en texte"
 topics: ["transcrire une vidéo en texte", "transcription vidéo", "iPhone"]
@@ -15,11 +15,13 @@ translationKey: "transcribe-social-video-link-iphone"
 
 Pour transcrire une vidéo en texte sur iPhone, copiez un lien public compatible de YouTube, Instagram ou X dans Damas, puis utilisez le parcours de transcription. Vous obtenez une version écrite de la parole à vérifier avec la vidéo avant de modifier ou copier vos notes.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Vérifier la vidéo avant de commencer
 
 Choisissez une vidéo publique à la demande de 90 minutes maximum. Les contenus privés, soumis à des restrictions et en direct ne sont pas pris en charge. Ne traitez que des contenus pour lesquels vous avez l’autorisation nécessaire : un lien accessible ne constitue pas, à lui seul, une permission.
 
-Damas nécessite iOS 18.6 ou ultérieur, une connexion Internet, Premium et le consentement au traitement par IA. Vérifiez ces conditions avant d’envoyer une longue vidéo.
+Vérifiez ces conditions avant d’envoyer une longue vidéo.
 
 ## Du lien à la transcription
 

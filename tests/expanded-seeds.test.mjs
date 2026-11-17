@@ -26,10 +26,10 @@ const capabilities = {
   tr: [/metne çevir|yazıya çevir|döküm|transkripsiyon/iu, /çeviri|videosunu çevirme|konuşmayı çevirme/iu, /özet/iu],
 };
 
-test('each language researches all three supported tasks on each public platform within two seed batches', () => {
+test('each language researches all three supported tasks on each public platform with bounded twenty-seed requests', () => {
   assert.equal(markets.length, 11);
   for (const { locale, seeds } of markets) {
-    assert.ok(seeds.length > 20 && seeds.length <= 40, `${locale}: two seed batches`);
+    assert.ok(seeds.length > 40 && seeds.length <= 60, `${locale}: expanded feature seed coverage`);
     assert.equal(new Set(seeds.map(keywordKey)).size, seeds.length, `${locale}: distinct seeds`);
     for (const [platform, source] of Object.entries(platforms)) {
       for (const [index, capability] of capabilities[locale].entries()) {
@@ -38,6 +38,29 @@ test('each language researches all three supported tasks on each public platform
     }
     assert.ok(seeds.some((seed) => /70/u.test(seed)), `${locale}: verified translation-language count`);
     assert.ok(seeds.some((seed) => /90/u.test(seed)), `${locale}: supported lecture length`);
+  }
+});
+
+
+const newCapabilities = {
+  en: [/mind map/iu, /study guide/iu, /quiz/iu, /flashcard/iu, /step by step/iu],
+  fr: [/carte mentale/iu, /guide d’étude/iu, /quiz/iu, /cartes de révision/iu, /étape par étape/iu],
+  de: [/mindmap/iu, /lernleitfaden/iu, /quiz/iu, /karteikarten/iu, /schritt für schritt/iu],
+  ja: [/マインドマップ/u, /学習ガイド/u, /クイズ/u, /暗記カード/u, /手順ガイド/u],
+  ko: [/마인드맵/u, /학습 가이드/u, /퀴즈/u, /플래시카드/u, /단계별 가이드/u],
+  ms: [/peta minda/iu, /panduan belajar/iu, /kuiz/iu, /kad imbas/iu, /langkah demi langkah/iu],
+  pt: [/mapa mental/iu, /guia de estudo/iu, /quiz/iu, /cartões de estudo/iu, /passo a passo/iu],
+  ru: [/интеллект карт/iu, /учебное руководство/iu, /создать тест/iu, /карточки/iu, /пошаговое руководство/iu],
+  'zh-hans': [/思维导图/u, /学习指南/u, /测验/u, /闪卡/u, /分步指南/u],
+  es: [/mapa mental/iu, /guía de estudio/iu, /cuestionario/iu, /tarjetas de estudio/iu, /paso a paso/iu],
+  tr: [/zihin haritası/iu, /çalışma rehberi/iu, /test oluşturma/iu, /bilgi kartları/iu, /adım adım/iu],
+};
+
+test('each language researches the new native planning and study tools', () => {
+  for (const { locale, seeds } of markets) {
+    for (const capability of newCapabilities[locale]) {
+      assert.ok(seeds.some(seed => capability.test(seed)), `${locale}: missing new tool ${capability}`);
+    }
   }
 });
 
@@ -71,13 +94,13 @@ test('expanded plans send every seed once per operation with matching worldwide 
     };
     const options = { now, directory, call, settings: { customerId: '1234567890', accessStatus: 'ready' } };
     assert.equal((await collectKeywords(locale, options)).status, 'ready');
-    assert.equal(calls.length, 4, `${locale}: two idea and two historical fixture requests`);
+    assert.equal(calls.length, 2 * Math.ceil(plan.seeds.length / 20), `${locale}: complete bounded idea and historical requests`);
     for (const suffix of ['generateKeywordIdeas', 'generateKeywordHistoricalMetrics']) {
       const supplied = calls.filter(({ operation }) => operation.endsWith(suffix)).flatMap(({ args }) => args.keywords);
       assert.deepEqual(supplied, plan.seeds, `${locale}: complete ${suffix} seed coverage`);
     }
     assert.equal(loadKeywordCache(locale, now, directory).seedFingerprint, plan.seedFingerprint);
     assert.equal((await collectKeywords(locale, options)).reusedCache, true);
-    assert.equal(calls.length, 4, `${locale}: unchanged fingerprint makes no further request`);
+    assert.equal(calls.length, 2 * Math.ceil(plan.seeds.length / 20), `${locale}: unchanged fingerprint makes no further request`);
   }
 });

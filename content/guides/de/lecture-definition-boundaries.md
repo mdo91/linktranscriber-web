@@ -4,7 +4,7 @@ description: "Fassen Sie eine Definition mit ihren Bedingungen zusammen und unte
 slug: "lecture-definition-boundaries"
 locale: "de"
 publishedAt: "2026-11-14"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Wie kann ich eine Definition aus einer YouTube-Vorlesung zusammenfassen, um passende Beispiele zu erkennen?"
 topics: ["Vorlesungszusammenfassungen und Definitionen"]
@@ -15,9 +15,11 @@ translationKey: "lecture-definition-boundaries"
 
 Um eine Definition aus einer Vorlesung zusammenzufassen, finden Sie mit Damas-Transkript und integrierter Zusammenfassung die vollständige Erklärung. Notieren Sie die tatsächlich genannten Bedingungen und prüfen Sie jeden Fall daran. Unterscheiden Sie: passt zur Definition, scheitert an einer Anforderung oder bleibt wegen fehlender Angaben offen. Diese Tabelle erstellen Sie selbst aus bearbeitbarem, kopierbarem Text.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Die vollständige Erklärung vorbereiten
 
-Damas unterstützt geeignete öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten Sie nur erlaubte Inhalte. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch eine öffentliche Quelle kann unzugänglich sein.
+Damas unterstützt geeignete öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten Sie nur erlaubte Inhalte. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch eine öffentliche Quelle kann unzugänglich sein.
 
 1. Bewahren Sie Link und Titel auf und wählen Sie einen Begriff.
 2. Geben Sie den unterstützten Link in Damas ein. Folgen Sie den aktuellen Hinweisen zu Transkription und integrierter Zusammenfassung; lesen Sie die KI-Einwilligung.
@@ -57,6 +59,6 @@ Bewahren Sie Kurzdefinition, Belegstellen, Tabelle und Quelllink zusammen auf. V
 
 Ein externes LLM ist nicht nötig. Optionale Formatierung in einem anderen LLM erfordert Erlaubnis zur Textweitergabe und Prüfung jeder Bedingung; sie ist keine Damas-Integration. Für genaue Worte hilft die [Zitatprüfung](/de/guides/verify-interview-quotes/), für fremdsprachige Quellen die [Übersetzung](/de/guides/translate-social-video-iphone/) mit Sinnkontrolle.
 
-Genauigkeit und Dauer schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Zugangssperren. Bleibt die Aufnahme unzugänglich, bleiben unvollständige Prüfungen offen. Beachten Sie die Nutzungsrechte.
+Genauigkeit und Dauer schwanken. Damas lädt keine Medien herunter, importiert keine Dateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Bleibt die Aufnahme unzugänglich, bleiben unvollständige Prüfungen offen. Beachten Sie die Nutzungsrechte.
 
 Damas Technologies LLC

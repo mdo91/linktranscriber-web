@@ -4,7 +4,7 @@ description: "Susun prasyarat, langkah bersyarat dan semakan hasil daripada tran
 slug: "tutorial-checked-checklist"
 locale: "ms"
 publishedAt: "2026-10-23"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "buat senarai semak daripada tutorial video"
 topics: ["buat senarai semak daripada tutorial video", "Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "summarize-video-transcript-iph
 translationKey: "tutorial-checked-checklist"
 ---
 
-Untuk membuat senarai semak daripada tutorial video, dapatkan transkrip dalam Damas, semak dengan video asal, kemudian tulis satu tindakan yang boleh diperhatikan bagi setiap item. Asingkan prasyarat dan langkah bersyarat. Anda boleh menyediakan senarai secara manual atau menyalin teks yang disemak ke LLM lain sebagai langkah pilihan. Damas menyediakan transkripsi, ringkasan, penyuntingan dan penyalinan teks.
+Untuk membuat senarai semak daripada tutorial YouTube, dapatkan dan semak transkrip dalam Damas, kemudian hasilkan senarai semak tindakan atau panduan langkah demi langkah dalam app. Nyatakan matlamat sebagai konteks dan pilih bahasa hasil. Semak setiap tindakan dengan video serta asingkan prasyarat, langkah bersyarat dan maklumat yang tiada.
+
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
 
 ## Sediakan sumber dan transkrip
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Pada iPhone, iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI diperlukan. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam yang tidak boleh diakses juga boleh gagal.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Proses hanya bahan yang dibenarkan. Video peribadi, terhad dan langsung tidak disokong; sumber awam yang tidak boleh diakses juga boleh gagal.
 
 1. Buka tutorial pada platform asal dan simpan pautan serta tajuknya dalam nota kerja.
 2. Masukkan pautan yang disokong dalam Damas. Ikut arahan transkripsi semasa dan baca persetujuan AI.
@@ -42,14 +44,14 @@ Ini contoh pengajaran rekaan, bukan petikan video sebenar. Bayangkan tutorial me
 
 Gunakan semakan itu dalam kes sebenar hanya jika disokong sumber. Jangan cipta pemilik tugas, tarikh akhir, fakta atau petikan yang tiada dalam video.
 
-## Pilihan: arahan untuk LLM lain
+## Pandu hasil AI dalam Damas
 
-Kongsi transkrip dengan perkhidmatan lain hanya jika anda berhak berbuat demikian. Ini langkah draf luaran, bukan integrasi Damas atau ciri senarai semak automatik. Contoh untuk disalin:
+Pilih alat AI yang sesuai dalam Damas dan nyatakan topik, khalayak atau konteks serta bahasa hasil. Contoh berikut menunjukkan konteks berasaskan sumber; semak hasil dengan transkrip dan video. Kekalkan transkrip asal dan simpan hasil AI secara berasingan.
 
 > Gunakan transkrip yang disemak ini sahaja. Asingkan prasyarat, tindakan mengikut urutan dan cabang bersyarat. Sertakan petikan sokongan bagi setiap tindakan dan semakan hasil hanya jika dinyatakan. Tandakan maklumat hilang “tidak dinyatakan”. Jangan cipta tetapan, pemilik tugas, tarikh akhir, fakta atau petikan. Asingkan status semakan sumber daripada penyelesaian tugas. Sumber: [pautan]. Transkrip: [teks].
 
 Semak setiap cadangan dengan video. Untuk bermula, baca [panduan transkripsi](/ms/guides/transcribe-social-video-link-iphone/); untuk gambaran keseluruhan, lihat [panduan ringkasan](/ms/guides/summarize-video-transcript-iphone/). Bagi bahasa lain, gunakan [terjemahan teks](/ms/guides/translate-social-video-iphone/) dan bandingkan label teknikal dengan sumber asal.
 
-Simpan pautan bersama senarai akhir. Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian. Premium tidak menjadikan sumber yang tidak boleh diakses tersedia.
+Simpan pautan bersama senarai akhir. Masa dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian.
 
 Damas Technologies LLC

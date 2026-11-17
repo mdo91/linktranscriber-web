@@ -4,7 +4,7 @@ description: "Use uma aula resumida como ponto de partida para explicar um conce
 slug: "bilingual-lecture-recall"
 locale: "pt"
 publishedAt: "2026-11-12"
-updatedAt: "2026-11-12"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Como resumir uma aula em vídeo em notas bilíngues e testar a compreensão nos dois idiomas?"
 topics: ["Resumo e estudo bilíngue"]
@@ -13,11 +13,13 @@ related: ["summarize-video-transcript-iphone","translate-social-video-iphone","t
 translationKey: "bilingual-lecture-recall"
 ---
 
-Para resumir uma aula em vídeo em notas bilíngues, escolha um conceito com o resumo do Damas e confira sua explicação completa na transcrição e na tradução. Depois explique a ideia sem olhar a resposta no outro idioma e repita no sentido inverso. Compare as duas tentativas com a fonte para decidir se precisa rever uma palavra ou o próprio conceito. As notas e o exercício são feitos manualmente.
+Para estudar, prepare transcrição e tradução no Damas e crie um guia de estudo, um teste com respostas explicadas ou cartões de pergunta e resposta. Escolha o idioma e indique o conceito ou público como contexto. Confira cada resposta na explicação original. O exercício bilíngue abaixo continua sendo sua prática pessoal, sem promessa de avaliação automática.
+
+No iPhone, use iOS 18.6 ou posterior e internet. Inicie sessão com a Apple para processamento online e compras e confira o consentimento de IA. O processamento usa minutos de mídia e créditos Insight: confira saldos, histórico e custo antes de confirmar. Os planos e pacotes adicionais opcionais aparecem no app.
 
 ## Prepare a aula e os textos
 
-O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. No iPhone, exige iOS 18.6 ou posterior, internet, Premium e consentimento para processamento por IA. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem ficar inacessíveis.
+O Damas aceita links de vídeos públicos sob demanda do YouTube, Instagram e X de até 90 minutos. Processe apenas material autorizado. Vídeos privados, restritos e ao vivo não são compatíveis; fontes públicas também podem ficar inacessíveis.
 
 1. Escreva uma pergunta de estudo e guarde o link e o título da aula.
 2. Forneça o link compatível ao Damas. Siga as instruções atuais para transcrição no idioma original, resumo integrado e tradução para um idioma disponível. Leia o consentimento de IA.
@@ -50,10 +52,10 @@ Se a tentativa de volta virar “escolher uma opção e depois comparar”, a or
 
 Corrija apenas a parte afetada e tente novamente nos dois sentidos. Guarde os erros como observações de estudo, sem nota automática ou diagnóstico de capacidade. Não acrescente exemplos, explicações ou citações inexistentes como se fossem do professor.
 
-Não é necessário outro LLM. Uma formatação opcional em outro LLM exige permissão para compartilhar o texto e revisão de cada sugestão. É uma etapa externa, sem integração com o Damas, cartões automáticos ou avaliação automática.
+O Damas oferece resumos, mapas mentais editáveis, listas de ações, guias passo a passo, guias de estudo, testes com respostas explicadas e cartões de pergunta e resposta. Informe tema, público ou contexto e escolha o idioma. Confira cada relação ou resposta na fonte; os métodos detalhados de comparação e revisão deste guia ainda exigem seu julgamento.
 
 Para conferir o material de partida, veja a [tradução](/pt/guides/translate-social-video-iphone/) e a [comparação de sentido](/pt/guides/transcript-translation-meaning-check/). Mantenha o link com as notas copiadas e respeite os direitos de reutilização. Se a fonte ficar inacessível, as verificações incompletas continuam pendentes.
 
-Tempo e precisão variam. O Damas não baixa mídia, não importa arquivos, não dubla vozes, não incorpora legendas e não processa sem internet. Premium não contorna restrições de acesso.
+Tempo e precisão variam. O Damas não baixa mídia, não importa arquivos, não dubla vozes, não incorpora legendas e não processa sem internet.
 
 Damas Technologies LLC

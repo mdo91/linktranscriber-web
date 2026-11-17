@@ -4,7 +4,7 @@ description: "Turn a public YouTube, Instagram or X video link into text with Da
 slug: "transcribe-social-video-link-iphone"
 locale: "en"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "video link to text"
 topics: ["video link to text", "video transcription", "iPhone"]
@@ -15,11 +15,13 @@ translationKey: "transcribe-social-video-link-iphone"
 
 To turn a video link into text on iPhone, copy a supported public YouTube, Instagram or X link into Damas and use the transcription workflow. The result is a written transcript of the speech, which you can review against the video before editing or copying your notes.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Check the video before you start
 
 Choose an on-demand video that is publicly available and no longer than 90 minutes. Private videos, restricted content and live streams are not supported. Use only content you have permission to process: being able to open a link does not establish that permission.
 
-Damas requires iOS 18.6 or later, an internet connection, Premium and consent for AI processing. Check these requirements before you submit a long video.
+Check these requirements before you submit a long video.
 
 ## From link to transcript
 

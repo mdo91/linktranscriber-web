@@ -4,7 +4,7 @@ description: "Trennen Sie geprüfte Sprache, Beitragstext und fehlenden Kontext 
 slug: "x-summary-post-context"
 locale: "de"
 publishedAt: "2026-10-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "X Video zusammenfassen ohne den Zusammenhang zu verlieren"
 topics: ["Kontext eines X-Videos"]
@@ -15,9 +15,11 @@ translationKey: "x-summary-post-context"
 
 Um ein X-Video zusammenzufassen, ohne den Zusammenhang zu verlieren, erstellen Sie mit Damas ein Transkript und eine integrierte Zusammenfassung. Prüfen Sie danach den Clip getrennt vom Beitragstext. Halten Sie fest, was die Person sagt, was das veröffentlichende Konto ergänzt und was der Clip nicht belegt. Damas liefert bearbeitbaren und kopierbaren Text; die Zuordnung führen Sie selbst durch.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Clip und Überblick vorbereiten
 
-Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Medien können unzugänglich sein.
+Damas unterstützt öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Verarbeiten Sie nur erlaubtes Material. Private, eingeschränkte und Live-Videos sind ausgeschlossen; auch öffentliche Medien können unzugänglich sein.
 
 1. Öffnen Sie den X-Beitrag und behalten Sie den Originallink. Lesen Sie den Beitragstext selbst. Lassen Sie offen, ob das Konto eine eigene Aufnahme oder einen fremden Clip teilt, wenn dies nicht feststellbar ist.
 2. Geben Sie den unterstützten Videolink in Damas ein. Folgen Sie den aktuellen Hinweisen zu Transkription und integrierter Zusammenfassung und lesen Sie die KI-Einwilligung.
@@ -48,6 +50,6 @@ Ein externes LLM ist nicht nötig. Lassen Sie kopierten Text optional anders for
 
 Die [Transkription](/de/guides/transcribe-social-video-link-iphone/) liefert den vollständigen Text. Die [Zusammenfassung](/de/guides/summarize-video-transcript-iphone/) erklärt den Überblick; vor wörtlicher Weitergabe hilft die [Zitatprüfung](/de/guides/verify-interview-quotes/).
 
-Dauer und Genauigkeit hängen von Quelle, Ton und Verbindung ab. Damas lädt keine Medien herunter, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Zugangsbeschränkung. Wird der Clip unzugänglich, bleiben unvollständige Prüfungen offen. Beachten Sie beim Teilen Ihre Nutzungsrechte.
+Dauer und Genauigkeit hängen von Quelle, Ton und Verbindung ab. Damas lädt keine Medien herunter, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Wird der Clip unzugänglich, bleiben unvollständige Prüfungen offen. Beachten Sie beim Teilen Ihre Nutzungsrechte.
 
 Damas Technologies LLC

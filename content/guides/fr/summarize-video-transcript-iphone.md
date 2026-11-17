@@ -4,7 +4,7 @@ description: "Résumez une vidéo à partir de sa transcription avec Damas sur i
 slug: "summarize-video-transcript-iphone"
 locale: "fr"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "résumer une vidéo"
 topics: ["résumer une vidéo", "résumé de transcription", "iPhone"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "translate-social-video-iphone"
 translationKey: "summarize-video-transcript-iphone"
 ---
 
-Pour résumer une vidéo sur iPhone, partez d’un lien public compatible dans Damas, puis utilisez les parcours de transcription et de résumé. Comparez le texte court à la transcription : il doit conserver les idées principales sans effacer les conditions ou les désaccords qui en changent le sens.
+Pour résumer une vidéo publique compatible dans Damas, créez une transcription puis choisissez un résumé court ou détaillé, de style Standard ou Professionnel. Précisez le sujet, le public ou le contexte et la langue de sortie. Conservez la transcription originale et enregistrez le résultat IA séparément, puis vérifiez les détails à la source. Damas propose aussi des guides d’étude, des quiz avec réponses expliquées et des cartes question-réponse.
+
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
 
 ## Choisir une source compatible
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Les contenus privés, restreints et en direct sont exclus. Il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Envoyez uniquement des contenus que vous êtes autorisé à traiter.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Les contenus privés, restreints et en direct sont exclus. Envoyez uniquement des contenus que vous êtes autorisé à traiter.
 
 Si la transcription comporte des passages incertains, comparez-les d’abord à l’enregistrement. Résumer un texte erroné peut reproduire les mêmes erreurs en moins de mots.
 

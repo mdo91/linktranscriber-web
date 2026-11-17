@@ -4,7 +4,7 @@ description: "Build a tutorial checklist with prerequisites, conditional steps a
 slug: "tutorial-checked-checklist"
 locale: "en"
 publishedAt: "2026-10-23"
-updatedAt: "2026-10-23"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "turn a youtube tutorial into a checklist"
 topics: ["turn a youtube tutorial into a checklist", "Damas"]
@@ -13,11 +13,13 @@ related: ["transcribe-social-video-link-iphone", "summarize-video-transcript-iph
 translationKey: "tutorial-checked-checklist"
 ---
 
-To turn a YouTube tutorial into a checklist, obtain an editable transcript in Damas, check it against the video, then write one observable action per item. Keep prerequisites and conditional branches separate. You can prepare the checklist manually or optionally copy the checked transcript into another LLM; Damas itself provides transcription, summaries, editing and copying.
+To turn a YouTube tutorial into a checklist, obtain and review its transcript in Damas, then create an action checklist or step-by-step guide in the app. Add your goal as context and choose the output language. Check each proposed action against the video, keeping prerequisites, conditional steps and missing information distinct.
+
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
 
 ## Prepare the source
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone it requires iOS 18.6 or later, internet, Premium and AI processing consent. Only process material you are authorized to use. Private, restricted and live videos are unsupported; inaccessible public sources can also fail.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Only process material you are authorized to use. Private, restricted and live videos are unsupported; inaccessible public sources can also fail.
 
 1. Open the tutorial on its original platform and retain its link and title in your working note.
 2. Paste the supported link into Damas. Follow the current app instructions for transcription and review the AI consent.
@@ -42,14 +44,14 @@ This is a fictional teaching example, not a quotation from a real video. Suppose
 
 Use these checks only if the real source supports them. Never add owners, deadlines, facts or quotations absent from the source. Keep the original intact while checking your own result.
 
-## Optional copy/paste prompt for another LLM
+## Guide the AI result in Damas
 
-Only share the transcript with another service if you have permission. This is an external drafting step, not a Damas integration or automatic checklist feature.
+Choose the relevant AI tool in Damas and use a topic, audience or context to guide the result, with your preferred output language. The following example shows the kind of source-focused context you can supply; review the generated result against the transcript and video. Keep the original transcript and save the AI output separately.
 
 > Use only this checked tutorial transcript to draft a checklist. Separate prerequisites, ordered actions and conditional branches. For each action include the supporting passage and a completion check only if stated. Mark missing information “not stated.” Do not invent settings, owners, deadlines, facts or quotations. Keep source-review status separate from task completion. Source link: [link]. Transcript: [text].
 
 Replay the source for every proposed item before using it. For the initial text, follow [video transcription](/guides/transcribe-social-video-link-iphone/); for a shorter orientation, see [summaries](/guides/summarize-video-transcript-iphone/). For another language, use [text translation](/guides/translate-social-video-iphone/) and verify technical labels against the original.
 
-Processing time and accuracy vary. Damas does not download media, embed subtitles or process offline. Premium cannot make an inaccessible source available. Keep the source link with the final checklist so unresolved items can be revisited.
+Processing time and accuracy vary. Damas does not download media, embed subtitles or process offline. Keep the source link with the final checklist so unresolved items can be revisited.
 
 Damas Technologies LLC

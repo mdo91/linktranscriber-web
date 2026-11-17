@@ -4,7 +4,7 @@ description: "Untuk menyediakan ringkasan webinar mengikut soal jawab, dapatkan 
 slug: "webinar-questions-answers"
 locale: "ms"
 publishedAt: "2026-10-26"
-updatedAt: "2026-10-26"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "ringkasan webinar"
 topics: ["ringkasan webinar","Damas"]
@@ -15,9 +15,11 @@ translationKey: "webinar-questions-answers"
 
 Untuk menyediakan ringkasan webinar mengikut soal jawab, dapatkan transkrip dan ringkasan terbina dalam Damas, kemudian padankan setiap soalan sebenar dengan jawapannya. Tandakan jawapan separa dan soalan yang belum dijawab. Rekod ini disusun secara manual daripada teks yang boleh disunting dan disalin; Damas tidak menghasilkan format khas ini secara automatik.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Mulakan dengan sumber yang disokong
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong. Anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Hantar hanya kandungan yang anda berhak proses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X sehingga 90 minit. Kandungan peribadi, terhad dan langsung tidak disokong. Hantar hanya kandungan yang anda berhak proses.
 
 ## Hasilkan gambaran yang berguna
 
@@ -47,6 +49,6 @@ Bandingkan setiap rekod dengan video: adakah jawapan sepadan dengan soalan dan m
 
 Simpan pautan asal, tajuk dan soalan terbuka bersama rekod. Mulakan dengan [transkripsi](/ms/guides/transcribe-social-video-link-iphone/). [Ringkasan umum](/ms/guides/summarize-video-transcript-iphone/) membantu orientasi; untuk mencadangkan kerja selepas itu, gunakan [panduan tindakan webinar](/ms/guides/webinar-checked-actions/).
 
-Masa pemprosesan dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian. Premium tidak menjadikan sumber yang tidak boleh diakses tersedia. Jika rakaman hilang, semakan yang belum selesai kekal terbuka.
+Masa pemprosesan dan ketepatan berbeza-beza. Damas tidak memuat turun media, membenamkan sari kata atau memproses di luar talian. Jika rakaman hilang, semakan yang belum selesai kekal terbuka.
 
 Damas Technologies LLC

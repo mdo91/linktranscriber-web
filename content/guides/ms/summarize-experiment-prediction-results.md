@@ -4,7 +4,7 @@ description: "Asingkan ramalan, pemerhatian sebenar dan penjelasan pensyarah sup
 slug: "summarize-experiment-prediction-results"
 locale: "ms"
 publishedAt: "2026-11-15"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Bagaimana meringkaskan eksperimen dalam kuliah YouTube tanpa mencampurkan ramalan dengan hasil?"
 topics: ["Ringkasan eksperimen"]
@@ -15,9 +15,11 @@ translationKey: "summarize-experiment-prediction-results"
 
 Untuk meringkaskan eksperimen dalam kuliah YouTube, gunakan transkrip dan ringkasan terbina dalam Damas untuk mencari demonstrasi, kemudian asingkan ramalan, pemerhatian dan penjelasan. Bandingkan hasil dengan ramalan sebelum menulis ringkasan akhir. Rekod eksperimen ini dibuat secara manual; Damas menyediakan teks yang boleh dibaca, disunting dan disalin.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan demonstrasi penuh
 
-Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X yang serasi, sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Gunakan hanya bahan yang anda berhak proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak dapat diakses.
+Damas menyokong pautan video awam atas permintaan YouTube, Instagram dan X yang serasi, sehingga 90 minit. Gunakan hanya bahan yang anda berhak proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak dapat diakses.
 
 1. Simpan pautan asal serta tajuk dan pilih satu eksperimen.
 2. Masukkan pautan yang disokong dalam Damas. Ikuti arahan semasa untuk transkripsi dan ringkasan terbina dalam serta baca persetujuan AI.
@@ -56,6 +58,6 @@ Semak percubaan, syarat, ramalan, pemerhatian, perbandingan, pemberi penjelasan 
 
 LLM luaran tidak diperlukan. Pemformatan pilihan dalam LLM lain memerlukan kebenaran berkongsi teks dan semakan semua hasil; ini langkah luaran, bukan integrasi Damas. Untuk penjelasan lebih luas, rujuk [peta dakwaan dan alasan](/ms/guides/lecture-argument-map/). Sebelum memetik, gunakan [semakan petikan](/ms/guides/verify-interview-quotes/).
 
-Masa dan ketepatan berubah-ubah. Ringkasan yang setia tidak mengesahkan kesahan eksperimen secara bebas. Damas tidak memuat turun media, mengimport fail video, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan. Jika sumber tidak boleh diakses, biarkan semakan belum selesai terbuka dan kongsi dalam batas hak penggunaan semula.
+Masa dan ketepatan berubah-ubah. Ringkasan yang setia tidak mengesahkan kesahan eksperimen secara bebas. Damas tidak memuat turun media, mengimport fail video, mengalih suara, membenamkan sari kata atau memproses di luar talian. Jika sumber tidak boleh diakses, biarkan semakan belum selesai terbuka dan kongsi dalam batas hak penggunaan semula.
 
 Damas Technologies LLC

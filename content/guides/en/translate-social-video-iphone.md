@@ -4,7 +4,7 @@ description: "Translate a public YouTube video's speech into text with Damas on 
 slug: "translate-social-video-iphone"
 locale: "en"
 publishedAt: "2026-10-20"
-updatedAt: "2026-10-20"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "translate youtube video"
 topics: ["YouTube video translation", "social media video", "iPhone"]
@@ -15,9 +15,11 @@ translationKey: "translate-social-video-iphone"
 
 To translate a YouTube video on iPhone with Damas, provide an eligible public video link and choose a target language in the translation workflow. Damas turns speech into translated text in one of 70 languages; supported public Instagram and X video links use the same workflow. Review the meaning against the source before relying on it.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare a suitable link
 
-The video must be public, available on demand and no longer than 90 minutes. Private, restricted and live content is not supported. Damas needs iOS 18.6 or later, internet access, Premium and consent for AI processing.
+The video must be public, available on demand and no longer than 90 minutes. Private, restricted and live content is not supported.
 
 The app has 11 interface languages. That list is separate from the 70 translation languages: changing the interface is not the same task as choosing the language of your translated text.
 

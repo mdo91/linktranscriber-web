@@ -4,7 +4,7 @@ description: "Pour relever les thèmes et les contradictions d’une interview v
 slug: "interview-theme-matrix"
 locale: "fr"
 publishedAt: "2026-10-30"
-updatedAt: "2026-10-30"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "relever les thèmes et les contradictions d’une interview vidéo"
 topics: ["Thèmes et points de vue"]
@@ -15,9 +15,11 @@ translationKey: "interview-theme-matrix"
 
 Pour relever les thèmes et les contradictions d’une interview vidéo, préparez une transcription dans Damas, puis rassemblez les positions de chaque personne dans un tableau par thème. Conservez les passages justificatifs et comparez leurs conditions avant de conclure à un désaccord. Le résumé intégré aide à vous orienter ; le tableau et la synthèse restent votre travail manuel, à partir du texte modifiable et copiable.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer la source
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Ne soumettez que des contenus que vous êtes autorisé à traiter. Les sources privées, restreintes, en direct ou inaccessibles ne conviennent pas ; un lien public ne garantit pas le traitement.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X, jusqu’à 90 minutes. Ne soumettez que des contenus que vous êtes autorisé à traiter. Les sources privées, restreintes, en direct ou inaccessibles ne conviennent pas ; un lien public ne garantit pas le traitement.
 
 1. Ouvrez l’interview sur sa plateforme et conservez son lien et son titre.
 2. Fournissez le lien compatible dans Damas et utilisez la transcription en suivant les indications actuelles et le consentement IA.

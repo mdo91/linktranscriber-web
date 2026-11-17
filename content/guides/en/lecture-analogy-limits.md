@@ -4,7 +4,7 @@ description: "Map the two sides of a lecture analogy, preserve its limits and wr
 slug: "lecture-analogy-limits"
 locale: "en"
 publishedAt: "2026-11-16"
-updatedAt: "2026-11-16"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "How can I summarize an analogy in a video lecture without treating it as proof?"
 topics: ["Lecture analogies"]
@@ -15,9 +15,11 @@ translationKey: "lecture-analogy-limits"
 
 To summarize an analogy in a video lecture, use the Damas transcript and built-in summary to find the complete comparison, then map only the relationships the lecturer explains. State what the analogy helps explain and where it stops. You create the mapping and final paragraph manually from text Damas lets you read, edit and copy.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the complete comparison
 
-Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, you need iOS 18.6 or later, internet, Premium and consent for AI processing. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public sources can also be inaccessible.
+Damas supports public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process only material you are authorized to use. Private, restricted and live videos are unsupported; public sources can also be inaccessible.
 
 1. Keep the original link and lecture title. Choose one analogy you want to understand.
 2. Provide the supported link in Damas and follow the current transcription and built-in summary instructions, reviewing AI consent.
@@ -53,6 +55,6 @@ Before copying the note, check both sides, every relationship, the stated limits
 
 No external LLM is required. Optional formatting in another LLM requires permission to share the copied text and checking every proposed mapping. It is a separate external step, without a Damas integration or automatic analogy analysis. Never invent source facts, quotations, owners or deadlines.
 
-Accuracy and processing time vary. Damas does not download media, import video files, dub speech, embed subtitles or process offline. Premium cannot bypass restrictions. If the source becomes inaccessible, leave unfinished checks open and respect reuse rights.
+Accuracy and processing time vary. Damas does not download media, import video files, dub speech, embed subtitles or process offline. If the source becomes inaccessible, leave unfinished checks open and respect reuse rights.
 
 Damas Technologies LLC

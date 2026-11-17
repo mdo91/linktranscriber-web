@@ -4,7 +4,7 @@ description: "Turn a lecture definition into a short explanation with a manual c
 slug: "lecture-definition-boundaries"
 locale: "en"
 publishedAt: "2026-11-14"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "How can I summarize a definition from a YouTube lecture to tell which examples fit?"
 topics: ["Lecture summaries and definitions"]
@@ -15,9 +15,11 @@ translationKey: "lecture-definition-boundaries"
 
 To summarize a lecture definition, use the Damas transcript and built-in summary to locate the explanation, then list the conditions the lecturer actually states. Test each example against those conditions before writing a shorter definition. Keep three possible results: fits the stated definition, fails a stated requirement, or cannot yet be decided. You make this table yourself from editable, copyable text.
 
+On iPhone, use iOS 18.6 or later and an internet connection. Sign in with Apple for online processing and purchases, and review the AI processing consent. Processing uses media minutes and Insight credits: check balances, usage history and the cost before confirming. Available plans and optional top-up packs are shown in the app.
+
 ## Prepare the definition in context
 
-Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. On iPhone, iOS 18.6 or later, internet, Premium and consent for AI processing are required. Process only material you are authorized to use. Private, restricted and live videos are unsupported; a public source may also be inaccessible.
+Damas accepts supported public, on-demand YouTube, Instagram and X video links up to 90 minutes. Process only material you are authorized to use. Private, restricted and live videos are unsupported; a public source may also be inaccessible.
 
 1. Keep the lecture link and title, and choose one term you need to understand.
 2. Provide the supported link in Damas and follow the current transcription and built-in summary instructions, reviewing AI consent.
@@ -57,6 +59,6 @@ For your source, keep the short definition, checked rule passages, case table an
 
 No external LLM is needed. Optional formatting in another LLM requires permission to share the copied text and checking every proposed condition; it is a separate external step without a Damas integration. For exact words, use [quotation checking](/guides/verify-interview-quotes/); for another language, use [translation](/guides/translate-social-video-iphone/) and verify the original meaning.
 
-Accuracy and processing time vary. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. Premium cannot bypass source restrictions. If the recording becomes inaccessible, leave incomplete checks open and respect reuse rights.
+Accuracy and processing time vary. Damas does not download media, accept file uploads, dub speech, embed subtitles or process offline. If the recording becomes inaccessible, leave incomplete checks open and respect reuse rights.
 
 Damas Technologies LLC

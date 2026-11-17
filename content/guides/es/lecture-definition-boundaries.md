@@ -4,7 +4,7 @@ description: "Resume una definición por condiciones y distingue los casos que e
 slug: "lecture-definition-boundaries"
 locale: "es"
 publishedAt: "2026-11-14"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "¿Cómo resumir una definición explicada en una clase en vídeo para reconocer qué ejemplos encajan?"
 topics: ["Resúmenes de clases y definiciones"]
@@ -15,9 +15,11 @@ translationKey: "lecture-definition-boundaries"
 
 Para resumir una definición explicada en una clase, localiza la explicación con la transcripción y el resumen integrado de Damas y anota las condiciones realmente expresadas. Contrasta cada caso con ellas antes de escribir la versión breve. Distingue tres resultados: encaja, incumple un requisito o queda indeterminado por falta de información. La tabla la preparas a mano con texto editable y copiable.
 
+En iPhone necesitas iOS 18.6 o posterior e internet. Inicia sesión con Apple para el procesamiento en línea y las compras, y revisa el consentimiento de IA. El procesamiento utiliza minutos de contenido y créditos Insight: comprueba saldos, historial y coste antes de confirmar. Los planes y las recargas opcionales se muestran en la app.
+
 ## Prepara la explicación completa
 
-Damas admite enlaces compatibles de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. En iPhone necesitas iOS 18.6 o posterior, internet, Premium y consentimiento para el procesamiento con IA. Procesa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede resultar inaccesible.
+Damas admite enlaces compatibles de vídeos públicos bajo demanda de YouTube, Instagram y X de hasta 90 minutos. Procesa solo material autorizado. Los vídeos privados, restringidos y en directo no son compatibles; una fuente pública también puede resultar inaccesible.
 
 1. Guarda el enlace y el título de la clase y elige un término.
 2. Facilita el enlace compatible en Damas. Sigue las indicaciones actuales de transcripción y resumen integrado y lee el consentimiento de IA.
@@ -57,6 +59,6 @@ Guarda juntos la definición breve, los pasajes comprobados, la tabla y el enlac
 
 No necesitas un LLM externo. El formato opcional en otro LLM requiere permiso para compartir el texto y revisar cada condición propuesta; es un paso externo, sin integración con Damas. Para las palabras exactas, consulta la [verificación de citas](/es/guides/verify-interview-quotes/); para otro idioma, usa la [traducción](/es/guides/translate-social-video-iphone/) y comprueba el sentido original.
 
-La precisión y el tiempo de procesamiento varían. Damas no descarga medios, no importa archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Premium no evita las restricciones de acceso. Si la grabación deja de estar disponible, conserva las comprobaciones incompletas como pendientes y respeta los derechos de reutilización.
+La precisión y el tiempo de procesamiento varían. Damas no descarga medios, no importa archivos, no dobla voces, no incrusta subtítulos ni procesa sin conexión. Si la grabación deja de estar disponible, conserva las comprobaciones incompletas como pendientes y respeta los derechos de reutilización.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "Terjemah pertuturan video kepada teks, kemudian bina glosari manua
 slug: "video-bilingual-glossary"
 locale: "ms"
 publishedAt: "2026-11-06"
-updatedAt: "2026-11-06"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "terjemah pertuturan video bahasa asing kepada teks"
 topics: ["Glosari dwibahasa"]
@@ -15,9 +15,11 @@ translationKey: "video-bilingual-glossary"
 
 Untuk menterjemah pertuturan video bahasa asing kepada teks yang boleh dijadikan glosari dwibahasa, sediakan transkrip asal dan terjemahan dalam Damas. Kemudian catat istilah bersama ayat sumber dan maknanya dalam konteks tersebut. Asingkan makna berlainan walaupun ejaan sama. Glosari ini anda bina secara manual atau sebagai draf pilihan dalam LLM lain; Damas menyediakan teks untuk dibaca, disunting dan disalin.
 
+Pada iPhone, gunakan iOS 18.6 atau lebih baharu dan internet. Daftar masuk dengan Apple untuk pemprosesan dalam talian dan pembelian, serta semak persetujuan pemprosesan AI. Pemprosesan menggunakan minit media dan kredit Insight: semak baki, sejarah penggunaan dan kos sebelum mengesahkan. Pelan dan pek tambah nilai pilihan ditunjukkan dalam app.
+
 ## Sediakan dua teks daripada sumber yang sama
 
-Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong, sehingga 90 minit. Pada iPhone, anda memerlukan iOS 18.6 atau lebih baharu, internet, Premium dan persetujuan pemprosesan AI. Gunakan hanya bahan yang anda dibenarkan untuk proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh dicapai.
+Damas menerima pautan video awam atas permintaan YouTube, Instagram dan X yang disokong, sehingga 90 minit. Gunakan hanya bahan yang anda dibenarkan untuk proses. Video peribadi, terhad dan langsung tidak disokong; sumber awam juga mungkin tidak boleh dicapai.
 
 1. Buka video asal dan simpan pautan serta tajuknya. Tentukan istilah yang diperlukan untuk memahami penerangan itu.
 2. Masukkan pautan yang disokong dalam Damas. Ikut arahan semasa bagi transkripsi bahasa asal dan terjemahan ke bahasa sasaran yang disokong, selepas membaca persetujuan AI.
@@ -55,6 +57,6 @@ Semak setiap cadangan dengan rakaman dan buang entri tanpa bukti. Simpan pautan,
 
 Lihat [panduan terjemahan](/ms/guides/translate-social-video-iphone/) untuk menyediakan teks. Jika maksud berubah, lakukan [perbandingan transkrip dan terjemahan](/ms/guides/transcript-translation-meaning-check/). Untuk berlatih menerangkan hubungan antara konsep selepas istilah disemak, gunakan [nota kuliah dwibahasa](/ms/guides/bilingual-lecture-recall/).
 
-Masa pemprosesan dan ketepatan berubah mengikut sumber, audio dan sambungan. Damas tidak memuat turun media, menerima muat naik fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Premium tidak memintas sekatan akses. Jika sumber tidak lagi boleh dicapai, semakan belum selesai kekal terbuka. Kongsi hanya dalam had hak penggunaan anda.
+Masa pemprosesan dan ketepatan berubah mengikut sumber, audio dan sambungan. Damas tidak memuat turun media, menerima muat naik fail, mengalih suara, membenamkan sari kata atau memproses di luar talian. Jika sumber tidak lagi boleh dicapai, semakan belum selesai kekal terbuka. Kongsi hanya dalam had hak penggunaan anda.
 
 Damas Technologies LLC

@@ -4,7 +4,7 @@ description: "Séparez la parole vérifiée d’un extrait X, le commentaire du 
 slug: "x-summary-post-context"
 locale: "fr"
 publishedAt: "2026-10-31"
-updatedAt: "2026-10-31"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "résumer une vidéo X sans perdre le contexte"
 topics: ["Contexte d’une vidéo X"]
@@ -15,9 +15,11 @@ translationKey: "x-summary-post-context"
 
 Pour résumer une vidéo X sans perdre le contexte, préparez la transcription et le résumé intégré dans Damas, puis vérifiez l’extrait séparément du commentaire écrit du post. Notez ce que dit la personne, ce qu’ajoute le compte et ce que la vidéo ne permet pas d’établir. Damas fournit du texte modifiable et copiable ; cette fiche d’attribution reste manuelle.
 
+Sur iPhone, il faut iOS 18.6 ou ultérieur et Internet. Connectez-vous avec Apple pour le traitement en ligne et les achats, puis consultez le consentement au traitement par IA. Le traitement utilise des minutes de média et des crédits Insight : vérifiez vos soldes, l’historique et le coût avant de confirmer. Les offres et recharges facultatives sont présentées dans l’app.
+
 ## Préparer l’extrait et son aperçu
 
-Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Sur iPhone, il faut iOS 18.6 ou ultérieur, Internet, Premium et le consentement au traitement par IA. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
+Damas accepte les liens vidéo publics à la demande de YouTube, Instagram et X jusqu’à 90 minutes. Traitez uniquement les contenus autorisés. Les vidéos privées, restreintes et en direct sont exclues ; une source publique peut aussi être inaccessible.
 
 1. Ouvrez le post X et gardez son lien original. Lisez vous-même le texte du post. Si vous ne pouvez pas déterminer si le compte partage sa propre vidéo ou celle d’un tiers, laissez ce point ouvert.
 2. Fournissez le lien vidéo compatible dans Damas. Suivez les indications actuelles pour la transcription et le résumé intégré, après lecture du consentement IA.
@@ -48,6 +50,6 @@ Aucun LLM externe n’est nécessaire. Si vous lui confiez facultativement la mi
 
 La [transcription](/fr/guides/transcribe-social-video-link-iphone/) fournit le texte complet. Le [guide du résumé](/fr/guides/summarize-video-transcript-iphone/) explique l’aperçu ; la [vérification des citations](/fr/guides/verify-interview-quotes/) aide avant de reprendre des mots exacts.
 
-Temps et précision varient selon la source, le son et la connexion. Damas ne télécharge pas les médias, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Premium ne contourne pas les restrictions. Si la vidéo devient inaccessible, les contrôles inachevés restent ouverts. Respectez vos droits lors du partage.
+Temps et précision varient selon la source, le son et la connexion. Damas ne télécharge pas les médias, ne double pas la voix, n’incruste pas de sous-titres et ne traite pas hors connexion. Si la vidéo devient inaccessible, les contrôles inachevés restent ouverts. Respectez vos droits lors du partage.
 
 Damas Technologies LLC

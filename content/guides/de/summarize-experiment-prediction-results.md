@@ -4,7 +4,7 @@ description: "Trennen Sie Vorhersage, Beobachtung und Erklärung und erhalten Si
 slug: "summarize-experiment-prediction-results"
 locale: "de"
 publishedAt: "2026-11-15"
-updatedAt: "2026-11-15"
+updatedAt: "2026-11-17"
 status: "published"
 primaryQuery: "Wie kann ich ein Experiment aus einer YouTube-Vorlesung zusammenfassen, ohne Vorhersage und Ergebnis zu verwechseln?"
 topics: ["Experimente zusammenfassen"]
@@ -15,9 +15,11 @@ translationKey: "summarize-experiment-prediction-results"
 
 Um ein Experiment aus einer YouTube-Vorlesung zusammenzufassen, suchen Sie die Demonstration mit Damas-Transkript und integrierter Zusammenfassung. Notieren Sie Vorhersage, Beobachtung und Erklärung getrennt und vergleichen Sie das Ergebnis mit der Vorhersage. Das Versuchsprotokoll erstellen Sie selbst; Damas liefert lesbaren, bearbeitbaren und kopierbaren Text.
 
+Auf dem iPhone benötigen Sie iOS 18.6 oder neuer und Internet. Melden Sie sich für die Online-Verarbeitung und Käufe mit Apple an und lesen Sie die Einwilligung zur KI-Verarbeitung. Die Verarbeitung nutzt Medienminuten und Insight-Guthaben: Prüfen Sie Guthaben, Nutzungsverlauf und Kosten vor der Bestätigung. Verfügbare Tarife und optionale Zusatzpakete stehen in der App.
+
 ## Die vollständige Demonstration vorbereiten
 
-Damas unterstützt geeignete öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Auf dem iPhone benötigen Sie iOS 18.6 oder neuer, Internet, Premium und die Einwilligung zur KI-Verarbeitung. Nutzen Sie nur Inhalte, die Sie verarbeiten dürfen. Private, eingeschränkte und Live-Videos sind ausgeschlossen; öffentliche Quellen können ebenfalls unzugänglich sein.
+Damas unterstützt geeignete öffentliche YouTube-, Instagram- und X-Videolinks auf Abruf bis 90 Minuten. Nutzen Sie nur Inhalte, die Sie verarbeiten dürfen. Private, eingeschränkte und Live-Videos sind ausgeschlossen; öffentliche Quellen können ebenfalls unzugänglich sein.
 
 1. Bewahren Sie Originallink und Titel auf und wählen Sie einen einzelnen Versuch.
 2. Geben Sie den geeigneten Link in Damas ein. Folgen Sie den aktuellen Hinweisen zu Transkription und integrierter Zusammenfassung und lesen Sie die KI-Einwilligung.
@@ -56,6 +58,6 @@ Prüfen Sie Versuch, Bedingungen, Vorhersage, Beobachtung, Vergleich, Urheber de
 
 Ein externes LLM ist nicht nötig. Eine optionale Formatierung in einem anderen LLM erfordert die Erlaubnis zur Textweitergabe und eine vollständige Prüfung; sie ist keine Damas-Integration. Für die größere Erklärung hilft die [Übersicht der Aussagen und Gründe](/de/guides/lecture-argument-map/). Vor einem Zitat nutzen Sie die [Zitatprüfung](/de/guides/verify-interview-quotes/).
 
-Dauer und Genauigkeit schwanken. Eine getreue Zusammenfassung bestätigt nicht unabhängig die Versuchsgültigkeit. Damas lädt keine Medien herunter, importiert keine Videodateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Premium umgeht keine Einschränkungen. Bei unzugänglicher Quelle bleiben Prüfungen offen; beachten Sie Ihre Nutzungsrechte.
+Dauer und Genauigkeit schwanken. Eine getreue Zusammenfassung bestätigt nicht unabhängig die Versuchsgültigkeit. Damas lädt keine Medien herunter, importiert keine Videodateien, erstellt keine Synchronfassung, bettet keine Untertitel ein und verarbeitet nicht offline. Bei unzugänglicher Quelle bleiben Prüfungen offen; beachten Sie Ihre Nutzungsrechte.
 
 Damas Technologies LLC
