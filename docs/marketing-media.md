@@ -8,7 +8,7 @@ The final prompt set uses a shared brief: new standalone editorial scene; clearl
 - `tailored`: professional woman around 35 with glasses and a lavender blouse, annotating cards representing topic, audience and language.
 - `ready`: professional man around 35 with light beard and lavender overshirt, closing a notebook beside a phone with bell/checkmark and two small allowance-token stacks.
 
-Original PNGs are retained locally in ignored `.marketing/illustrations/`. Deployed AVIF/WebP derivatives live at `public/assets/illustration-{connections,tailored,ready}-{480,960}.{avif,webp}`. Their genuine transparency is preserved. Earlier, younger-looking generated variants are not used by the website. Existing artwork and media-kit download URLs remain unchanged.
+Original PNGs are retained locally in ignored `.marketing/illustrations/`. Deployed AVIF/WebP derivatives live at `public/assets/illustration-{connections,tailored,ready}-{480,720,960}.{avif,webp}`. Their genuine transparency is preserved. Earlier, younger-looking generated variants are not used by the website. Existing artwork and media-kit download URLs remain unchanged.
 
 ## Actual app screens
 
