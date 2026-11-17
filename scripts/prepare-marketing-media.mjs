@@ -11,7 +11,7 @@ const target = resolve('public/assets');
 const assets = [];
 await mkdir(target, { recursive: true });
 for (const [kind, names, directory, widths] of [
-  ['illustration', ['connections', 'tailored', 'ready'], artDirectory, [480, 960]],
+  ['illustration', ['connections', 'tailored', 'ready'], artDirectory, [480, 720, 960]],
   ['screen', ['transcript', 'summary', 'mind-map', 'checklist', 'quiz', 'flashcards'], captureDirectory, [630, 960]],
 ]) {
   for (const name of names) {
