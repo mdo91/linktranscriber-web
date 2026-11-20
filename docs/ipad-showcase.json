@@ -1,0 +1,168 @@
+{
+  "source": "https://github.com/mdo91/voicey/tree/main/docs/screenshots/insight-studio/2026-11-19",
+  "captured": "2026-11-19",
+  "device": "iPad Pro 11-inch (M4)",
+  "environment": "Damas V3 Staging 1.6.1 (133)",
+  "assets": [
+    {
+      "file": "public/assets/insight-studio-ipad-summary-800.avif",
+      "width": 800,
+      "height": 551,
+      "bytes": 55323,
+      "sha256": "680d9a58b2c5ce11dc58bfd37befed921e3881bab13a87859fc7240559d6ffff",
+      "source": "01-Short-summary.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-summary-800.webp",
+      "width": 800,
+      "height": 551,
+      "bytes": 69172,
+      "sha256": "12c1735a1f612b2bfdd65e694b0378eaed892a68b887b092d827a550b9f4e5bb",
+      "source": "01-Short-summary.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-summary-1440.avif",
+      "width": 1440,
+      "height": 993,
+      "bytes": 112467,
+      "sha256": "4dbac7dce62a1a036000bfd646a4959793be32685dacf05e2f315e2b10df5c73",
+      "source": "01-Short-summary.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-summary-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 153130,
+      "sha256": "7af45041a50f03d846f512edfc1588ba85e9f3d32ad0a9fd41a4bd6ef2ee6ff2",
+      "source": "01-Short-summary.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-mind-map-800.avif",
+      "width": 800,
+      "height": 551,
+      "bytes": 36451,
+      "sha256": "dc9e92292fe405fb269c65cfe28d4b8433fae6008a4cbd69eb1bada34084320d",
+      "source": "03b-Mind-map-outline.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-mind-map-800.webp",
+      "width": 800,
+      "height": 551,
+      "bytes": 49826,
+      "sha256": "222d1d7bb788d9201d84b19ccbe4d7a4d2787bf6cd87c60744d731c92d0783a1",
+      "source": "03b-Mind-map-outline.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-mind-map-1440.avif",
+      "width": 1440,
+      "height": 993,
+      "bytes": 74417,
+      "sha256": "39fa543b73174e06e423cb94eb2e09e13fc57f0978ae4f691e41f6cdfd602367",
+      "source": "03b-Mind-map-outline.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-mind-map-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 107996,
+      "sha256": "8f3beca135d2c302be6a6ec3ceba290f7b3e2d68282650b39dcd0db6e9e71af9",
+      "source": "03b-Mind-map-outline.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-checklist-800.avif",
+      "width": 800,
+      "height": 551,
+      "bytes": 48196,
+      "sha256": "3952042e8a0b65ee9966ba918f55148872e1bfc38b34a6587bd8e4a890060b3e",
+      "source": "04-Action-items.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-checklist-800.webp",
+      "width": 800,
+      "height": 551,
+      "bytes": 61390,
+      "sha256": "7ceed1c502183e4f1d2fccc1169d20de35e8da23264cc2825ed3ed472b4979d7",
+      "source": "04-Action-items.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-checklist-1440.avif",
+      "width": 1440,
+      "height": 993,
+      "bytes": 102361,
+      "sha256": "615d18b4eb3726c05f2748e01434aee302f8ef85b8e32f9a5ad69cd62cb4c2b5",
+      "source": "04-Action-items.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-checklist-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 135094,
+      "sha256": "9c264dc270faf2f148331461503b2eb538621b039aee6035144d5e0039fe8514",
+      "source": "04-Action-items.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-quiz-800.avif",
+      "width": 800,
+      "height": 551,
+      "bytes": 27805,
+      "sha256": "ca0eceeaa929316b06cbabc034b1b9eb68b4305de3db57cbcc055a2d783df36e",
+      "source": "07-Quiz-feedback.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-quiz-800.webp",
+      "width": 800,
+      "height": 551,
+      "bytes": 34410,
+      "sha256": "13dc166b350f8f76ed5b2a8151cee9cb8ea91685e3665f181f8add84d8977fe5",
+      "source": "07-Quiz-feedback.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-quiz-1440.avif",
+      "width": 1440,
+      "height": 993,
+      "bytes": 55814,
+      "sha256": "becca26e67b4f2530fa0f06b97418d6fa6f76dc9bda698d540d67e7b125f065e",
+      "source": "07-Quiz-feedback.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-quiz-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 72850,
+      "sha256": "8665d16eabb57cd832cd79bf2cce767522ae63d3c24b84ebd3a0fb7150940f49",
+      "source": "07-Quiz-feedback.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-flashcards-800.avif",
+      "width": 800,
+      "height": 551,
+      "bytes": 27666,
+      "sha256": "5651fecf79a3f4ff482f6c651597438f32af279924b916643b117d144c92e96d",
+      "source": "08-Flashcards-answer.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-flashcards-800.webp",
+      "width": 800,
+      "height": 551,
+      "bytes": 33500,
+      "sha256": "ee30d7523a139c9880ab39b0b3af748f7e2526de732aada94cd4398b5f33c1f9",
+      "source": "08-Flashcards-answer.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-flashcards-1440.avif",
+      "width": 1440,
+      "height": 993,
+      "bytes": 55402,
+      "sha256": "a4a54526a72e7afb2fbf4c0a9e9df5ffb5656f11ae556c03fb9661d5738d9ac7",
+      "source": "08-Flashcards-answer.png"
+    },
+    {
+      "file": "public/assets/insight-studio-ipad-flashcards-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 75782,
+      "sha256": "c8b703838438fb7dcfcab00975b38bafdd4a647a72eb66acc5ace122fe6038c5",
+      "source": "08-Flashcards-answer.png"
+    }
+  ]
+}

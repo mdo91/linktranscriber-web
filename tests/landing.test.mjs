@@ -49,6 +49,19 @@ test('all localized landing pages expose the complete feature story and navigati
       assert.equal($('#features').length,1);
       assert.equal($('.outcome').length,3);
       assert.equal($('.app-screen').length,6);
+      assert.equal($('.app-screen-ipad').length,5);
+      assert.equal($('.app-screen-iphone').length,1);
+      assert.match($('.app-screen-iphone img').attr('src'), /screen-transcript-/);
+      for (const image of $('.app-screen-ipad img').toArray()) {
+        assert.equal($(image).attr('width'),'2420');
+        assert.equal($(image).attr('height'),'1668');
+        assert.match($(image).attr('alt'), /Insight Studio.*iPad/);
+        assert.match($(image).attr('srcset'), /1440w/);
+      }
+      const graph=JSON.parse($('script[type="application/ld+json"]').text())['@graph'];
+      const app=graph.find(item=>item['@type']==='MobileApplication');
+      assert.equal(app.screenshot.length,5);
+      for(const url of app.screenshot) assert.ok(existsSync('public'+new URL(url).pathname));
       assert.ok($('.featured-guides .guide-card').length>=3&&$('.featured-guides .guide-card').length<=6);
       assert.equal($('.all-guides a').attr('href'),localPath(locale,'/guides/'));
       assert.equal($('video').length,0,'Outdated preview should remain download-only');
