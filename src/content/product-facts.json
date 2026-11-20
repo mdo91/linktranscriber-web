@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-17",
+  "verifiedAt": "2026-11-20",
   "appStoreId": 6766233794,
   "sources": [
     "https://itunes.apple.com/lookup?id=6766233794&country=us",
@@ -10,7 +10,7 @@
     "iPadOS 18.6 or later (iPad)",
     "Apple-listed Mac compatibility: macOS 15.6 or later"
   ],
-  "platformNote": "Apple lookup and App Store compatibility metadata reviewed on 2026-11-17 verify iOS 18.6 or later for iPhone, iPadOS 18.6 or later for iPad, and macOS 15.6 or later for Mac. Keep chip evidence unavailable; do not infer Intel support or describe a separately tested native Mac interface, synchronization or unverified device controls. Existing screenshots show iPhone.",
+  "platformNote": "Apple lookup and App Store compatibility metadata reviewed on 2026-11-20 verify iOS 18.6 or later for iPhone, iPadOS 18.6 or later for iPad, and macOS 15.6 or later for Mac. Keep chip evidence unavailable; do not infer Intel support, synchronization or identical controls across devices. The homepage includes real iPad staging outputs and a separate iPhone transcript sample; neither establishes a tested native Mac interface.",
   "supportedSources": [
     "public on-demand YouTube",
     "public on-demand Instagram",
@@ -36,7 +36,7 @@
   ],
   "translationTargets": 70,
   "interfaceLanguages": 11,
-  "workflow": "Paste a supported public video link up to 90 minutes. Transcribe speech in its original language or translate into 70 languages. Create a short or detailed Standard or Professional summary, editable mind map, action checklist, step-by-step guide, study guide, quiz with explained answers or question-and-answer flashcards. Guide outputs with a topic, audience or context and choose their language. Preserve the original transcript and save AI outputs separately. Read, edit, copy and share text and notes. Processing continues after leaving the app and completion notifications are available.",
+  "workflow": "Paste a supported public video link up to 90 minutes. Transcribe speech in its original language or translate into 70 languages. From a completed, nonempty transcript, open Insight Studio and choose an output: short or detailed Standard or Professional summary, editable mind map, action checklist, step-by-step guide, study guide, quiz with explained answers or question-and-answer flashcards. Choose the output language, optionally customize the focus or context, review the displayed Insight cost and generate. The saved result opens in Outputs while Transcript remains available. Read, edit, copy and share text and notes. Processing continues after leaving the app and completion notifications are available.",
   "limitations": [
     "Internet, Sign in with Apple for online processing and purchases, and consent for AI processing are required; processing consumes media minutes and Insight credits.",
     "Only process material you are authorized to use",
@@ -45,9 +45,9 @@
     "No guaranteed accuracy, offline processing, media downloading, dubbing, subtitle embedding, or unsupported file imports/exports"
   ],
   "ownerConfirmedAt": "2026-11-17",
-  "appStoreMetadataVerifiedAt": "2026-11-17",
-  "lastVerifiedAppStoreVersion": "1.5.4",
-  "featureSource": "Owner-provided release description, confirmed 2026-11-17; Apple sources below retain the separately dated compatibility baseline.",
+  "appStoreMetadataVerifiedAt": "2026-11-20",
+  "lastVerifiedAppStoreVersion": "1.6.1",
+  "featureSource": "App Store description and 1.6.0 release notes reviewed on 2026-11-20 explicitly name Insight Studio and its built-in tools. Direct Apple lookup on the same date reports version 1.6.1; the browsed listing still displays 1.6.0. These observations are separate from the owner confirmation on 2026-11-17 and from the dated staging screenshots.",
   "summaryOptions": {
     "lengths": [
       "short",
@@ -69,5 +69,161 @@
     "usage": "Processing uses media minutes and Insight credits.",
     "review": "Balances, usage history and processing cost can be checked before confirming.",
     "availability": "Available plans and optional top-up packs are shown in the app; do not invent prices, quotas or unlimited/free-use claims."
+  },
+  "appStoreListingVersion": "1.6.0",
+  "insightStudio": {
+    "name": "Insight Studio",
+    "verifiedAt": "2026-11-20",
+    "flowSource": "First-party Damas Swift interface source reviewed on 2026-11-20. The flow is conditional on a completed, nonempty transcript; toolbar presentation can vary with available space.",
+    "nativeFlow": [
+      "Open a completed, nonempty transcript from Library. Open the wand-and-stars Insight Studio control; a wider toolbar shows its name, while a compact toolbar can use the icon with the Insight Studio accessibility label.",
+      "Insight Studio groups its output choices under Understand, Apply and Study. For a study guide, choose Study guide in Study; Quiz and Flashcards are separate choices.",
+      "Choose Output language. Customize is optional; Study guide offers Topic focus (optional) and Learning or exam objective (optional). Tailor to me is optional and requires a goal when enabled.",
+      "Review the displayed Insight cost, then choose Generate. This creates an AI output from the transcript; it does not require copying the transcript to another LLM.",
+      "A created saved output opens under Outputs. Transcript remains available. Review the output and its Source excerpt against the recording before relying on it; use Edit where that output offers it."
+    ],
+    "labels": [
+      "Library",
+      "Insight Studio",
+      "Understand",
+      "Apply",
+      "Study",
+      "Study guide",
+      "Quiz",
+      "Flashcards",
+      "Output language",
+      "Customize",
+      "Topic focus (optional)",
+      "Learning or exam objective (optional)",
+      "Tailor to me",
+      "Generate",
+      "Transcript",
+      "Outputs",
+      "Source excerpt",
+      "Edit"
+    ],
+    "screenshots": {
+      "manifest": "docs/ipad-showcase.json",
+      "capturedAt": "2026-11-19",
+      "device": "iPad Pro 11-inch (M4)",
+      "environment": "Damas V3 Staging 1.6.1 (133)",
+      "scope": "Genuine generated iPad staging outputs from a product-market fit talk. Visible examples do not establish identical production controls, App Store build verification or device parity.",
+      "items": [
+        {
+          "kind": "summary",
+          "file": "public/assets/insight-studio-ipad-summary-1440.webp",
+          "width": 1440,
+          "height": 993,
+          "caption": "A short summary of a product-market fit talk",
+          "labels": [
+            "Transcript",
+            "Outputs",
+            "AI generated",
+            "Edit",
+            "Source excerpts"
+          ]
+        },
+        {
+          "kind": "mind-map",
+          "file": "public/assets/insight-studio-ipad-mind-map-1440.webp",
+          "width": 1440,
+          "height": 993,
+          "caption": "The generated mind map in Outline view",
+          "labels": [
+            "Transcript",
+            "Outputs",
+            "AI generated",
+            "Source excerpt",
+            "Map",
+            "Outline"
+          ]
+        },
+        {
+          "kind": "checklist",
+          "file": "public/assets/insight-studio-ipad-checklist-1440.webp",
+          "width": 1440,
+          "height": 993,
+          "caption": "An action checklist from a product-market fit talk",
+          "labels": [
+            "Transcript",
+            "Outputs",
+            "AI generated",
+            "Edit",
+            "Source excerpt"
+          ]
+        },
+        {
+          "kind": "quiz",
+          "file": "public/assets/insight-studio-ipad-quiz-1440.webp",
+          "width": 1440,
+          "height": 993,
+          "caption": "A quiz with an explained answer",
+          "labels": [
+            "Transcript",
+            "Outputs",
+            "AI generated",
+            "Source excerpt",
+            "Correct",
+            "Try again"
+          ]
+        },
+        {
+          "kind": "flashcards",
+          "file": "public/assets/insight-studio-ipad-flashcards-1440.webp",
+          "width": 1440,
+          "height": 993,
+          "caption": "A flashcard with its answer revealed",
+          "labels": [
+            "Transcript",
+            "Outputs",
+            "AI generated",
+            "Source excerpt",
+            "Reveal answer",
+            "Hide answer",
+            "Review again"
+          ]
+        }
+      ],
+      "studyGuide": {
+        "file": "public/assets/insight-studio-ipad-study-guide-1440.webp",
+        "width": 1440,
+        "height": 993,
+        "bytes": 117420,
+        "sha256": "8e7860ede37c803fee0942b9551d7b7280c3efb0085dd450f6c3e339f0aabb91",
+        "source": "https://github.com/mdo91/voicey/blob/c36abfa4984cf02c60d8bf9f3a0edf29f20c0311/docs/screenshots/insight-studio/2026-11-19/06-Study-guide.png",
+        "sourceGitBlob": "9697f821284454c097243903f1c8dc5656c96df4",
+        "sourceSha256": "464576bd56135b0432b4ad2466090aa3f67bba785a846ff72a274e6e0eb56c26",
+        "sourceWidth": 2420,
+        "sourceHeight": 1668,
+        "capturedAt": "2026-11-19",
+        "device": "iPad Pro 11-inch (M4)",
+        "environment": "Damas V3 Staging 1.6.1 (133)",
+        "caption": "An example study guide in Damas Insight Studio on iPad, with learning objectives and explanations. Staging capture; example output continues below the screen.",
+        "labels": [
+          "Transcript",
+          "Outputs",
+          "AI generated",
+          "Learning Guide: The Lean Product Process",
+          "Learning objectives",
+          "Key explanations: The product-market fit pyramid",
+          "Source excerpt",
+          "Edit"
+        ],
+        "scope": "Real generated staging output, resized from the complete screenshot without cropping, retouching or fabricated UI. It is separate from fictional teaching examples and does not show the creation controls.",
+        "sourceCommit": "c36abfa4984cf02c60d8bf9f3a0edf29f20c0311"
+      },
+      "iphoneTranscript": {
+        "manifest": "docs/marketing-media.json",
+        "file": "public/assets/screen-transcript-960.webp",
+        "width": 960,
+        "height": 2087,
+        "scope": "Original iPhone simulator transcript with offline sample content, retained on the homepage. It is a separate fixture, not a live backend generation or the iPad talk."
+      }
+    },
+    "limitations": [
+      "Generated study guides, quizzes and flashcards still require source review; quiz feedback is not proof of factual accuracy or an exam grade.",
+      "Source excerpts support review but do not replace checking quotations, visual material or uncertain speech against the original recording.",
+      "Do not infer spaced repetition, automatic citation verification, synchronization, unsupported import/export formats or identical Mac control placement from these screenshots."
+    ]
   }
 }
