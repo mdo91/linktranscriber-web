@@ -62,3 +62,24 @@ test('all locale article dates follow the configured Istanbul midnight and still
     }
   `], { cwd: process.cwd(), stdio: 'pipe' });
 });
+
+test('guides render reviewed screenshots with intrinsic dimensions and descriptive alt text', () => {
+  execFileSync(process.execPath, ['--import', 'tsx', '--input-type=module', '-e', `
+    import assert from 'node:assert/strict';
+    import {load} from 'cheerio';
+    import {loadPosts} from './src/posts.ts';
+    import {article} from './src/render.ts';
+    const posts = loadPosts();
+    const guide = posts.find(post => post.locale === 'en' && post.slug === 'youtube-lecture-study-guide');
+    const route = '/assets/insight-studio-ipad-study-guide-1440.webp';
+    const $ = load(article(guide, posts));
+    const capture = $('.prose img[src="' + route + '"]');
+    assert.equal(capture.length, 1);
+    assert.equal(capture.attr('width'), '1440');
+    assert.equal(capture.attr('height'), '993');
+    assert.equal(capture.attr('loading'), 'lazy');
+    assert.match(capture.attr('alt'), /iPad.*learning objectives/i);
+    assert.throws(() => article({...guide, body: '![Unreviewed](/assets/unknown.webp)'}, posts), /reviewed screenshot/);
+    assert.throws(() => article({...guide, body: '![](' + route + ')'}, posts), /descriptive alt text/);
+  `], { cwd: process.cwd(), stdio: 'pipe' });
+});

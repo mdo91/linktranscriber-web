@@ -1,4 +1,4 @@
-import { marked } from 'marked';
+import { marked, Renderer, type Tokens } from 'marked';
 import verification from './content/site-verification.json';
 import product from './content/product-facts.json';
 import landing from './content/landing.json';
@@ -11,6 +11,17 @@ const organization = { '@type': 'Organization', '@id': `${origin}/#organization`
 const asset = (name: string) => sitePath(`/assets/${name}`);
 const link = (url: string, label: string, attrs = '') => `<a href="${e(url)}" ${attrs}>${e(label)}</a>`;
 const download = (locale: Locale, placement: string, slug = '') => link(campaign(locale, placement, slug), texts[locale].download, 'class="button" data-download="true"');
+const { items, studyGuide, iphoneTranscript } = product.insightStudio.screenshots;
+const guideScreenshots = new Map(
+  [...items, studyGuide, iphoneTranscript].map(({ file, width, height }) => [file.replace(/^public/, ''), { width, height }]),
+);
+class GuideRenderer extends Renderer {
+  image(token: Tokens.Image) {
+    const size = guideScreenshots.get(token.href);
+    if (!size || !token.text.trim()) throw new Error('Guide images require a reviewed screenshot and descriptive alt text');
+    return super.image(token).replace(/^<img /, `<img width="${size.width}" height="${size.height}" loading="lazy" decoding="async" `);
+  }
+}
 function platformIcon(id: 'youtube' | 'x' | 'instagram') {
   const icon = platformAssets.platforms[id] as { file: string; inlineSvg: string | null };
   return icon.inlineSvg
@@ -82,7 +93,7 @@ export function article(post: Post, posts: Post[]) {
   const t = texts[post.locale], path = localPath(post.locale, `/guides/${post.slug}/`), crumb = breadcrumbs(post.locale, post.title, path, true);
   const image = post.slug.startsWith('summarize') ? 'screen-summary-630' : 'screen-transcript-630';
   const alternates = Object.fromEntries(posts.filter(p => p.translationKey === post.translationKey).map(p => [p.locale, localPath(p.locale, `/guides/${p.slug}/`)]));
-  const body = marked.parse(post.body, { async: false }).replace('</p>', `</p><p class="guide-action">${download(post.locale, 'guide-intro', post.slug)}</p>`).replace(/(href|src)="(\/(?!\/)[^"]*)"/g, (_, attribute, route) => `${attribute}="${sitePath(route)}"`);
+  const body = marked.parse(post.body, { async: false, renderer: new GuideRenderer() }).replace('</p>', `</p><p class="guide-action">${download(post.locale, 'guide-intro', post.slug)}</p>`).replace(/(href|src)="(\/(?!\/)[^"]*)"/g, (_, attribute, route) => `${attribute}="${sitePath(route)}"`);
   const content = `<section class="wrap article-wrap">${crumb.html}<header class="article-heading"><p class="eyebrow">${e(t.nav.guides)} · Damas</p><h1>${e(post.title)}</h1><p class="lead">${e(post.description)}</p><p class="byline">Damas Technologies LLC · ${e(t.published)} <time datetime="${post.publishedAt}">${e(date(post.publishedAt, post.locale))}</time>${post.updatedAt !== post.publishedAt ? ` · ${e(t.updated)} <time datetime="${post.updatedAt}">${e(date(post.updatedAt, post.locale))}</time>` : ''}</p></header><div class="article-layout"><article class="prose">${body}<aside class="article-download"><h2>${e(t.downloadCTA)}</h2><p>${e(t.heroNote)}</p>${download(post.locale, 'guide', post.slug)}</aside><section class="sources"><h2>${e(t.sourceTitle)}</h2><ul>${post.sources.map(s => `<li>${link(s.url, s.title)}</li>`).join('')}</ul></section></article><aside class="article-image"><img src="${asset(`${image}.webp`)}" width="1206" height="2622" alt="${e(t.screenshotsIntro)}" loading="lazy"><p class="fine">${e(t.screenshotsIntro)}</p></aside></div><section class="related"><h2>${e(t.relatedTitle)}</h2>${guideCards(post.locale, posts.filter(p => p.locale === post.locale && post.related.includes(p.slug)))}</section></section>`;
   return page(post.locale, path, `${post.title} | Damas`, post.description, content, { alternates, schema: [crumb.schema, { '@type': 'BlogPosting', headline: post.title, description: post.description, datePublished: post.publishedAt, dateModified: post.updatedAt, inLanguage: t.htmlLang, mainEntityOfPage: origin + path, author: { '@id': organization['@id'] }, publisher: { '@id': organization['@id'] }, image: `${origin}/assets/${image}.webp` }] });
 }
