@@ -40,8 +40,8 @@
           "Editable mind maps"
         ],
         "captions": [
-          "A summary of the sample transcript",
-          "The same ideas in an editable mind map"
+          "A short summary of a product-market fit talk",
+          "The generated mind map in Outline view"
         ]
       },
       {
@@ -54,7 +54,7 @@
           "Edit the result to suit your task"
         ],
         "captions": [
-          "An action checklist from the sample video",
+          "An action checklist from a product-market fit talk",
           "The original transcript remains available"
         ]
       },
@@ -130,7 +130,7 @@
     ],
     "closingTitle": "Give your next video a useful next step.",
     "closingBody": "Open a public video link in Damas and turn its words into something you can use.",
-    "screenshotsNote": "Real iPhone screens with the English interface and original sample content.",
+    "screenshotsNote": "Insight Studio on iPad, with an iPhone transcript example. English interface; example outputs.",
     "heroArtAlt": "A professional woman at a desk connects notes in a mind map.",
     "artAlts": [
       "A professional woman at a desk connects notes in a mind map.",
@@ -269,7 +269,7 @@
     ],
     "closingTitle": "Donnez une suite utile à votre prochaine vidéo.",
     "closingBody": "Ouvrez un lien vidéo public dans Damas et transformez ses paroles en contenu utile.",
-    "screenshotsNote": "Écrans réels de l’app sur iPhone, avec interface anglaise et contenu d’exemple original.",
+    "screenshotsNote": "Insight Studio sur iPad et un exemple de transcription sur iPhone. Interface en anglais ; exemples de résultats.",
     "heroArtAlt": "Une professionnelle à son bureau relie des notes dans une carte mentale.",
     "artAlts": [
       "Une professionnelle à son bureau relie des notes dans une carte mentale.",
@@ -408,7 +408,7 @@
     ],
     "closingTitle": "Mach aus dem nächsten Video einen nächsten Schritt.",
     "closingBody": "Öffne einen öffentlichen Videolink in Damas und nutze seine Worte für dein Vorhaben.",
-    "screenshotsNote": "Echte iPhone-Ansichten mit englischer Oberfläche und eigens erstellten Beispielinhalten.",
+    "screenshotsNote": "Insight Studio auf dem iPad und ein Transkript auf dem iPhone. Englische Oberfläche; Beispielergebnisse.",
     "heroArtAlt": "Eine Berufstätige verbindet Notizen am Schreibtisch zu einer Mindmap.",
     "artAlts": [
       "Eine Berufstätige verbindet Notizen am Schreibtisch zu einer Mindmap.",
@@ -547,7 +547,7 @@
     ],
     "closingTitle": "次の動画を、役立つ次の一歩に。",
     "closingBody": "Damasで公開動画リンクを開いて、その言葉を使える形にしましょう。",
-    "screenshotsNote": "実際のiPhone画面です。英語のインターフェースと独自に作成したサンプル内容を表示しています。",
+    "screenshotsNote": "iPadのInsight StudioとiPhoneの文字起こし例。英語の画面と出力例。",
     "heroArtAlt": "デスクでノートをマインドマップにつなげる社会人の女性。",
     "artAlts": [
       "デスクでノートをマインドマップにつなげる社会人の女性。",
@@ -686,7 +686,7 @@
     ],
     "closingTitle": "다음 동영상에서, 다음 행동으로.",
     "closingBody": "Damas에서 공개 동영상 링크를 열고 그 내용을 활용할 수 있는 텍스트로 바꿔 보세요.",
-    "screenshotsNote": "영어 인터페이스와 직접 만든 예시 콘텐츠를 표시한 실제 iPhone 화면입니다.",
+    "screenshotsNote": "iPad의 Insight Studio와 iPhone 전사 예시. 영어 인터페이스 및 예시 결과.",
     "heroArtAlt": "직장인 여성이 책상에서 노트를 마인드맵으로 연결하는 모습.",
     "artAlts": [
       "직장인 여성이 책상에서 노트를 마인드맵으로 연결하는 모습.",
@@ -825,7 +825,7 @@
     ],
     "closingTitle": "Jadikan video seterusnya langkah yang berguna.",
     "closingBody": "Buka pautan video awam dalam Damas dan jadikan kata-katanya sesuatu yang boleh anda gunakan.",
-    "screenshotsNote": "Paparan iPhone sebenar dengan antara muka bahasa Inggeris dan kandungan contoh asli.",
+    "screenshotsNote": "Insight Studio pada iPad dan contoh transkrip pada iPhone. Antara muka bahasa Inggeris; contoh hasil.",
     "heroArtAlt": "Seorang wanita profesional menghubungkan nota dalam peta minda di mejanya.",
     "artAlts": [
       "Seorang wanita profesional menghubungkan nota dalam peta minda di mejanya.",
@@ -964,7 +964,7 @@
     ],
     "closingTitle": "Dê ao próximo vídeo um próximo passo útil.",
     "closingBody": "Abra um link público de vídeo no Damas e transforme suas palavras em algo que você pode usar.",
-    "screenshotsNote": "Telas reais de iPhone com a interface em inglês e conteúdo de exemplo original.",
+    "screenshotsNote": "Insight Studio no iPad e um exemplo de transcrição no iPhone. Interface em inglês; exemplos de resultados.",
     "heroArtAlt": "Uma profissional conecta notas em um mapa mental à mesa.",
     "artAlts": [
       "Uma profissional conecta notas em um mapa mental à mesa.",
@@ -1103,7 +1103,7 @@
     ],
     "closingTitle": "Пусть следующее видео поможет сделать следующий шаг.",
     "closingBody": "Откройте публичную видеоссылку в Damas и превратите слова в материал для ваших задач.",
-    "screenshotsNote": "Настоящие экраны iPhone с английским интерфейсом и оригинальным демонстрационным материалом.",
+    "screenshotsNote": "Insight Studio на iPad и пример расшифровки на iPhone. Английский интерфейс; примеры результатов.",
     "heroArtAlt": "Специалистка за столом связывает заметки в интеллект-карту.",
     "artAlts": [
       "Специалистка за столом связывает заметки в интеллект-карту.",
@@ -1242,7 +1242,7 @@
     ],
     "closingTitle": "让下一个视频，带来实用的下一步。",
     "closingBody": "在 Damas 中打开公开视频链接，把其中的话语变成用得上的内容。",
-    "screenshotsNote": "真实 iPhone 应用画面，使用英文界面和原创示例内容。",
+    "screenshotsNote": "iPad 上的 Insight Studio 和 iPhone 转录示例。英文界面；示例输出。",
     "heroArtAlt": "一位职场女性在桌前用思维导图连接笔记。",
     "artAlts": [
       "一位职场女性在桌前用思维导图连接笔记。",
@@ -1381,7 +1381,7 @@
     ],
     "closingTitle": "Dale a tu próximo vídeo un siguiente paso útil.",
     "closingBody": "Abre un enlace público de vídeo en Damas y convierte sus palabras en algo que puedas usar.",
-    "screenshotsNote": "Pantallas reales de iPhone con la interfaz en inglés y contenido de ejemplo original.",
+    "screenshotsNote": "Insight Studio en iPad y un ejemplo de transcripción en iPhone. Interfaz en inglés; resultados de ejemplo.",
     "heroArtAlt": "Una profesional conecta notas en un mapa mental en su escritorio.",
     "artAlts": [
       "Una profesional conecta notas en un mapa mental en su escritorio.",
@@ -1520,7 +1520,7 @@
     ],
     "closingTitle": "Sıradaki videonuz, faydalı bir sonraki adıma dönüşsün.",
     "closingBody": "Damas’ta herkese açık bir video bağlantısı açın ve içindeki sözleri kullanabileceğiniz bir içeriğe dönüştürün.",
-    "screenshotsNote": "İngilizce arayüz ve özgün örnek içerikle gösterilen gerçek iPhone ekranları.",
+    "screenshotsNote": "iPad’de Insight Studio ve iPhone’da örnek transkript. İngilizce arayüz; örnek çıktılar.",
     "heroArtAlt": "Profesyonel bir kadın, masasında notlarını zihin haritasıyla ilişkilendiriyor.",
     "artAlts": [
       "Profesyonel bir kadın, masasında notlarını zihin haritasıyla ilişkilendiriyor.",

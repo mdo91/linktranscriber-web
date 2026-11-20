@@ -29,3 +29,14 @@ node scripts/prepare-marketing-media.mjs --art-dir /absolute/illustrations --cap
 ```
 
 The script validates capture dimensions and illustration alpha, produces responsive AVIF and WebP, and records sizes/hashes in `docs/marketing-media.json`. Screens keep their full 1206×2622 composition. HTML reserves their aspect ratios, uses responsive sources and lazy-loads below-fold media. The hero illustration has high fetch priority. The former preview video is no longer loaded by the landing page; its original URL remains available in the media kit.
+
+
+## November 20 iPad showcase update
+
+The landing page now displays five landscape iPad screenshots from the [November 19 capture set](https://github.com/mdo91/voicey/tree/main/docs/screenshots/insight-studio/2026-11-19): short summary, mind map in Outline view, action items, quiz feedback and a revealed flashcard. These are real generated staging results from Damas V3 Staging 1.6.1 (133) on an iPad Pro 11-inch (M4). They are examples of visible output, not a claim of App Store production verification. Longer results continue beyond the captured viewport. Outline view is used for legibility.
+
+One original iPhone transcript screenshot remains in the planning section to demonstrate iPhone support. It retains the original offline sample content described above; it is a separate example from the iPad product-market fit talk.
+
+The source images are resized without cropping, retouching or fabricated UI. Tablet frames are CSS, leaving native screenshots intact. Responsive AVIF/WebP files at 800 and 1440 pixels, dimensions, source filenames and hashes are recorded in `ipad-showcase.json`. Regenerate with `node scripts/prepare-ipad-showcase.mjs /absolute/path/to/2026-11-19`. Existing asset URLs and guide images remain available.
+
+All eleven homepages retain server-rendered captions, localized example notes, descriptive device-specific alt text, intrinsic dimensions and lazy loading. MobileApplication structured data lists the five iPad screenshots. Canonicals, hreflang and published guide routes are preserved.
