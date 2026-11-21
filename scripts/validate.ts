@@ -40,12 +40,26 @@ for (const [path, entry] of pages) {
   check($('h1').length === 1 && $('main').text().trim().length > 100, `${path}: missing rendered content or unique heading`);
   check($('link[rel="canonical"]').attr('href') === origin + path, `${path}: incorrect canonical`);
   check($('meta[property="og:url"]').attr('content') === origin + path, `${path}: incorrect social URL`);
-  check(!!$('meta[property="og:image"]').attr('content') && !!$('meta[name="twitter:card"]').attr('content'), `${path}: missing social preview`);
+  check(!!$('meta[name="twitter:card"]').attr('content'), `${path}: missing social card`);
+  if (!entry.group.startsWith('post:')) check(!!$('meta[property="og:image"]').attr('content'), `${path}: missing social preview`);
   check($('meta[name="robots"]').attr('content') === 'index,follow', `${path}: page unexpectedly excluded`);
   check($('script:not([type="application/ld+json"])').length === 0, `${path}: important content requires no JavaScript`);
   const schema = $('script[type="application/ld+json"]').toArray().flatMap(el => JSON.parse($(el).text())['@graph']);
   check(schema.some(s => s['@type'] === 'Organization'), `${path}: missing organization schema`);
   if (entry.group.startsWith('post:')) check(schema.some(s => s['@type'] === 'BlogPosting' && s.dateModified === entry.lastmod && s.mainEntityOfPage === origin + path), `${path}: article schema/date mismatch`);
+  if (entry.group.startsWith('post:')) {
+    const firstImage = $('.prose img').first().attr('src');
+    let canonicalImage: string | undefined;
+    if (firstImage) {
+      const url = new URL(firstImage, origin);
+      if (base && url.pathname.startsWith(base + '/')) url.pathname = url.pathname.slice(base.length);
+      canonicalImage = url.href;
+    }
+    const posting = schema.find(s => s['@type'] === 'BlogPosting');
+    check(posting?.image === canonicalImage, `${path}: schema image differs from the first reviewed guide image`);
+    check($('meta[property="og:image"]').attr('content') === canonicalImage && $('meta[name="twitter:image"]').attr('content') === canonicalImage, `${path}: social image differs from the first reviewed guide image`);
+    check($('.article-image').length === 0, `${path}: generic screenshot sidebar must not override guide media`);
+  }
   if (entry.group === 'home') check(schema.some(s => s['@type'] === 'MobileApplication' && JSON.stringify(s.operatingSystem) === JSON.stringify(product.operatingSystems) && !s.aggregateRating && !s.offers), `${path}: inaccurate app schema`);
   const equivalents = manifest.urls.filter(u => u.group === entry.group);
   check($('link[rel="alternate"][hreflang]').length === equivalents.length + (equivalents.some(u => !/^\/(fr|de|ja|ko|ms|pt|ru|zh-hans|es|tr)\//.test(u.path)) ? 1 : 0), `${path}: alternate count mismatch`);

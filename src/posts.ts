@@ -2,6 +2,7 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { resolve, relative } from 'node:path';
 import { parse } from 'yaml';
 import { marked } from 'marked';
+import { guideImageReferences } from './guide-media';
 import { locales, type Locale } from './site';
 const publishingTimeZone = JSON.parse(readFileSync(new URL('../growth.config.json', import.meta.url), 'utf8')).schedule?.timeZone;
 if (typeof publishingTimeZone !== 'string' || !publishingTimeZone.trim()) throw new Error('Publishing time zone is required');
@@ -44,6 +45,7 @@ export function parsePost(source: string, file: string, now: Date = new Date()):
     if ((token.type === 'link' || token.type === 'image') && !/^(https:\/\/|\/(?!\/)|#)/i.test(token.href)) throw new Error(`${file}: unsupported link protocol`);
     if (token.type === 'heading' && token.depth === 1) throw new Error(`${file}: use metadata for the page heading`);
   });
+  guideImageReferences(parts[2]);
   return { ...metadata, body: parts[2], file };
 }
 function files(directory: string): string[] {

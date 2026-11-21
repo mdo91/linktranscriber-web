@@ -106,9 +106,11 @@
   .article-heading h1 { font-size: clamp(2.5rem, 4.8vw, 4.35rem); }
   .article-heading .lead { margin-block: 1.5rem; }
   .byline { color: var(--muted); font-size: .8rem; }
-  .article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 5rem; }
-  .article-image img { border-radius: 20px; }
-  .article-image p { margin-top: 1rem; }
+  .article-layout { max-width: 900px; }
+  .guide-illustrated-paragraph { margin-block: 0 1.3rem; }
+  .guide-figure { margin: 1.5rem 0; }
+  .guide-figure img { display: block; width: 100%; height: auto; }
+  .guide-figure figcaption { color: var(--muted); font-size: .85rem; line-height: 1.6; margin-top: .65rem; }
   .prose { min-width: 0; font-size: 1.03rem; line-height: 1.85; overflow-wrap: anywhere; }
   .prose h2 { font-size: 1.8rem; line-height: 1.25; margin-block: 2.2rem 1rem; }
   .prose h3 { margin-block: 1.8rem .8rem; }
@@ -153,7 +155,6 @@
     h1 { font-size: 3.25rem; }
     .guide-card { padding: 1.4rem; }
     .preview, .faq { gap: 3rem; }
-    .article-layout { gap: 2.5rem; grid-template-columns: minmax(0, 1fr) 210px; }
   }
   @media (max-width: 720px) {
     .wrap { width: calc(100% - 36px); }
@@ -181,8 +182,6 @@
     .guide-card { padding: 1.5rem; }
     .guide-card .number { margin-bottom: .8rem; }
     .closing { margin-bottom: 58px; }
-    .article-layout { grid-template-columns: 1fr; }
-    .article-image { max-width: 280px; margin-inline: auto; }
     .article-heading { margin-bottom: 2.5rem; }
     .article-heading h1 { font-size: 2.65rem; }
     .prose { font-size: 1rem; }
