@@ -4,6 +4,7 @@ import product from './content/product-facts.json';
 import landing from './content/landing.json';
 import platformAssets from './content/platform-assets.json';
 import type { Post } from './posts';
+import { guideImageReferences, reviewedGuideImage } from './guide-media';
 import type { LegalPageContent, PageSubsection } from './content/legal/types';
 import { appUrl, campaign, date, escape as e, localPath, locales, origin, siteName, sitePath, texts, type Locale } from './site';
 type Alternates = Partial<Record<Locale, string>>;
@@ -11,15 +12,17 @@ const organization = { '@type': 'Organization', '@id': `${origin}/#organization`
 const asset = (name: string) => sitePath(`/assets/${name}`);
 const link = (url: string, label: string, attrs = '') => `<a href="${e(url)}" ${attrs}>${e(label)}</a>`;
 const download = (locale: Locale, placement: string, slug = '') => link(campaign(locale, placement, slug), texts[locale].download, 'class="button" data-download="true"');
-const { items, studyGuide, iphoneTranscript } = product.insightStudio.screenshots;
-const guideScreenshots = new Map(
-  [...items, studyGuide, iphoneTranscript].map(({ file, width, height }) => [file.replace(/^public/, ''), { width, height }]),
-);
 class GuideRenderer extends Renderer {
   image(token: Tokens.Image) {
-    const size = guideScreenshots.get(token.href);
-    if (!size || !token.text.trim()) throw new Error('Guide images require a reviewed screenshot and descriptive alt text');
-    return super.image(token).replace(/^<img /, `<img width="${size.width}" height="${size.height}" loading="lazy" decoding="async" `);
+    const size = reviewedGuideImage(token);
+    const image = super.image(token).replace(/^<img /, `<img width="${size.width}" height="${size.height}" loading="lazy" decoding="async" `);
+    return token.title ? `<figure class="guide-figure">${image}<figcaption>${e(token.title)}</figcaption></figure>` : image;
+  }
+  paragraph(token: Tokens.Paragraph) {
+    const content = this.parser.parseInline(token.tokens);
+    // A captioned image is flow content. Keep it out of a <p>, including when
+    // the author uses a reference image or puts explanatory text beside it.
+    return content.includes('<figure class="guide-figure">') ? `<div class="guide-illustrated-paragraph">${content}</div>\n` : `<p>${content}</p>\n`;
   }
 }
 function platformIcon(id: 'youtube' | 'x' | 'instagram') {
@@ -42,13 +45,16 @@ function footer(locale: Locale) {
   const t = texts[locale];
   return `<footer class="wrap"><a class="brand" href="${sitePath(localPath(locale))}">Damas</a><p>${e(t.footerNote)}</p><nav aria-label="${e(t.legalLinks.privacy)}">${link(sitePath(localPath(locale, '/privacy-policy.html')), t.legalLinks.privacy)}${link(sitePath(localPath(locale, '/terms-of-use.html')), t.legalLinks.terms)}${link(sitePath(localPath(locale, '/support.html')), t.legalLinks.support)}${link('mailto:hi@damastechnologies.com', 'hi@damastechnologies.com')}</nav><small>© Damas Technologies LLC</small><small class="asset-attribution">${e(t.assetAttribution)}</small></footer>`;
 }
-export function page(locale: Locale, path: string, title: string, description: string, content: string, options: { alternates?: Alternates; schema?: object[]; noindex?: boolean } = {}) {
+export function page(locale: Locale, path: string, title: string, description: string, content: string, options: { alternates?: Alternates; schema?: object[]; noindex?: boolean; image?: string | null; imageAlt?: string } = {}) {
   const t = texts[locale];
   const alternatives = options.alternates || Object.fromEntries(locales.map(l => [l, localPath(l, path.replace(new RegExp(`^/${locale}(?=/)`), ''))]));
   const canonical = origin + path;
   const google = verification.googleSiteVerification;
+  const socialImage = options.image === null ? null : options.image || `${origin}/assets/illustration-connections-960.webp`;
+  const socialImageMeta = socialImage ? `<meta property="og:image" content="${e(socialImage)}">${options.imageAlt ? `<meta property="og:image:alt" content="${e(options.imageAlt)}">` : ''}` : '';
+  const twitterImageMeta = socialImage ? `<meta name="twitter:image" content="${e(socialImage)}">${options.imageAlt ? `<meta name="twitter:image:alt" content="${e(options.imageAlt)}">` : ''}` : '';
   const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': [organization, ...(path === localPath(locale) ? [{ '@type': 'WebSite', '@id': `${origin}/#website`, url: origin + '/', name: siteName, alternateName: 'Damas' }] : []), ...(options.schema || [])] }).replace(/</g, '\\u003c');
-  return `<!doctype html><html lang="${e(t.htmlLang)}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${e(title)}</title><meta name="description" content="${e(description)}"><meta name="robots" content="${options.noindex ? 'noindex,follow' : 'index,follow'}"><link rel="canonical" href="${e(canonical)}">${Object.entries(alternatives).map(([lang, route]) => `<link rel="alternate" hreflang="${texts[lang as Locale].htmlLang}" href="${e(origin + route)}">`).join('')}${alternatives.en ? `<link rel="alternate" hreflang="x-default" href="${e(origin + alternatives.en)}">` : ''}${google ? `<meta name="google-site-verification" content="${e(google)}">` : ''}<meta property="og:type" content="${options.schema?.some(s => (s as any)['@type'] === 'BlogPosting') ? 'article' : 'website'}"><meta property="og:site_name" content="${e(siteName)}"><meta property="og:title" content="${e(title)}"><meta property="og:description" content="${e(description)}"><meta property="og:url" content="${e(canonical)}"><meta property="og:image" content="${origin}/assets/illustration-connections-960.webp"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${e(title)}"><meta name="twitter:description" content="${e(description)}"><meta name="twitter:image" content="${origin}/assets/illustration-connections-960.webp"><meta name="theme-color" content="#43274f"><link rel="icon" href="${sitePath('/favicon.ico')}" sizes="16x16 32x32 48x48"><link rel="icon" type="image/png" sizes="96x96" href="${sitePath('/favicon.png')}"><link rel="apple-touch-icon" sizes="180x180" href="${sitePath('/apple-touch-icon.png')}"><link rel="stylesheet" href="${asset('site.css')}"><script type="application/ld+json">${schema}</script></head><body>${navigation(locale, alternatives)}<main id="main" tabindex="-1">${content}</main>${footer(locale)}</body></html>`;
+  return `<!doctype html><html lang="${e(t.htmlLang)}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${e(title)}</title><meta name="description" content="${e(description)}"><meta name="robots" content="${options.noindex ? 'noindex,follow' : 'index,follow'}"><link rel="canonical" href="${e(canonical)}">${Object.entries(alternatives).map(([lang, route]) => `<link rel="alternate" hreflang="${texts[lang as Locale].htmlLang}" href="${e(origin + route)}">`).join('')}${alternatives.en ? `<link rel="alternate" hreflang="x-default" href="${e(origin + alternatives.en)}">` : ''}${google ? `<meta name="google-site-verification" content="${e(google)}">` : ''}<meta property="og:type" content="${options.schema?.some(s => (s as any)['@type'] === 'BlogPosting') ? 'article' : 'website'}"><meta property="og:site_name" content="${e(siteName)}"><meta property="og:title" content="${e(title)}"><meta property="og:description" content="${e(description)}"><meta property="og:url" content="${e(canonical)}">${socialImageMeta}<meta name="twitter:card" content="${socialImage ? 'summary_large_image' : 'summary'}"><meta name="twitter:title" content="${e(title)}"><meta name="twitter:description" content="${e(description)}">${twitterImageMeta}<meta name="theme-color" content="#43274f"><link rel="icon" href="${sitePath('/favicon.ico')}" sizes="16x16 32x32 48x48"><link rel="icon" type="image/png" sizes="96x96" href="${sitePath('/favicon.png')}"><link rel="apple-touch-icon" sizes="180x180" href="${sitePath('/apple-touch-icon.png')}"><link rel="stylesheet" href="${asset('site.css')}"><script type="application/ld+json">${schema}</script></head><body>${navigation(locale, alternatives)}<main id="main" tabindex="-1">${content}</main>${footer(locale)}</body></html>`;
 }
 function guideCards(locale: Locale, posts: Post[]) {
   const t = texts[locale];
@@ -91,11 +97,11 @@ export function guideIndex(locale: Locale, posts: Post[]) {
 }
 export function article(post: Post, posts: Post[]) {
   const t = texts[post.locale], path = localPath(post.locale, `/guides/${post.slug}/`), crumb = breadcrumbs(post.locale, post.title, path, true);
-  const image = post.slug.startsWith('summarize') ? 'screen-summary-630' : 'screen-transcript-630';
+  const firstImage = guideImageReferences(post.body)[0];
   const alternates = Object.fromEntries(posts.filter(p => p.translationKey === post.translationKey).map(p => [p.locale, localPath(p.locale, `/guides/${p.slug}/`)]));
   const body = marked.parse(post.body, { async: false, renderer: new GuideRenderer() }).replace('</p>', `</p><p class="guide-action">${download(post.locale, 'guide-intro', post.slug)}</p>`).replace(/(href|src)="(\/(?!\/)[^"]*)"/g, (_, attribute, route) => `${attribute}="${sitePath(route)}"`);
-  const content = `<section class="wrap article-wrap">${crumb.html}<header class="article-heading"><p class="eyebrow">${e(t.nav.guides)} · Damas</p><h1>${e(post.title)}</h1><p class="lead">${e(post.description)}</p><p class="byline">Damas Technologies LLC · ${e(t.published)} <time datetime="${post.publishedAt}">${e(date(post.publishedAt, post.locale))}</time>${post.updatedAt !== post.publishedAt ? ` · ${e(t.updated)} <time datetime="${post.updatedAt}">${e(date(post.updatedAt, post.locale))}</time>` : ''}</p></header><div class="article-layout"><article class="prose">${body}<aside class="article-download"><h2>${e(t.downloadCTA)}</h2><p>${e(t.heroNote)}</p>${download(post.locale, 'guide', post.slug)}</aside><section class="sources"><h2>${e(t.sourceTitle)}</h2><ul>${post.sources.map(s => `<li>${link(s.url, s.title)}</li>`).join('')}</ul></section></article><aside class="article-image"><img src="${asset(`${image}.webp`)}" width="1206" height="2622" alt="${e(t.screenshotsIntro)}" loading="lazy"><p class="fine">${e(t.screenshotsIntro)}</p></aside></div><section class="related"><h2>${e(t.relatedTitle)}</h2>${guideCards(post.locale, posts.filter(p => p.locale === post.locale && post.related.includes(p.slug)))}</section></section>`;
-  return page(post.locale, path, `${post.title} | Damas`, post.description, content, { alternates, schema: [crumb.schema, { '@type': 'BlogPosting', headline: post.title, description: post.description, datePublished: post.publishedAt, dateModified: post.updatedAt, inLanguage: t.htmlLang, mainEntityOfPage: origin + path, author: { '@id': organization['@id'] }, publisher: { '@id': organization['@id'] }, image: `${origin}/assets/${image}.webp` }] });
+  const content = `<section class="wrap article-wrap">${crumb.html}<header class="article-heading"><p class="eyebrow">${e(t.nav.guides)} · Damas</p><h1>${e(post.title)}</h1><p class="lead">${e(post.description)}</p><p class="byline">Damas Technologies LLC · ${e(t.published)} <time datetime="${post.publishedAt}">${e(date(post.publishedAt, post.locale))}</time>${post.updatedAt !== post.publishedAt ? ` · ${e(t.updated)} <time datetime="${post.updatedAt}">${e(date(post.updatedAt, post.locale))}</time>` : ''}</p></header><div class="article-layout"><article class="prose">${body}<aside class="article-download"><h2>${e(t.downloadCTA)}</h2><p>${e(t.heroNote)}</p>${download(post.locale, 'guide', post.slug)}</aside><section class="sources"><h2>${e(t.sourceTitle)}</h2><ul>${post.sources.map(s => `<li>${link(s.url, s.title)}</li>`).join('')}</ul></section></article></div><section class="related"><h2>${e(t.relatedTitle)}</h2>${guideCards(post.locale, posts.filter(p => p.locale === post.locale && post.related.includes(p.slug)))}</section></section>`;
+  return page(post.locale, path, `${post.title} | Damas`, post.description, content, { alternates, image: firstImage ? origin + firstImage.href : null, imageAlt: firstImage?.alt, schema: [crumb.schema, { '@type': 'BlogPosting', headline: post.title, description: post.description, datePublished: post.publishedAt, dateModified: post.updatedAt, inLanguage: t.htmlLang, mainEntityOfPage: origin + path, author: { '@id': organization['@id'] }, publisher: { '@id': organization['@id'] }, ...(firstImage ? { image: origin + firstImage.href } : {}) }] });
 }
 export function mediaKit(locale: Locale) {
   const t = texts[locale], m = t.mediaKit, path = localPath(locale, '/media-kit/'), crumb = breadcrumbs(locale, t.nav.mediaKit, path);

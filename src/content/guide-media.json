@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "repository": "mdo91/voicey",
+    "commit": "524377c9eb9509437f8fdbb86ebf159f3147edd8",
+    "path": "docs/screenshots/insight-studio/2026-11-19",
+    "capturedAt": "2026-11-19",
+    "device": "iPad Pro 11-inch (M4)",
+    "environment": "Damas V3 Staging 1.6.1 (133)",
+    "notices": {
+      "en": "iPad staging example; English interface.",
+      "fr": "Exemple iPad en environnement de test ; interface en anglais.",
+      "de": "iPad-Beispiel aus der Testumgebung; englische Oberfläche.",
+      "ja": "iPadのステージング環境の例。画面は英語です。",
+      "ko": "iPad 스테이징 환경의 예시입니다. 화면은 영어입니다.",
+      "ms": "Contoh iPad daripada persekitaran ujian; antara muka bahasa Inggeris.",
+      "pt": "Exemplo no iPad em ambiente de testes; interface em inglês.",
+      "ru": "Пример на iPad из тестовой среды; интерфейс на английском.",
+      "zh-hans": "iPad 测试环境示例；界面为英文。",
+      "es": "Ejemplo de iPad en un entorno de pruebas; interfaz en inglés.",
+      "tr": "iPad test ortamı örneği; arayüz İngilizcedir."
+    }
+  },
+  "assets": [
+    {
+      "id": "short-summary",
+      "file": "/assets/insight-studio-ipad-summary-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 153130,
+      "sha256": "7af45041a50f03d846f512edfc1588ba85e9f3d32ad0a9fd41a4bd6ef2ee6ff2",
+      "sourceFile": "01-Short-summary.png",
+      "sourceBlob": "df1436862f9a9fa7f3df26c8d6f962d8f8bf8d8e",
+      "sourceSha256": "ca085acf73415a61d0c924ebf10850e5bb995204a9ba8a8920b04cdcad608755",
+      "task": "short-summary",
+      "description": "A short Standard summary of a product-market fit talk, five takeaways and Source excerpts.",
+      "limitations": [
+        "This is an example output from the captured talk, not the guide’s own example."
+      ]
+    },
+    {
+      "id": "detailed-summary",
+      "file": "/assets/insight-studio-ipad-detailed-summary-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 194788,
+      "sha256": "a19b026c8f491e15b5b15c29e9db02278ab3d5208958a3418b4e4282729656a7",
+      "sourceFile": "02-Detailed-summary.png",
+      "sourceBlob": "7a0316f31c443474ab0f3276bfd4bb2248c66f34",
+      "sourceSha256": "fff31eaba7d6488cf7b958bad02ffc658d635b4491fe41e792cc72cdfd0b3e5c",
+      "task": "detailed-summary",
+      "description": "Opening of a detailed Standard summary, including the product-market fit framework and lean product process.",
+      "limitations": [
+        "The text continues below the viewport.",
+        "Raw source-reference markers such as [s3, s4, s5, s6] remain visible; do not describe them as verified citations."
+      ]
+    },
+    {
+      "id": "mind-map",
+      "file": "/assets/insight-studio-ipad-mind-map-diagram-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 63308,
+      "sha256": "6a14edd88c86c2093b03a1a29e9adffbc6b2fe60274b66d7de57fbe17b85cd9a",
+      "sourceFile": "03-Mind-map.png",
+      "sourceBlob": "bd5ed3f439963b5712c225afdcc2ac1897f170e2",
+      "sourceSha256": "a83afd3874c360424811ef4001fab1836b0bd11ef29766fbcdd226a7a1fba1b2",
+      "task": "mind-map",
+      "description": "Mind map in diagram view at minimum zoom, with the root and visible upper branches.",
+      "limitations": [
+        "Only part of the map is visible; do not describe it as a complete overview.",
+        "Prefer the Outline screenshot for readable hierarchy; this image is useful for explaining diagram or zoom controls."
+      ]
+    },
+    {
+      "id": "mind-map-outline",
+      "file": "/assets/insight-studio-ipad-mind-map-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 107996,
+      "sha256": "8f3beca135d2c302be6a6ec3ceba290f7b3e2d68282650b39dcd0db6e9e71af9",
+      "sourceFile": "03b-Mind-map-outline.png",
+      "sourceBlob": "ab62d108f310c4225b87f29f29e696fc5db12b47",
+      "sourceSha256": "cd1b88502e798819de6cb892dd60b600f39a57e64619ded80b1c2893a80442cf",
+      "task": "mind-map-outline",
+      "description": "Outline view of the generated mind map, showing a readable hierarchy of market foundations and product hypotheses.",
+      "limitations": [
+        "The outline continues below the viewport."
+      ]
+    },
+    {
+      "id": "action-items",
+      "file": "/assets/insight-studio-ipad-checklist-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 135094,
+      "sha256": "9c264dc270faf2f148331461503b2eb538621b039aee6035144d5e0039fe8514",
+      "sourceFile": "04-Action-items.png",
+      "sourceBlob": "481170df1ccc9f0d53972c20f172ed4405e27175",
+      "sourceSha256": "46a9368614a8e2ae168f15455b36cc30a310d9d24b6c3527f6b4cec8fd5cf251",
+      "task": "action-items",
+      "description": "Action checklist beginning with target-customer, underserved-needs and prioritization tasks.",
+      "limitations": [
+        "The checklist continues below the viewport.",
+        "The visible actions belong to the captured talk, not a reader’s completed work."
+      ]
+    },
+    {
+      "id": "step-by-step",
+      "file": "/assets/insight-studio-ipad-step-by-step-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 159704,
+      "sha256": "ab142ff75fce9a5946f632902770ba92ba9b457b7550500ae5f53fedc1d61f9c",
+      "sourceFile": "05-Step-by-step-guide.png",
+      "sourceBlob": "7b8a657993ab5c56768b89d976562990dfa4df19",
+      "sourceSha256": "6ffcb7f0628a30404f16520f33e5edf568ea15f22dc66979a84399a1407ff334",
+      "task": "step-by-step",
+      "description": "Step-by-step guide with prerequisites, scope, the first two steps and expected results.",
+      "limitations": [
+        "The guide continues below the viewport; this is not a complete generated plan."
+      ]
+    },
+    {
+      "id": "study-guide",
+      "file": "/assets/insight-studio-ipad-study-guide-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 117420,
+      "sha256": "8e7860ede37c803fee0942b9551d7b7280c3efb0085dd450f6c3e339f0aabb91",
+      "sourceFile": "06-Study-guide.png",
+      "sourceBlob": "9697f821284454c097243903f1c8dc5656c96df4",
+      "sourceSha256": "464576bd56135b0432b4ad2466090aa3f67bba785a846ff72a274e6e0eb56c26",
+      "task": "study-guide",
+      "description": "Study guide with learning objectives and an opening explanation of the product-market fit pyramid.",
+      "limitations": [
+        "The guide continues below the viewport and does not show the creation sheet."
+      ]
+    },
+    {
+      "id": "quiz",
+      "file": "/assets/insight-studio-ipad-quiz-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 72850,
+      "sha256": "8665d16eabb57cd832cd79bf2cce767522ae63d3c24b84ebd3a0fb7150940f49",
+      "sourceFile": "07-Quiz-feedback.png",
+      "sourceBlob": "83b30e1dbf23170aa1b4b30d42ee6fb29b52705d",
+      "sourceSha256": "07424fc70a96bb4fa155f5ea6f681b9856eb2a0825a22dd9a4f9aaedca02c985",
+      "task": "quiz",
+      "description": "First of five quiz questions answered correctly, with its explanation and score 1 / 5.",
+      "limitations": [
+        "This is one answered question, not a completed quiz or exam grade.",
+        "Correct feedback does not establish the factual accuracy of every generated answer."
+      ]
+    },
+    {
+      "id": "flashcards",
+      "file": "/assets/insight-studio-ipad-flashcards-1440.webp",
+      "width": 1440,
+      "height": 993,
+      "bytes": 75782,
+      "sha256": "c8b703838438fb7dcfcab00975b38bafdd4a647a72eb66acc5ace122fe6038c5",
+      "sourceFile": "08-Flashcards-answer.png",
+      "sourceBlob": "42f075e2410be1337d4ee0d50ad7bf14b844e310",
+      "sourceSha256": "c022787234593556a09af74c7c8699addc9a802e525e2fbb7dac682d81af4067",
+      "task": "flashcards",
+      "description": "First generated flashcard with its answer revealed and remaining questions and review controls visible.",
+      "limitations": [
+        "One answer is revealed; this does not demonstrate every review interaction or spaced repetition."
+      ]
+    }
+  ]
+}
